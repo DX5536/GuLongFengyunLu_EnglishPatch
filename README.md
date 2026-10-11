@@ -49,6 +49,27 @@ No Python and no extra tools are needed.
 - **A text looks clipped or overlaps:** please open an issue with a screenshot (and the screen name).
 - **Crashes after a game update:** the patch targets the Steam build at the time of release. Wait for a patch update.
 
+## Font credits
+
+Three open-source fonts from Google Fonts, all under the SIL Open Font License 1.1, are used by the patch:
+
+- Aleo, by Alessio Laiso, for body text
+    https://fonts.google.com/specimen/Aleo
+- Oregano, by John Vargas Beltran, for display / menu titles
+    https://fonts.google.com/specimen/Oregano
+- Ma Shan Zheng, by the Ma Shan Zheng Project Authors, for battle effect text (banners, damage pop-ups)
+    https://fonts.google.com/specimen/Ma+Shan+Zheng
+
+License text: https://scripts.sil.org/OFL
+
+## Tools used
+
+- BepInEx (https://github.com/BepInEx/BepInEx), the plugin loader.
+- XUnity.AutoTranslator and ResourceRedirector (https://github.com/bbepis/XUnity.AutoTranslator), which swap in the English text tables.
+- Harmony (https://github.com/pardeike/Harmony) for runtime patching.
+- UnityPy (https://github.com/K0lb3/UnityPy), used while preparing the patch (development only, not included).
+- FFmpeg (https://ffmpeg.org), used to add subtitles to the videos (development only, not included).
+
 ## Credits and licenses
 
 See `NOTICE.md` and `LICENSE`. Built with BepInEx and XUnity.AutoTranslator / ResourceRedirector.

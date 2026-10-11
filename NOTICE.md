@@ -35,9 +35,14 @@ https://scripts.sil.org/OFL
 
 - Aleo, by Alessio Laiso: https://fonts.google.com/specimen/Aleo
 - Oregano, by John Vargas Beltran: https://fonts.google.com/specimen/Oregano
-- Ma Shan Zheng, by Ma Shan Zheng Project: https://fonts.google.com/specimen/Ma+Shan+Zheng
+- Ma Shan Zheng, by the Ma Shan Zheng Project Authors: https://fonts.google.com/specimen/Ma+Shan+Zheng
 
 They are packed inside `BepInEx/plugins/GuLongFonts/gulongfonts.bundle`.
+
+## Development-only tooling (used to make the patch, not bundled)
+
+- UnityPy -- MIT -- https://github.com/K0lb3/UnityPy
+- FFmpeg -- LGPL/GPL (build dependent) -- https://ffmpeg.org
 
 ## Game
 
