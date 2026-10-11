@@ -1,0 +1,7 @@
+Id	LocationName	MapNumber	SmallMapClass	NpcNameLocation	FunctionBuild	ActiveLocation
+100001001	Zhang San	Scene004	0	0	0	3000.000, -1000.000, 0.000
+100001002	Li Si	Scene004	0	1	0	3500.000, -1000.000, 0.000
+100001003	Wang Wu	Scene004	0	2	0	4000.000, -1000.000, 0.000
+100001004	Zhao Liu	Scene004	0	3	0	2000.000, -1000.000, 0.000
+100001101	Capital Yamen	Scene004	1	0	0	3000.000, -1000.000, 0.000
+100001201	Smithy	Scene004	2	0	0	1000.000, -1000.000, 0.000

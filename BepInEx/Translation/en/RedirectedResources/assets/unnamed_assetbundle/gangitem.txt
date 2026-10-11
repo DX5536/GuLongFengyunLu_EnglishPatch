@@ -1,0 +1,14 @@
+Id	Name	Description	DialogId	EventId	BossBattleId	BossPoolId	NodeGroupId
+gn0000	Purple Whale Gang	The Purple Whale Gang: pirates haunting the southeastern seas who murder and plunder and stop at no evil.<br>Their chief, Hai Kuotian, has not set sail in a long while, yet none dare make light of them, for his elite men have quietly appeared in the Central Plains.			Gang_e_04		
+gn0001	Yellow Hornets of the Yangtze	The Yellow Hornets of the Yangtze: yellow-robed river bandits who once haunted the Yangtze,<br>striking in swarms, masters of swift boats and of saber, spear and staff.<br>Somewhere along the way, their power has spread to the mountain roads.			Gang_e_02		
+gn0002	Water Snake Gang	The Water Snake Gang: elusive bandits who strike by stealth, found mostly along rivers and marshes.<br>Their hideouts are beyond counting, and their true numbers remain unknown.<br>As the jianghu says, the men of the Water Snake Gang want money, not their lives.			Gang_e_03		
+gn0004	Luoma Lake	Turned outlaw in the greenwood, turned robber on horseback. Led by Ximen Jiao and Long Changbing,<br>the bandits who rose at Luoma Lake now span mountains and marshes, every one of them at home in the water.<br>Men say: once there was Liangshan Marsh, now there is Luoma Lake.			Gang_e_01		
+gn0005	Crouching Tiger Ridge	Crouching Tiger Ridge, led by the three Shi brothers,<br>is full of bold, forthright heroes, known for skill in both letters and arms.<br>Word has it they are now recruiting widely to expand.			Gang_e_02		
+gn0006	Seven Fiends of Lake Tai	Lake Tai has seven fiends, each infamous; few dare provoke them.			Gang_e_03		
+gn0007	Five Tigers of Qilu	Five men of some renown in the jianghu; the very word "tiger" tells of their ferocity.			Gang_e_01		
+gn0008	Three Blades, Eighteen Raiders	Eighteen raiders of the Taihang Mountains; each man bears three blades to claim a life.			Gang_e_02		
+gn0009	Bohai Gang	A gang of the Bohai region which, for reasons unknown, has clashed often with the Yellow Sea Gang in recent years.			Gang_e_03		
+gn0010	Yellow Sea Gang	A power of the Yellow Sea region which, for reasons unknown, has often crossed blades with the Bohai Gang in recent years.			Gang_e_01		
+gn0011	Laoshan Gang	Most of the Laoshan Gang wield the sword, yet in recent years they have feuded endlessly with the saber-wielding Swift Saber Sect, with casualties mounting.			Gang_e_02		
+gn0012	Swift Saber Sect	The Swift Saber Sect is famed for its swift sabers, yet in recent years it has made enemies of the Laoshan Gang, with casualties mounting.			Gang_e_03		
+gn0013	Divine Bird Hall	The Divine Bird Hall, led by Zhang Yitian, who claims to serve under the Black Hand, is a bandit band that has suddenly grown strong of late and is said to welcome heroes of every stripe.			be090003		

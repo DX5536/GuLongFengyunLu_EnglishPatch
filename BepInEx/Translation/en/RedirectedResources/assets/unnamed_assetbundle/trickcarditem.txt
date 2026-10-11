@@ -1,0 +1,179 @@
+Id	Name	BelongBuild	CardPage	EnhanceLimit	LevelLimit	GetObject	GetEffect	Spend	Description	Icon2D
+#蓝图编号	蓝图名称	所属建物	子页分类	要求科技	所需科技等级	得到道具	得到效果	消耗资源	描述	图示
+vt2000_02	Golden Wound Salve	1	1	Medicine	1	it2000_02,1		Herbs:70	Obtain 1× Golden Wound Salve	vt2001
+vt2000_03	Jade-Bone Flesh-Mending Salve	1	1	Medicine	2	it2000_03,1		Herbs:120	Obtain 1× Jade-Bone Flesh-Mending Salve	vt2002
+vt2000_04	Withered Tree in Spring Pill	1	1	Medicine	3	it2000_04,1		Herbs:200	Obtain 1× Withered Tree in Spring Pill	vt2011
+vt2001	Empty Hands Pill	1	1		1	it2001,1		Herbs:60	Obtain 1× Empty Hands Pill	vt2011
+vt2001_02	Painter's Touch Powder	1	1		2	it2001_02,1		Herbs:100	Obtain 1× Painter's Touch Powder	vt2004
+vt2001_03	Miraculous Recovery Pill	1	1		3	it2001_03,1		Herbs:170	Obtain 1× Miraculous Recovery Pill	vt2011
+vt2002	Soul-Returning Broth	1	1		1	it2002,1		Herbs:60	Obtain 1× Soul-Returning Broth	vt2014
+vt2002_02	Heart-Guarding Pill	1	1		2	it2002_02,1		Herbs:100	Obtain 1× Heart-Guarding Pill	vt2011
+vt2002_03	Life-Extending Plaster	1	1		3	it2002_03,1		Herbs:170	Obtain 1× Life-Extending Plaster	vt2002
+vt2003	Six-Syllable True Remedy Pill	1	1	Medicine	2	it2003,1		Herbs:120	Obtain 1× Six-Syllable True Remedy Pill	vt2013
+vt2003_02	Eight Directions Origin-Restoring Pill	1	1	Medicine	3	it2003_02,1		Herbs:240	Obtain 1× Eight Directions Origin-Restoring Pill	vt2000
+vt2003_03	Clear Spirit Pain-Relief Pill	1	1		3	it2003_03,1		Herbs:500	Obtain 1× Clear Spirit Pain-Relief Pill	vt2011
+vt2004	Purifying Pill	1	1	Medicine	1	it2004,1		Herbs:50	Obtain 1× Purifying Pill	vt2011
+vt2004_02	Fairy's Fragrance	1	1	Medicine	2	it2004_02,1		Herbs:100	Obtain 1× Fairy's Fragrance	vt2010
+vt2005	Yang-Restoring Powder	1	1	Medicine	1	it2005,1		Herbs:50	Obtain 1× Yang-Restoring Powder	vt2000
+vt2005_02	Ninefold Crimson Cloud Pill	1	1	Medicine	2	it2005_02,1		Herbs:100	Obtain 1× Ninefold Crimson Cloud Pill	vt2011
+vt2006	Jade Snow Frost	1	1	Medicine	1	it2006,1		Herbs:50	Obtain 1× Jade Snow Frost	vt2010
+vt2006_02	Heavenly Fragrance Purple Cloud Salve	1	1	Medicine	2	it2006_02,1		Herbs:100	Obtain 1× Heavenly Fragrance Purple Cloud Salve	vt2010
+vt2007	Snowmelt Greets the Spring	1	1	Medicine	3	it2007,1		Herbs:180	Obtain 1× Snowmelt Greets the Spring	vt2004
+vt2008	Spring Nourishing Pill	1	1		1	it2008,1		Herbs:50	Obtain 1× Spring Nourishing Pill	vt2011
+vt2009	Twin Arhat Pill	1	1		1	it2009,1		Herbs:100	Obtain 1× Twin Arhat Pill	vt2011
+vt3000	Soul-Eroding Powder	3	1		1	it3000,1		Poison:60	Obtain 1× Soul-Eroding Powder	vt6004
+vt3000_02	Bliss Worm	3	1		2	it3000_02,1		Poison:100	Obtain 1× Bliss Worm	vt6002
+vt3000_03	Soul-Melting Pill	3	1		3	it3000_03,1		Poison:180	Obtain 1× Soul-Melting Pill	vt6003
+vt3001	Cold Rooster Powder	3	1		1	it3001,1		Poison:60	Obtain 1× Cold Rooster Powder	vt6004
+vt3001_02	Seven Cunning Bone-Melting Powder	3	1		2	it3001_02,1		Poison:100	Obtain 1× Seven Cunning Bone-Melting Powder	vt6004
+vt3002	Noon-and-Midnight Soul-Chasing Sand	3	1		1	it3002,1		Poison:60	Obtain 1× Noon-and-Midnight Soul-Chasing Sand	vt6004
+vt3002_02	Fragrance of a Hundred Poisons	3	1		2	it3002_02,1		Poison:100	Obtain 1× Fragrance of a Hundred Poisons	vt6000
+vt3003	Hundred Ills, Hundred Pains Pill	3	1		2	it3003,1		Poison:100	Obtain 1× Hundred Ills, Hundred Pains Pill	vt6003
+vt3003_02	Five Venoms Heavenly Water	3	1	Poison	3	it3003_02,1		Poison:180	Obtain 1× Five Venoms Heavenly Water	vt6003
+vt3004	Life-Taking Pill	3	1	Poison	1	it3004,1		Poison:60	Obtain 1× Life-Taking Pill	vt6003
+vt3004_02	Seven Steps to Heartbreak	3	1	Poison	2	it3004_02,1		Poison:100	Obtain 1× Seven Steps to Heartbreak	vt6004
+vt3004_03	One Drop Seals the Throat	3	1		3	it3004_03,1		Poison:180	Obtain 1× One Drop Seals the Throat	vt6003
+vt3005	Ice Toad Venom	3	1	Poison	1	it3005,1		Poison:60	Obtain 1× Ice Toad Venom	vt6003
+vt3005_02	Essence of Tianshan Snow Spirit	3	1	Poison	2	it3005_02,1		Poison:100	Obtain 1× Essence of Tianshan Snow Spirit	vt6003
+vt3005_03	Yin Soul	3	1		3	it3005_03,1		Poison:180	Obtain 1× Yin Soul	vt6003
+vt3006	Fire Scorpion Venom	3	1	Poison	1	it3006,1		Poison:60	Obtain 1× Fire Scorpion Venom	vt6003
+vt006_02	Scorched Soul of the Desert	3	1	Poison	2	it3006_02,1		Poison:100	Obtain 1× Scorched Soul of the Desert	vt6004
+vt3006_03	Yang Spirit	3	1		3	it3006_03,1		Poison:180	Obtain 1× Yang Spirit	vt6003
+vt3007	Fifth-Watch Cockcrow Soul-Returning Incense	3	1	Poison	1	it3007,1		Poison:60	Obtain 1× Fifth-Watch Cockcrow Soul-Returning Incense	vt6000
+vt3007_02	Corpse-Wood Wraith Powder	3	1	Poison	2	it3007_02,1		Poison:100	Obtain 1× Corpse-Wood Wraith Powder	vt6004
+vt3007_03	Immortal's One-Day Drunk	3	1		3	it3007_03,1		Poison:180	Obtain 1× Immortal's One-Day Drunk	vt6000
+vt3012	Jade Serpent Pill	3	1		1	it3012,1		Poison:80	Obtain 1× Jade Serpent Pill	vt6003
+vt6000	Singing Among Green Willows	4	1		1	it6000,1		Components:60	Obtain 1× Singing Among Green Willows	vt4000
+vt6000_02	Swallow Before the Hall	4	1		2	it6000_02,1		Components:100	Obtain 1× Swallow Before the Hall	vt4000
+vt6001	Tang Clan Iron Caltrops	4	1		1	it6001,1		Components:60	Obtain 1× Tang Clan Iron Caltrops	vt4001
+vt6001_02	Noon-and-Midnight Heart-Searching Nails	4	1		2	it6001_02,1		Components:100	Obtain 1× Noon-and-Midnight Heart-Searching Nails	vt4000
+vt6001_03	Rahu Divine Needles of the Nine Heavens and Ten Earths	4	1		3	it6001_03,1		Components:180	Obtain 1× Rahu Divine Needles of the Nine Heavens and Ten Earths	vt4000
+vt6003	Needles in Silk Floss	4	1		1	it6003,1		Components:60	Obtain 1× Needles in Silk Floss	vt4000
+vt6003_02	Gossamer Needles	4	1		2	it6003_02,1		Components:100	Obtain 1× Gossamer Needles	vt4000
+vt6004	Iron Flame Bomb	4	1		1	it6004,1		Components:60	Obtain 1× Iron Flame Bomb	vt4002
+vt6004_02	Heaven-Shaking Thunder	4	1		2	it6004_02,1		Components:100	Obtain 1× Heaven-Shaking Thunder	vt4002
+vt6004_03	Thunderbolt Fire Bomb	4	1		3	it6004_03,1		Components:180	Obtain 1× Thunderbolt Fire Bomb	vt4002
+vt6011	Sleeve Arrow	4	1	HiddenWeapon	1	it6011,1		Components:60	Obtain 1× Sleeve Arrow	vt4000
+vt6011_02	Sand Spitting at Shadows	4	1	HiddenWeapon	2	it6011_02,1		Components:100	Obtain 1× Sand Spitting at Shadows	vt4000
+vt6011_03	Faded Jade and Dark Gold	4	1	HiddenWeapon	3	it6011_03,1		Components:180	Obtain 1× Faded Jade and Dark Gold	vt4000
+vt6012	Sleeve Cannon	4	1	HiddenWeapon	1	it6012,1		Components:60	Obtain 1× Sleeve Cannon	vt4002
+vt6012_02	Rain of Flowers Filling the Sky	4	1	HiddenWeapon	2	it6012_02,1		Components:100	Obtain 1× Rain of Flowers Filling the Sky	vt4002
+vt6012_03	Ten Thousand Horses Fall Silent	4	1	HiddenWeapon	3	it6012_03,1		Components:180	Obtain 1× Ten Thousand Horses Fall Silent	vt4002
+vt6020	Returning Pivot Mechanism	4	2		1	it6020,1		Components:60	Obtain 1× Returning Pivot Mechanism	vt4002
+vt6021	Flying Hawk, Running Hound	4	2		2	it6021,1		Components:100	Obtain 1× Flying Hawk, Running Hound	vt4002
+vt6022	Peacock Fans Its Tail	4	2		3	it6022,1		Components:180	Obtain 1× Peacock Fans Its Tail	vt4002
+vt6023	Interlocking Fangs	4	2	Props	1	it6023,1		Components:60	Obtain 1× Interlocking Fangs	vt4002
+vt6024	Unbreakable Golden Armor	4	2	Props	1	it6024,1		Components:100	Obtain 1× Unbreakable Golden Armor	vt4002
+vt6025	Mud-Winged and Grounded	4	2	Props	2	it6025,1		Components:60	Obtain 1× Mud-Winged and Grounded	vt4002
+vt6026	Qin Ke's Bewildering Blossom	4	2	Props	2	it6026,1		Components:100	Obtain 1× Qin Ke's Bewildering Blossom	vt4002
+vt2000_1	Gray Bear Iron Claws	2	1	ForgingWeapon	1	wp1002_02,1		Metal:100	Obtain 1× Gray Bear Iron Claws	vt3002
+vt2000_2	Greedy Wolf Iron Claws	2	1		1	wp1002_03,1		Metal:175,Money:175	Obtain 1× Greedy Wolf Iron Claws	vt3002
+vt2000_3	Sky-Hook Eagle Claws	2	1	ForgingWeapon	2	wp1002_04,1		Metal:350	Obtain 1× Sky-Hook Eagle Claws	vt3002
+vt2000_4	Netherworld Soul-Seizing Claws	2	1	ForgingWeapon	3	wp1002_05,1		Metal:600	Obtain 1× Netherworld Soul-Seizing Claws	vt3002
+vt2000_5	Seven Lives, Seven Bonds Claws	2	1	ForgingWeapon	3	wp1002_06,1		Metal:1000	Obtain 1× Seven Lives, Seven Bonds Claws	vt3002
+vt2001_1	Deerhide Gloves	2	1	ForgingWeapon	1	wp1001_02,1		Metal:100	Obtain 1× Deerhide Gloves	vt3002
+vt2001_2	Fierce Tiger Gloves	2	1		1	wp1001_03,1		Metal:175,Money:175	Obtain 1× Fierce Tiger Gloves	vt3002
+vt2001_3	Croc-Pattern Gloves	2	1	ForgingWeapon	2	wp1001_04,1		Metal:350	Obtain 1× Croc-Pattern Gloves	vt3002
+vt2001_4	Black Rhino Gloves	2	1	ForgingWeapon	3	wp1001_05,1		Metal:600	Obtain 1× Black Rhino Gloves	vt3002
+vt2001_5	Dragonscale Gloves	2	1	ForgingWeapon	3	wp1001_06,1		Metal:1000	Obtain 1× Dragonscale Gloves	vt3002
+vt2002_1	Fine Steel Hand Guards	2	1	ForgingWeapon	1	wp1004_02,1		Metal:100	Obtain 1× Fine Steel Hand Guards	vt3002
+vt2002_2	Hundredfold Fury Hand Guards	2	1		1	wp1004_03,1		Metal:175,Money:175	Obtain 1× Hundredfold Fury Hand Guards	vt3002
+vt2002_3	Primordial Hand Guards	2	1	ForgingWeapon	2	wp1004_04,1		Metal:350	Obtain 1× Primordial Hand Guards	vt3002
+vt2002_4	Thunderbolt Hand Guards	2	1	ForgingWeapon	3	wp1004_05,1		Metal:600	Obtain 1× Thunderbolt Hand Guards	vt3002
+vt2002_5	Roaring Thunder Hand Guards	2	1	ForgingWeapon	3	wp1004_06,1		Metal:1000	Obtain 1× Roaring Thunder Hand Guards	vt3002
+vt2003_1	Silver Thread Hand Wraps	2	1	ForgingWeapon	1	wp1005_02,1		Metal:100	Obtain 1× Silver Thread Hand Wraps	vt3002
+vt2003_2	Soft Feather Hand Wraps	2	1		1	wp1005_03,1		Metal:175,Money:175	Obtain 1× Soft Feather Hand Wraps	vt3002
+vt2003_3	Gold-Thread White Silk Hands	2	1	ForgingWeapon	2	wp1005_04,1		Metal:350	Obtain 1× Gold-Thread White Silk Hands	vt3002
+vt2003_4	Heavenly Silkworm Black Silk Hands	2	1	ForgingWeapon	3	wp1005_05,1		Metal:600	Obtain 1× Heavenly Silkworm Black Silk Hands	vt3002
+vt2003_5	Golden Crow and Moon Gall	2	1	ForgingWeapon	3	wp1005_06,1		Metal:1000	Obtain 1× Golden Crow and Moon Gall	vt3002
+vt2007_1	Fine Steel Greatsword	2	1	ForgingWeapon	1	wp2003_02,1		Metal:100	Obtain 1× Fine Steel Greatsword	vt3000
+vt2007_2	Iron-Cleaving Heavy Sword	2	1		1	wp2003_03,1		Metal:175,Money:175	Obtain 1× Iron-Cleaving Heavy Sword	vt3000
+vt2007_3	Mountain-Splitting Greatsword	2	1	ForgingWeapon	2	wp2003_04,1		Metal:350	Obtain 1× Mountain-Splitting Greatsword	vt3000
+vt2007_4	Raging Wave Greatsword	2	1	ForgingWeapon	3	wp2003_05,1		Metal:600	Obtain 1× Raging Wave Greatsword	vt3000
+vt2007_5	Heaven-Shaking Divine Sword	2	1	ForgingWeapon	3	wp2003_06,1		Metal:1000	Obtain 1× Heaven-Shaking Divine Sword	vt3000
+vt2008_1	Clear Breeze Sword	2	1	ForgingWeapon	1	wp2004_02,1		Metal:100	Obtain 1× Clear Breeze Sword	vt3000
+vt2008_2	Like Water Sword	2	1		1	wp2004_03,1		Metal:175,Money:175	Obtain 1× Like Water Sword	vt3000
+vt2008_3	Purple-Gold Soft Sword	2	1	ForgingWeapon	2	wp2004_04,1		Metal:350	Obtain 1× Purple-Gold Soft Sword	vt3000
+vt2008_4	Red Feather Soft Sword	2	1	ForgingWeapon	3	wp2004_05,1		Metal:600	Obtain 1× Red Feather Soft Sword	vt3000
+vt2008_5	Finger-Winding Soft Sword	2	1	ForgingWeapon	3	wp2004_06,1		Metal:1000	Obtain 1× Finger-Winding Soft Sword	vt3000
+vt2009_1	Zimao Sword	2	1	ForgingWeapon	1	wp2001_02,1		Metal:100	Obtain 1× Zimao Sword	vt3000
+vt2009_2	Long Rainbow Sword	2	1		1	wp2001_03,1		Metal:175,Money:175	Obtain 1× Long Rainbow Sword	vt3000
+vt2009_3	Pine Ridge Sword	2	1	ForgingWeapon	2	wp2001_04,1		Metal:350	Obtain 1× Pine Ridge Sword	vt3000
+vt2009_4	Pine-Grain Sword	2	1	ForgingWeapon	3	wp2001_05,1		Metal:600	Obtain 1× Pine-Grain Sword	vt3000
+vt2009_5	Black Luan Red-Gold Sword	2	1	ForgingWeapon	3	wp2001_06,1		Metal:1000	Obtain 1× Black Luan Red-Gold Sword	vt3000
+vt2012	Azure Cloud Sword	2	1		2	wp2006,1		Metal:100	Obtain 1× Azure Cloud Sword	vt3001
+vt2013	Black Luan Red-Gold Sword	2	1		2	wp2012,1		Metal:120	Obtain 1× Black Luan Red-Gold Sword	vt3001
+vt2014_1	Round Curved Saber	2	1	ForgingWeapon	1	wp3008_02,1		Metal:100	Obtain 1× Round Curved Saber	vt3006
+vt2014_2	Tianzhu Scimitar	2	1		1	wp3008_03,1		Metal:175,Money:175	Obtain 1× Tianzhu Scimitar	vt3006
+vt2014_3	Rainbow Arc Curved Saber	2	1	ForgingWeapon	2	wp3008_04,1		Metal:350	Obtain 1× Rainbow Arc Curved Saber	vt3006
+vt2014_4	Sun-Devouring Curved Saber	2	1	ForgingWeapon	3	wp3008_05,1		Metal:600	Obtain 1× Sun-Devouring Curved Saber	vt3006
+vt2014_5	Full Moon Scimitar	2	1	ForgingWeapon	3	wp3008_06,1		Metal:1000	Obtain 1× Full Moon Scimitar	vt3006
+vt2015_1	Goose-Feather Saber	2	1	ForgingWeapon	1	wp3009_02,1		Metal:100	Obtain 1× Goose-Feather Saber	vt3006
+vt2015_2	Windward Saber	2	1		1	wp3009_03,1		Metal:175,Money:175	Obtain 1× Windward Saber	vt3006
+vt2015_3	Flying Snow Treasured Saber	2	1	ForgingWeapon	2	wp3009_04,1		Metal:350	Obtain 1× Flying Snow Treasured Saber	vt3006
+vt2015_4	Rippling Treasured Saber	2	1	ForgingWeapon	3	wp3009_05,1		Metal:600	Obtain 1× Rippling Treasured Saber	vt3006
+vt2015_5	Asura Saber	2	1	ForgingWeapon	3	wp3009_06,1		Metal:1000	Obtain 1× Asura Saber	vt3006
+vt2016_1	Ghost-Head Saber	2	1	ForgingWeapon	1	wp3007_02,1		Metal:100	Obtain 1× Ghost-Head Saber	vt3006
+vt2016_2	Hundred-Forged Steel Saber	2	1		1	wp3007_03,1		Metal:175,Money:175	Obtain 1× Hundred-Forged Steel Saber	vt3006
+vt2016_3	Snowflake Wootz Saber	2	1	ForgingWeapon	2	wp3007_04,1		Metal:350	Obtain 1× Snowflake Wootz Saber	vt3006
+vt2016_4	Green Peak Gold-Patterned Saber	2	1	ForgingWeapon	3	wp3007_05,1		Metal:600	Obtain 1× Green Peak Gold-Patterned Saber	vt3006
+vt2016_5	Qilin Purple-Gold Saber	2	1	ForgingWeapon	3	wp3007_06,1		Metal:1000	Obtain 1× Qilin Purple-Gold Saber	vt3006
+vt2017_1	Nine-Ring Broadsaber	2	1	ForgingWeapon	1	wp3011_02,1		Metal:100	Obtain 1× Nine-Ring Broadsaber	vt3006
+vt2017_2	Wind-Splashing Broadsaber	2	1		1	wp3011_03,1		Metal:175,Money:175	Obtain 1× Wind-Splashing Broadsaber	vt3006
+vt2017_3	Gold-Backed Mountain-Hewing Saber	2	1	ForgingWeapon	2	wp3011_04,1		Metal:350	Obtain 1× Gold-Backed Mountain-Hewing Saber	vt3006
+vt2017_4	Nine-Verse Mountain-Quelling Saber	2	1	ForgingWeapon	3	wp3011_05,1		Metal:600	Obtain 1× Nine-Verse Mountain-Quelling Saber	vt3006
+vt2017_5	Ten Courts of Yama Saber	2	1	ForgingWeapon	3	wp3011_06,1		Metal:1000	Obtain 1× Ten Courts of Yama Saber	vt3006
+vt2020_1	Water-Parting Emei Piercers	2	1	ForgingWeapon	1	wp5006_02,1		Metal:100	Obtain 1× Water-Parting Emei Piercers	vt4000
+vt2020_2	Wootz Judge's Brushes	2	1		1	wp5006_03,1		Metal:175,Money:175	Obtain 1× Wootz Judge's Brushes	vt4000
+vt2020_3	Silver-Hook Twin Iron Brushes	2	1	ForgingWeapon	2	wp5006_04,1		Metal:350	Obtain 1× Silver-Hook Twin Iron Brushes	vt4000
+vt2020_4	Streaming Light Twin Flying Spikes	2	1	ForgingWeapon	3	wp5006_05,1		Metal:600	Obtain 1× Streaming Light Twin Flying Spikes	vt4000
+vt2020_5	Heart-Piercing Pulse-Severing Spikes	2	1	ForgingWeapon	3	wp5006_06,1		Metal:1000	Obtain 1× Heart-Piercing Pulse-Severing Spikes	vt4000
+vt2021_1	Bamboo-Joint Whips	2	1	ForgingWeapon	1	wp5007_02,1		Metal:100	Obtain 1× Bamboo-Joint Whips	vt4000
+vt2021_2	Wolf-Fang Maces	2	1		1	wp5007_03,1		Metal:175,Money:175	Obtain 1× Wolf-Fang Maces	vt4000
+vt2021_3	Four-Edged Wootz Maces	2	1	ForgingWeapon	2	wp5007_04,1		Metal:350	Obtain 1× Four-Edged Wootz Maces	vt4000
+vt2021_4	Water-Polished Eight-Edged Steel Whips	2	1	ForgingWeapon	3	wp5007_05,1		Metal:600	Obtain 1× Water-Polished Eight-Edged Steel Whips	vt4000
+vt2021_5	Golden Maces	2	1	ForgingWeapon	3	wp5007_06,1		Metal:1000	Obtain 1× Golden Maces	vt4000
+vt2022_1	Black Awl Daggers	2	1	ForgingWeapon	1	wp5005_02,1		Metal:100	Obtain 1× Black Awl Daggers	vt4000
+vt2022_2	Yuefeng Short Daggers	2	1		1	wp5005_03,1		Metal:175,Money:175	Obtain 1× Yuefeng Short Daggers	vt4000
+vt2022_3	Jadeite Short Daggers	2	1	ForgingWeapon	2	wp5005_04,1		Metal:350	Obtain 1× Jadeite Short Daggers	vt4000
+vt2022_4	Mandarin Duck Blades	2	1	ForgingWeapon	3	wp5005_05,1		Metal:600	Obtain 1× Mandarin Duck Blades	vt4000
+vt2022_5	Hundred-Warding Daggers	2	1	ForgingWeapon	3	wp5005_06,1		Metal:1000	Obtain 1× Hundred-Warding Daggers	vt4000
+vt2026_1	Willow Leaf Flying Daggers	2	1	ForgingWeapon	1	wp6003_02,1		Metal:100	Obtain 1× Willow Leaf Flying Daggers	vt4000
+vt2026_2	Wind-Breaking Flying Daggers	2	1		1	wp6003_03,1		Metal:175,Money:175	Obtain 1× Wind-Breaking Flying Daggers	vt4000
+vt2026_3	Shadowless Thin Blades	2	1	ForgingWeapon	2	wp6003_04,1		Metal:350	Obtain 1× Shadowless Thin Blades	vt4000
+vt2026_4	A Single Cold Gleam	2	1	ForgingWeapon	3	wp6003_05,1		Metal:600	Obtain 1× A Single Cold Gleam	vt4000
+vt2026_5	Cicada Wing, Thousand Pounds	2	1	ForgingWeapon	3	wp6003_06,1		Metal:1000	Obtain 1× Cicada Wing, Thousand Pounds	vt4000
+vt2027_1	Iron Lotus Seeds	2	1	ForgingWeapon	1	wp6004_02,1		Metal:100	Obtain 1× Iron Lotus Seeds	vt4000
+vt2027_2	Iron Balls	2	1		1	wp6004_03,1		Metal:150,Money:400	Obtain 1× Iron Balls	vt4000
+vt2027_3	Carefree Ruyi Pearls	2	1	ForgingWeapon	2	wp6004_04,1		Metal:200	Obtain 1× Carefree Ruyi Pearls	vt4000
+vt2027_4	Feathered Shaft in Stone	2	1	ForgingWeapon	3	wp6004_05,1		Metal:300	Obtain 1× Feathered Shaft in Stone	vt4000
+vt2027_5	Fleeting Meteors	2	1	ForgingWeapon	3	wp6004_06,1		Metal:400	Obtain 1× Fleeting Meteors	vt4000
+vt2028_1	Coin Darts	2	1	ForgingWeapon	1	wp6005_02,1		Metal:100	Obtain 1× Coin Darts	vt4000
+vt2028_2	Plum Blossom Darts	2	1		1	wp6005_03,1		Metal:175,Money:175	Obtain 1× Plum Blossom Darts	vt4000
+vt2028_3	Golden Swallow Darts	2	1	ForgingWeapon	2	wp6005_04,1		Metal:350	Obtain 1× Golden Swallow Darts	vt4000
+vt2028_4	Sixteen Arhat Coins	2	1	ForgingWeapon	3	wp6005_05,1		Metal:600	Obtain 1× Sixteen Arhat Coins	vt4000
+vt2028_5	The Milky Way Falls from the Ninth Heaven	2	1	ForgingWeapon	3	wp6005_06,1		Metal:1000	Obtain 1× The Milky Way Falls from the Ninth Heaven	vt4000
+vt2029	Flying Silver	2	1		1	wp6006,1		Metal:80	Obtain 1× Flying Silver	vt4000
+vt2030_1	Ebony Inner Armor	2	2	ForginArms	1	eq1001_02,1		Metal:100	Obtain 1× Ebony Inner Armor	vt3004
+vt2030_2	Crocodile Hide Armor	2	2		1	eq1001_03,1		Metal:175,Money:175	Obtain 1× Crocodile Hide Armor	vt3004
+vt2030_3	Red Python Leather Armor	2	2	ForginArms	2	eq1001_04,1		Metal:350	Obtain 1× Red Python Leather Armor	vt3004
+vt2030_4	Tiger Shark Tight Garb	2	2	ForginArms	3	eq1001_05,1		Metal:600	Obtain 1× Tiger Shark Tight Garb	vt3004
+vt2030_5	Beast King Inner Armor	2	2	ForginArms	3	eq1001_06,1		Metal:1000	Obtain 1× Beast King Inner Armor	vt3004
+vt2031_1	Silver Thread Armor	2	2	ForginArms	1	eq1002_02,1		Metal:100	Obtain 1× Silver Thread Armor	vt3004
+vt2031_2	Black Silkworm Vest	2	2		1	eq1002_03,1		Metal:175,Money:175	Obtain 1× Black Silkworm Vest	vt3004
+vt2031_3	Gold Thread Armor	2	2	ForginArms	2	eq1002_04,1		Metal:350	Obtain 1× Gold Thread Armor	vt3004
+vt2031_4	Heavenly Silkworm Treasure Robe	2	2	ForginArms	3	eq1002_05,1		Metal:600	Obtain 1× Heavenly Silkworm Treasure Robe	vt3004
+vt2031_5	Clear Void Soft Armor	2	2	ForginArms	3	eq1002_06,1		Metal:1000	Obtain 1× Clear Void Soft Armor	vt3004
+vt2032_1	Chainmail	2	2	ForginArms	1	eq1003_02,1		Metal:100	Obtain 1× Chainmail	vt3004
+vt2032_2	Red Copper Armor	2	2		1	eq1003_03,1		Metal:175,Money:175	Obtain 1× Red Copper Armor	vt3004
+vt2032_3	Fish-Scale Iron Armor	2	2	ForginArms	2	eq1003_04,1		Metal:350	Obtain 1× Fish-Scale Iron Armor	vt3004
+vt2032_4	Golden Bell Iron Armor	2	2	ForginArms	3	eq1003_05,1		Metal:600	Obtain 1× Golden Bell Iron Armor	vt3004
+vt2032_5	Black Iron Heavy Armor	2	2	ForginArms	3	eq1003_06,1		Metal:1000	Obtain 1× Black Iron Heavy Armor	vt3004
+vt2033	Red Copper Armor	2	2		1	eq1004,1		Metal:175	Obtain 1× Red Copper Armor	vt3004
+vt2036	Gut-Rotting Poison Sword	2	2		1	wp2017,1		Metal:100,Money:500	Obtain 1× Gut-Rotting Poison Sword	vt3006
+vt2038	Misty Rain Heartbreak Threads	2	1		1	wp6011,1		Metal:70,Money:150	Obtain 1× Misty Rain Heartbreak Threads	vt4000
+vt2039	Black Blade of Dongying	2	1		1	wp3012,1		Metal:70,Money:150	Obtain 1× Black Blade of Dongying	vt4000
+vt2040	Great Wind Saber	2	1		1	wp3019,1		Metal:70,Money:150	Obtain 1× Great Wind Saber	vt4000
+vt2041	Bone-Piercing Nails	2	1		1	wp6012,1		Metal:70,Money:150	Obtain 1× Bone-Piercing Nails	vt4000
+vt2042	Cloud-Pattern Sword	2	1		1	wp2018,1		Metal:70,Money:150	Obtain 1× Cloud-Pattern Sword	vt4000
+vt2043	Red Scorpion Hand	2	1		1	wp1011,1		Metal:70,Money:150	Obtain 1× Red Scorpion Hand	vt4000

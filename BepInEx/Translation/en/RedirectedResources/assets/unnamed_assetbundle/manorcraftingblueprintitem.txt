@@ -1,0 +1,232 @@
+Id	Name	Description	SpriteName	ObtainedInventoryId	CraftingType	DetailedCraftingType	AutoReleaseRequirements	CraftingRequirements	CraftingCosts
+bp_eq1001_01	Leather Armor	Released at 0-0		eq1001_01	Forging	Armor			it1401_00:32,it1404_00:8,it1400_00:20,it1404_01:6
+bp_eq1001_02	Deerhide Armor	Released at 1-1		eq1001_02	Forging	Armor			it1404_00:26,it1402_00:8,it1404_01:16,it1404_04:6
+bp_eq1001_03	Giant Crocodile Hide Armor	Released at 1-2		eq1001_03	Forging	Armor			it1404_00:34,it1402_00:8,it1404_01:20,it1404_04:6
+bp_eq1001_04	Black Tortoise Armor	Released at 2-2		eq1001_04	Forging	Armor			it1402_00:16,it1403_00:4,it1404_04:12,it1404_05:4
+bp_eq1001_05	Beast King Armor	Released at 3-1		eq1001_05	Forging	Armor			it1402_00:24,it1403_00:12,it1404_04:20,it1404_05:12
+bp_eq1001_06	Black Rhino Leather Armor	Released at 2-1		eq1001_06	Forging	Armor			it1404_00:36,it1402_00:10,it1404_01:25,it1404_04:8
+bp_eq1002_01	Bronze Armor	Released at 0-0		eq1002_01	Forging	Armor			it1401_00:32,it1404_00:8,it1400_00:20,it1404_01:6
+bp_eq1002_02	Iron Armor	Released at 1-1		eq1002_02	Forging	Armor			it1404_00:26,it1402_00:8,it1404_01:16,it1404_04:6
+bp_eq1002_03	Radiant Iron Armor	Released at 1-2		eq1002_03	Forging	Armor			it1404_00:34,it1402_00:8,it1404_01:20,it1404_04:6
+bp_eq1002_04	Golden Bell Iron Armor	Released at 2-2		eq1002_04	Forging	Armor			it1402_00:16,it1403_00:4,it1404_04:12,it1404_05:4
+bp_eq1002_05	Dragonscale Iron Armor	Released at 3-1		eq1002_05	Forging	Armor			it1402_00:24,it1403_00:12,it1404_04:20,it1404_05:12
+bp_eq1002_06	Bedrock Iron Armor	Released at 2-1		eq1002_06	Forging	Armor			it1404_00:36,it1402_00:10,it1404_01:25,it1404_04:8
+bp_eq1003_01	Soft Armor	Released at 0-0		eq1003_01	Forging	Armor			it1401_00:32,it1404_00:8,it1400_00:20,it1404_01:6
+bp_eq1003_02	Bodyguard Soft Armor	Released at 1-1		eq1003_02	Forging	Armor			it1404_00:26,it1402_00:8,it1404_01:16,it1404_04:6
+bp_eq1003_03	Silk-Wound Soft Armor	Released at 1-2		eq1003_03	Forging	Armor			it1404_00:34,it1402_00:8,it1404_01:20,it1404_04:6
+bp_eq1003_04	Heavenly Silkworm Soft Armor	Released at 2-2		eq1003_04	Forging	Armor			it1402_00:16,it1403_00:4,it1404_04:12,it1404_05:4
+bp_eq1003_05	Seven-Colored Soft Armor	Released at 3-1		eq1003_05	Forging	Armor			it1402_00:24,it1403_00:12,it1404_04:20,it1404_05:12
+bp_eq1003_06	Black Crow Soft Armor	Released at 2-1		eq1003_06	Forging	Armor			it1404_00:36,it1402_00:10,it1404_01:25,it1404_04:8
+bp_eq1004_01	Wooden Armor	Released at 0-0		eq1004_01	Forging	Armor			it1401_00:32,it1404_00:8,it1400_00:20,it1404_01:6
+bp_eq1004_02	Rattan Armor	Released at 1-1		eq1004_02	Forging	Armor			it1404_00:26,it1402_00:8,it1404_01:16,it1404_04:6
+bp_eq1004_03	Red Sandalwood Armor	Released at 1-2		eq1004_03	Forging	Armor			it1404_00:34,it1402_00:8,it1404_01:20,it1404_04:6
+bp_eq1004_04	Divine Wood Armor	Released at 2-2		eq1004_04	Forging	Armor			it1402_00:16,it1403_00:4,it1404_04:12,it1404_05:4
+bp_eq1004_05	Hundredfold Resilient Armor	Released at 3-1		eq1004_05	Forging	Armor			it1402_00:18,it1403_00:8,it1404_04:14,it1404_05:6
+bp_eq1004_06	Ancient Vine Armor	Released at 2-1		eq1004_06	Forging	Armor			it1404_00:36,it1402_00:10,it1404_01:25,it1404_04:8
+bp_it0049	Crude Iron Shovel			it0049	Forging	Organ			it1200_01:8,it1300_00:8
+bp_it0075	Exquisite Mechanism Box			it0075	Organ	Organ			it0073:1,it0074:1
+bp_it0079	Dragon-Patterned Token			it0079	Organ	Organ			it0071:1,it0072:1,it0076:1,it0077:1
+bp_it0093	Seven-Hued Phosphor Stone			it0093	Organ	Organ			it1202_00:50,it1203_00:20,it1202_01:50,it1203_01:20
+bp_it2000	Notoginseng Powder			it2000	Medical	Elixir			it1101_00:18
+bp_it2000_02	Golden Wound Salve			it2000_02	Medical	Elixir			it1101_00:20,it1100_00:6
+bp_it2000_03	Lesser Restoration Pill			it2000_03	Medical	Elixir			it1100_00:16,it1102_04:5
+bp_it2000_04	Great Heart-Tonic Pill			it2000_04	Medical	Elixir			it1102_04:10,it1101_03:4
+bp_it2000_05	Deathless Immortal Elixir			it2000_05	Medical	Elixir			it1102_04:16,it1101_03:8
+bp_it2001	Empty Hands Pill			it2001	Medical	Elixir			it1101_00:16,it1100_00:4,it1100_01:16,it1101_01:4
+bp_it2001_02	Painter's Touch Powder			it2001_02	Medical	Elixir			it1100_00:12,it1102_04:4,it1101_01:12,it1100_02:4
+bp_it2001_03	Miraculous Recovery Pill			it2001_03	Medical	Elixir			it1102_04:8,it1101_03:3,it1100_02:8,it1101_02:3
+bp_it2002	Soul-Returning Broth			it2002	Medical	Elixir			it1101_00:28,it1100_00:8
+bp_it2002_02	Life-Extending Plaster			it2002_02	Medical	Elixir			it1100_00:16,it1102_04:5
+bp_it2002_03	Heart-Guarding Pill			it2002_03	Medical	Elixir			it1102_04:8,it1101_03:3
+bp_it2003	Clear Spirit Pain-Relief Pill			it2003	Medical	Elixir			it1100_02:5,it1101_01:10
+bp_it2003_02	Six-Syllable True Remedy Pill			it2003_02	Medical	Elixir			it1101_01:10,it1100_02:5
+bp_it2003_03	Eight Directions Origin-Restoring Pill			it2003_03	Medical	Elixir			it1100_02:10,it1101_02:3
+bp_it2004	Pure Maiden Pill			it2004	Medical	Elixir			it1100_00:10,it1102_04:5,it1101_01:16,it1100_02:5
+bp_it2004_02	Fairy's Fragrance			it2004_02	Medical	Elixir			it1102_04:8,it1101_03:3,it1100_02:11,it1101_02:3
+bp_it2005	Yang-Restoring Powder			it2005	Medical	Elixir			it1100_00:10,it1102_04:4,it1101_01:16,it1100_02:5
+bp_it2005_02	Snowmelt Greets the Spring			it2005_02	Medical	Elixir			it1102_04:8,it1101_03:3,it1100_02:11,it1101_02:3
+bp_it2006	Cloud-Piercing Powder			it2006	Medical	Elixir			it1100_00:10,it1102_04:4,it1101_01:16,it1100_02:5
+bp_it2006_02	Jade Snow Frost			it2006_02	Medical	Elixir			it1102_04:8,it1101_03:3,it1100_02:11,it1101_02:3
+bp_it2007	Calming Draught			it2007	Medical	Elixir			it1100_00:10,it1102_04:4,it1101_01:16,it1100_02:5
+bp_it2007_02	Clear Wonder Powder			it2007_02	Medical	Elixir			it1102_04:5,it1101_03:1,it1100_02:8,it1101_02:1
+bp_it2008	Thousand-Gold Plaster			it2008	Medical	Elixir			it1101_01:12,it1100_02:4
+bp_it2008_02	Great Thousand-Gold Plaster			it2008_02	Medical	Elixir			it1100_02:5,it1101_02:2
+bp_it2009	Arhat Pill			it2009	Medical	Elixir			it1100_00:12,it1102_04:4
+bp_it2009_02	Great Arhat Pill			it2009_02	Medical	Elixir			it1102_04:8,it1101_03:4
+bp_it2010	Heaven-Defying Life-Saving Pill			it2010	Medical	Elixir			it1101_02:10,it1101_03:10
+bp_it2011	Pulse-Reviving Powder			it2011	Medical	Elixir			it1100_01:18
+bp_it2011_02	Breath-Sustaining Pill			it2011_02	Medical	Elixir			it1100_01:20,it1101_01:6
+bp_it2011_03	Qi-Boosting Powder			it2011_03	Medical	Elixir			it1101_01:16,it1100_02:5
+bp_it2011_04	Great Qi-Infusing Powder			it2011_04	Medical	Elixir			it1100_02:10,it1101_02:4
+bp_it2011_05	Withered Tree in Spring Pill			it2011_05	Medical	Elixir			it1100_02:10,it1101_02:8
+bp_it2012	Death-Defying Revival Pill			it2012	Medical	Elixir			it1100_00:8,it1102_04:3,it1101_01:10,it1100_02:4
+bp_it2013	Blade-Meeting Powder			it2013	Medical	Elixir			it1100_00:20,it1102_04:6
+bp_it2013_02	Jade-Bone Flesh-Mending Salve			it2013_02	Medical	Elixir			it1102_04:16,it1101_03:5
+bp_it2014	Exquisite Pill			it2014	Medical	Elixir			it1100_00:20,it1102_04:6
+bp_it2014_02	Great Exquisite Pill			it2014_02	Medical	Elixir			it1102_04:11,it1101_03:2
+bp_it2015	Meridian-Freeing Pill			it2015	Medical	Elixir			it1100_00:20,it1102_04:6
+bp_it2015_02	Great Meridian-Freeing Pill			it2015_02	Medical	Elixir			it1102_04:11,it1101_03:2
+bp_it2016	Purifying Pill			it2016	Medical	Elixir			it1100_00:20,it1102_04:6
+bp_it2016_02	Great Purifying Pill			it2016_02	Medical	Elixir			it1102_04:16,it1101_03:5
+bp_it2018	Feigned Death Drug			it2018	Medical	Elixir			it1100_01:7,it1100_00:5,it1101_03:1
+bp_it2023	Clear Wonder Powder			it2023	Medical	Elixir			it1100_00:25,it1102_04:8
+bp_it2024	Origin-Nurturing Powder			it2024	Medical	Elixir			it1100_00:25,it1102_04:8
+bp_it2025	Radiant Light Pill			it2025	Medical	Elixir			it1100_00:25,it1102_04:8
+bp_it2026	True Remedy Pill			it2026	Medical	Elixir			it1100_00:25,it1102_04:8
+bp_it3000	Soul-Eroding Powder			it3000	Medical	Poison			it1601_01:12,it1602_00:3
+bp_it3000_02	Bliss Worm			it3000_02	Medical	Poison			it1601_01:19,it1602_00:5
+bp_it3000_03	Soul-Melting Pill			it3000_03	Medical	Poison			it1603_00:10,it1603_01:10
+bp_it3003	Hundred Ills, Hundred Pains Pill			it3003	Medical	Poison			it1601_01:12,it1602_00:3
+bp_it3003_02	Five Venoms Heavenly Water			it3003_02	Medical	Poison			it1601_01:19,it1602_00:5
+bp_it3004	Life-Taking Pill			it3004	Medical	Poison			it1600_00:28,it1601_01:8
+bp_it3004_02	Cold Rooster Powder			it3004_02	Medical	Poison			it1601_01:30,it1602_00:6
+bp_it3004_03	One Drop Seals the Throat			it3004_03	Medical	Poison			it1602_00:17,it1603_00:4
+bp_it3005	Cold Toad Dew			it3005	Medical	Poison			it1600_00:28,it1601_01:8
+bp_it3005_02	Yin Soul			it3005_02	Medical	Poison			it1601_01:30,it1602_00:6
+bp_it3005_03	Essence of Tianshan Snow Spirit			it3005_03	Medical	Poison			it1602_00:17,it1603_00:4
+bp_it3006	Red Scorpion Powder			it3006	Medical	Poison			it1600_00:28,it1601_01:8
+bp_it3006_02	Yang Spirit			it3006_02	Medical	Poison			it1601_01:30,it1602_00:6
+bp_it3006_03	Scorched Soul of the Desert			it3006_03	Medical	Poison			it1602_00:17,it1603_00:4
+bp_it3007	Fifth-Watch Cockcrow Soul-Returning Incense			it3007	Medical	Poison			it1600_01:20,it1601_00:6
+bp_it3007_02	Gentleman's Incense			it3007_02	Medical	Poison			it1601_00:24,it1602_01:6
+bp_it3007_03	Immortal's One-Day Drunk			it3007_03	Medical	Poison			it1602_01:13,it1603_01:4
+bp_it3008	Five Organs Ablaze			it3008	Medical	Poison			it1600_01:20,it1601_00:6
+bp_it3008_02	Jade Serpent's Embrace			it3008_02	Medical	Poison			it1601_00:24,it1602_01:6
+bp_it3008_03	Heaven's First Divine Water			it3008_03	Medical	Poison			it1602_01:13,it1603_01:4
+bp_it3009	Bone-Eroding Pill			it3009	Medical	Poison			it1600_01:20,it1601_00:6
+bp_it3009_02	Black Fiend Death-Summoning Pill			it3009_02	Medical	Poison			it1601_00:24,it1602_01:6
+bp_it3009_03	Seven Cunning Bone-Melting Powder			it3009_03	Medical	Poison			it1602_01:13,it1603_01:4
+bp_it3010	Five Numbness Powder			it3010	Medical	Poison			it1600_01:20,it1601_00:6
+bp_it3010_02	Strychnine Draught			it3010_02	Medical	Poison			it1601_00:24,it1602_01:6
+bp_it3010_03	Corpse-Wood Wraith Powder			it3010_03	Medical	Poison			it1602_01:13,it1603_01:4
+bp_it3011	Soul-Scattering Water			it3011	Medical	Poison			it1600_01:20,it1601_00:6
+bp_it3011_02	Beauty's Tears			it3011_02	Medical	Poison			it1601_00:24,it1602_01:6
+bp_it3011_03	Instant Soul-Melting Powder			it3011_03	Medical	Poison			it1602_01:13,it1603_01:4
+bp_it3016	Poisoned Bun			it3016	Medical	Poison			it1600_00:63,it1601_01:16
+bp_it6000	Singing Among Green Willows			it6000	Organ	Organ			it1200_00:20,it1201_00:6,it1600_01:13,it1601_00:5
+bp_it6000_02	Brocade Screen, Shooting Sparrow			it6000_02	Organ	Organ			it1201_00:12,it1202_00:4,it1601_00:5,it1602_01:4
+bp_it6000_03	Peacock Fans Its Tail			it6000_03	Organ	Organ			it1202_00:6,it1203_00:3,it1602_01:8,it1603_01:3
+bp_it6001	Tang Clan Iron Caltrops			it6001	Organ	Organ			it1201_01:16,it1202_01:5,it1601_01:11,it1602_00:4
+bp_it6001_02	Noon-and-Midnight Heart-Searching Nails			it6001_02	Organ	Organ			it1202_01:8,it1203_01:3,it1602_00:5,it1603_00:3
+bp_it6002	Back-Mounted Head-Bowing Flower Crossbow			it6002	Organ	Organ			it1200_01:28,it1201_01:8
+bp_it6003	Heaven Severed, Earth Destroyed			it6003	Organ	Organ			it1202_01:10,it1203_01:5,it1602_00:8,it1603_00:3
+bp_it6004	Iron Flame Bomb			it6004	Organ	Organ			it1201_01:12,it1202_01:4
+bp_it6004_02	Crimson Flames Scorch the Sky			it6004_02	Organ	Organ			it1202_01:10,it1203_01:5
+bp_it6004_03	Thunderbolt Fire Bomb			it6004_03	Organ	Organ			it1202_01:7,it1203_01:2
+bp_it6005	Seven Stars Bone-Piercing Needles			it6005	Organ	Organ			it1202_01:1,it1203_01:1,it1602_00:4,it1603_00:1
+bp_it6006	Pear Blossom Rainstorm Needles			it6006	Organ	Organ			it1202_01:10,it1203_01:5
+bp_it6009	Peacock Plume (Counterfeit)			it6009	Organ	Organ			it1202_01:1,it1203_01:1,it1602_01:4,it1603_01:1
+bp_it6010	Toothless Vicious Rat			it6010	Organ	Organ			it1202_01:10,it1203_01:5,it1602_01:8,it1603_01:3
+bp_it6011	Sleeve Arrow			it6011	Organ	Organ			it1200_01:28,it1201_01:8
+bp_it6011_02	Sand Spitting at Shadows			it6011_02	Organ	Organ			it1201_01:15,it1202_01:4
+bp_it6011_03	Faded Jade and Dark Gold			it6011_03	Organ	Organ			it1201_01:7,it1202_01:2
+bp_it6012	Sleeve Cannon			it6012	Organ	Organ			it1200_01:25,it1201_01:8
+bp_it6012_02	Thunderclap			it6012_02	Organ	Organ			it1201_01:9,it1202_01:2
+bp_it6012_03	Rain of Flowers Filling the Sky			it6012_03	Organ	Organ			it1202_01:5,it1203_01:1
+bp_it6013	Flying Petals of Lament			it6013	Organ	Organ			it1201_01:19,it1202_01:5,it1601_00:5,it1602_01:3
+bp_it6014	Taisui Dart			it6014	Organ	Organ			it1201_01:3,it1202_01:2,it1601_00:6,it1602_01:3
+bp_it6015	Foul Water Bomb			it6015	Organ	Organ			it1200_01:26,it1201_01:8,it1600_00:28,it1601_01:8
+bp_it6016	Thicket			it6016	Organ	Organ			it1400_00:13,it1404_01:6,it1600_01:15,it1601_00:5
+bp_it6017	Plum Blossom Needles			it6017	Organ	Organ			it1200_01:25,it1201_01:8
+bp_it6020	Ten Thousand Ants Boring the Heart			it6020	Organ	Organ			it1201_01:20,it1202_01:6
+bp_it6021	Orchid of the Secluded Valley			it6021	Organ	Organ			it1200_00:20,it1201_00:6,it1600_01:13,it1601_00:5
+bp_it6022	Qin Ke's Bewildering Blossom			it6022	Organ	Organ			it1301_01:12,it1302_00:3
+bp_it6023	Phoenixes in Flight			it6023	Organ	Organ			it1400_00:13,it1404_01:6,it1600_01:15,it1601_00:5
+bp_it6026	Chick Pecking Rice			it6026	Organ	Organ			it1301_01:16,it1301_00:16
+bp_it6027	Hen Lays Three Eggs			it6027	Organ	Organ			it1302_01:6,it1302_00:6,it1301_01:13,it1301_00:13
+bp_it6028	Silver Thread Across the Void			it6028	Organ	Organ			it1400_00:13,it1404_01:6,it1600_01:15,it1601_00:5
+bp_it6030	Holy Water of Bliss			it6030	Organ	Organ			it1400_00:13,it1404_01:6,it1600_01:15,it1601_00:5
+bp_it6031	Wooden Colt			it6031	Organ	Organ			it1300_00:16,it1301_01:6,it1600_01:17,it1601_00:5
+bp_it6032	Massage Pestle			it6032	Organ	Organ			it1200_01:25,it1201_01:8
+bp_it6033	Undying Candle			it6033	Organ	Organ			it1404_00:6,it1600_00:17,it1601_01:6,it1400_00:17
+bp_it6034	Jin Family Mechanical Puppet			it6034	Organ	Organ			it1700_00:1,it1404_00:4,it1600_00:13,it1601_01:4
+bp_wp1001_01	Leather Gloves	Released at 0-0		wp1001_01	Forging	Fight			it1200_01:32,it1201_01:8,it1200_00:16,it1201_00:6
+bp_wp1001_02	Fierce Tiger Gloves	Released at 1-1		wp1001_02	Forging	Fight			it1201_01:24,it1202_01:6,it1201_00:8,it1202_00:4
+bp_wp1001_03	Croc-Pattern Gloves	Released at 1-2		wp1001_03	Forging	Fight			it1201_01:32,it1202_01:8,it1201_00:11,it1202_00:8
+bp_wp1001_04	Black Tortoise Gloves	Released at 2-2		wp1001_04	Forging	Fight			it1202_01:13,it1203_01:4,it1202_00:8,it1203_00:3
+bp_wp1001_05	Dragonscale Gloves	Released at 3-1		wp1001_05	Forging	Fight			it1202_01:20,it1203_01:8,it1202_00:12,it1203_00:6
+bp_wp1001_06	Black Rhino Gloves	Released at 2-1		wp1001_06	Forging	Fight			it1201_01:36,it1202_01:10,it1201_00:15,it1202_00:10
+bp_wp1002_01	Iron Claws	Released at 0-0		wp1002_01	Forging	Fight			it1200_01:32,it1201_01:8,it1200_00:16,it1201_00:6
+bp_wp1002_02	Vicious Wolf Claws	Released at 1-1		wp1002_02	Forging	Fight			it1201_01:24,it1202_01:6,it1201_00:8,it1202_00:4
+bp_wp1002_03	Gray Bear Claws	Released at 1-2		wp1002_03	Forging	Fight			it1201_01:32,it1202_01:8,it1201_00:11,it1202_00:8
+bp_wp1002_04	Soul-Seizing Ghost Claws	Released at 2-2		wp1002_04	Forging	Fight			it1202_01:13,it1203_01:4,it1202_00:8,it1203_00:3
+bp_wp1002_05	Seven Lives, Seven Bonds Claws	Released at 3-1		wp1002_05	Forging	Fight			it1202_01:20,it1203_01:8,it1202_00:12,it1203_00:6
+bp_wp1002_06	Heavenly Eagle Claws	Released at 2-1		wp1002_06	Forging	Fight			it1201_01:36,it1202_01:10,it1201_00:15,it1202_00:10
+bp_wp1003_01	Coarse Cloth Hand Wraps	Released at 0-0		wp1003_01	Forging	Fight			it1200_01:32,it1201_01:8,it1200_00:29,it1201_00:8
+bp_wp1003_02	Silver Thread Hand Guards	Released at 1-1		wp1003_02	Forging	Fight			it1201_01:24,it1202_01:6,it1201_00:13,it1202_00:6
+bp_wp1003_03	Soft Feather Hand Wraps	Released at 1-2		wp1003_03	Forging	Fight			it1201_01:32,it1202_01:8,it1201_00:16,it1202_00:6
+bp_wp1003_04	Heavenly Silkworm Black Silk Hands	Released at 2-2		wp1003_04	Forging	Fight			it1202_01:13,it1203_01:4,it1202_00:8,it1203_00:3
+bp_wp1003_05	Golden Crow and Moon Toad	Released at 3-1		wp1003_05	Forging	Fight			it1202_01:20,it1203_01:8,it1202_00:12,it1203_00:6
+bp_wp1003_06	Gold-Thread White Silk Hands	Released at 2-1		wp1003_06	Forging	Fight			it1201_01:36,it1202_01:10,it1201_00:20,it1202_00:10
+bp_wp2001_01	White Iron Sword	Released at 0-0		wp2001_01	Forging	Sword			it1200_01:37,it1201_01:11,it1200_00:16,it1201_00:4
+bp_wp2001_02	Hundred-Forged Sword	Released at 1-1		wp2001_02	Forging	Sword			it1201_01:29,it1202_01:8,it1201_00:8,it1202_00:6
+bp_wp2001_03	Green Frost Sword	Released at 1-2		wp2001_03	Forging	Sword			it1201_01:37,it1202_01:11,it1201_00:11,it1202_00:8
+bp_wp2001_04	Pine-Grain Sword	Released at 2-2		wp2001_04	Forging	Sword			it1202_01:16,it1203_01:4,it1202_00:8,it1203_00:4
+bp_wp2001_05	Heaven-Shaking Divine Sword	Released at 3-1		wp2001_05	Forging	Sword			it1202_01:22,it1203_01:8,it1202_00:16,it1203_00:8
+bp_wp2001_06	Shadow-Painting Sword	Released at 2-1		wp2001_06	Forging	Sword			it1201_01:40,it1202_01:12,it1201_00:15,it1202_00:10
+bp_wp2002_01	Heavy Sword	Released at 0-0		wp2002_01	Forging	Sword			it1200_01:29,it1201_01:8,it1300_01:21,it1301_00:6
+bp_wp2002_02	Fine Steel Heavy Sword	Released at 1-1		wp2002_02	Forging	Sword			it1201_01:32,it1202_01:8,it1301_00:32,it1302_01:8
+bp_wp2002_03	Iron-Cleaving Heavy Sword	Released at 1-2		wp2002_03	Forging	Sword			it1201_01:39,it1202_01:11,it1301_00:45,it1302_01:11
+bp_wp2002_04	Mountain-Splitting Greatsword	Released at 2-2		wp2002_04	Forging	Sword			it1202_01:16,it1203_01:4,it1302_01:21,it1303_00:4
+bp_wp2002_05	Heaven-Shaking Divine Sword	Released at 3-1		wp2002_05	Forging	Sword			it1202_01:22,it1203_01:8,it1302_01:28,it1303_00:8
+bp_wp2002_06	Vajra Greatsword	Released at 2-1		wp2002_06	Forging	Sword			it1201_01:42,it1202_01:12,it1301_00:52,it1302_01:13
+bp_wp2003_01	Soft Sword	Released at 0-0		wp2003_01	Forging	Sword			it1200_01:34,it1201_01:11,it1200_00:16,it1201_00:6
+bp_wp2003_02	Clear Light Soft Sword	Released at 1-1		wp2003_02	Forging	Sword			it1201_01:24,it1202_01:8,it1201_00:8,it1202_00:4
+bp_wp2003_03	Green Snake Soft Sword	Released at 1-2		wp2003_03	Forging	Sword			it1201_01:34,it1202_01:11,it1201_00:11,it1202_00:8
+bp_wp2003_04	Purple-Gold Soft Sword	Released at 2-2		wp2003_04	Forging	Sword			it1202_01:16,it1203_01:4,it1202_00:6,it1203_00:4
+bp_wp2003_05	Land of Tenderness	Released at 3-1		wp2003_05	Forging	Sword			it1202_01:22,it1203_01:8,it1202_00:12,it1203_00:8
+bp_wp2003_06	Spirit Fox Soft Sword	Released at 2-1		wp2003_06	Forging	Sword			it1201_01:35,it1202_01:12,it1201_00:15,it1202_00:10
+bp_wp3001_01	Steel Saber	Released at 0-0		wp3001_01	Forging	Blade			it1200_01:52,it1201_01:16
+bp_wp3001_02	Hundred-Forged Steel Saber	Released at 1-1		wp3001_02	Forging	Blade			it1201_01:37,it1202_01:11
+bp_wp3001_03	Lingbao Steel Saber	Released at 1-2		wp3001_03	Forging	Blade			it1201_01:47,it1202_01:19
+bp_wp3001_04	Green Peak Gold-Patterned Saber	Released at 2-2		wp3001_04	Forging	Blade			it1202_01:26,it1203_01:6
+bp_wp3001_05	Qilin Purple-Gold Saber	Released at 3-1		wp3001_05	Forging	Blade			it1202_01:36,it1203_01:8
+bp_wp3001_06	Snowflake Wootz Saber	Released at 2-1		wp3001_06	Forging	Blade			it1201_01:50,it1202_01:20
+bp_wp3002_01	Curved Saber	Released at 0-0		wp3002_01	Forging	Blade			it1200_01:47,it1201_01:11
+bp_wp3002_02	Willow Leaf Curved Saber	Released at 1-1		wp3002_02	Forging	Blade			it1201_01:32,it1202_01:8
+bp_wp3002_03	Rainbow Arc Curved Saber	Released at 1-2		wp3002_03	Forging	Blade			it1201_01:42,it1202_01:16
+bp_wp3002_04	Sun-Devouring Curved Saber	Released at 2-2		wp3002_04	Forging	Blade			it1202_01:22,it1203_01:6
+bp_wp3002_05	Full Moon Scimitar	Released at 3-1		wp3002_05	Forging	Blade			it1202_01:32,it1203_01:8
+bp_wp3002_06	Asura Scimitar	Released at 2-1		wp3002_06	Forging	Blade			it1201_01:46,it1202_01:17
+bp_wp3003_01	Broadsaber	Released at 0-0		wp3003_01	Forging	Blade			it1200_01:47,it1201_01:13,it1300_01:16,it1301_00:6
+bp_wp3003_02	Ghost-Head Broadsaber	Released at 1-1		wp3003_02	Forging	Blade			it1201_01:29,it1202_01:6,it1301_00:8,it1302_01:4
+bp_wp3003_03	Iron-Cleaving Broadsaber	Released at 1-2		wp3003_03	Forging	Blade			it1201_01:34,it1202_01:8,it1301_00:11,it1302_01:4
+bp_wp3003_04	Gold-Backed Mountain-Hewing Saber	Released at 2-2		wp3003_04	Forging	Blade			it1202_01:18,it1203_01:6,it1302_01:12,it1303_00:4
+bp_wp3003_05	Yama's Broadsaber	Released at 3-1		wp3003_05	Forging	Blade			it1202_01:28,it1203_01:10,it1302_01:18,it1303_00:8
+bp_wp3003_06	Mountain-Quelling Broadsaber	Released at 2-1		wp3003_06	Forging	Blade			it1201_01:38,it1202_01:10,it1301_00:15,it1302_01:5
+bp_wp5001_01	Dagger	Released at 0-0		wp5001_01	Forging	Dagger			it1200_01:37,it1201_01:8,it1300_00:16,it1301_01:6
+bp_wp5001_02	Fine Steel Dagger	Released at 1-1		wp5001_02	Forging	Dagger			it1201_01:34,it1202_01:11,it1301_01:15,it1302_00:6
+bp_wp5001_03	Cold Light Dagger	Released at 1-2		wp5001_03	Forging	Dagger			it1201_01:38,it1202_01:13,it1301_01:19,it1302_00:8
+bp_wp5001_04	Yaksha Dagger	Released at 2-2		wp5001_04	Forging	Dagger			it1202_01:13,it1203_01:4,it1302_00:8,it1303_01:4
+bp_wp5001_05	Hundred-Warding Dagger	Released at 3-1		wp5001_05	Forging	Dagger			it1202_01:21,it1203_01:8,it1302_00:16,it1303_01:8
+bp_wp5001_06	Xu Family Dagger	Released at 2-1		wp5001_06	Forging	Dagger			it1201_01:42,it1202_01:17,it1301_01:23,it1302_00:12
+bp_wp5002_01	Twin Spikes	Released at 0-0		wp5002_01	Forging	Dagger			it1200_01:37,it1201_01:8,it1300_00:16,it1301_01:6
+bp_wp5002_02	Water-Parting Emei Piercers	Released at 1-1		wp5002_02	Forging	Dagger			it1201_01:26,it1202_01:8,it1301_01:11,it1302_00:4
+bp_wp5002_03	Streaming Light Twin Flying Spikes	Released at 1-2		wp5002_03	Forging	Dagger			it1201_01:34,it1202_01:8,it1301_01:16,it1302_00:6
+bp_wp5002_04	Heart-Piercing Pulse-Severing Spikes	Released at 2-2		wp5002_04	Forging	Dagger			it1202_01:13,it1203_01:4,it1302_00:8,it1303_01:4
+bp_wp5002_05	Twin Swallows in Flight	Released at 3-1		wp5002_05	Forging	Dagger			it1202_01:21,it1203_01:8,it1302_00:16,it1303_01:8
+bp_wp5002_06	Mandarin Duck Twin Short Spikes	Released at 2-1		wp5002_06	Forging	Dagger			it1201_01:38,it1202_01:12,it1301_01:20,it1302_00:10
+bp_wp5003_01	Steel Whip	Released at 0-0		wp5003_01	Forging	Dagger			it1200_01:37,it1201_01:8,it1300_00:16,it1301_01:6
+bp_wp5003_02	Bamboo-Joint Steel Whip	Released at 1-1		wp5003_02	Forging	Dagger			it1201_01:26,it1202_01:8,it1301_01:11,it1302_00:4
+bp_wp5003_03	Water-Polished Eight-Edged Steel Whip	Released at 1-2		wp5003_03	Forging	Dagger			it1201_01:34,it1202_01:8,it1301_01:16,it1302_00:6
+bp_wp5003_04	Dragon-Subduing Mace	Released at 2-2		wp5003_04	Forging	Dagger			it1202_01:13,it1203_01:4,it1302_00:8,it1303_01:4
+bp_wp5003_05	Golden Mace	Released at 3-1		wp5003_05	Forging	Dagger			it1202_01:21,it1203_01:8,it1302_00:16,it1303_01:8
+bp_wp5003_06	Four-Edged Wootz Mace	Released at 2-1		wp5003_06	Forging	Dagger			it1201_01:38,it1202_01:12,it1301_01:20,it1302_00:10
+bp_wp6001_01	Flying Dagger	Released at 0-0		wp6001_01	Forging	Darts			it1200_01:42,it1201_01:11,it1200_00:29,it1201_00:8
+bp_wp6001_02	Willow Leaf Flying Dagger	Released at 1-1		wp6001_02	Forging	Darts			it1201_01:26,it1202_01:8,it1201_00:13,it1202_00:6
+bp_wp6001_03	Shadowless Flying Dagger	Released at 1-2		wp6001_03	Forging	Darts			it1201_01:34,it1202_01:8,it1201_00:16,it1202_00:4
+bp_wp6001_04	Drifting Frost and Snow	Released at 2-2		wp6001_04	Forging	Darts			it1202_01:16,it1203_01:4,it1202_00:8,it1203_00:3
+bp_wp6001_05	Cicada Wing, Thousand Pounds	Released at 3-1		wp6001_05	Forging	Darts			it1202_01:24,it1203_01:12,it1202_00:16,it1203_00:11
+bp_wp6001_06	Streaming Color Flying Dagger	Released at 2-1		wp6001_06	Forging	Darts			it1201_01:38,it1202_01:12,it1201_00:19,it1202_00:7
+bp_wp6002_01	Flying Locust Stones	Released at 0-0		wp6002_01	Forging	Darts			it1200_01:50,it1201_01:13
+bp_wp6002_02	Iron Lotus Seeds	Released at 1-1		wp6002_02	Forging	Darts			it1201_01:34,it1202_01:11
+bp_wp6002_03	Iron Balls	Released at 1-2		wp6002_03	Forging	Darts			it1201_01:45,it1202_01:11
+bp_wp6002_04	Feathered Shaft in Stone	Released at 2-2		wp6002_04	Forging	Darts			it1202_01:19,it1203_01:5
+bp_wp6002_05	Meteor from Beyond the Heavens	Released at 3-1		wp6002_05	Forging	Darts			it1202_01:27,it1203_01:13
+bp_wp6002_06	Ruyi Pearls	Released at 2-1		wp6002_06	Forging	Darts			it1201_01:49,it1202_01:15
+bp_wp6003_01	Steel Darts	Released at 0-0		wp6003_01	Forging	Darts			it1200_01:37,it1201_01:11,it1200_00:16,it1201_00:6
+bp_wp6003_02	Coin Darts	Released at 1-1		wp6003_02	Forging	Darts			it1201_01:26,it1202_01:8,it1201_00:8,it1202_00:4
+bp_wp6003_03	Plum Blossom Darts	Released at 1-2		wp6003_03	Forging	Darts			it1201_01:34,it1202_01:8,it1201_00:11,it1202_00:4
+bp_wp6003_04	A Single Cold Gleam	Released at 2-2		wp6003_04	Forging	Darts			it1202_01:13,it1203_01:4,it1202_00:6,it1203_00:4
+bp_wp6003_05	The Milky Way Falls from the Ninth Heaven	Released at 3-1		wp6003_05	Forging	Darts			it1202_01:21,it1203_01:12,it1202_00:14,it1203_00:12
+bp_wp6003_06	Golden Swallow Darts	Released at 2-1		wp6003_06	Forging	Darts			it1201_01:38,it1202_01:12,it1201_00:15,it1202_00:7

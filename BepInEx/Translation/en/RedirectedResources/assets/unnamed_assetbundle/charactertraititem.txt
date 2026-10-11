@@ -1,0 +1,13 @@
+Id	Name	Remark	Type	NormalBuff	PeakBuff	Icon																																											
+ct0001	Potential	当角色处于虚弱状态且气血少于50%时，时序推进100。	Battle	ct0001		Tr0101004		辰雨																																									
+ct0002	Composure	虚弱持续时间-10%。	Battle	ct0002		Tr0101004		沈浪特质																																									
+ct0003	Insight	击中破绽时能造成伤害+5%。	Battle	ct0003		Tr0101004		楚留香特质																																									
+ct0004	Stubborn	气血小于50%时，每次行动结束增加5点攻击值。	Battle	ct0004		Tr0101004		金无望特质																																									
+ct0005	Restless	战斗开始时若架式值全满，获得1层移动力上升(微)。	Battle	ct0005		Tr0101004		孙小红特质																																									
+ct0006	Schadenfreude	能对虚弱目造成伤害+10%。	Battle	ct0006		Tr0101004		金不换特质																																									
+ct1003	Pharmacology	战斗中可对队友使用丹药，且治疗量+20%	Battle	ct1003		Tr0101004		朱七七																																									
+ct9001	Poison Conspiracy	攻击时附带5层中毒。	Battle	ct9001		Tr0101004																																											
+ct9002	Attack Conspiracy	提升15%攻击	Battle	ct9002		Tr0101004																																											
+ct9003	Speed Conspiracy	提升15%速度	Battle	ct9003		Tr0101004																																											
+ct9004	Stance Conspiracy	架式最大值增加1点	Battle	ct9004		Tr0101004																																											
+ct9999	Test	测试用	Battle	ct9999		Tr0101004																																											

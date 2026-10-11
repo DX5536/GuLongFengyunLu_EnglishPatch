@@ -1,0 +1,13 @@
+Id	Name	Description	MinHealth	MaxHealth	MinPosture	MaxPosture	MinAttack	MaxAttack	MinPower	MaxPower	MinMobility	MaxMobility	MinSpeed	MaxSpeed	MinCritical	MaxCritical	MinHit	MaxHit	MinDodge	MaxDodge	MinParry	MaxParry	Icon
+None	None	None	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Blood
+None01	None	None	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Blood
+None02	None	None	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	Blood
+Hero	Hero Stats	Default Description	3	3	0	0	2	2	1	1	1	1	1	1	1	1	1	1	1	1	0	0	Blood
+Hp	Vitality	Hp	8	10	0	0	0	2	0	1	0	0	0	0	0	0	0	0	0	0	0	0	Blood
+Atk	Attack	Atk	0	0	0	0	2	4	0	0	0	0	0	0	0	0	0	1	0	0	0	0	Atk
+Def	Protection	Def	0	0	0	0	1	2	1	2	0	0	0	0	0	0	0	0	0	0	0	0	Def
+Mov	Movement	Mov	0	0	0	0	0	0	0	0	1	2	0	0	0	0	0	0	0	1	0	0	Move
+Spd	Speed	Spd	0	0	0	0	0	0	0	0	1	2	1	2	0	0	0	0	0	0	0	0	Speed
+Cri	Critical	Cri	0	0	0	0	1	2	0	0	0	0	0	0	1	1	0	0	0	0	0	0	Critical
+Hit	Accuracy	Hit	6	8	0	0	0	0	0	0	0	0	0	0	0	1	2	3	0	0	0	0	Hit
+Dge	Evasion	Dge	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	1	2	0	0	Dodge

@@ -1,0 +1,29 @@
+Id	Name	Remark	ArmyType	TraitIds	Boss	Elite	Member	Chicken	ExtraMember																
+#Id	部队名称	备注	部队类型	特质	首领	菁英	一般成员	弱鸡	额外成员																
+Player	Protagonist's Force	主角队伍	Other																					
+Conspiracy	Conspiracy Squad		Tiangang																					
+Scene011	Mei Family Manor		Sectitem																					
+Scene101	Hidden Sword Villa		Sectitem																					
+Scene102	Shaolin		Sectitem																					
+Scene103	Tang Clan		Sectitem																					
+Scene104	Mount Hua Sect	通用任务华山派	Sectitem																					
+Scene105	Peacock Villa		Sectitem																					
+Scene106	Zhenyuan Escort Agency		Sectitem																					
+Scene107	Zhenwei Escort Agency		Sectitem																					
+Scene115	Great Wind Hall		Sectitem																					
+Scene117	Grotto of Bliss		Sectitem																					
+Gang00	Common Bandits		Sectitem																					
+Gang02	Ranged Bandits		Gang																					
+Gang01	Melee Bandits		Gang																					
+be090003	Divine Bird Hall	张依天	Gang																					
+be000005	Wang Lianhua's Doubles		Other																					
+Knight	Wandering Heroes	放一些江湖人士	Other																					
+Moneyman	Golden Coin Gang		Tiangang																					
+Happyman	Army of Joy																							
+Assassin	Common Assassins																							
+MainEnemy	Main Story Enemies																							
+LevelEnemy	Boss & Hero Story Enemies																							
+Mechanical	Mechanisms																							
+Village	Renyi Manor																							
+nq0091	Toothless Sect		Other						
+ne0033	Ant Gang		Other						

@@ -1,0 +1,19 @@
+Id	Name	Type	ImageName	DefaultImageName	VideoName	VideoMusic	AchievementId
+Album01	Waves Across the Nine Provinces	Ending	Ending_end206		Ending/end206	Bgm008.wav	Achievement100
+Album02	Carefree Yet Wanting	Ending	Ending_end208		Ending/end208	Bgm008.wav	Achievement099
+Album03	Many Days Yet to Come	Ending	Ending_end207		Ending/end207	Bgm008.wav	Achievement098
+Album04	Divining Heaven's Secrets	Ending	Ending_end201		Ending/end201	Bgm008.wav	Achievement094
+Album05	Slender Hands That Succor the World	Ending	Ending_end203		Ending/end203	Bgm008.wav	Achievement097
+Album06	A Dance for Two	Ending	Ending_end202		Ending/end202	Bgm008.wav	Achievement096
+Album07	Wandering the Mortal World with a Ghost	Ending	Ending_end205		Ending/end205	Bgm008.wav	Achievement095
+Album08	A Kind Heart and Healing Hands	Ending	Ending_end204		Ending/end204	Bgm008.wav	Achievement093
+Album09	True to Righteousness, True to You	Ending	Ending_end209		Ending/end209	Bgm008.wav	Achievement070
+Album10	Thief Robs Thief, Then Meets Cheng Yaojin	Detective	con0101		d0101		Achievement071
+Album11	The Mantis Stalks the Cicada, the Oriole Waits Behind	Detective	con0102		d0102		Achievement077
+Album12	Left in White, Returned in Black	Detective	con0103		d0103		Achievement078
+Album13	A Second Son's Treachery Breeds Strife Within	Detective	con0201		d0201		Achievement080
+Album14	Lady Xiao's Name Is Cleared at Last	Detective	con0202		d0202		Achievement081
+Album15	Heaven's Net Ensnares the Red Slippers	Detective	con0402		d0301		Achievement083
+Album16	The Wicked Red Slippers	Detective	con0401		d0302		Achievement082
+Album17	Ruthless Hands Slay the Lion, a Plot Against Hangzhou	Detective	con0802		d0402		Achievement075
+Album18	A Heart Harboring Malice and Hidden Evil	Detective	con0801		d0401		Achievement089

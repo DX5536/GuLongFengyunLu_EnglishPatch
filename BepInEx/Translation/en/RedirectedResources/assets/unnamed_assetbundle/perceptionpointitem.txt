@@ -1,0 +1,1776 @@
+Id	Name	Remark	FunctionType	FunctionIds	AffectedUnits	Next	IconName
+examplePoint001			Ability	LevelAtk02		examplePoint002	ore_0001_s
+examplePoint002			Ability	LevelDef02,LevelDodge02		examplePoint003	ore_0001_s
+examplePoint003			Ability	LevelDef02			ore_0001_s
+exampleStartPoint	Example Starting Point		Passive	na0050_s05			Big
+pointtree00na0000	Unyielding Stand	每场战斗一次，受到致命伤时气血不会低于1	Passive	pointtree00na0000			Big
+pointtree00na0001	A Warm Smile	灵气效果，使周身2格内的友方单位行动结束时回复5%内力。	Passive	pointtree00na0001			Big
+pointtree00na0002	Fighting Spirit Ablaze	增益、恢复招式回复2点架式。	Passive	pointtree00na0002			Big
+pointtree00na0003	Lord of Thieves Under the Moon		Passive	pointtree00na0003			Big
+pointtree00na0005	Standing in the Snow to Seek the Way		Passive	pointtree00na0005			Big
+pointtree00na0006	Master Artisan		Passive	pointtree00na0006			Big
+pointtree00na0010	Heart of a Wanderer		Passive	pointtree00na0010			Big
+pointtree00na0011	Lone Plum in the Cold		Passive	pointtree00na0011			Big
+pointtree00na0012	Lone Wolf		Passive	pointtree00na0012			Big
+pointtree00na0013	Worldly Wise		Passive	pointtree00na0013			Big
+pointtree00na0021	Gentleman of a Thousand Faces		Passive	pointtree00na0021			Big
+pointtree00na0027	Turning the Tables		Ability	pointtree00na0027			Big
+pointtree00na0029	Madam Gongsun's Sword Dance		Passive	pointtree00na0029			Big
+pointtree00na0030	Unsullied by the Mud		Passive	pointtree00na0030			Big
+pointtree00na0033	Phantom		Passive	pointtree00na0033			Big
+pointtree00na0038	Hua Tuo Reborn	(极大)	Ability	Cure03			Big
+pointtree0101		Atk+3	Ability	Atk00		pointtree0111	ore_0001_s
+pointtree0111		Hit+3	Ability	Hit00		pointtree0121,pointtree0122,pointtree0123	ore_0001_s
+pointtree0121			Ability	Atk02		pointtree0131	Big
+pointtree0122		爆击+5	Ability	Cri02		pointtree0132,pointtree0133	Big
+pointtree0123			Ability	AttackNeedMp02		pointtree0134,pointtree0135,pointtree0136	Big
+pointtree0131		Atk+3	Ability	Atk00		pointtree0141,pointtree0142	ore_0001_s
+pointtree0132		爆击+2	Ability	Cri00		pointtree0143	ore_0001_s
+pointtree0133		CriAttack+5	Ability	CriAtk00		pointtree0144	ore_0001_s
+pointtree0134			Ability	External00		pointtree0145	ore_0001_s
+pointtree0135			Ability	Internal00		pointtree0145	ore_0001_s
+pointtree0136			Ability	Special00		pointtree0145	ore_0001_s
+pointtree0141			Ability	Atk00		pointtree0151	ore_0001_s
+pointtree0142			Ability	Atk00		pointtree0152	ore_0001_s
+pointtree0143			Ability	Cri00		pointtree0153	ore_0001_s
+pointtree0144			Ability	CriAtk00		pointtree0153	ore_0001_s
+pointtree0145			Ability	Hit00		pointtree0154	ore_0001_s
+pointtree0151	Effortless Mastery	等级*1威力	Ability	pointtree0151			Big
+pointtree0152	Practice Makes Perfect	-5时序	Ability	pointtree0152			Big
+pointtree0153	Press the Advantage	50%气血，+20%爆击率	Passive	pointtree0153			Big
+pointtree0154	Master of All Trades	交替使用不同伤害类型的招式时，招式威力+30%。	Passive	pointtree0154			Big
+pointtree01na000001			Ability	Atk00		pointtree01na000011,pointtree01na000012,pointtree01na000013	
+pointtree01na00000101			Ability	Hit00		pointtree01na00000102	ore_0001_s
+pointtree01na00000102		Atk00	Ability	Atk00		pointtree01na00000103	ore_0001_s
+pointtree01na00000103	Last-Ditch Counteroffensive		Passive	pointtree01na00000103			Big
+pointtree01na000011			Ability	Hit00		pointtree01na000021	
+pointtree01na000012			Ability	Atk00		pointtree01na000022	
+pointtree01na000013			Ability	Cri00		pointtree01na000023,pointtree01na000024	
+pointtree01na000021	Blazing Eyes (Middle)		Ability	Hit01		pointtree01na000031,pointtree01na000032	Big
+pointtree01na000022	Valor (Middle)		Ability	Atk01		pointtree01na000033,pointtree01na000034,pointtree01na000035	Big
+pointtree01na000023	Keen Eye (Middle)		Ability	Cri01		pointtree01na000036	Big
+pointtree01na000024	Fiery Golden Eyes (Middle)		Ability	CriAtk01		pointtree01na000037	Big
+pointtree01na000031			Ability	CounterAtk00		pointtree01na000041,pointtree01na000042	
+pointtree01na000032			Ability	Cri00		pointtree01na000043	
+pointtree01na000033			Ability	External00		pointtree01na000043,pointtree01na000044	
+pointtree01na000034			Ability	Internal00		pointtree01na000045	
+pointtree01na000035			Ability	Special00		pointtree01na000045,pointtree01na000046	
+pointtree01na000036			Ability	CriAtk00		pointtree01na000047	
+pointtree01na000037			Ability	Cri00		pointtree01na000048,pointtree01na000049	
+pointtree01na000041			Ability	CounterAtk00		pointtree01na000051	
+pointtree01na000042			Ability	Atk00		pointtree01na000052	
+pointtree01na000043			Ability	Hit00		pointtree01na000052	
+pointtree01na000044			Ability	External00		pointtree01na000053	
+pointtree01na000045			Ability	Internal00		pointtree01na000053	
+pointtree01na000046			Ability	Special00		pointtree01na000054,pointtree01na000055	
+pointtree01na000047			Ability	Cri00		pointtree01na000055	
+pointtree01na000048			Ability	CriAtk00		pointtree01na000056	
+pointtree01na000049			Ability	Hit00		pointtree01na000056	
+pointtree01na000051	Shifting Stars (Greater)		Ability	CounterAtk02			Big
+pointtree01na000052	Unstoppable Momentum		Ability	pointtree01na000052			Big
+pointtree01na000053	Master of All Trades		Passive	pointtree01na000053			Big
+pointtree01na000054	Limitless Potential		Passive	pointtree01na000054			Big
+pointtree01na000055	Last-Ditch Counteroffensive		Passive	pointtree01na000055			Big
+pointtree01na000056	Wounds Fuel the Fight		Passive	pointtree01na000056			Big
+pointtree01na000101			Ability	Hit00		pointtree01na000111	
+pointtree01na00010101			Ability	Hit00		pointtree01na00010102	ore_0001_s
+pointtree01na00010102			Ability	Hit00		pointtree01na00010103	ore_0001_s
+pointtree01na00010103	All Rivers Flow to the Sea		Passive	pointtree01na00010103			Big
+pointtree01na000111			Ability	Atk00		pointtree01na000121,pointtree01na000122	
+pointtree01na000121	Defense as Offense		Ability	pointtree01na000121		pointtree01na000131	Big
+pointtree01na000122	Qi Gathering · Swordplay (Greater)		Ability	AttackNeedMp01		pointtree01na000132,pointtree01na000133	Big
+pointtree01na000131			Ability	Atk00		pointtree01na000141,pointtree01na000142	
+pointtree01na000132			Ability	Internal00		pointtree01na000143	
+pointtree01na000133			Ability	Special00		pointtree01na000144	
+pointtree01na000141			Ability	SwordDamage00		pointtree01na000151	
+pointtree01na000142			Ability	SwordDamage00		pointtree01na000152	
+pointtree01na000143			Ability	Hit00		pointtree01na000153	
+pointtree01na000144			Ability	Cri00		pointtree01na000154	
+pointtree01na000151	Tendon-Transmuting · Offense		Ability	AttackColdDown01			Big
+pointtree01na000152	Man and Sword as One		Ability	SwordDamage01,SwordNeedMp00			Big
+pointtree01na000153	Boundless Horizon		Passive	pointtree01na000153			Big
+pointtree01na000154	All Rivers Flow to the Sea		Passive	pointtree01na000154			Big
+pointtree01na000201			Ability	Atk00		pointtree01na000211,pointtree01na000212	
+pointtree01na000211			Ability	Cri00		pointtree01na000221	
+pointtree01na000212			Ability	Hit00		pointtree01na000222	
+pointtree01na000221	Keen Eye (Middle)		Ability	Cri01		pointtree01na000231,pointtree01na000232	Big
+pointtree01na000222	Blazing Eyes (Middle)		Ability	Hit01		pointtree01na000233,pointtree01na000234	Big
+pointtree01na000231			Ability	Cri00		pointtree01na000241,pointtree01na000242	
+pointtree01na000232			Ability	MaxMp00		pointtree01na000243	
+pointtree01na000233			Ability	MaxHp00		pointtree01na000244	
+pointtree01na000234			Ability	Hit00		pointtree01na000245	
+pointtree01na000241			Ability	Cri00		pointtree01na000251	
+pointtree01na000242			Ability	CriAtk00		pointtree01na000252	
+pointtree01na000243			Ability	Hit00		pointtree01na000253	
+pointtree01na000244			Ability	Atk00		pointtree01na000253	
+pointtree01na000245			Ability	MaxMp00		pointtree01na000254,pointtree01na000255	
+pointtree01na000251	A Lucky Hit		Passive	pointtree01na000251			Big
+pointtree01na000252	One Man Attains the Way		Passive	pointtree01na000252			Big
+pointtree01na000253	Effortless Plucking		Ability	Memory01			Big
+pointtree01na000254	Wild Guesswork		Ability	pointtree01na000254			Big
+pointtree01na000255	Shared Light		Passive	pointtree01na000255			Big
+pointtree01na000301			Ability	Spd00		pointtree01na000311,pointtree01na000312	
+pointtree01na00030101			Ability	Spd00		pointtree01na00030102	ore_0001_s
+pointtree01na00030102			Ability	Hit00		pointtree01na00030103	ore_0001_s
+pointtree01na00030103	Only Speed Is Unbeatable		Ability	pointtree01na00030103			Big
+pointtree01na000311			Ability	Atk00		pointtree01na000321	
+pointtree01na000312			Ability	Cri00		pointtree01na000322	
+pointtree01na000321	Valor (Middle)		Ability	Atk01		pointtree01na000331,pointtree01na000332	Big
+pointtree01na000322	Keen Eye (Middle)		Ability	Cri01		pointtree01na000332,pointtree01na000333	Big
+pointtree01na000331			Ability	Special00		pointtree01na000341	
+pointtree01na000332			Ability	Internal00		pointtree01na000342	
+pointtree01na000333			Ability	CriAtk00		pointtree01na000343,pointtree01na000344	
+pointtree01na000341			Ability	MoveDamage00		pointtree01na000351	
+pointtree01na000342			Ability	FightDamage00		pointtree01na000352,pointtree01na000353	
+pointtree01na000343			Ability	CriAtk01		pointtree01na000353	
+pointtree01na000344			Ability	Cri00		pointtree01na000354	
+pointtree01na000351	Tendon-Transmuting · Lightness		Ability	MoveColdDown01			Big
+pointtree01na000352	Skimming the Bright Lake		Passive	pointtree01na000352			Big
+pointtree01na000353	Burying Flowers in Cold Moonlight		Passive	pointtree01na000353			Big
+pointtree01na000354	Flowers in a Mirror, Moon in the Water		Passive	pointtree01na000354			Big
+pointtree01na000501			Ability	Cri00		pointtree01na000511,pointtree01na000512	
+pointtree01na000511			Ability	Atk00		pointtree01na000521,pointtree01na000522	
+pointtree01na000512			Ability	CriAtk00		pointtree01na000523,pointtree01na000524	
+pointtree01na000521	Valor (Middle)		Ability	Atk01		pointtree01na000531	Big
+pointtree01na000522	Effortless Plucking		Ability	Memory01		pointtree01na000531	Big
+pointtree01na000523	Piercing Hand · Hard & Soft (Lesser)		Ability	Internal00,External00		pointtree01na000532,pointtree01na000533	Big
+pointtree01na000524	Keen Eye (Middle)		Ability	Cri01		pointtree01na000533,pointtree01na000534	Big
+pointtree01na000531			Ability	Atk00		pointtree01na000541	
+pointtree01na000532			Ability	CriAtk00		pointtree01na000542,pointtree01na000543	
+pointtree01na000533			Ability	Special00		pointtree01na000544	
+pointtree01na000534			Ability	Atk00		pointtree01na000545	
+pointtree01na000541			Ability	Spd00		pointtree01na000551	
+pointtree01na000542			Ability	Cri00		pointtree01na000552	
+pointtree01na000543			Ability	Spd00		pointtree01na000553	
+pointtree01na000544			Ability	External00		pointtree01na000554	
+pointtree01na000545			Ability	Cri00		pointtree01na000555	
+pointtree01na000551	Karmic Fire Consumes the Body		Passive	pointtree01na000551			Big
+pointtree01na000552	Ripples of Crimson Blood		Passive	pointtree01na000552			Big
+pointtree01na000553	Expertise · Qi Charging (Greater)		Ability	RechargeDamage02			Big
+pointtree01na000554	Fight to the Bitter End		Passive	pointtree01na000554			Big
+pointtree01na000555	Wind Wolf of the Desert		Passive	pointtree01na000555			Big
+pointtree01na000601			Ability	Atk00		pointtree01na000611,pointtree01na000612	
+pointtree01na000611			Ability	na0006Atk00	na0007	pointtree01na000621	
+pointtree01na000612			Ability	na0006Atk00	na0008	pointtree01na000622	
+pointtree01na000621	Valor · Wooden Beast (Middle)		Ability	na0006Atk01	na0007	pointtree01na000631	Big
+pointtree01na000622	Keen Eye · Wooden Kite (Middle)		Ability	na0006Cri01	na0008	pointtree01na000632,pointtree01na000633	Big
+pointtree01na000631			Ability	na0006Hit00	na0007	pointtree01na000641,pointtree01na000642,pointtree01na000643	
+pointtree01na000632			Ability	na0006CriAtk00	na0008	pointtree01na000644	
+pointtree01na000633			Ability	na0006Cri00	na0008	pointtree01na000645	
+pointtree01na000641			Ability	na0006Atk00	na0007	pointtree01na000651,pointtree01na000652	
+pointtree01na000642			Ability	na0006External00	na0007	pointtree01na000653	
+pointtree01na000643			Ability	na0006Special00	na0007	pointtree01na000653	
+pointtree01na000644			Ability	na0006Hit00	na0008	pointtree01na000654	
+pointtree01na000645			Ability	na0006CriAtk00	na0008	pointtree01na000655	
+pointtree01na000651	Overheating		Passive	pointtree01na000651	na0007		Big
+pointtree01na000652	Wooden Beast Master		Ability	na0006PostureDamage01	na0007		Big
+pointtree01na000653	Piercing Hand · Wooden Beast (Middle)		Ability	na0006External02	na0007		Big
+pointtree01na000654	Keen Eye · Wooden Kite (Middle)		Passive	pointtree01na000654	na0008		Big
+pointtree01na000655	Fiery Golden Eyes · Wooden Kite (Greater)		Ability	na0006CriAtk02	na0008		Big
+pointtree01na001001			Ability	Atk00		pointtree01na001011	
+pointtree01na001011			Ability	Hit00		pointtree01na001021,pointtree01na001022	
+pointtree01na001021	Expertise · Offense (Middle)		Ability	AttackDamage01		pointtree01na001031,pointtree01na001032	Big
+pointtree01na001022	Expertise · Lightness (Middle)		Ability	MoveDamage01		pointtree01na001033,pointtree01na001034	Big
+pointtree01na001031			Ability	Atk00		pointtree01na001041	
+pointtree01na001032			Ability	External00		pointtree01na001042	
+pointtree01na001033			Ability	Hit00		pointtree01na001042	
+pointtree01na001034			Ability	Internal00		pointtree01na001043,pointtree01na001044	
+pointtree01na001041			Ability	Atk00		pointtree01na001051	
+pointtree01na001042			Ability	External00		pointtree01na001052,pointtree01na001053	
+pointtree01na001043			Ability	Atk00		pointtree01na001054	
+pointtree01na001044			Ability	Internal00		pointtree01na001054	
+pointtree01na001051	Valor (Greater)		Ability	Atk02			Big
+pointtree01na001052	Valor (Greater)		Ability	Atk02			Big
+pointtree01na001053	Staggering to and Fro		Passive	pointtree01na001053			Big
+pointtree01na001054	Drunken Mountain Lord		Passive	pointtree01na001054			Big
+pointtree01na001101			Ability	Cri00		pointtree01na001111,pointtree01na001112	
+pointtree01na00110101			Ability	Cri00		pointtree01na00110102	
+pointtree01na00110102			Ability	Hit00		pointtree01na00110103	
+pointtree01na00110103			Passive	pointtree01na00110103			
+pointtree01na00110201			Ability	Atk00		pointtree01na00110202	
+pointtree01na00110202			Ability	Cri00		pointtree01na00110203	
+pointtree01na00110203			Ability	pointtree01na00110203			
+pointtree01na001111			Ability	Atk00		pointtree01na001121,pointtree01na001122,pointtree01na001123	
+pointtree01na001112			Ability	External00		pointtree01na001124,pointtree01na001125	
+pointtree01na001121	Valor (Middle)		Ability	Atk01		pointtree01na001131	Big
+pointtree01na001122	Blazing Eyes (Middle)		Ability	Hit02		pointtree01na001131	Big
+pointtree01na001123	Piercing Hand · Hard Force (Middle)		Ability	External01		pointtree01na001132	Big
+pointtree01na001124	Piercing Hand · Hard Force (Middle)		Ability	External01		pointtree01na001133,pointtree01na001132	Big
+pointtree01na001125	Keen Eye (Middle)		Ability	Cri01		pointtree01na001134	Big
+pointtree01na001131			Ability	Atk00		pointtree01na001141	
+pointtree01na001132			Ability	CriAtk00		pointtree01na001142	
+pointtree01na001133			Ability	External00		pointtree01na001143	
+pointtree01na001134			Ability	Atk00		pointtree01na001144	
+pointtree01na001141			Ability	MaxMp00		pointtree01na001151	
+pointtree01na001142			Ability	CriAtk00		pointtree01na001152	
+pointtree01na001143			Ability	External00		pointtree01na001153	
+pointtree01na001144			Ability	Atk00		pointtree01na001154	
+pointtree01na001151	Blooming Alone in the Bitter Cold		Passive	pointtree01na00110103			Big
+pointtree01na001152	Concentrated Qi Throw		Passive	pointtree01na001152			Big
+pointtree01na001153	Heedless of Life and Death		Ability	pointtree01na001153			Big
+pointtree01na001154	All on One Throw		Passive	pointtree01na001154			Big
+pointtree01na001201			Ability	Atk00		pointtree01na001211	
+pointtree01na00120101			Ability	Atk00		pointtree01na00120102	ore_0001_s
+pointtree01na00120102			Ability	External01		pointtree01na00120103	ore_0001_s
+pointtree01na00120103	Lone Wolf on the Hunt		Passive	pointtree01na00120103			Big
+pointtree01na001211			Ability	Atk00		pointtree01na001221,pointtree01na001222,pointtree01na001223	
+pointtree01na001221	Expertise · Swordplay (Middle)		Ability	SwordDamage01		pointtree01na001231,pointtree01na001232	Big
+pointtree01na001222	Blazing Eyes (Middle)		Ability	Hit01		pointtree01na001233,pointtree01na001234	Big
+pointtree01na001223	Keen Eye (Middle)		Ability	Cri01		pointtree01na001235,pointtree01na001236	Big
+pointtree01na001231			Ability	External00		pointtree01na001241	
+pointtree01na001232			Ability	Atk00		pointtree01na001242	
+pointtree01na001233			Ability	Hit00		pointtree01na001243	
+pointtree01na001234			Ability	Cri00		pointtree01na001243,pointtree01na001244	
+pointtree01na001235			Ability	Atk00		pointtree01na001244	
+pointtree01na001236			Ability	CriAtk00		pointtree01na001245	
+pointtree01na001241			Ability	Atk00		pointtree01na001251	
+pointtree01na001242			Ability	Atk00		pointtree01na001252,pointtree01na001253	
+pointtree01na001243			Ability	External00		pointtree01na001253,pointtree01na001254	
+pointtree01na001244			Ability	CriAtk00		pointtree01na001255	
+pointtree01na001245			Ability	External00		pointtree01na001256	
+pointtree01na001251	Sword Fanatic		Ability	SwordDamage03			Big
+pointtree01na001252	Crushing Bite		Passive	pointtree01na001252			Big
+pointtree01na001253	Lone Wolf on the Hunt		Passive	pointtree01na001253			Big
+pointtree01na001254	White Wolf Howls at the Moon		Passive	pointtree01na001254			Big
+pointtree01na001255	Thunderbolt Strike		Passive	pointtree01na001255			Big
+pointtree01na001256	Gale Strike		Passive	pointtree01na001256			Big
+pointtree01na001301			Ability	Spd00		pointtree01na001311,pointtree01na001312	
+pointtree01na00130101			Ability	Atk00		pointtree01na00130102	ore_0001_s
+pointtree01na00130102			Ability	Spd00		pointtree01na00130103	ore_0001_s
+pointtree01na00130103	Fleet of Foot	双刃触发破绽时可再次移动。	Passive	pointtree01na00130103			Big
+pointtree01na001311			Ability	Spd00		pointtree01na001321,pointtree01na001322	
+pointtree01na001312			Ability	Hit00		pointtree01na001322,pointtree01na001323	
+pointtree01na001321	Effortless Plucking		Ability	Memory01		pointtree01na001331,pointtree01na001332	Big
+pointtree01na001322	Blazing Eyes (Middle)		Ability	Hit01		pointtree01na001332,pointtree01na001333	Big
+pointtree01na001323	Expertise · Short Arms (Middle)		Ability	DaggerDamage01		pointtree01na001333,pointtree01na001334	Big
+pointtree01na001331			Ability	Spd00		pointtree01na001341	
+pointtree01na001332			Ability	Spd00		pointtree01na001342	
+pointtree01na001333			Ability	Hit00		pointtree01na001342	
+pointtree01na001334			Ability	Cri00		pointtree01na001343	
+pointtree01na001341			Ability	Hit00		pointtree01na001351	
+pointtree01na001342			Ability	Spd00		pointtree01na001352	
+pointtree01na001343			Ability	Cri00		pointtree01na001353	
+pointtree01na001351	The Empty Fort Stratagem		Passive	pointtree01na001321			Big
+pointtree01na001352	Seizing the Dragon, Stripping Its Armor		Passive	pointtree01na001352			Big
+pointtree01na001353	Proud Bones of a Beauty		Passive	pointtree01na001353			Big
+pointtree01na002101			Ability	Atk00		pointtree01na002111	ore_0001_s
+pointtree01na00210101			Ability	Atk02		pointtree01na00210111	ore_0001_s
+pointtree01na00210102			Ability	Internal00		pointtree01na00210103	ore_0001_s
+pointtree01na00210103	Misfortunes Never Come Singly		Passive	pointtree01na00210103			Big
+pointtree01na00210111			Ability	Cri00		pointtree01na00210121,pointtree01na00210122,pointtree01na00210123	
+pointtree01na00210121	Blazing Eyes (Greater)		Ability	Hit02		pointtree01na00210131,pointtree01na00210132	Big
+pointtree01na00210122	Keen Eye (Greater)		Ability	Cri02		pointtree01na00210132,pointtree01na00210133	Big
+pointtree01na00210123	Qi Gathering · Offense		Ability	AttackNeedMp02		pointtree01na00210134	Big
+pointtree01na00210131			Ability	Special00		pointtree01na00210141	
+pointtree01na00210132			Ability	Cri00		pointtree01na00210142	
+pointtree01na00210133			Ability	Spd00		pointtree01na00210143	
+pointtree01na00210134			Ability	Special00		pointtree01na00210144,pointtree01na00210145	
+pointtree01na00210141			Ability	Special00		pointtree01na00210151	
+pointtree01na00210142			Ability	Cri00		pointtree01na00210152	
+pointtree01na00210143			Ability	Spd00		pointtree01na00210153	
+pointtree01na00210144			Ability	Hit00		pointtree01na00210154	
+pointtree01na00210145			Ability	Special00		pointtree01na00210155	
+pointtree01na00210151	Venom Wind Draws Poison		Passive	pointtree01na00210151			Big
+pointtree01na00210152	Layer upon Layer of Dread		Passive	pointtree01na00210152			Big
+pointtree01na00210153	Poison's Shadow in the Cup		Passive	pointtree01na00210153			Big
+pointtree01na00210154	Catch Them Off Guard		Passive	pointtree02na00210103			Big
+pointtree01na00210155	Bone-Tempering · Offense		Ability	AttackCostDown02			Big
+pointtree01na002111			Ability	Cri00		pointtree01na002121,pointtree01na002122,pointtree01na002123	
+pointtree01na002121	Blazing Eyes (Middle)		Ability	Hit01		pointtree01na002131,pointtree01na002132	Big
+pointtree01na002122	Keen Eye (Middle)		Ability	Cri01		pointtree01na002132,pointtree01na002133	Big
+pointtree01na002123	Qi Gathering · Offense (Middle)		Ability	AttackNeedMp01		pointtree01na002134	Big
+pointtree01na002131			Ability	Special00		pointtree01na002141	
+pointtree01na002132			Ability	Hit00		pointtree01na002142	
+pointtree01na002133			Ability	Cri00		pointtree01na002143	
+pointtree01na002134			Ability	Special00		pointtree01na002144,pointtree01na002145	
+pointtree01na002141			Ability	Special00		pointtree01na002151	
+pointtree01na002142			Ability	Hit00		pointtree01na002152	
+pointtree01na002143			Ability	Cri00		pointtree01na002153	
+pointtree01na002144			Ability	Hit00		pointtree01na002154	
+pointtree01na002145			Ability	Special00		pointtree01na002155	
+pointtree01na002151	Venom Wind Draws Poison		Passive	pointtree01na00210151			Big
+pointtree01na002152	Layer upon Layer of Dread		Passive	pointtree01na00210152			Big
+pointtree01na002153	Poison's Shadow in the Cup		Passive	pointtree01na00210153			Big
+pointtree01na002154	Catch Them Off Guard		Passive	pointtree02na00210103			Big
+pointtree01na002155	Tendon-Transmuting · Offense		Ability	AttackColdDown01			Big
+pointtree01na002701			Ability	Cri00		pointtree01na002711,pointtree01na002712	
+pointtree01na002711			Ability	Atk00		pointtree01na002721,pointtree01na002722	
+pointtree01na002712			Ability	CounterAtk00		pointtree01na002722,pointtree01na002723	
+pointtree01na002721	Fiery Golden Eyes (Middle)		Ability	CriAtk01		pointtree01na002731,pointtree01na002732	Big
+pointtree01na002722	Shifting Stars (Middle)		Ability	CounterAtk01		pointtree01na002733	Big
+pointtree01na002723	Piercing Hand · Hard & Soft (Lesser)		Ability	Internal00,External00		pointtree01na002734	Big
+pointtree01na002731			Ability	Cri00		pointtree01na002741	
+pointtree01na002732			Ability	Atk00		pointtree01na002742	
+pointtree01na002733			Ability	Counter00		pointtree01na002743	
+pointtree01na002734			Ability	Internal00		pointtree01na002744	
+pointtree01na002741			Ability	CriAtk00		pointtree01na002751	
+pointtree01na002742			Ability	FightDamage00		pointtree01na002752	
+pointtree01na002743			Ability	CounterAtk00		pointtree01na002753	
+pointtree01na002744			Ability	FightCostDown00		pointtree01na002754	
+pointtree01na002751	Fire God Armor		Passive	pointtree01na002751			Big
+pointtree01na002752	Fire Phoenix Sets the Plains Ablaze		Passive	pointtree01na002752			Big
+pointtree01na002753	Strength to Shake the Mountains		Passive	pointtree01na002753			Big
+pointtree01na002754	Soft Fist		Passive	pointtree01na002754			Big
+pointtree01na002901			Ability	Atk00		pointtree01na002911,pointtree01na002912	
+pointtree01na00290101			Ability	Atk00		pointtree01na00290102	
+pointtree01na00290102			Ability	External00		pointtree01na00290103	
+pointtree01na00290103			Passive	pointtree01na00290103			
+pointtree01na002911			Ability	Atk00		pointtree01na002921	
+pointtree01na002912			Ability	Cri00		pointtree01na002922,pointtree01na002923	
+pointtree01na002921	Blazing Eyes (Middle)		Ability	Hit01		pointtree01na002931,pointtree01na002932	Big
+pointtree01na002922	Keen Eye (Middle)		Ability	Cri01		pointtree01na002933	Big
+pointtree01na002923	Fiery Golden Eyes (Middle)		Ability	CriAtk01		pointtree01na002934	Big
+pointtree01na002931			Ability	Internal00		pointtree01na002941	
+pointtree01na002932			Ability	External00		pointtree01na002942	
+pointtree01na002933			Ability	Internal00		pointtree01na002943	
+pointtree01na002934			Ability	CriAtk00		pointtree01na002944,pointtree01na002945	
+pointtree01na002941			Ability	Hit00		pointtree01na002951	
+pointtree01na002942			Ability	Atk00		pointtree01na002952,pointtree01na002953	
+pointtree01na002943			Ability	Cri00		pointtree01na002954	
+pointtree01na002944			Ability	CriAtk00		pointtree01na002955	
+pointtree01na002945			Ability	External00		pointtree01na002955	
+pointtree01na002951	Swift Victory		Passive	pointtree01na002951			Big
+pointtree01na002952	Flesh Torn Open		Passive	pointtree01na002952			Big
+pointtree01na002953	Wounds All Over		Passive	pointtree01na002953			Big
+pointtree01na002954	Stagnant Blood and Qi		Passive	pointtree01na002954			Big
+pointtree01na002955	Blood Hunt		Passive	pointtree01na002955			Big
+pointtree01na003001			Ability	Atk00		pointtree01na003011,pointtree01na003012	
+pointtree01na00300101			Ability	Spd00		pointtree01na00300102	ore_0001_s
+pointtree01na00300102			Ability	Atk00		pointtree01na00300103	ore_0001_s
+pointtree01na00300103	Appearing and Vanishing Like a Ghost		Passive	pointtree01na00300103			Big
+pointtree01na003011			Ability	Hit00		pointtree01na003021,pointtree01na003022	
+pointtree01na003012			Ability	Cri00		pointtree01na003023	
+pointtree01na003021	Valor (Middle)		Ability	Atk01		pointtree01na003031	Big
+pointtree01na003022	Piercing Hand · General Formula (Lesser)		Ability	External00,Internal00,Special00		pointtree01na003032	Big
+pointtree01na003023	Fiery Golden Eyes (Middle)		Ability	CriAtk01		pointtree01na003033	Big
+pointtree01na003031			Ability	Atk00		pointtree01na003041,pointtree01na003042	
+pointtree01na003032			Ability	CriAtk00		pointtree01na003043	
+pointtree01na003033			Ability	CriAtk00		pointtree01na003044,pointtree01na003045	
+pointtree01na003041			Ability	BladeDamage00		pointtree01na003051	
+pointtree01na003042			Ability	Special00		pointtree01na003052	
+pointtree01na003043			Ability	Internal00		pointtree01na003053	
+pointtree01na003044			Ability	Cri00		pointtree01na003053	
+pointtree01na003045			Ability	External00		pointtree01na003054	
+pointtree01na003051	Standing Out Alone		Passive	pointtree01na003051			Big
+pointtree01na003052	Misfortunes Never Come Singly		Passive	pointtree01na003052			Big
+pointtree01na003053	Strike Where Unexpected		Passive	pointtree01na003053			Big
+pointtree01na003054	Seizing Every Opening		Ability	Cri01,CriAtk00			Big
+pointtree01na003301			Ability	Atk00		pointtree01na003311	
+pointtree01na003311			Ability	Cri00		pointtree01na003321,pointtree01na003322,pointtree01na003323	
+pointtree01na003321	Blazing Eyes (Middle)		Ability	Hit01		pointtree01na003331,pointtree01na003332	Big
+pointtree01na003322	Keen Eye (Middle)		Ability	Cri01		pointtree01na003332,pointtree01na003333	Big
+pointtree01na003323	Valor (Middle)		Ability	Atk01		pointtree01na003334,pointtree01na003335	Big
+pointtree01na003331			Ability	Internal00		pointtree01na003341	
+pointtree01na003332			Ability	Atk00		pointtree01na003342	
+pointtree01na003333			Ability	CriAtk00		pointtree01na003343	
+pointtree01na003334			Ability	Cri00		pointtree01na003344	
+pointtree01na003335			Ability	Spd00		pointtree01na003345	
+pointtree01na003341			Ability	Special00		pointtree01na003351	
+pointtree01na003342			Ability	Atk00		pointtree01na003352	
+pointtree01na003343			Ability	CriAtk00		pointtree01na003353	
+pointtree01na003344			Ability	Hit00		pointtree01na003354	
+pointtree01na003345			Ability	Atk00		pointtree01na003354	
+pointtree01na003351	Vast White Snow		Ability	pointtree01na003351			Big
+pointtree01na003352	Hidden Flower Thorn		Passive	pointtree01na003352			Big
+pointtree01na003353	Fiery Golden Eyes (Greater)		Ability	CriAtk02			Big
+pointtree01na003354	Valor (Greater)		Ability	Atk02			Big
+pointtree01na003801			Ability	Atk00		pointtree01na003811,pointtree01na003812	
+pointtree01na003811			Ability	Hit00		pointtree01na003821	
+pointtree01na003812			Ability	Cri00		pointtree01na003822	
+pointtree01na003821	Blazing Eyes (Greater)		Ability	Hit02		pointtree01na003831,pointtree01na003832	Big
+pointtree01na003822	Ingenious Originality		Ability	pointtree01na003822		pointtree01na003833,pointtree01na003834	Big
+pointtree01na003831			Ability	Atk00		pointtree01na003841	
+pointtree01na003832			Ability	Hit00		pointtree01na003842	
+pointtree01na003833			Ability	Cri00		pointtree01na003843	
+pointtree01na003834			Ability	Atk00		pointtree01na003843	
+pointtree01na003841			Ability	Atk00		pointtree01na003851	
+pointtree01na003842			Ability	Spd00		pointtree01na003852	
+pointtree01na003843			Ability	Atk00		pointtree01na003853	
+pointtree01na003844			Ability	Cri00		pointtree01na003854	
+pointtree01na003851	Valor (Middle)		Ability	Atk01			Big
+pointtree01na003852	Bird in a Cage		Ability	MechanicalChiDamage			Big
+pointtree01na003853	Surpassing Nature's Craft		Ability	pointtree01na003853			Big
+pointtree01na003854	A Riot of Colors		Passive	pointtree01na003854			Big
+pointtree0201			Ability	Parry00		pointtree0211,pointtree0212	ore_0001_s
+pointtree0211			Ability	Parry00		pointtree0221,pointtree0222	ore_0001_s
+pointtree0212			Ability	Dodge00		pointtree0222,pointtree0223	ore_0001_s
+pointtree0221	Backhand (Greater)		Ability	Counter02		pointtree0231,pointtree0232	Big
+pointtree0222	Dismantling Moves (Greater)		Ability	Parry02		pointtree0233	Big
+pointtree0223	Ghost Steps (Greater)		Ability	Dodge02		pointtree0245,pointtree0234	Big
+pointtree0231			Ability	CounterAtk00		pointtree0241	ore_0001_s
+pointtree0232			Ability	CounterAtk00		pointtree0242	ore_0001_s
+pointtree0233			Ability	ParryDef00		pointtree0243,pointtree0244	ore_0001_s
+pointtree0234			Ability	Dodge00		pointtree0246	ore_0001_s
+pointtree0241			Ability	Counter00		pointtree0251	ore_0001_s
+pointtree0242			Ability	CounterAtk00		pointtree0251	ore_0001_s
+pointtree0243			Ability	ExternalDef00		pointtree0252	ore_0001_s
+pointtree0244			Ability	InternalDef00		pointtree0252	ore_0001_s
+pointtree0245			Ability	SpecialDef00		pointtree0246	ore_0001_s
+pointtree0246			Ability	Hit00		pointtree0253,pointtree0254	ore_0001_s
+pointtree0247			Ability	Dodge00		pointtree0254	ore_0001_s
+pointtree0251	Against the Current		Passive	pointtree0251			Big
+pointtree0252	Turning the Tables		Passive	pointtree0252			Big
+pointtree0253	A Village Beyond the Willows		Passive	pointtree0253			Big
+pointtree0254	Rallying the Banners		Passive	pointtree0254			Big
+pointtree02na000001			Ability	Parry00		pointtree02na000011,pointtree02na000012,pointtree02na000013	
+pointtree02na000011			Ability	Dodge00		pointtree02na000021	
+pointtree02na000012			Ability	ParryDef00		pointtree02na000022,pointtree02na000023	
+pointtree02na000013			Ability	Counter00		pointtree02na000024,pointtree02na000025	
+pointtree02na000021	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na000031,pointtree02na000032	Big
+pointtree02na000022	Dismantling Moves (Middle)		Ability	Parry01		pointtree02na000033,pointtree02na000034	Big
+pointtree02na000023	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef01		pointtree02na000035	Big
+pointtree02na000024	Backhand (Middle)		Ability	Counter01		pointtree02na000036,pointtree02na000037	Big
+pointtree02na000025	Shifting Stars (Middle)		Ability	CounterAtk01		pointtree02na000038	Big
+pointtree02na000031			Ability	ExternalDef00		pointtree02na000041	
+pointtree02na000032			Ability	Dodge00		pointtree02na000042,pointtree02na000043	
+pointtree02na000033			Ability	Parry00		pointtree02na000044	
+pointtree02na000034			Ability	ParryDef00		pointtree02na000045	
+pointtree02na000035			Ability	ParryDef00		pointtree02na000045,pointtree02na000046	
+pointtree02na000036			Ability	Counter00		pointtree02na000046	
+pointtree02na000037			Ability	CounterAtk00		pointtree02na000047	
+pointtree02na000038			Ability	CounterAtk00		pointtree02na000048	
+pointtree02na000041			Ability	Dodge00		pointtree02na000051	
+pointtree02na000042			Ability	SpecialDef00		pointtree02na000051	
+pointtree02na000043			Ability	Dodge00		pointtree02na000052	
+pointtree02na000044			Ability	InternalDef00		pointtree02na000052	
+pointtree02na000045			Ability	Parry00		pointtree02na000053	
+pointtree02na000046			Ability	Dodge00		pointtree02na000054	
+pointtree02na000047			Ability	MaxHp00		pointtree02na000055	
+pointtree02na000048			Ability	Counter00		pointtree02na000055	
+pointtree02na000051	Wind Racing, Clouds Rolling		Passive	pointtree02na000051			Big
+pointtree02na000052	Pure Blue Flame of Mastery		Passive	pointtree02na000052			Big
+pointtree02na000053	Bronze Sinews, Iron Bones (Greater)		Ability	ParryDef02			Big
+pointtree02na000054	Prepared for Everything		Passive	pointtree02na000054			Big
+pointtree02na000055	Eyes Like Lightning		Ability	CounterRange01			Big
+pointtree02na000101			Ability	Parry00		pointtree02na000111,pointtree02na000112	
+pointtree02na00010101			Ability	Counter01		pointtree02na00010102	
+pointtree02na00010102			Ability	Counter01		pointtree02na00010103	
+pointtree02na00010103			Passive	pointtree02na00010103			Big
+pointtree02na000111			Ability	Counter00		pointtree02na000121,pointtree02na000122	
+pointtree02na000112			Ability	Parry00		pointtree02na000122,pointtree02na000123	
+pointtree02na000121	Backhand (Middle)		Ability	Counter01		pointtree02na000131,pointtree02na000132	Big
+pointtree02na000122	Dismantling Moves (Middle)		Ability	Parry01		pointtree02na000133,pointtree02na000132	Big
+pointtree02na000123	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef01		pointtree02na000134	Big
+pointtree02na000131			Ability	Counter00		pointtree02na000141	
+pointtree02na000132			Ability	CounterAtk00		pointtree02na000142	
+pointtree02na000133			Ability	ParryDef00		pointtree02na000143,pointtree02na000144,pointtree02na000145	
+pointtree02na000134			Ability	Parry00		pointtree02na000146,pointtree02na000147	
+pointtree02na000141			Ability	ExternalDef00		pointtree02na000151	
+pointtree02na000142			Ability	SpecialDef00		pointtree02na000151	
+pointtree02na000143			Ability	ExternalDef00		pointtree02na000155	
+pointtree02na000144			Ability	InternalDef00		pointtree02na000152,pointtree02na000155	
+pointtree02na000145			Ability	SpecialDef00		pointtree02na000153	
+pointtree02na000146			Ability	MaxHp00		pointtree02na000153	
+pointtree02na000147			Ability	ParryDef00		pointtree02na000154	
+pointtree02na000151	Endless Cycle		Passive	pointtree02na000151			Big
+pointtree02na000152	Turning the Tables		Passive	pointtree0252			Big
+pointtree02na000153	United as One		Passive	pointtree02na000153			Big
+pointtree02na000154	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree02na000155	Body Guard · General Formula (Lesser)		Ability	ExternalDef00,InternalDef00,SpecialDef00			Big
+pointtree02na000201			Ability	MaxHp00		pointtree02na000211,pointtree02na000212	
+pointtree02na000211			Ability	Dodge00		pointtree02na000221	
+pointtree02na000212			Ability	Parry00		pointtree02na000222	
+pointtree02na000221	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na000231,pointtree02na000232,pointtree02na000233	Big
+pointtree02na000222	Effortless Plucking		Ability	Memory01		pointtree02na000234	Big
+pointtree02na000231			Ability	Dodge00		pointtree02na000241	
+pointtree02na000232			Ability	ExternalDef00		pointtree02na000241,pointtree02na000242	
+pointtree02na000233			Ability	SpecialDef00		pointtree02na000242	
+pointtree02na000234			Ability	ParryDef00		pointtree02na000243,pointtree02na000244	
+pointtree02na000241			Ability	Dodge00		pointtree02na000251	
+pointtree02na000242			Ability	MaxMp00		pointtree02na000252	
+pointtree02na000243			Ability	ParryDef00		pointtree02na000253	
+pointtree02na000244			Ability	Parry00		pointtree02na000254	
+pointtree02na000251	In a Burning Hurry		Passive	pointtree02na000251			Big
+pointtree02na000252	Body Guard · Yang		Ability	ExternalDef00,SpecialDef01			Big
+pointtree02na000253	Dampened Spirits		Passive	pointtree02na000253			Big
+pointtree02na000254	Uplifted		Passive	pointtree02na000254			Big
+pointtree02na000301			Ability	Dodge00		pointtree02na000311	
+pointtree02na00030101			Ability	Dodge00		pointtree02na00030102	
+pointtree02na00030102			Ability	Dodge00		pointtree02na00030103	
+pointtree02na00030103	Soaring to the Clouds		Ability	Move01			Big
+pointtree02na000311			Ability	MaxHp00		pointtree02na000321	
+pointtree02na000321	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na000331,pointtree02na000332,pointtree02na000333	Big
+pointtree02na000331			Ability	ExternalDef00		pointtree02na000341	
+pointtree02na000332			Ability	InternalDef00		pointtree02na000342,pointtree02na000341	
+pointtree02na000333			Ability	Dodge00		pointtree02na000343,pointtree02na000344,pointtree02na000345	
+pointtree02na000341			Ability	MaxHp00		pointtree02na000351	
+pointtree02na000342			Ability	Counter00		pointtree02na000352	
+pointtree02na000343			Ability	Dodge00		pointtree02na000352,pointtree02na000353	
+pointtree02na000344			Ability	InternalDef00		pointtree02na000354	
+pointtree02na000345			Ability	MaxMp00		pointtree02na000355	
+pointtree02na000351	Bright Moon Breeze		Passive	pointtree02na000351			Big
+pointtree02na000352	Elegance Through the Ages	(极大)	Ability	Dodge02			Big
+pointtree02na000353	Soaring to the Clouds		Passive	pointtree02na000353			Big
+pointtree02na000354	Ghost Steps (Greater)		Ability	Dodge02			Big
+pointtree02na000355	Swift as an Echo		Passive	pointtree02na000355			Big
+pointtree02na000501			Ability	MaxHp00		pointtree02na000511	
+pointtree02na000511			Ability	Dodge00		pointtree02na000521,pointtree02na000522,pointtree02na000523	
+pointtree02na000521	Dismantling Moves (Middle)		Ability	Parry01		pointtree02na000531,pointtree02na000532	Big
+pointtree02na000522	Body Guard · Hard & Soft (Lesser)		Ability	InternalDef00,ExternalDef00		pointtree02na000533	Big
+pointtree02na000523	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na000533,pointtree02na000534	Big
+pointtree02na000531			Ability	ParryDef00		pointtree02na000541	
+pointtree02na000532			Ability	Parry00		pointtree02na000541	
+pointtree02na000533			Ability	MaxHp00		pointtree02na000542,pointtree02na000543,pointtree02na000544	
+pointtree02na000534			Ability	Spd00		pointtree02na000545,pointtree02na000546	
+pointtree02na000541			Ability	ParryDef00		pointtree02na000551	
+pointtree02na000542			Ability	InternalDef00		pointtree02na000552	
+pointtree02na000543			Ability	ParryDef00		pointtree02na000552	
+pointtree02na000544			Ability	ExternalDef00		pointtree02na000552	
+pointtree02na000545			Ability	Dodge00		pointtree02na000553	
+pointtree02na000546			Ability	Spd00		pointtree02na000553	
+pointtree02na000551	Bolder with Every Setback		Passive	pointtree02na000551			Big
+pointtree02na000552	Weathered by Years of Hardship		Passive	pointtree02na000552			Big
+pointtree02na000553	Desert Eagle		Passive	pointtree02na000553			Big
+pointtree02na000601			Ability	Parry00		pointtree02na000611,pointtree02na000612	
+pointtree02na000611			Ability	na0006Counter00	na0007	pointtree02na000621	
+pointtree02na000612			Ability	na0006Dodge00	na0008	pointtree02na000622	
+pointtree02na000621	Backhand · Wooden Beast (Middle)		Ability	na0006Counter01	na0007	pointtree02na000631,pointtree02na000632	Big
+pointtree02na000622	Ghost Steps · Wooden Kite (Middle)		Ability	na0006Dodge01	na0008	pointtree02na000633,pointtree02na000634	Big
+pointtree02na000631			Ability	na0006Counter00	na0007	pointtree02na000641	
+pointtree02na000632			Ability	na0006CounterAtk00	na0007	pointtree02na000642	
+pointtree02na000633			Ability	na0006Counter00	na0008	pointtree02na000643	
+pointtree02na000634			Ability	na0006Dodge00	na0008	pointtree02na000644	
+pointtree02na000641			Ability	na0006Counter00	na0007	pointtree02na000651	
+pointtree02na000642			Ability	na0006CounterAtk00	na0007	pointtree02na000652	
+pointtree02na000643			Ability	na0006Counter00	na0008	pointtree02na000653,pointtree02na000654	
+pointtree02na000644			Ability	na0006Dodge00	na0008	pointtree02na000654,pointtree02na000655	
+pointtree02na000651	Hardened		Passive	pointtree02na000651	na0007		Big
+pointtree02na000652	Lifelike		Ability	na0006CounterRange01	na0007		Big
+pointtree02na000653	Sharp Claws		Passive	pointtree02na000653	na0008		Big
+pointtree02na000654	Ghost Steps · Wooden Kite (Greater)	(极大)	Ability	na0006Dodge03	na0008		Big
+pointtree02na000655	Flying Feathers		Passive	pointtree02na000655	na0008		Big
+pointtree02na001001			Ability	Parry00		pointtree02na001011,pointtree02na001012	
+pointtree02na00100101			Ability	Counter00		pointtree02na00100102	ore_0001_s
+pointtree02na00100102			Ability	CounterAtk00		pointtree02na00100103	ore_0001_s
+pointtree02na00100103	A Hundred Poems per Jug		Passive	pointtree02na001003			Big
+pointtree02na001011			Ability	Counter00		pointtree02na001021	
+pointtree02na001012			Ability	ParryDef00		pointtree02na001022,pointtree02na001023	
+pointtree02na001021	Shifting Stars (Middle)		Ability	CounterAtk01		pointtree02na001031,pointtree02na001032	Big
+pointtree02na001022	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na001033	Big
+pointtree02na001023	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef01		pointtree02na001034	Big
+pointtree02na001031			Ability	CounterAtk00		pointtree02na001041	
+pointtree02na001032			Ability	Counter00		pointtree02na001041	
+pointtree02na001033			Ability	Dodge00		pointtree02na001042	
+pointtree02na001034			Ability	Parry00		pointtree02na001043	
+pointtree02na001041			Ability	CounterAtk00		pointtree02na001051,pointtree02na001052	
+pointtree02na001042			Ability	Dodge00		pointtree02na001053	
+pointtree02na001043			Ability	Parry00		pointtree02na001054	
+pointtree02na001051	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree02na001052	Eyes Like Lightning		Ability	CounterRange01			Big
+pointtree02na001053	Stumbling and Reeling		Passive	pointtree02na001053			Big
+pointtree02na001054	Drunk for a Thousand Days		Passive	pointtree02na001054			Big
+pointtree02na001101			Ability	MaxMp00		pointtree02na001111	
+pointtree02na001111			Ability	MaxHp00		pointtree02na001121,pointtree02na001122,pointtree02na001123	
+pointtree02na001121	Body Guard · Hard Force (Middle)		Ability	ExternalDef01		pointtree02na001131,pointtree02na001132	Big
+pointtree02na001122	Body Guard · Soft Force (Middle)		Ability	InternalDef01		pointtree02na001133	Big
+pointtree02na001123	Body Guard · Primordial (Middle)		Ability	SpecialDef01		pointtree02na001134	Big
+pointtree02na001131			Ability	Parry00		pointtree02na001141	
+pointtree02na001132			Ability	ExternalDef00		pointtree02na001142	
+pointtree02na001133			Ability	Dodge00		pointtree02na001143	
+pointtree02na001134			Ability	MaxMp00		pointtree02na001144	
+pointtree02na001141			Ability	ParryDef00		pointtree02na001151	
+pointtree02na001142			Ability	MaxHp00		pointtree02na001152	
+pointtree02na001143			Ability	Dodge00		pointtree02na001153	
+pointtree02na001144			Ability	MaxHp00		pointtree02na001154	
+pointtree02na001151	Winter Plum Meets Spring		Passive	pointtree02na001151			Big
+pointtree02na001152	Leaves Never Touch the Body		Ability	Dodge00,Parry00			Big
+pointtree02na001153	Carefree Steps		Passive	pointtree02na001153			Big
+pointtree02na001154	Heart and Spirit as One		Passive	pointtree02na001154			Big
+pointtree02na001201			Ability	Dodge00		pointtree02na001211,pointtree02na001212,pointtree02na001213	
+pointtree02na001211			Ability	Parry00		pointtree02na001221	
+pointtree02na001212			Ability	Dodge00		pointtree02na001222	
+pointtree02na001213			Ability	Counter00		pointtree02na001223	
+pointtree02na001221	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef01		pointtree02na001231,pointtree02na001232	Big
+pointtree02na001222	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na001233	Big
+pointtree02na001223	Counter Damage Up (Middle)		Ability	CounterAtk01		pointtree02na001234	Big
+pointtree02na001231	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef00		pointtree02na001241	
+pointtree02na001232			Ability	Parry00		pointtree02na001241	
+pointtree02na001233			Ability	SpecialDef00		pointtree02na001242	
+pointtree02na001234			Ability	CounterAtk00		pointtree02na001242,pointtree02na001243	
+pointtree02na001241			Ability	Parry00		pointtree02na001251,pointtree02na001252	
+pointtree02na001242			Ability	Dodge00		pointtree02na001252	
+pointtree02na001243			Ability	Counter00		pointtree02na001253,pointtree02na001254	
+pointtree02na001251	Dismantling Moves (Greater)		Ability	Parry02			Big
+pointtree02na001252	Watertight		Ability	Parry01,ParryDef01			Big
+pointtree02na001253	Defiance		Passive	pointtree02na001253			Big
+pointtree02na001254	Stubborn		Passive	pointtree02na001254			Big
+pointtree02na001301			Ability	Parry00		pointtree02na001311,pointtree02na001312	
+pointtree02na001311			Ability	Parry00		pointtree02na001321,pointtree02na001322	
+pointtree02na001312			Ability	Dodge00		pointtree02na001322,pointtree02na001323	
+pointtree02na001321	Dismantling Moves (Middle)		Ability	Parry01		pointtree02na001331,pointtree02na001332	Big
+pointtree02na001322	Flying Body (Middle)		Ability	Spd01		pointtree02na001333	Big
+pointtree02na001323	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na001334	Big
+pointtree02na001331			Ability	Parry00		pointtree02na001341	
+pointtree02na001332			Ability	ParryDef00		pointtree02na001342	
+pointtree02na001333			Ability	MaxHp00		pointtree02na001343,pointtree02na001344,pointtree02na001345	
+pointtree02na001334			Ability	Dodge00		pointtree02na001346,pointtree02na001347	
+pointtree02na001341			Ability	Parry00		pointtree02na001351	
+pointtree02na001342			Ability	ParryDef00		pointtree02na001351	
+pointtree02na001343			Ability	ExternalDef00		pointtree02na001352	
+pointtree02na001344			Ability	InternalDef00		pointtree02na001352	
+pointtree02na001345			Ability	SpecialDef00		pointtree02na001352	
+pointtree02na001346			Ability	Dodge00		pointtree02na001353	
+pointtree02na001347			Ability	Hit00		pointtree02na001354	
+pointtree02na001351	Every Move Remembered		Passive	pointtree02na001351			Big
+pointtree02na001352	Body Guard · General Formula (Lesser)		Ability	ExternalDef00,InternalDef00,SpecialDef00			Big
+pointtree02na001353	Dodge and Strike		Passive	pointtree02na001353			Big
+pointtree02na001354	Touching the Autumn Wind		Passive	pointtree02na001354			Big
+pointtree02na002101			Ability	Parry00		pointtree02na002111,pointtree02na002112	ore_0001_s
+pointtree02na00210101			Ability	Parry00		pointtree02na00210102	ore_0001_s
+pointtree02na00210102			Ability	Parry00		pointtree02na00210103	ore_0001_s
+pointtree02na00210103	Catch Them Off Guard		Passive	pointtree02na00210103			Big
+pointtree02na002111			Ability	Parry00		pointtree02na002121,pointtree02na002122	
+pointtree02na002112			Ability	Dodge00		pointtree02na002122,pointtree02na002123	
+pointtree02na002121	Dismantling Moves (Middle)		Ability	Parry01		pointtree02na002131,pointtree02na002132	Big
+pointtree02na002122	Body Guard · Primordial (Middle)		Ability	SpecialDef01		pointtree02na002133	Big
+pointtree02na002123	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na002134	Big
+pointtree02na002131			Ability	Parry00		pointtree02na002141	
+pointtree02na002132			Ability	ParryDef00		pointtree02na002142	
+pointtree02na002133			Ability	ParryDef00		pointtree02na002143,pointtree02na002144,pointtree02na002145	
+pointtree02na002134			Ability	Dodge00		pointtree02na002146,pointtree02na002147	
+pointtree02na002141			Ability	Parry00		pointtree02na002151	
+pointtree02na002142			Ability	ParryDef00		pointtree02na002151	
+pointtree02na002143			Ability	ExternalDef00		pointtree02na002152	
+pointtree02na002144			Ability	InternalDef00		pointtree02na002152	
+pointtree02na002145			Ability	SpecialDef00		pointtree02na002152	
+pointtree02na002146			Ability	Dodge00		pointtree02na002153	
+pointtree02na002147			Ability	Hit00		pointtree02na002154	
+pointtree02na002151	An Eye for an Eye		Passive	pointtree02na002151			Big
+pointtree02na002152	Venom Guard		Passive	pointtree02na002152			Big
+pointtree02na002153	Ghost Steps (Greater)		Ability	Dodge02			Big
+pointtree02na002154	Slipping Away		Passive	pointtree02na002154			Big
+pointtree02na002701			Ability	Counter00		pointtree02na002711,pointtree02na002712	
+pointtree02na00270101			Ability	Counter00		pointtree02na00270102	ore_0001_s
+pointtree02na00270102			Ability	Counter00		pointtree02na00270103	ore_0001_s
+pointtree02na00270103	Backhand (Greater)		Ability	Counter02			Big
+pointtree02na00270201			Ability	MaxHp00		pointtree02na00270202	ore_0001_s
+pointtree02na00270202			Ability	ParryDef00		pointtree02na00270203	ore_0001_s
+pointtree02na00270203	Eyes Like Lightning		Ability	CounterRange01			Big
+pointtree02na002711			Ability	Parry00		pointtree02na002721	
+pointtree02na002712			Ability	Counter00		pointtree02na002722,pointtree02na002723,pointtree02na002724	
+pointtree02na002721	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef01		pointtree02na002731	Big
+pointtree02na002722	A Sincere Heart		Passive	pointtree02na002722		pointtree02na002732,pointtree02na002733,pointtree02na002734	Big
+pointtree02na002723	Rousing the Spirit		Ability	MaxHp01,MaxMp01		pointtree02na002735	Big
+pointtree02na002724	Backhand (Middle)		Ability	Counter01		pointtree02na002736	Big
+pointtree02na002731			Ability	Parry00		pointtree02na002741	
+pointtree02na002732			Ability	InternalDef00		pointtree02na002742	
+pointtree02na002733			Ability	ExternalDef00		pointtree02na002742	
+pointtree02na002734			Ability	SpecialDef00		pointtree02na002742	
+pointtree02na002735			Ability	CounterAtk00		pointtree02na002743	
+pointtree02na002736			Ability	CounterAtk00		pointtree02na002744	
+pointtree02na002741			Ability	Parry00		pointtree02na002751	
+pointtree02na002742			Ability	Hit00		pointtree02na002752	
+pointtree02na002743			Ability	ParryDef00		pointtree02na002753	
+pointtree02na002744			Ability	Counter00		pointtree02na002754	
+pointtree02na002751	Bone-Slipping Force Deflection		Passive	pointtree02na002751			Big
+pointtree02na002752	Immovable Divine Lord		Passive	pointtree02na002752			Big
+pointtree02na002753	A Raised Bushy Brow		Passive	pointtree02na002753			Big
+pointtree02na002754	Eyes Like Lightning		Ability	CounterRange01			Big
+pointtree02na002901			Ability	Dodge00		pointtree02na002911,pointtree02na002912	
+pointtree02na002911			Ability	Dodge00		pointtree02na002921	
+pointtree02na002912			Ability	Parry00		pointtree02na002922	
+pointtree02na002921	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na002931,pointtree02na002932	Big
+pointtree02na002922	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef01		pointtree02na002933	Big
+pointtree02na002931			Ability	InternalDef00		pointtree02na002941	
+pointtree02na002932			Ability	Dodge00		pointtree02na002942,pointtree02na002943	
+pointtree02na002933			Ability	Parry00		pointtree02na002944	
+pointtree02na002941			Ability	SpecialDef00		pointtree02na002951	
+pointtree02na002942			Ability	Dodge00		pointtree02na002952	
+pointtree02na002943			Ability	Counter00		pointtree02na002953	
+pointtree02na002944			Ability	ParryDef00		pointtree02na002954	
+pointtree02na002951	Body Guard · General Formula (Lesser)		Ability	ExternalDef01,InternalDef01,SpecialDef01			Big
+pointtree02na002952	Blood-Red Sunset		Passive	pointtree02na002952			Big
+pointtree02na002953	Dismantling Moves (Greater)		Ability	Parry02			Big
+pointtree02na002954	Dancing Skirts and Singing Fans		Passive	pointtree02na002954			Big
+pointtree02na003001			Ability	Parry00		pointtree02na003011	
+pointtree02na003011			Ability	Dodge00		pointtree02na003021,pointtree02na003022,pointtree02na003023	
+pointtree02na003021	Dismantling Moves (Middle)		Ability	Parry01		pointtree02na003031	Big
+pointtree02na003022	Backhand (Middle)		Ability	Counter01		pointtree02na003032,pointtree02na003033	Big
+pointtree02na003023	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na003034	Big
+pointtree02na003031			Ability	ParryDef00		pointtree02na003041,pointtree02na003042,pointtree02na003043	
+pointtree02na003032			Ability	CounterAtk00		pointtree02na003043,pointtree02na003044	
+pointtree02na003033			Ability	Counter00		pointtree02na003044,pointtree02na003045	
+pointtree02na003034			Ability	Dodge00		pointtree02na003045	
+pointtree02na003041			Ability	InternalDef00		pointtree02na003051	
+pointtree02na003042			Ability	ExternalDef00		pointtree02na003051	
+pointtree02na003043			Ability	SpecialDef00		pointtree02na003051	
+pointtree02na003044			Ability	Counter00		pointtree02na003052	
+pointtree02na003045			Ability	Hit00		pointtree02na003053	
+pointtree02na003051	Rising Mist and Surging Clouds		Passive	pointtree02na003051			Big
+pointtree02na003052	Eyes Like Lightning		Ability	CounterRange01			Big
+pointtree02na003053	A Thousand Worries		Passive	pointtree02na003053			Big
+pointtree02na003301			Ability	Parry00		pointtree02na003311,pointtree02na003312	
+pointtree02na003311			Ability	Parry00		pointtree02na003321,pointtree02na003322	
+pointtree02na003312			Ability	Dodge00		pointtree02na003322,pointtree02na003323	
+pointtree02na003321	Dismantling Moves (Middle)		Ability	Parry01		pointtree02na003331,pointtree02na003332	Big
+pointtree02na003322	Flying Body (Middle)		Ability	Spd01		pointtree02na003333	Big
+pointtree02na003323	Ghost Steps (Middle)		Ability	Dodge01		pointtree02na003334	Big
+pointtree02na003331			Ability	Parry00		pointtree02na003341	
+pointtree02na003332			Ability	ParryDef00		pointtree02na003342	
+pointtree02na003333			Ability	MaxHp00		pointtree02na003343,pointtree02na003344,pointtree02na003345	
+pointtree02na003334			Ability	Dodge00		pointtree02na003346,pointtree02na003347	
+pointtree02na003341			Ability	Parry00		pointtree02na003351	
+pointtree02na003342			Ability	ParryDef00		pointtree02na003351	
+pointtree02na003343			Ability	ExternalDef00		pointtree02na003352	
+pointtree02na003344			Ability	InternalDef00		pointtree02na003352	
+pointtree02na003345			Ability	SpecialDef00		pointtree02na003352	
+pointtree02na003346			Ability	Dodge00		pointtree02na003353	
+pointtree02na003347			Ability	Hit00		pointtree02na003354	
+pointtree02na003351	Spirit-Parting Mirror		Passive	pointtree02na003351			Big
+pointtree02na003352	Gentle Twist Dissolves Force		Passive	pointtree02na003352			Big
+pointtree02na003353	Blood Refining		Passive	pointtree02na003353			Big
+pointtree02na003354	Shrinking the Earth		Passive	pointtree02na003354			Big
+pointtree02na003801			Ability	Counter00		pointtree02na003811	
+pointtree02na003811			Ability	Parry00		pointtree02na003821,pointtree02na003822,pointtree02na003823	
+pointtree02na003821	Dismantling Moves (Middle)		Ability	Parry01		pointtree02na003831,pointtree02na003832	Big
+pointtree02na003822	Striding Like the Wind		Ability	Dodge00,Spd00		pointtree02na003833	Big
+pointtree02na003823	Backhand (Middle)		Ability	Counter01		pointtree02na003834	Big
+pointtree02na003831			Ability	Parry00		pointtree02na003841	
+pointtree02na003832			Ability	ParryDef00		pointtree02na003842	
+pointtree02na003833			Ability	MaxHp00		pointtree02na003843,pointtree02na003844	
+pointtree02na003834			Ability	Counter00		pointtree02na003845,pointtree02na003846	
+pointtree02na003841			Ability	SpecialDef00		pointtree02na003851	
+pointtree02na003842			Ability	ParryDef00		pointtree02na003851	
+pointtree02na003843			Ability	InternalDef00		pointtree02na003852	
+pointtree02na003844			Ability	SpecialDef00		pointtree02na003852	
+pointtree02na003845			Ability	Counter00		pointtree02na003853	
+pointtree02na003846			Ability	InternalDef00		pointtree02na003854	
+pointtree02na003851	Cutting the Long to Mend the Short		Passive	pointtree02na003851			Big
+pointtree02na003852	Body Guard · General Formula (Lesser)		Ability	ExternalDef00,InternalDef00,SpecialDef00			Big
+pointtree02na003853	Scattered Wits		Passive	pointtree02na003853			Big
+pointtree02na003854	Deft Hands Dissolve Force		Passive	pointtree02na003854			Big
+pointtree0301			Ability	MaxHp00		pointtree0311	ore_0001_s
+pointtree0311			Ability	MaxMp00		pointtree0321,pointtree0322	ore_0001_s
+pointtree0321			Ability	MaxMp_p_02		pointtree0331,pointtree0332	Big
+pointtree0322			Ability	MaxHp_p_02		pointtree0333,pointtree0334	Big
+pointtree0331			Ability	MaxMp00		pointtree0341,pointtree0342	ore_0001_s
+pointtree0332			Ability	MaxHp00		pointtree0343	ore_0001_s
+pointtree0333			Ability	Counter00		pointtree0344	ore_0001_s
+pointtree0334			Ability	MaxHp00		pointtree0345,pointtree0346,pointtree0347	ore_0001_s
+pointtree0341			Ability	Atk00		pointtree0351	ore_0001_s
+pointtree0342			Ability	ParryDef00		pointtree0352	ore_0001_s
+pointtree0343			Ability	Hit00		pointtree0353	ore_0001_s
+pointtree0344			Ability	Spd00		pointtree0353	ore_0001_s
+pointtree0345			Ability	Dodge00		pointtree0354	ore_0001_s
+pointtree0346			Ability	Cure00		pointtree0354	ore_0001_s
+pointtree0347			Ability	ParryDef00		pointtree0355	ore_0001_s
+pointtree0351	All-Out Effort		Passive	pointtree0351			Big
+pointtree0352	Ample Room to Spare		Passive	pointtree0352			Big
+pointtree0353	Effortless Plucking		Ability	Memory01			Big
+pointtree0354	Calm and Composed		Passive	pointtree0354			Big
+pointtree0355	Survival Against All Odds		Passive	pointtree0355			Big
+pointtree03na000001			Ability	MaxHp00		pointtree03na000011,pointtree03na000012	
+pointtree03na00000101			Ability	MaxHp00		pointtree03na00000102	ore_0001_s
+pointtree03na00000102			Ability	MaxMp00		pointtree03na00000103	ore_0001_s
+pointtree03na00000103	Unflustered by Change		Passive	pointtree03na00000103			Big
+pointtree03na000011			Ability	MaxMp00		pointtree03na000021,pointtree03na000022	
+pointtree03na000012			Ability	MaxHp00		pointtree03na000023,pointtree03na000024	
+pointtree03na000021	Adaptation		Passive	pointtree03na000021		pointtree03na000031,pointtree03na000032	Big
+pointtree03na000022	Sea of Qi (Middle)		Ability	MaxMp01		pointtree03na000033,pointtree03na000034	Big
+pointtree03na000023	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na000035	Big
+pointtree03na000024	Body Guard · General Formula (Lesser)		Ability	ExternalDef00,InternalDef00,SpecialDef00		pointtree03na000036,pointtree03na000037,pointtree03na000038	Big
+pointtree03na000031			Ability	CounterAtk00		pointtree03na000041	
+pointtree03na000032			Ability	Parry00		pointtree03na000042	
+pointtree03na000033			Ability	MaxMp00		pointtree03na000043	
+pointtree03na000034			Ability	MaxMp_p_00		pointtree03na000044	
+pointtree03na000035			Ability	MaxHp00		pointtree03na000044,pointtree03na000045,pointtree03na000046	
+pointtree03na000036			Ability	ExternalDef00		pointtree03na000047	
+pointtree03na000037			Ability	InternalDef00		pointtree03na000048	
+pointtree03na000038			Ability	SpecialDef00		pointtree03na000049	
+pointtree03na000041			Ability	Counter00		pointtree03na000051	
+pointtree03na000042			Ability	ParryDef00		pointtree03na000051	
+pointtree03na000043			Ability	MaxMp_p_00		pointtree03na000052	
+pointtree03na000044			Ability	MaxHp00		pointtree03na000053,pointtree03na000054	
+pointtree03na000045			Ability	MaxHp00		pointtree03na000055	
+pointtree03na000046			Ability	MaxHp_p_00		pointtree03na000055	
+pointtree03na000047			Ability	ExternalDef00		pointtree03na000056	
+pointtree03na000048			Ability	InternalDef00		pointtree03na000056	
+pointtree03na000049			Ability	SpecialDef00		pointtree03na000056	
+pointtree03na000051	Effortless Plucking		Ability	Memory01			Big
+pointtree03na000052	Qi Blocks Harm		Passive	pointtree03na000052			Big
+pointtree03na000053	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree03na000054	Tireless in a Hundred Battles		Passive	pointtree03na000054			Big
+pointtree03na000055	Invigorated Blood (Greater)		Ability	MaxHp_p_02			Big
+pointtree03na000056	Back from the Dead		Passive	pointtree03na000056			Big
+pointtree03na000101			Ability	MaxHp00		pointtree03na000111	
+pointtree03na00010101			Ability	InternalDef00		pointtree03na00010102	
+pointtree03na00010102			Ability	MaxHp00		pointtree03na00010103	
+pointtree03na00010103			Passive	pointtree03na00010103			
+pointtree03na000111			Ability	MaxMp00		pointtree03na000121,pointtree03na000122,pointtree03na000123	
+pointtree03na000121	Invigorated Blood (Middle)		Ability	MaxMp_p_01		pointtree03na000131,pointtree03na000132	Big
+pointtree03na000122	Recuperation		Passive	pointtree03na000122		pointtree03na000133,pointtree03na000134	Big
+pointtree03na000123	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na000135	Big
+pointtree03na000131			Ability	MaxMp_p_00		pointtree03na000141,pointtree03na000142	
+pointtree03na000132			Ability	MaxHp_p_00		pointtree03na000143	
+pointtree03na000133			Ability	Counter00		pointtree03na000144	
+pointtree03na000134			Ability	MaxHp_p_00		pointtree03na000145,pointtree03na000146	
+pointtree03na000135			Ability	MaxHp_p_00		pointtree03na000147,pointtree03na000148	
+pointtree03na000141			Ability	SpecialDef00		pointtree03na000151	
+pointtree03na000142			Ability	MaxMp00		pointtree03na000152	
+pointtree03na000143			Ability	MaxHp00		pointtree03na000153	
+pointtree03na000144			Ability	ParryDef00		pointtree03na000154	
+pointtree03na000145			Ability	ExternalDef00		pointtree03na000155	
+pointtree03na000146			Ability	Parry00		pointtree03na000155	
+pointtree03na000147			Ability	MaxHp00		pointtree03na000156	
+pointtree03na000148			Ability	InternalDef00		pointtree03na000156	
+pointtree03na000151	Survival Against All Odds		Passive	pointtree0355			Big
+pointtree03na000152	Blood-Qi Conversion		Ability	pointtree03na000152			Big
+pointtree03na000153	Sea of Qi (Middle)		Ability	MaxMp_p_01,MaxMp00			Big
+pointtree03na000154	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree03na000155	Calm and Composed		Passive	pointtree0354			Big
+pointtree03na000156	In the Same Boat Through the Storm		Passive	pointtree03na000156			Big
+pointtree03na000201			Ability	MaxMp00		pointtree03na000211,pointtree03na000212,pointtree03na000213	
+pointtree03na00020101			Ability	Spd00		pointtree03na00020102	ore_0001_s
+pointtree03na00020102			Ability	MaxMp00		pointtree03na00020103	ore_0001_s
+pointtree03na00020103	Tendon-Transmuting · Medicine		Ability	HealCooldown01			Big
+pointtree03na000211			Ability	MaxMp00		pointtree03na000221	
+pointtree03na000212			Ability	ParryDef00		pointtree03na000221,pointtree03na000222	
+pointtree03na000213			Ability	MaxHp00		pointtree03na000222	
+pointtree03na000221	Invigorated Blood (Middle)		Ability	MaxMp_p_01		pointtree03na000231,pointtree03na000232	Big
+pointtree03na000222	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na000233,pointtree03na000234	Big
+pointtree03na000231			Ability	MaxMp_p_00		pointtree03na000241	
+pointtree03na000232			Ability	Dodge00		pointtree03na000241	
+pointtree03na000233			Ability	MaxHp_p_00		pointtree03na000242	
+pointtree03na000234			Ability	ParryDef00		pointtree03na000243	
+pointtree03na000241			Ability	MaxMp00		pointtree03na000251,pointtree03na000252	
+pointtree03na000242			Ability	Cure00		pointtree03na000253	
+pointtree03na000243			Ability	MaxHp00		pointtree03na000254	
+pointtree03na000251	Fortune Follows Misfortune		Passive	pointtree03na000251			Big
+pointtree03na000252	Qi Gathering · Channel Transfer (Lesser)		Ability	BuffNeedMp00,DeubuffNeedMp00,RecoverNeedMp00			Big
+pointtree03na000253	Extremes Beget Their Opposite		Passive	pointtree03na000253			Big
+pointtree03na000254	Rising Again		Passive	pointtree03na000254			Big
+pointtree03na000301			Ability	MaxHp00		pointtree03na000311,pointtree03na000312,pointtree03na000313	
+pointtree03na000311			Ability	MaxHp00		pointtree03na000321	
+pointtree03na000312			Ability	Dodge00		pointtree03na000321,pointtree03na000322	
+pointtree03na000313			Ability	MaxMp00		pointtree03na000322	
+pointtree03na000321	Effortless Plucking		Ability	Memory01		pointtree03na000331	Big
+pointtree03na000322	Clear Moon, Gentle Breeze		Passive	pointtree03na000322		pointtree03na000332,pointtree03na000333	Big
+pointtree03na000331			Ability	MaxHp00		pointtree03na000341,pointtree03na000342	
+pointtree03na000332			Ability	MaxMp00		pointtree03na000343	
+pointtree03na000333			Ability	SpecialDef00		pointtree03na000344,pointtree03na000345	
+pointtree03na000341			Ability	MaxHp00		pointtree03na000351,pointtree03na000355	
+pointtree03na000342			Ability	Spd00		pointtree03na000352	
+pointtree03na000343			Ability	Hit00		pointtree03na000353	
+pointtree03na000344			Ability	InternalDef00		pointtree03na000353	
+pointtree03na000345			Ability	Parry00		pointtree03na000354	
+pointtree03na000351	Spring Moon Mirror		Passive	pointtree03na000351			Big
+pointtree03na000352	Only Speed Is Unbeatable		Passive	pointtree03na000352			Big
+pointtree03na000353	Bright Moon in the Sky		Passive	pointtree03na000353			Big
+pointtree03na000354	Ghost Steps (Greater)		Ability	Dodge02			Big
+pointtree03na000355	Autumn Water Mirror		Passive	pointtree03na000355			Big
+pointtree03na000501			Ability	MaxHp_p_00		pointtree03na000511,pointtree03na000512	
+pointtree03na000511			Ability	MaxHp00		pointtree03na000521,pointtree03na000522	
+pointtree03na000512			Ability	MaxMp_p_00		pointtree03na000522,pointtree03na000523	
+pointtree03na000521	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na000531,pointtree03na000532	Big
+pointtree03na000522	Invigorated Blood (Middle)		Ability	MaxHp_p_01		pointtree03na000533	Big
+pointtree03na000523	Battle Nourishes Qi		Passive	pointtree03na000523		pointtree03na000533,pointtree03na000534,pointtree03na000535	Big
+pointtree03na000531			Ability	MaxHp00		pointtree03na000541	
+pointtree03na000532			Ability	MaxHp00		pointtree03na000542	
+pointtree03na000533			Ability	MaxHp00		pointtree03na000543	
+pointtree03na000534			Ability	MaxMp00		pointtree03na000544	
+pointtree03na000535			Ability	MaxHp00		pointtree03na000545	
+pointtree03na000541			Ability	MaxMp00		pointtree03na000551	
+pointtree03na000542			Ability	MaxHp_p_00		pointtree03na000551	
+pointtree03na000543			Ability	MaxMp_p_00		pointtree03na000552	
+pointtree03na000544			Ability	MaxHp00		pointtree03na000553	
+pointtree03na000545			Ability	MaxHp00		pointtree03na000554	
+pointtree03na000551	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree03na000552	Bathed in Blood		Passive	pointtree03na000552			Big
+pointtree03na000553	Full of Vigor		Ability	MaxHp_p_01,MaxHp00			Big
+pointtree03na000554	Wrapped in Red Sand		Ability	pointtree03na000152			Big
+pointtree03na0006	Master Artisan		Passive	pointtree00na0006			
+pointtree03na000601			Ability	MaxHp00		pointtree03na000611	
+pointtree03na000611			Ability	MaxMp00		pointtree03na000621,pointtree03na000622,pointtree03na000623	
+pointtree03na000621	Steel Pillar, Iron Horse · Wooden Beast		Ability	na0006MaxPosture01	na0007	pointtree03na000631	Big
+pointtree03na000622	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na000632	Big
+pointtree03na000623	Tailwind		Passive	pointtree03na000623	na0008	pointtree03na000633	Big
+pointtree03na000631			Ability	na0006Hit00	na0007	pointtree03na000641,pointtree03na000642	
+pointtree03na000632			Ability	MaxHp00		pointtree03na000643,pointtree03na000644,pointtree03na000647	
+pointtree03na000633			Ability	na0006Hit00	na0008	pointtree03na000645,pointtree03na000646	
+pointtree03na000641			Ability	na0006CounterAtk00	na0007	pointtree03na000651	
+pointtree03na000642			Ability	na0006Counter00	na0007	pointtree03na000651	
+pointtree03na000643			Ability	MaxMp00		pointtree03na000652	
+pointtree03na000644			Ability	MaxHp00		pointtree03na000652	
+pointtree03na000645			Ability	na0006Dodge00	na0008	pointtree03na000653	
+pointtree03na000646			Ability	na0006Hit00	na0008	pointtree03na000653	
+pointtree03na000647			Ability	Parry00		pointtree03na000652	
+pointtree03na000651	Thermal Energy		Passive	pointtree03na000651	na0007		Big
+pointtree03na000652	Effortless Plucking		Ability	Memory01			Big
+pointtree03na000653	Circling		Passive	pointtree03na000653	na0008		Big
+pointtree03na001001			Ability	MaxHp00		pointtree03na001011,pointtree03na001012	
+pointtree03na00100101			Ability	MaxHp00		pointtree03na00100102	ore_0001_s
+pointtree03na00100102			Ability	Dodge00		pointtree03na00100103	ore_0001_s
+pointtree03na00100103	Kindred Hearts		Ability	pointtree03na00100103			Big
+pointtree03na001011			Ability	MaxMp00		pointtree03na001021,pointtree03na001022	
+pointtree03na001012			Ability	MaxHp00		pointtree03na001022,pointtree03na001023	
+pointtree03na001021	Sea of Qi (Middle)		Ability	MaxMp01		pointtree03na001031	Big
+pointtree03na001022	Body Guard · General Formula (Lesser)		Ability	ExternalDef00,InternalDef00,SpecialDef00		pointtree03na001032,pointtree03na001033,pointtree03na001034	Big
+pointtree03na001023	Invigorated Blood (Middle)		Ability	MaxHp_p_01		pointtree03na001035	Big
+pointtree03na001031			Ability	MaxMp00		pointtree03na001041,pointtree03na001042	
+pointtree03na001032			Ability	ExternalDef00		pointtree03na001043	
+pointtree03na001033			Ability	InternalDef00		pointtree03na001044	
+pointtree03na001034			Ability	SpecialDef00		pointtree03na001045	
+pointtree03na001035			Ability	MaxHp_p_00		pointtree03na001046,pointtree03na001047	
+pointtree03na001041			Ability	Dodge00		pointtree03na001051	
+pointtree03na001042			Ability	MaxMp00		pointtree03na001052	
+pointtree03na001043			Ability	ExternalDef00		pointtree03na001053	
+pointtree03na001044			Ability	InternalDef00		pointtree03na001053	
+pointtree03na001045			Ability	SpecialDef00		pointtree03na001053	
+pointtree03na001046			Ability	Parry00		pointtree03na001054	
+pointtree03na001047			Ability	MaxHp00		pointtree03na001055	
+pointtree03na001051	Effortless Plucking		Ability	Memory01			Big
+pointtree03na001052	Drunk Today		Passive	pointtree03na001052			Big
+pointtree03na001053	Drunk in Eye and Spirit		Passive	pointtree03na001053			Big
+pointtree03na001054	Flower Butterfly Mirror		Passive	pointtree03na001054			Big
+pointtree03na001055	Invigorated Blood (Greater)		Ability	MaxHp_p_02			Big
+pointtree03na001101			Ability	MaxHp00		pointtree03na001111	
+pointtree03na001111			Ability	MaxMp00		pointtree03na001121,pointtree03na001122	
+pointtree03na001121	Sea of Qi (Middle)		Ability	MaxMp01		pointtree03na001131,pointtree03na001132	Big
+pointtree03na001122	Sea of Qi (Middle)		Ability	MaxMp01		pointtree03na001132,pointtree03na001133	Big
+pointtree03na001131			Ability	MaxHp00		pointtree03na001141	
+pointtree03na001132			Ability	Dodge00		pointtree03na001142	
+pointtree03na001133			Ability	MaxHp00		pointtree03na001143,pointtree03na001144	
+pointtree03na001141			Ability	MaxHp00		pointtree03na001151	
+pointtree03na001142			Ability	Dodge00		pointtree03na001152	
+pointtree03na001143			Ability	Spd00		pointtree03na001153	
+pointtree03na001144			Ability	Spd00		pointtree03na001154	
+pointtree03na001151	Invigorated Blood (Middle)		Ability	MaxHp01			Big
+pointtree03na001152	Not a Drop Touches		Passive	pointtree03na001152			Big
+pointtree03na001153	Lone Winter Plum		Passive	pointtree03na001153			Big
+pointtree03na001154	Fallen Plum in Drifting Snow		Passive	pointtree03na001154			Big
+pointtree03na001201			Ability	MaxMp00		pointtree03na001211	
+pointtree03na001211			Ability	MaxHp00		pointtree03na001221,pointtree03na001222	
+pointtree03na001221	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na001231,pointtree03na001232	Big
+pointtree03na001222	Sea of Qi (Middle)		Ability	MaxMp01		pointtree03na001233,pointtree03na001234	Big
+pointtree03na001231			Ability	Parry00		pointtree03na001241,pointtree03na001242	
+pointtree03na001232			Ability	MaxHp00		pointtree03na001243	
+pointtree03na001233			Ability	MaxMp00		pointtree03na001243,pointtree03na001244	
+pointtree03na001234			Ability	Counter00		pointtree03na001244	
+pointtree03na001241			Ability	ParryDef00		pointtree03na001251	
+pointtree03na001242			Ability	MaxHp00		pointtree03na001252	
+pointtree03na001243			Ability	Dodge00		pointtree03na001253	
+pointtree03na001244			Ability	MaxMp00		pointtree03na001254	
+pointtree03na001251	Devour		Passive	pointtree03na001251			Big
+pointtree03na001252	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree03na001253	Effortless Plucking		Ability	Memory01			Big
+pointtree03na001254	Qi Gathering · Swordplay (Greater)		Ability	SwordNeedMp02			Big
+pointtree03na001301			Ability	MaxHp00		pointtree03na001311	
+pointtree03na001311			Ability	MaxMp00		pointtree03na001321,pointtree03na001322	
+pointtree03na001321	Sea of Qi (Middle)		Ability	MaxMp01		pointtree03na001331,pointtree03na001332	Big
+pointtree03na001322	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na001332,pointtree03na001333	Big
+pointtree03na001331			Ability	MaxHp00		pointtree03na001341,pointtree03na001342	
+pointtree03na001332			Ability	Spd00		pointtree03na001343	
+pointtree03na001333			Ability	MaxHp00		pointtree03na001344,pointtree03na001345	
+pointtree03na001341			Ability	Spd00		pointtree03na001351	
+pointtree03na001342			Ability	MaxMp00		pointtree03na001351	
+pointtree03na001343			Ability	Dodge00		pointtree03na001352	
+pointtree03na001344			Ability	MaxHp00		pointtree03na001353	
+pointtree03na001345			Ability	Spd00		pointtree03na001354	
+pointtree03na001351	Counsel in Due Order		Passive	pointtree03na001351			Big
+pointtree03na001352	Marvelous Steps		Passive	pointtree03na001352			Big
+pointtree03na001353	Self-Taught Master		Passive	pointtree03na001353			Big
+pointtree03na001354	Effortless Plucking		Ability	Memory01			Big
+pointtree03na002101			Ability	MaxHp00		pointtree03na002111	
+pointtree03na002111			Ability	MaxMp00		pointtree03na002121,pointtree03na002122	
+pointtree03na002121	Sea of Qi (Middle)		Ability	MaxMp01		pointtree03na002131,pointtree03na002132	Big
+pointtree03na002122	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na002132,pointtree03na002133	Big
+pointtree03na002131			Ability	MaxHp00		pointtree03na002141	
+pointtree03na002132			Ability	MaxHp00		pointtree03na002142	
+pointtree03na002133			Ability	MaxHp00		pointtree03na002143,pointtree03na002144	
+pointtree03na002141			Ability	MaxMp00		pointtree03na002151	
+pointtree03na002142			Ability	MaxMp00		pointtree03na002152	
+pointtree03na002143			Ability	Parry00		pointtree03na002153	
+pointtree03na002144			Ability	Cure00		pointtree03na002154	
+pointtree03na002151	Willow Catkin Force		Passive	pointtree03na002151			Big
+pointtree03na002152	Rousing the Spirit		Ability	MaxHp01,MaxMp01			Big
+pointtree03na002153	Effortless Plucking		Ability	Memory01			Big
+pointtree03na002154	Blood Qi		Passive	pointtree03na002154			Big
+pointtree03na002701			Ability	MaxHp00		pointtree03na002711,pointtree03na002712	
+pointtree03na00270101			Ability	CounterAtk00		pointtree03na00270102	ore_0001_s
+pointtree03na00270102			Ability	MaxHp00		pointtree03na00270103	ore_0001_s
+pointtree03na00270103	Shifting Stars (Greater)		Ability	CounterAtk02			Big
+pointtree03na002711			Ability	MaxHp00		pointtree03na002721,pointtree03na002722	
+pointtree03na002712			Ability	Counter00		pointtree03na002723	
+pointtree03na002721	Effortless Plucking		Ability	Memory01		pointtree03na002731	Big
+pointtree03na002722	Sea of Qi (Middle)		Ability	MaxMp_p_01		pointtree03na002732	Big
+pointtree03na002723	Invigorated Blood (Middle)		Ability	MaxHp_p_01		pointtree03na002732,pointtree03na002733	Big
+pointtree03na002731			Ability	MaxHp00		pointtree03na002741,pointtree03na002742	
+pointtree03na002732			Ability	MaxMp00		pointtree03na002743	
+pointtree03na002733			Ability	MaxHp00		pointtree03na002744,pointtree03na002745,pointtree03na002746	
+pointtree03na002741			Ability	MaxHp00		pointtree03na002751	
+pointtree03na002742			Ability	ParryDef00		pointtree03na002751	
+pointtree03na002743			Ability	Dodge00		pointtree03na002752	
+pointtree03na002744			Ability	Counter00		pointtree03na002753	
+pointtree03na002745			Ability	MaxHp_p_00		pointtree03na002754	
+pointtree03na002746			Ability	MaxHp00		pointtree03na002755	
+pointtree03na002751	Using the Foe's Force		Passive	pointtree03na002751			Big
+pointtree03na002752	Retreat to Advance		Passive	pointtree03na002752			Big
+pointtree03na002753	Conserving Strength		Ability	FightNeedMp03			Big
+pointtree03na002754	Deeply Rooted		Ability	MaxPosture02			Big
+pointtree03na002755	A Startling Debut		Passive	pointtree03na002755			Big
+pointtree03na002901			Ability	MaxMp00		pointtree03na002911,pointtree03na002912	
+pointtree03na00290101			Ability	Parry00		pointtree03na00290102	ore_0001_s
+pointtree03na00290102			Ability	Dodge00		pointtree03na00290103	ore_0001_s
+pointtree03na00290103	Quick Eyes, Quick Hands		Ability	pointtree03na00290103			Big
+pointtree03na002911			Ability	MaxHp00		pointtree03na002921	
+pointtree03na002912			Ability	MaxMp00		pointtree03na002922	
+pointtree03na002921	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na002931,pointtree03na002932	Big
+pointtree03na002922	Sea of Qi (Middle)		Ability	MaxMp_p_01		pointtree03na002933,pointtree03na002934	Big
+pointtree03na002931			Ability	InternalDef00		pointtree03na002941,pointtree03na002942	
+pointtree03na002932			Ability	MaxHp00		pointtree03na002943	
+pointtree03na002933			Ability	MaxMp00		pointtree03na002944,pointtree03na002943	
+pointtree03na002934			Ability	SpecialDef00		pointtree03na002945	
+pointtree03na002941			Ability	Parry00		pointtree03na002951	
+pointtree03na002942			Ability	MaxHp00		pointtree03na002952	
+pointtree03na002943			Ability	MaxHp00		pointtree03na002953	
+pointtree03na002944			Ability	Dodge00		pointtree03na002954	
+pointtree03na002945			Ability	MaxMp_p_00		pointtree03na002955,pointtree03na002956	
+pointtree03na002951	Do Not Enter the Blood Shadow		Passive	pointtree03na002951			Big
+pointtree03na002952	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree03na002953	Beheaded and Bled		Passive	pointtree03na002953			Big
+pointtree03na002954	Dismantling Moves (Middle)		Ability	Parry02			Big
+pointtree03na002955	A Life for a Life		Passive	pointtree03na002955			Big
+pointtree03na002956	Effortless Plucking		Ability	Memory01			Big
+pointtree03na003001			Ability	MaxHp00		pointtree03na003011,pointtree03na003012	
+pointtree03na00300101			Ability	Special00		pointtree03na00300102	
+pointtree03na00300102		Internal	Ability	Internal00		pointtree03na00300103	
+pointtree03na00300103	Endless Transformations		Passive	pointtree03na00300103			Big
+pointtree03na003011			Ability	MaxHp00		pointtree03na003021,pointtree03na003022	
+pointtree03na003012			Ability	MaxMp00		pointtree03na003023,pointtree03na003022	
+pointtree03na003021	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na003031,pointtree03na003032	Big
+pointtree03na003022	Effortless Plucking		Ability	Memory01		pointtree03na003033	Big
+pointtree03na003023	Sea of Qi (Middle)		Ability	MaxMp_p_01		pointtree03na003034	Big
+pointtree03na003031			Ability	MaxHp00		pointtree03na003041	
+pointtree03na003032			Ability	Parry00		pointtree03na003041	
+pointtree03na003033			Ability	MaxHp00		pointtree03na003042,pointtree03na003043	
+pointtree03na003034			Ability	MaxMp_p_00		pointtree03na003043,pointtree03na003044	
+pointtree03na003041			Ability	MaxHp00		pointtree03na003051	
+pointtree03na003042			Ability	Counter00		pointtree03na003052	
+pointtree03na003043			Ability	ParryDef00		pointtree03na003053	
+pointtree03na003044			Ability	MaxMp00		pointtree03na003054	
+pointtree03na003051	Hiding in the Forest		Passive	pointtree03na003051			Big
+pointtree03na003052	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree03na003053	Advance and Retreat at Will		Passive	pointtree03na003053			Big
+pointtree03na003054	Leaving Room to Spare		Passive	pointtree03na003054			Big
+pointtree03na003301			Ability	MaxHp00		pointtree03na003311	
+pointtree03na003311			Ability	MaxMp00		pointtree03na003321,pointtree03na003322	
+pointtree03na003321	Sea of Qi (Middle)		Ability	MaxMp01		pointtree03na003331,pointtree03na003332	Big
+pointtree03na003322	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na003332,pointtree03na003333	Big
+pointtree03na003331			Ability	InternalDef00		pointtree03na003341	
+pointtree03na003332			Ability	MaxHp00		pointtree03na003342	
+pointtree03na003333			Ability	MaxHp00		pointtree03na003343,pointtree03na003344	
+pointtree03na003341			Ability	MaxMp00		pointtree03na003351	
+pointtree03na003342			Ability	MaxHp00		pointtree03na003352	
+pointtree03na003343			Ability	Spd00		pointtree03na003353	
+pointtree03na003344			Ability	MaxMp00		pointtree03na003354	
+pointtree03na003351	Effortless Plucking		Ability	Memory01			Big
+pointtree03na003352	Hazy Moon		Passive	pointtree03na003352			Big
+pointtree03na003353	Hidden Among the Flowers		Passive	pointtree03na003353			Big
+pointtree03na003354	Qi Suspended in the Dantian		Passive	pointtree03na003354			Big
+pointtree03na003801			Ability	MaxHp00		pointtree03na003811,pointtree03na003812	
+pointtree03na00380101			Ability	MaxHp00		pointtree03na00380102	ore_0001_s
+pointtree03na00380102			Ability	MaxMp00		pointtree03na00380103	ore_0001_s
+pointtree03na00380103			Ability	Cure02			ore_0001_s
+pointtree03na003811			Ability	MaxHp00		pointtree03na003821	
+pointtree03na003812			Ability	MaxMp00		pointtree03na003822	
+pointtree03na003821	Invigorated Blood (Middle)		Ability	MaxHp01		pointtree03na003831,pointtree03na003832	Big
+pointtree03na003822	A Benevolent Healer's Art		Ability	MaxMp00,Cure00		pointtree03na003832,pointtree03na003833	Big
+pointtree03na003831			Ability	MaxHp00		pointtree03na003841,pointtree03na003842	
+pointtree03na003832			Ability	Dodge00		pointtree03na003843	
+pointtree03na003833			Ability	MaxHp00		pointtree03na003844,pointtree03na003845	
+pointtree03na003841			Ability	MaxMp00		pointtree03na003851	
+pointtree03na003842			Ability	ParryDef00		pointtree03na003851	
+pointtree03na003843			Ability	Dodge00		pointtree03na003852	
+pointtree03na003844			Ability	Cure00		pointtree03na003853	
+pointtree03na003845			Ability	MaxMp00		pointtree03na003854	
+pointtree03na003851	Drawing in Qi		Passive	pointtree03na003851			Big
+pointtree03na003852	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree03na003853	Effortless Plucking		Ability	Memory01			Big
+pointtree03na003854	Balance of Yin and Yang		Passive	pointtree03na003854			Big
+pointtree0401			Ability	Spd00		pointtree0411	ore_0001_s
+pointtree0411			Ability	Hit00		pointtree0421,pointtree0422,pointtree0423	ore_0001_s
+pointtree0421	Strike the Unprepared		Passive	pointtree0421		pointtree0431,pointtree0432	Big
+pointtree0422	Bone-Tempering · Channel Sealing (Greater)		Ability	TrickCostDown02		pointtree0433	Big
+pointtree0423	Qi Gathering · Channel Reviving (Greater)		Ability	StrategyNeedMp02		pointtree0434,pointtree0435	Big
+pointtree0431			Ability	Spd00		pointtree0441	ore_0001_s
+pointtree0432			Ability	CriAtk00		pointtree0442,pointtree0443	ore_0001_s
+pointtree0433			Ability	Spd00		pointtree0444,pointtree0445	ore_0001_s
+pointtree0434			Ability	Cure00		pointtree0446	ore_0001_s
+pointtree0435			Ability	Cri00		pointtree0446	ore_0001_s
+pointtree0441			Ability	Atk00		pointtree0451	ore_0001_s
+pointtree0442			Ability	CriAtk00		pointtree0452	ore_0001_s
+pointtree0443			Ability	Cri00		pointtree0452	ore_0001_s
+pointtree0444			Ability	MaxMp00		pointtree0453	ore_0001_s
+pointtree0445			Ability	Dodge00		pointtree0453	ore_0001_s
+pointtree0446			Ability	MaxHp00		pointtree0454	ore_0001_s
+pointtree0451	Swallow Skimming the Waves		Ability	Move01			Big
+pointtree0452	Tendon-Transmuting · Channel Sealing		Ability	TrickCooldown01			Big
+pointtree0453	Strong Trunk, Weak Branches		Passive	pointtree0453			Big
+pointtree0454	Bone-Tempering · Channel Reviving (Greater)		Ability	StrategyCostDown02			Big
+pointtree04na000001			Ability	Spd00		pointtree04na000011,pointtree04na000012	
+pointtree04na000011			Ability	Spd00		pointtree04na000021,pointtree04na000022	
+pointtree04na000012			Ability	AttackCostDown00		pointtree04na000023	
+pointtree04na000021	Bone-Tempering · Channel Control (Middle)		Ability	BuffCostDown01,DebuffCostDown01		pointtree04na000031,pointtree04na000032,pointtree04na000033	Big
+pointtree04na000022	Flying Body (Middle)		Ability	Spd01		pointtree04na000034,pointtree04na000035,pointtree04na000036	Big
+pointtree04na000023	Bone-Tempering · Offense (Middle)		Ability	AttackCostDown01		pointtree04na000037,pointtree04na000038,pointtree04na000039	Big
+pointtree04na000031			Ability	Spd00		pointtree04na000041	
+pointtree04na000032			Ability	Dodge00		pointtree04na000042	
+pointtree04na000033			Ability	BuffCostDown00,DebuffCostDown00		pointtree04na000043	
+pointtree04na000034			Ability	Parry00		pointtree04na000044	
+pointtree04na000035			Ability	Dodge00		pointtree04na000044	
+pointtree04na000036			Ability	Spd00		pointtree04na000045,pointtree04na000046	
+pointtree04na000037			Ability	Spd00		pointtree04na000046,pointtree04na000047	
+pointtree04na000038			Ability	CriAtk00		pointtree04na000048	
+pointtree04na000039			Ability	Cri00		pointtree04na000048	
+pointtree04na000041			Ability	Counter00		pointtree04na000051	
+pointtree04na000042			Ability	Spd00		pointtree04na000052	
+pointtree04na000043			Ability	BuffCostDown00,DebuffCostDown00		pointtree04na000052	
+pointtree04na000044			Ability	Spd00		pointtree04na000053,pointtree04na000054	
+pointtree04na000045			Ability	Spd00		pointtree04na000055	
+pointtree04na000046			Ability	Spd00		pointtree04na000056	
+pointtree04na000047			Ability	CriAtk00		pointtree04na000056	
+pointtree04na000048			Ability	AttackCostDown00		pointtree04na000057	
+pointtree04na000051	Command		Passive	pointtree04na000051			Big
+pointtree04na000052	Tendon-Transmuting · Channel Control		Ability	BuffColdDown01,DebuffColdDown01			Big
+pointtree04na000053	Flying Body (Greater)		Ability	Spd02			Big
+pointtree04na000054	Calm in the Face of Danger		Passive	pointtree04na000054			Big
+pointtree04na000055	Swallow Skimming the Waves		Ability	Move01			Big
+pointtree04na000056	Swift as Wind and Lightning		Passive	pointtree04na000056			Big
+pointtree04na000057	Thunderbolt Strike		Passive	pointtree04na000057			Big
+pointtree04na000101			Ability	Spd00		pointtree04na000111	
+pointtree04na000111			Ability	Hit00		pointtree04na000121,pointtree04na000122	
+pointtree04na000121	Blazing Eyes (Middle)		Ability	Hit01		pointtree04na000131	Big
+pointtree04na000122	Effortless Plucking		Ability	Memory01		pointtree04na000132	Big
+pointtree04na000131			Ability	Hit00		pointtree04na000141,pointtree04na000142	
+pointtree04na000132			Ability	Spd00		pointtree04na000143,pointtree04na000144,pointtree04na000145	
+pointtree04na000141			Ability	Hit00		pointtree04na000151	
+pointtree04na000142			Ability	Internal00		pointtree04na000152	
+pointtree04na000143			Ability	Special00		pointtree04na000153	
+pointtree04na000144			Ability	Atk00		pointtree04na000153,pointtree04na000154	
+pointtree04na000145			Ability	Spd00		pointtree04na000154	
+pointtree04na000151	Bone-Tempering · Swordplay (Middle)		Ability	SwordCostDown01			Big
+pointtree04na000152	Eyes Like Torches		Ability	pointtree04na000152			Big
+pointtree04na000153	Taking It in Stride		Passive	pointtree04na000153			Big
+pointtree04na000154	Like Drifting Clouds and Flowing Water		Passive	pointtree04na000154			Big
+pointtree04na000201			Ability	Spd00		pointtree04na000211,pointtree04na000212,pointtree04na000213	
+pointtree04na00020101			Ability	MaxMp00		pointtree04na00020102	ore_0001_s
+pointtree04na00020102			Ability	TrickCostDown00		pointtree04na00020103	ore_0001_s
+pointtree04na00020103	Adding Fuel to the Fire		Passive	pointtree04na00020103			Big
+pointtree04na00020201			Ability	Dodge00		pointtree04na00020202	
+pointtree04na00020202			Ability	Spd00		pointtree04na00020203	
+pointtree04na00020203		减益招式、增益招式冷却下降、内力增加	Ability	pointtree04na00020203			
+pointtree04na000211			Ability	Spd00		pointtree04na000221	
+pointtree04na000212			Ability	Cure00		pointtree04na000222	
+pointtree04na000213			Ability	Dodge00		pointtree04na000223	
+pointtree04na000221	Flying Body (Middle)		Ability	Spd01		pointtree04na000231,pointtree04na000232	Big
+pointtree04na000222	Bone-Tempering · Channel Transfer (Lesser)		Ability	BuffCostDown00,RecoverCostDown00		pointtree04na000232,pointtree04na000233	Big
+pointtree04na000223	Bone-Tempering · Channel Sealing (Middle)		Ability	DebuffCostDown01		pointtree04na000234	Big
+pointtree04na000231			Ability	Hit00		pointtree04na000241	
+pointtree04na000232			Ability	BuffCostDown00		pointtree04na000242	
+pointtree04na000233			Ability	DebuffCostDown00		pointtree04na000242	
+pointtree04na000234			Ability	MaxMp00		pointtree04na000243,pointtree04na000244	
+pointtree04na000241			Ability	Atk00		pointtree04na000251	
+pointtree04na000242			Ability	Cure00		pointtree04na000252,pointtree04na000253	
+pointtree04na000243			Ability	Spd00		pointtree04na000253,pointtree04na000254	
+pointtree04na000244			Ability	Dodge00		pointtree04na000254,pointtree04na000255	
+pointtree04na000251	Encouragement		Passive	pointtree04na000251			Big
+pointtree04na000252	Tendon-Transmuting · Channel Transfer		Ability	BuffColdDown01,RecoverColdDown01			Big
+pointtree04na000253	Urging On		Passive	pointtree04na000253			Big
+pointtree04na000254	Rage Overwhelms the Heart		Passive	pointtree04na000254			Big
+pointtree04na000255	Battle Cry		Passive	pointtree04na000255			Big
+pointtree04na000301			Ability	Spd00		pointtree04na000311,pointtree04na000312,pointtree04na000313	
+pointtree04na00030101			Ability	MaxMp00		pointtree04na00030102	ore_0001_s
+pointtree04na00030102			Ability	Spd00		pointtree04na00030103	ore_0001_s
+pointtree04na00030103	Bright Moon in the Sky		Passive	pointtree04na00030103			Big
+pointtree04na000302			Ability	Hit00		pointtree04na000313	
+pointtree04na000311			Ability	Spd00		pointtree04na000321	
+pointtree04na000312			Ability	Hit00		pointtree04na000322	
+pointtree04na000313			Ability	MaxMp00		pointtree04na000322,pointtree04na000323	
+pointtree04na000321	Flying Body (Greater)		Ability	Spd02		pointtree04na000331,pointtree04na000332	Big
+pointtree04na000322	Swallow Skimming the Waves		Ability	Move01		pointtree04na000333	Big
+pointtree04na000323	Strike the Unprepared		Passive	pointtree0421		pointtree04na000334,pointtree04na000335,pointtree04na000336	Big
+pointtree04na000331			Ability	Spd00		pointtree04na000341	
+pointtree04na000332			Ability	Cri00		pointtree04na000342	
+pointtree04na000333			Ability	Spd00		pointtree04na000343,pointtree04na000344	
+pointtree04na000334			Ability	MaxMp00		pointtree04na000344	
+pointtree04na000335			Ability	Cri00		pointtree04na000345	
+pointtree04na000336			Ability	Spd00		pointtree04na000346	
+pointtree04na000341			Ability	Atk00		pointtree04na000351,pointtree04na000356	
+pointtree04na000342			Ability	MoveDamage00		pointtree04na000352	
+pointtree04na000343			Ability	Special00		pointtree04na000352,pointtree04na000353	
+pointtree04na000344			Ability	Spd00		pointtree04na000354	
+pointtree04na000345			Ability	FightDamage00		pointtree04na000355	
+pointtree04na000346			Ability	Internal00		pointtree04na000355	
+pointtree04na000351	Quick as Lightning		Ability	pointtree04na000351			Big
+pointtree04na000352	Lightness Master		Ability	MovePostureDamage01			Big
+pointtree04na000353	Tendon-Transmuting · Channel Reviving		Ability	BuffColdDown01			Big
+pointtree04na000354	Moon Sets, Stars Sink		Passive	pointtree04na000354			Big
+pointtree04na000355	Advance to Retreat		Passive	pointtree04na000355			Big
+pointtree04na000356	Dreams Turned to Nothing		Passive	pointtree04na000356			Big
+pointtree04na000501			Ability	Spd00		pointtree04na000511	
+pointtree04na000511			Ability	Cri00		pointtree04na000521,pointtree04na000522	
+pointtree04na000521	Fire-Forged Golden Body		Passive	pointtree04na000521		pointtree04na000531,pointtree04na000532	Big
+pointtree04na000522	Blazing Eyes (Middle)		Ability	Hit01		pointtree04na000533,pointtree04na000534	Big
+pointtree04na000531			Ability	Cri00		pointtree04na000541	
+pointtree04na000532			Ability	DartsMpDamage00		pointtree04na000542	
+pointtree04na000533			Ability	Spd00		pointtree04na000543	
+pointtree04na000534			Ability	Spd00		pointtree04na000544	
+pointtree04na000541			Ability	DartsDamage00		pointtree04na000551	
+pointtree04na000542			Ability	DartsMpDamage00		pointtree04na000552	
+pointtree04na000543			Ability	Hit00		pointtree04na000553	
+pointtree04na000544			Ability	DartsCostDown00		pointtree04na000554	
+pointtree04na000551	Tendon-Transmuting · Hidden Weapons		Ability	DartsColdDown01			Big
+pointtree04na000552	Expanding the Frontier		Passive	pointtree04na000552			Big
+pointtree04na000553	Desert Wind and Sand		Passive	pointtree04na000553			Big
+pointtree04na000554	Swallow Skimming the Waves		Ability	Move01			Big
+pointtree04na000601			Ability	Spd00		pointtree04na000611,pointtree04na000612	
+pointtree04na000611			Ability	na0006Spd00	na0007	pointtree04na000621	
+pointtree04na000612			Ability	na0006Spd00	na0008	pointtree04na000622	
+pointtree04na000621	Flying Body · Wooden Beast (Middle)		Ability	na0006Spd01	na0007	pointtree04na000631,pointtree04na000632	Big
+pointtree04na000622	Flying Body · Wooden Kite (Middle)		Ability	na0006Spd01	na0008	pointtree04na000633,pointtree04na000634	Big
+pointtree04na000631			Ability	na0006Spd00	na0007	pointtree04na000641	
+pointtree04na000632			Ability	na0006Spd00	na0007	pointtree04na000642	
+pointtree04na000633			Ability	na0006Dodge00	na0008	pointtree04na000643	
+pointtree04na000634			Ability	na0006Spd00	na0008	pointtree04na000644	
+pointtree04na000641			Ability	na0006Atk00	na0007	pointtree04na000651	
+pointtree04na000642			Ability	na0006Hit00	na0007	pointtree04na000652,pointtree04na000653	
+pointtree04na000643			Ability	na0006Spd00	na0008	pointtree04na000653,pointtree04na000654	
+pointtree04na000644			Ability	na0006Spd00	na0008	pointtree04na000655	
+pointtree04na000651	Momentum		Passive	pointtree04na000651	na0007		Big
+pointtree04na000652	Heavy Build		Passive	pointtree04na000652	na0007		Big
+pointtree04na000653	Flying Body (Middle)		Ability	Spd01			Big
+pointtree04na000654	Lightweight Refit		Ability	Dodge02	na0008		Big
+pointtree04na000655	Swallow Skimming the Waves · Wooden Kite		Ability	na0006Move01	na0008		Big
+pointtree04na001001			Ability	Spd00		pointtree04na001011	
+pointtree04na001011			Ability	Spd00		pointtree04na001021,pointtree04na001022	
+pointtree04na001021	Waking from a Long Dream		Passive	pointtree04na001021		pointtree04na001031,pointtree04na001032,pointtree04na001033	Big
+pointtree04na001022	Flying Body (Middle)		Ability	Spd01		pointtree04na001034	Big
+pointtree04na001031			Ability	Spd00		pointtree04na001041	
+pointtree04na001032			Ability	Hit00		pointtree04na001042	
+pointtree04na001033			Ability	Spd00		pointtree04na001042	
+pointtree04na001034			Ability	Spd00		pointtree04na001043,pointtree04na001044	
+pointtree04na001041			Ability	Dodge00		pointtree04na001051	
+pointtree04na001042			Ability	Spd00		pointtree04na001052	
+pointtree04na001043			Ability	Hit00		pointtree04na001053	
+pointtree04na001044			Ability	Spd00		pointtree04na001054	
+pointtree04na001051	Soaring on the Whirlwind		Passive	pointtree04na001051			Big
+pointtree04na001052	Swallow Skimming the Waves		Ability	Move01			Big
+pointtree04na001053	Drunk Together to the Ends of the Earth		Passive	pointtree04na001053			Big
+pointtree04na001054	Tendon-Transmuting · Lightness		Ability	MoveColdDown01			Big
+pointtree04na001101			Ability	Spd00		pointtree04na001111	
+pointtree04na00110101			Ability	CriAtk00		pointtree04na00110102	ore_0001_s
+pointtree04na00110102			Ability	CriAtk00		pointtree04na00110103	ore_0001_s
+pointtree04na00110103	Piercing a Willow Leaf at a Hundred Paces		Passive	pointtree04na00110103			Big
+pointtree04na001111			Ability	Hit00		pointtree04na001121,pointtree04na001122,pointtree04na001123	
+pointtree04na001112			Ability	Spd00		pointtree04na001122	
+pointtree04na001121	Echo		Passive	pointtree04na001121		pointtree04na001131,pointtree04na001132,pointtree04na001133	Big
+pointtree04na001122	Blazing Eyes (Middle)		Ability	Hit01		pointtree04na001134	Big
+pointtree04na001123	Ghost Steps (Middle)		Ability	Dodge01		pointtree04na001135,pointtree04na001136	Big
+pointtree04na001131			Ability	Spd00		pointtree04na001141	
+pointtree04na001132			Ability	Spd00		pointtree04na001142	
+pointtree04na001133			Ability	Hit00		pointtree04na001143	
+pointtree04na001134			Ability	Atk00		pointtree04na001143,pointtree04na001144,pointtree04na001145	
+pointtree04na001135			Ability	Dodge00		pointtree04na001145	
+pointtree04na001136			Ability	Dodge00		pointtree04na001146	
+pointtree04na001141			Ability	Cri00		pointtree04na001151	
+pointtree04na001142			Ability	CriAtk00		pointtree04na001152	
+pointtree04na001143			Ability	Hit00		pointtree04na001153	
+pointtree04na001144			Ability	Atk00		pointtree04na001154	
+pointtree04na001145			Ability	CriAtk00		pointtree04na001155	
+pointtree04na001146			Ability	Hit00		pointtree04na001155	
+pointtree04na001151	Watching for the Moment		Ability	pointtree04na001151			Big
+pointtree04na001152	Seizing Every Opening		Passive	pointtree04na001152			Big
+pointtree04na001153	Seeing the Finest Hair		Ability	DartsMaxRange01			Big
+pointtree04na001154	Tendon-Transmuting · Hidden Weapons		Ability	DartsColdDown01			Big
+pointtree04na001155	Survival Against All Odds		Passive	pointtree04na001155			Big
+pointtree04na001201			Ability	Spd00		pointtree04na001211,pointtree04na001212	
+pointtree04na00120101			Ability	Atk00		pointtree04na00120102	
+pointtree04na00120102			Ability			pointtree04na00120103	
+pointtree04na00120103		自身孤立时，回复伤害10%的气血	Passive	pointtree04na00120103			
+pointtree04na00120201			Ability	MaxMp00		pointtree04na00120202	
+pointtree04na00120202			Ability	Hit00		pointtree04na00120203	
+pointtree04na00120203			Passive	pointtree04na00120203			
+pointtree04na001211			Ability	Hit00		pointtree04na001221	
+pointtree04na001212			Ability	Spd00		pointtree04na001222	
+pointtree04na001221	Valor (Middle)		Ability	Atk01		pointtree04na001231,pointtree04na001232	Big
+pointtree04na001222	Flying Body (Middle)		Ability	Spd01		pointtree04na001233,pointtree04na001234	Big
+pointtree04na001231			Ability	Spd00		pointtree04na001241	
+pointtree04na001232			Ability	SwordCostDown00		pointtree04na001242	
+pointtree04na001233			Ability	Dodge00		pointtree04na001243	
+pointtree04na001234			Ability	Spd00		pointtree04na001244	
+pointtree04na001241			Ability	Atk00		pointtree04na001251,pointtree04na001252	
+pointtree04na001242			Ability	Spd00		pointtree04na001253	
+pointtree04na001243			Ability	Spd00		pointtree04na001253	
+pointtree04na001244			Ability	Hit00		pointtree04na001254,pointtree04na001255	
+pointtree04na001251	Sword Ring		Passive	pointtree04na001251			Big
+pointtree04na001252	Lightning Strike, Shooting Star		Passive	pointtree04na001252			Big
+pointtree04na001253	Bone-Tempering · Swordplay (Greater)		Ability	SwordCostDown02			Big
+pointtree04na001254	Victory in One Blow		Passive	pointtree04na001254			Big
+pointtree04na001255	Swallow Skimming the Waves		Ability	Move01			Big
+pointtree04na001301			Ability	Spd00		pointtree04na001311	
+pointtree04na001311			Ability	Spd00		pointtree04na001321,pointtree04na001322,pointtree04na001323	
+pointtree04na001321	Tendon-Transmuting · Twin Blades		Ability	DaggerColdDown01		pointtree04na001331,pointtree04na001332	Big
+pointtree04na001322	Flying Body (Middle)		Ability	Spd01		pointtree04na001333	Big
+pointtree04na001323	Leaves Never Touch the Body		Ability	Dodge01,Spd01		pointtree04na001334,pointtree04na001335	Big
+pointtree04na001331			Ability	Spd00		pointtree04na001341	
+pointtree04na001332			Ability	Spd00		pointtree04na001342	
+pointtree04na001333			Ability	Spd00		pointtree04na001343,pointtree04na001344	
+pointtree04na001334			Ability	Dodge00		pointtree04na001345	
+pointtree04na001335			Ability	Dodge00		pointtree04na001345	
+pointtree04na001341			Ability	Spd00		pointtree04na001351	
+pointtree04na001342			Ability	Hit00		pointtree04na001352	
+pointtree04na001343			Ability	Hit00		pointtree04na001353	
+pointtree04na001344			Ability	Spd00		pointtree04na001354	
+pointtree04na001345			Ability	Dodge00		pointtree04na001355	
+pointtree04na001351	Bone-Tempering · Twin Blades (Middle)		Ability	DaggerCostDown02			Big
+pointtree04na001352	Qi Gathering · Twin Blades (Middle)		Ability	DaggerNeedMp02			Big
+pointtree04na001353	Channel-Breaking Force		Passive	pointtree04na001353			Big
+pointtree04na001354	Swift as a Fleeing Hare		Passive	pointtree04na001354			Big
+pointtree04na001355	Flash Step		Passive	pointtree04na001355			Big
+pointtree04na002101			Ability	Spd00		pointtree04na002111	
+pointtree04na002111			Ability	Hit00		pointtree04na002121,pointtree04na002122,pointtree04na002123	
+pointtree04na002121	Effortless Plucking		Ability	Memory01		pointtree04na002131,pointtree04na002132	Big
+pointtree04na002122	Flying Body (Middle)		Ability	Spd01		pointtree04na002133,pointtree04na002134	Big
+pointtree04na002123	Keen Eye (Middle)		Ability	Cri01		pointtree04na002134,pointtree04na002135	Big
+pointtree04na002131			Ability	CriAtk00		pointtree04na002141	
+pointtree04na002132			Ability	Spd00		pointtree04na002142	
+pointtree04na002133			Ability	Atk00		pointtree04na002143,pointtree04na002144	
+pointtree04na002134			Ability	Cri00		pointtree04na002144,pointtree04na002145	
+pointtree04na002135			Ability	Spd00		pointtree04na002145	
+pointtree04na002141			Ability	CriAtk00		pointtree04na002151	
+pointtree04na002142			Ability	Spd00		pointtree04na002152	
+pointtree04na002143			Ability	MaxMp00		pointtree04na002153	
+pointtree04na002144			Ability	Dodge00		pointtree04na002154	
+pointtree04na002145			Ability	MaxHp00		pointtree04na002155	
+pointtree04na002151	Seeing the Finest Hair		Ability	DartsMaxRange01			Big
+pointtree04na002152	Tendon-Transmuting · Hidden Weapons		Ability	DartsColdDown01			Big
+pointtree04na002153	Venom Soak		Passive	pointtree04na002153			Big
+pointtree04na002154	Poison Cloud Across the Sky		Passive	pointtree04na002154			Big
+pointtree04na002155	A Thousand Venoms		Passive	pointtree04na002155			Big
+pointtree04na002701			Ability	Spd00		pointtree04na002711	
+pointtree04na002711			Ability	Hit00		pointtree04na002721,pointtree04na002722	
+pointtree04na002721	Blazing Eyes (Middle)		Ability	Hit01		pointtree04na002731,pointtree04na002732	Big
+pointtree04na002722	Striding Like the Wind		Ability	Spd00,Dodge00		pointtree04na002733,pointtree04na002734	Big
+pointtree04na002731			Ability	Atk00		pointtree04na002741	
+pointtree04na002732			Ability	Spd00		pointtree04na002742	
+pointtree04na002733			Ability	Dodge00		pointtree04na002743	
+pointtree04na002734			Ability	Spd00		pointtree04na002744	
+pointtree04na002741			Ability	Hit00		pointtree04na002751	
+pointtree04na002742			Ability	Spd00		pointtree04na002752	
+pointtree04na002743			Ability	ParryDef00		pointtree04na002753	
+pointtree04na002744			Ability	CounterAtk00		pointtree04na002754	
+pointtree04na002751	Crouching Phoenix, Hidden Dragon		Passive	pointtree04na002751			Big
+pointtree04na002752	Boundless Freedom		Passive	pointtree04na002752			Big
+pointtree04na002753	Treading Flames		Passive	pointtree04na002753			Big
+pointtree04na002754	Tendon-Transmuting · Fist Arts		Ability	FightColdDown01			Big
+pointtree04na002901			Ability	Spd00		pointtree04na002911,pointtree04na002912	
+pointtree04na00290101			Ability	Spd00		pointtree04na00290102	
+pointtree04na00290102			Ability	Sod00		pointtree04na00290103	
+pointtree04na00290103	Covered in Wounds		Passive	pointtree04na00290103			Big
+pointtree04na002911			Ability	Dodge00		pointtree04na002921,pointtree04na002922	
+pointtree04na002912			Ability	Spd00		pointtree04na002923	
+pointtree04na002921	Blazing Eyes (Middle)		Ability	Hit01		pointtree04na002931,pointtree04na002932	Big
+pointtree04na002922	Long Sleeves Dance Well		Passive	pointtree04na002922		pointtree04na002933	Big
+pointtree04na002923	Flying Body (Middle)		Ability	Spd01		pointtree04na002934	Big
+pointtree04na002931			Ability	Internal00		pointtree04na002941	
+pointtree04na002932			Ability	External00		pointtree04na002941	
+pointtree04na002933			Ability	Spd00		pointtree04na002942	
+pointtree04na002934			Ability	Spd00		pointtree04na002943,pointtree04na002944	
+pointtree04na002941			Ability	Spd00		pointtree04na002951	
+pointtree04na002942			Ability	Dodge00		pointtree04na002952	
+pointtree04na002943			Ability	Dodge00		pointtree04na002953	
+pointtree04na002944			Ability	CriAtk00		pointtree04na002954	
+pointtree04na002951	Piercing Hand · Hard & Soft (Middle)		Ability	External01,Internal01			Big
+pointtree04na002952	Swallow Skimming the Waves		Ability	Move01			Big
+pointtree04na002953	Seeking Blood		Passive	pointtree04na002953			Big
+pointtree04na002954	Light Song and Gentle Dance		Passive	pointtree04na002954			Big
+pointtree04na003001			Ability	Spd00		pointtree04na003011,pointtree04na003012	
+pointtree04na003011			Ability	Hit00		pointtree04na003021	
+pointtree04na003012			Ability	Spd00		pointtree04na003022	
+pointtree04na003021	Tendon-Transmuting · Miscellaneous Formulas		Ability	AllColdDown01		pointtree04na003031,pointtree04na003032	Big
+pointtree04na003022	Flying Body (Middle)		Ability	Spd01		pointtree04na003032,pointtree04na003033	Big
+pointtree04na003031			Ability	Spd00		pointtree04na003041,pointtree04na003042	
+pointtree04na003032			Ability	Dodge00		pointtree04na003043	
+pointtree04na003033			Ability	Cri00		pointtree04na003044,pointtree04na003045	
+pointtree04na003041			Ability	AllCostDown00		pointtree04na003051	
+pointtree04na003042			Ability	Atk00		pointtree04na003051	
+pointtree04na003043			Ability	Spd00		pointtree04na003052,pointtree04na003053	
+pointtree04na003044			Ability	Atk00		pointtree04na003054	
+pointtree04na003045			Ability	CriAtk00		pointtree04na003055	
+pointtree04na003051	Swallow Skimming the Waves		Ability	Move01			Big
+pointtree04na003052	Keen Ears		Passive	pointtree04na003052			Big
+pointtree04na003053	Neither Man nor Woman		Passive	pointtree04na003053			Big
+pointtree04na003054	Endless Transformations		Passive	pointtree04na003054			Big
+pointtree04na003055	Catch Them Unawares		Passive	pointtree04na003055			Big
+pointtree04na003301			Ability	Spd00		pointtree04na003311	
+pointtree04na003311			Ability	Hit00		pointtree04na003321,pointtree04na003322,pointtree04na003323	
+pointtree04na003321	Keen Eye (Middle)		Ability	Cri01		pointtree04na003331,pointtree04na003332	Big
+pointtree04na003322	Valor (Middle)		Ability	Atk01		pointtree04na003333	Big
+pointtree04na003323	Blazing Eyes (Middle)		Ability	Hit01		pointtree04na003334,pointtree04na003335	Big
+pointtree04na003331			Ability	Spd00		pointtree04na003341	
+pointtree04na003332			Ability	Spd00		pointtree04na003342	
+pointtree04na003333			Ability	Atk00		pointtree04na003343,pointtree04na003344	
+pointtree04na003334			Ability	Hit00		pointtree04na003345	
+pointtree04na003335			Ability	Spd00		pointtree04na003345	
+pointtree04na003341			Ability	Cri00		pointtree04na003351	
+pointtree04na003342			Ability	CriAtk00		pointtree04na003352	
+pointtree04na003343			Ability	Atk00		pointtree04na003353	
+pointtree04na003344			Ability	MaxMp00		pointtree04na003354	
+pointtree04na003345			Ability	Hit00		pointtree04na003355	
+pointtree04na003351	First Strike Wins		Passive	pointtree04na003351			Big
+pointtree04na003352	A Faint Breath		Passive	pointtree04na003352			Big
+pointtree04na003353	Tendon-Transmuting · Fist Arts		Ability	FightColdDown01			Big
+pointtree04na003354	Swallow Skimming the Waves		Ability	Move01			Big
+pointtree04na003355	Possessed by a Demon		Passive	pointtree04na003355			Big
+pointtree04na003801			Ability	Spd00		pointtree04na003811	
+pointtree04na003811			Ability	Hit00		pointtree04na003821,pointtree04na003822	
+pointtree04na003821	Blazing Eyes (Middle)		Ability	Hit01		pointtree04na003831,pointtree04na003832	Big
+pointtree04na003822	Flying Body (Middle)		Ability	Spd01		pointtree04na003833,pointtree04na003834	Big
+pointtree04na003831			Ability	Atk00		pointtree04na003841	
+pointtree04na003832			Ability	Cri00		pointtree04na003842	
+pointtree04na003833			Ability	Spd00		pointtree04na003843	
+pointtree04na003834			Ability	Dodge00		pointtree04na003844	
+pointtree04na003841			Ability	FightMpDamage00		pointtree04na003851	
+pointtree04na003842			Ability	Cri00		pointtree04na003852	
+pointtree04na003843			Ability	ParryDef00		pointtree04na003853	
+pointtree04na003844			Ability	Cure00		pointtree04na003854	
+pointtree04na003851	Tendon-Transmuting · Channel Sealing		Ability	DebuffColdDown01			Big
+pointtree04na003852	Clever Mind, Deft Hands		Passive	pointtree04na003852			Big
+pointtree04na003853	Bone-Tempering · Medicine (Middle)		Ability	HealCostDown01			Big
+pointtree04na003854	Tendon-Transmuting · Medicine		Ability	HealCooldown01			Big
+pointtree0501			Ability	MaxMp00		pointtree0511	ore_0001_s
+pointtree0511			Ability	Spd00		pointtree0521,pointtree0522,pointtree0523	ore_0001_s
+pointtree0521	Bone-Tempering · Medicine (Greater)		Ability	HealCostDown02		pointtree0531,pointtree0532	Big
+pointtree0522	Bone-Tempering · Drug Use (Greater)		Ability	DrugCostDown02		pointtree0533,pointtree0534	Big
+pointtree0523	Tendon-Transmuting · Mechanisms		Ability	MechanicalColdDown01		pointtree0534,pointtree0535	Big
+pointtree0531			Ability	Cure00		pointtree0541	
+pointtree0532			Ability	Dodge00		pointtree0541	
+pointtree0533			Ability	Parry00		pointtree0542,pointtree0543	
+pointtree0534			Ability	MaxHp00		pointtree0544,pointtree0545	
+pointtree0535			Ability	pointtree0535		pointtree0546	
+pointtree0541			Ability	Cure00		pointtree0551	
+pointtree0542			Ability	Parry00		pointtree0552	
+pointtree0543			Ability	Dodge00		pointtree0552	
+pointtree0544			Ability	MaxMp00		pointtree0553	
+pointtree0545			Ability	Counter00		pointtree0553	
+pointtree0546			Ability	MechanicalCostDown02		pointtree0554	
+pointtree0551	Expertise · Medicine (Greater)		Ability	Cure02			Big
+pointtree0552	Resourceful in Crisis		Ability	pointtree0552			Big
+pointtree0553	Compendium of a Hundred Herbs		Passive	pointtree0553			Big
+pointtree0554	Clever Mind, Deft Hands		Passive	pointtree0554			Big
+pointtree05na000001			Ability	MaxMp00		pointtree05na000011,pointtree05na000012,pointtree05na000013	
+pointtree05na00000101			Ability	Parry00		pointtree05na00000102	
+pointtree05na00000102			Ability	Dodge00		pointtree05na00000103	
+pointtree05na00000103	Effortless Plucking		Ability	Memory01			Big
+pointtree05na000011			Ability	Cure00		pointtree05na000021	
+pointtree05na000012			Ability	DrugDamage00		pointtree05na000022	
+pointtree05na000013			Ability	MechanicalDamage00		pointtree05na000023	
+pointtree05na000021	Medicine (Middle)		Ability	Cure01		pointtree05na000031,pointtree05na000032,pointtree05na000033	Big
+pointtree05na000022	Expertise · Drug Use (Middle)		Ability	DrugDamage01		pointtree05na000034,pointtree05na000035,pointtree05na000036	Big
+pointtree05na000023	Expertise · Mechanisms (Middle)		Ability	MechanicalDamage01		pointtree05na000037,pointtree05na000038	Big
+pointtree05na000031			Ability	Cure00		pointtree05na000041	
+pointtree05na000032			Ability	ParryDef00		pointtree05na000042	
+pointtree05na000033			Ability	Cure00		pointtree05na000043	
+pointtree05na000034			Ability	DrugDamage00		pointtree05na000044	
+pointtree05na000035			Ability	DrugDamage00		pointtree05na000045	
+pointtree05na000036			Ability	DrugCostDown00		pointtree05na000046	
+pointtree05na000037			Ability	MechanicalCostDown00		pointtree05na000047	
+pointtree05na000038			Ability	MechanicalDamage00		pointtree05na000048	
+pointtree05na000041			Ability	Cure00		pointtree05na000051	
+pointtree05na000042			Ability	Cure00		pointtree05na000052	
+pointtree05na000043			Ability	Parry00		pointtree05na000053	
+pointtree05na000044			Ability	Spd00		pointtree05na000053	
+pointtree05na000045			Ability	DrugDamage00		pointtree05na000054	
+pointtree05na000046			Ability	DrugCostDown00		pointtree05na000055	
+pointtree05na000047			Ability	MechanicalDamage00		pointtree05na000056	
+pointtree05na000048			Ability	MechanicalDamage00		pointtree05na000057	
+pointtree05na000051	Mineral and Jade Remedies		Passive	pointtree05na000051			Big
+pointtree05na000052	Tendon-Transmuting · Medicine		Ability	HealCooldown01			Big
+pointtree05na000053	Effortless Plucking		Ability	Memory01			Big
+pointtree05na000054	Resourceful in Crisis		Ability	DrugMaxRange01			Big
+pointtree05na000055	Master of Contrivance		Ability	Accessory01			Big
+pointtree05na000056	Expertise · Mechanisms (Greater)		Ability	MechanicalDamage03			Big
+pointtree05na000057	Tendon-Transmuting · Mechanisms		Ability	MechanicalColdDown01			Big
+pointtree05na000101			Ability	Spd00		pointtree05na000111,pointtree05na000112	
+pointtree05na000111			Ability	Parry00		pointtree05na000121	
+pointtree05na000112			Ability	Counter00		pointtree05na000122	
+pointtree05na000121	Expertise · Drug Use (Middle)		Ability	DrugDamage01		pointtree05na000131,pointtree05na000132	Big
+pointtree05na000122	Expertise · Mechanisms (Middle)		Ability	MechanicalDamage01		pointtree05na000132,pointtree05na000133	Big
+pointtree05na000131			Ability	DrugDamage00		pointtree05na000141	
+pointtree05na000132			Ability	Hit00		pointtree05na000142	
+pointtree05na000133			Ability	MechanicalDamage00		pointtree05na000143,pointtree05na000144	
+pointtree05na000141			Ability	Cure00		pointtree05na000151	
+pointtree05na000142			Ability	MechanicalDamage00		pointtree05na000152	
+pointtree05na000143			Ability	MechanicalDamage00		pointtree05na000153	
+pointtree05na000144			Ability	MechanicalColdDown01		pointtree05na000153	
+pointtree05na000151	Resourceful in Crisis		Ability	DrugMaxRange01			Big
+pointtree05na000152	Effortless Plucking		Ability	Memory01			Big
+pointtree05na000153	Master of Contrivance		Ability	MechanicalConMpDamage			Big
+pointtree05na000201			Ability	Cure00		pointtree05na000211	
+pointtree05na000211			Ability	MaxHp00		pointtree05na000221,pointtree05na000222	
+pointtree05na000221	Medicine (Middle)		Ability	Cure01		pointtree05na000231,pointtree05na000232	Big
+pointtree05na000222	Resourceful in Crisis		Ability	DrugMaxRange01		pointtree05na000233,pointtree05na000234,pointtree05na000235	Big
+pointtree05na000231			Ability	Cure00		pointtree05na000241,pointtree05na000242	
+pointtree05na000232			Ability	MaxHp00		pointtree05na000243	
+pointtree05na000233			Ability	Cri00		pointtree05na000244	
+pointtree05na000234			Ability	MechanicalDamage00		pointtree05na000244	
+pointtree05na000235			Ability	DrugDamage00		pointtree05na000245	
+pointtree05na000241			Ability	Spd00		pointtree05na000251	
+pointtree05na000242			Ability	Cure00		pointtree05na000252	
+pointtree05na000243			Ability	Spd00		pointtree05na000253,pointtree05na000254	
+pointtree05na000244			Ability	MechanicalDamage00		pointtree05na000254	
+pointtree05na000245			Ability	Cure00		pointtree05na000255	
+pointtree05na000251	Unexpected Delight		Passive	pointtree05na000251			Big
+pointtree05na000252	Box of Surprises		Passive	pointtree05na000252			Big
+pointtree05na000253	Adding Fuel to the Fire		Passive	pointtree05na000253			Big
+pointtree05na000254	Master of Contrivance		Ability	Accessory01			Big
+pointtree05na000255	Lifting the Spirits		Ability	pointtree05na000255			Big
+pointtree05na000301			Ability	MaxHp00		pointtree05na000311,pointtree05na000312	
+pointtree05na000311			Ability	Spd00		pointtree05na000321	
+pointtree05na000312			Ability	MaxMp00		pointtree05na000322	
+pointtree05na000321	Bone-Tempering · Mechanisms (Middle)		Ability	MechanicalCostDown01		pointtree05na000331	Big
+pointtree05na000322	Resourceful in Crisis		Ability	DrugMaxRange01		pointtree05na000332	Big
+pointtree05na000331			Ability	MechanicalDamage00		pointtree05na000341,pointtree05na000342	
+pointtree05na000332			Ability	Spd00		pointtree05na000343,pointtree05na000344,pointtree05na000345	
+pointtree05na000341			Ability	MechanicalDamage00		pointtree05na000351	
+pointtree05na000342			Ability	MechanicalCostDown00		pointtree05na000352,pointtree05na000353	
+pointtree05na000343			Ability	Dodge00		pointtree05na000353	
+pointtree05na000344			Ability	DrugDamage00		pointtree05na000354	
+pointtree05na000345			Ability	DrugCostDown00		pointtree05na000354	
+pointtree05na000351	Tendon-Transmuting · Mechanisms		Ability	MechanicalColdDown01			Big
+pointtree05na000352	Master of Contrivance		Ability	MechanicalDexMpDamage			Big
+pointtree05na000353	Effortless Plucking		Ability	Memory01			Big
+pointtree05na000354	Wits Sharpened by Crisis		Passive	pointtree05na000354			Big
+pointtree05na000501			Ability	MaxMp00		pointtree05na000511	
+pointtree05na000511			Ability	Spd00		pointtree05na000521,pointtree05na000522,pointtree05na000523	
+pointtree05na000521	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef01		pointtree05na000531,pointtree05na000532	Big
+pointtree05na000522	Bone-Tempering · Drug Use (Middle)		Ability	DrugCostDown01		pointtree05na000533	Big
+pointtree05na000523	Tendon-Transmuting · Mechanisms		Ability	MechanicalColdDown01		pointtree05na000534	Big
+pointtree05na000531			Ability	DrugMpDamage00		pointtree05na000541	
+pointtree05na000532			Ability	MaxMp00		pointtree05na000542	
+pointtree05na000533			Ability	DrugDamage00		pointtree05na000543	
+pointtree05na000534			Ability	MechanicalDamage00		pointtree05na000544	
+pointtree05na000541			Ability	MaxMp00		pointtree05na000551	
+pointtree05na000542			Ability	Parry00		pointtree05na000551	
+pointtree05na000543			Ability	DrugDamage00		pointtree05na000552	
+pointtree05na000544			Ability	MechanicalMaxRange01		pointtree05na000553	
+pointtree05na000551	Effortless Plucking		Ability	Memory01			Big
+pointtree05na000552	Secret Desert Remedy		Passive	pointtree05na000552			Big
+pointtree05na000553	Master of Contrivance		Ability	Accessory01			Big
+pointtree05na000601			Ability	MaxMp00		pointtree05na000611,pointtree05na000612,pointtree05na000613	
+pointtree05na000611			Ability	Cure00		pointtree05na000621	
+pointtree05na000612			Ability	DrugDamage00		pointtree05na000622	
+pointtree05na000613			Ability	MechanicalDamage00		pointtree05na000623	
+pointtree05na000621	Tendon-Transmuting & Bone-Tempering · Channel Reviving		Ability	BuffColdDown01,BuffCostDown01		pointtree05na000631	Big
+pointtree05na000622	Plucked at Will		Ability	Memory01		pointtree05na000631	Big
+pointtree05na000623	Master of Contrivance		Ability	Accessory01		pointtree05na000632,pointtree05na000633	Big
+pointtree05na000631			Ability	DrugDamage00		pointtree05na000641,pointtree05na000642	
+pointtree05na000632			Ability	MechanicalDamage00		pointtree05na000643,pointtree05na000644	
+pointtree05na000633			Ability	MechanicalCostDown00		pointtree05na000644	
+pointtree05na000641			Ability	Cure00		pointtree05na000651	
+pointtree05na000642			Ability	DrugDamage00		pointtree05na000651	
+pointtree05na000643			Ability	MechanicalDamage00		pointtree05na000652	
+pointtree05na000644			Ability	MechanicalDamage00		pointtree05na000653,pointtree05na000654	
+pointtree05na000651	Master of Contrivance		Ability	MechanicalConDamage			Big
+pointtree05na000652	Lu Ban Reborn		Ability	MechanicalDamage03			Big
+pointtree05na000653	Heavy Blow		Passive	pointtree05na000653			Big
+pointtree05na000654	Tendon-Transmuting · Mechanisms		Ability	MechanicalColdDown01			Big
+pointtree05na001001			Ability	MaxHp00		pointtree05na001011,pointtree05na001012	
+pointtree05na00100101			Ability	DrugCostDown00		pointtree05na00100102	ore_0001_s
+pointtree05na00100102			Ability	DrugCostDown00		pointtree05na00100103	ore_0001_s
+pointtree05na00100103	A Cup of Wine Dissolves Grudges		Passive	pointtree05na00100103			Big
+pointtree05na001011			Ability	MechanicalDamage00		pointtree05na001021	
+pointtree05na001012			Ability	MaxMp00		pointtree05na001022	
+pointtree05na001021	Master of Contrivance		Ability	MechanicalAgiDamage		pointtree05na001031,pointtree05na001032	Big
+pointtree05na001022	Effortless Plucking		Ability	Memory01		pointtree05na001033,pointtree05na001034	Big
+pointtree05na001031			Ability	MechanicalDamage00		pointtree05na001041	
+pointtree05na001032			Ability	Hit00		pointtree05na001041	
+pointtree05na001033			Ability	DrugDamage00		pointtree05na001042	
+pointtree05na001034			Ability	MaxHp00		pointtree05na001043,pointtree05na001044	
+pointtree05na001041			Ability	MechanicalDamage00		pointtree05na001051,pointtree05na001052	
+pointtree05na001042			Ability	DrugDamage00		pointtree05na001053	
+pointtree05na001043			Ability	Cure00		pointtree05na001054	
+pointtree05na001044			Ability	MaxMp00		pointtree05na001055	
+pointtree05na001051	Master of Contrivance		Ability	Accessory01			Big
+pointtree05na001052	Elusive		Passive	pointtree05na001052			Big
+pointtree05na001053	Resourceful in Crisis		Ability	DrugMaxRange01			Big
+pointtree05na001054	Healing Through Drink		Passive	pointtree05na001054			Big
+pointtree05na001055	Tendon-Transmuting · Miscellaneous Formulas		Ability	AllColdDown01			Big
+pointtree05na001101			Ability	ExternalDef00		pointtree05na001111	
+pointtree05na001111			Ability	ExternalDef00		pointtree05na001121,pointtree05na001122,pointtree05na001123	
+pointtree05na001121	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef01		pointtree05na001131,pointtree05na001132	Big
+pointtree05na001122	Bone-Tempering · Drug Use (Middle)		Ability	DrugCostDown01		pointtree05na001133	Big
+pointtree05na001123	Effortless Plucking		Ability	Memory01		pointtree05na001134	Big
+pointtree05na001131			Ability	Dodge00		pointtree05na001141	
+pointtree05na001132			Ability	MaxMp00		pointtree05na001142	
+pointtree05na001133			Ability	MaxHp00		pointtree05na001143	
+pointtree05na001134			Ability	MechanicalDamage01		pointtree05na001144	
+pointtree05na001141			Ability	MaxHp00		pointtree05na001151	
+pointtree05na001142			Ability	MaxHp00		pointtree05na001151	
+pointtree05na001143			Ability	Spd00		pointtree05na001152	
+pointtree05na001144			Ability	MechanicalMaxRange01		pointtree05na001153	
+pointtree05na001151	Effortless Plucking		Ability	Memory01			Big
+pointtree05na001152	Swallow Skimming the Waves		Ability	Move01			Big
+pointtree05na001153	Deft Force		Passive	pointtree05na001153			Big
+pointtree05na001201			Ability	MaxHp00		pointtree05na001211,pointtree05na001212,pointtree05na001213	
+pointtree05na001211			Ability	MechanicalDamage00		pointtree05na001221	
+pointtree05na001212			Ability	DrugDamage00		pointtree05na001222	
+pointtree05na001213			Ability	Cure00		pointtree05na001222	
+pointtree05na001221	Expertise · Mechanisms (Middle)		Ability	MechanicalDamage01		pointtree05na001231	Big
+pointtree05na001222	Effortless Plucking		Ability	Memory01		pointtree05na001232	Big
+pointtree05na001231			Ability	MechanicalDamage00		pointtree05na001241,pointtree05na001242	
+pointtree05na001232			Ability	DrugDamage00		pointtree05na001243,pointtree05na001244	
+pointtree05na001241			Ability	MechanicalDamage00		pointtree05na001251	
+pointtree05na001242			Ability	MechanicalCostDown00		pointtree05na001252	
+pointtree05na001243			Ability	Spd00		pointtree05na001252,pointtree05na001253	
+pointtree05na001244			Ability	DrugDamage00		pointtree05na001254	
+pointtree05na001251	Intuition		Passive	pointtree05na001251			Big
+pointtree05na001252	Master of Contrivance		Ability	Accessory01			Big
+pointtree05na001253	Alone		Passive	pointtree05na001253			Big
+pointtree05na001254	Resourceful in Crisis		Ability	DrugMaxRange01			Big
+pointtree05na001301			Ability	MaxMp00		pointtree05na001311	
+pointtree05na00130101			Ability	Parry00		pointtree05na00130102	ore_0001_s
+pointtree05na00130102			Ability	Cure00		pointtree05na00130103	ore_0001_s
+pointtree05na00130103	Rescuing the Endangered		Passive	pointtree05na00130103			Big
+pointtree05na00130201			Ability	Cure00		pointtree05na00130202	ore_0001_s
+pointtree05na00130202			Ability	Dodge00		pointtree05na00130203	ore_0001_s
+pointtree05na00130203	Words Like Medicine		Passive	pointtree05na00130203			Big
+pointtree05na001311			Ability	MaxHp00		pointtree05na001321,pointtree05na001322,pointtree05na001323	
+pointtree05na001321	Medicine (Middle)		Ability	Cure01		pointtree05na001331,pointtree05na001332	Big
+pointtree05na001322	Bronze Sinews, Iron Bones (Middle)		Ability	ParryDef01		pointtree05na001333	Big
+pointtree05na001323	Resourceful in Crisis		Ability	DrugMaxRange01		pointtree05na001334	Big
+pointtree05na001331			Ability	Cure00		pointtree05na001341	
+pointtree05na001332			Ability	Cure00		pointtree05na001342	
+pointtree05na001333			Ability	MaxHp00		pointtree05na001342	
+pointtree05na001334			Ability	DrugDamage00		pointtree05na001343,pointtree05na001344	
+pointtree05na001341			Ability	MaxMp00		pointtree05na001351	
+pointtree05na001342			Ability	Cure00		pointtree05na001352	
+pointtree05na001343			Ability	DrugDamage00		pointtree05na001353	
+pointtree05na001344			Ability	MechanicalColdDown01		pointtree05na001354	
+pointtree05na001351	Tendon-Transmuting · Medicine		Ability	RecoverColdDown01			Big
+pointtree05na001352	A Smile Like Spring Blossoms		Passive	pointtree05na001353			Big
+pointtree05na001353	Words Like Medicine		Passive	pointtree05na00130203			Big
+pointtree05na001354	Clever Mind, Deft Hands		Passive	pointtree05na001354			Big
+pointtree05na002101			Ability	MaxMp00		pointtree05na002111	
+pointtree05na00210101			Ability	MechanicalCostDown00		pointtree05na00210102	ore_0001_s
+pointtree05na00210102			Ability	MechanicalCostDown00		pointtree05na00210103	ore_0001_s
+pointtree05na00210103	Wild with Joy		Passive	pointtree05na00210103			Big
+pointtree05na002111			Ability	Spd00		pointtree05na002121,pointtree05na002122,pointtree05na002123	
+pointtree05na002121	Effortless Plucking		Ability	Memory01		pointtree05na002131,pointtree05na002132	Big
+pointtree05na002122	Bone-Tempering · Drug Use (Middle)		Ability	DrugCostDown01		pointtree05na002133	Big
+pointtree05na002123	Master of Contrivance		Ability	MechanicalAgiMpDamage		pointtree05na002134	Big
+pointtree05na002131			Ability	Cure00		pointtree05na002141	
+pointtree05na002132			Ability	MaxMp00		pointtree05na002141,pointtree05na002142	
+pointtree05na002133			Ability	MaxHp00		pointtree05na002142	
+pointtree05na002134			Ability	MechanicalColdDown01		pointtree05na002143	
+pointtree05na002141			Ability	MaxMp00		pointtree05na002151	
+pointtree05na002142			Ability	Dodge00		pointtree05na002152	
+pointtree05na002143			Passive	pointtree05na002143		pointtree05na002153	
+pointtree05na002151	Golden Needle Through Tribulation		Passive	pointtree05na002151			Big
+pointtree05na002152	Mastery of Pharmacology		Passive	pointtree05na002152			Big
+pointtree05na002153	Master of Contrivance		Ability	Accessory01			Big
+pointtree05na002701			Ability	MaxMp00		pointtree05na002711	
+pointtree05na002711			Ability	Spd00		pointtree05na002721,pointtree05na002722	
+pointtree05na002721	Qi Gathering · Fist Arts (Middle)		Ability	FightNeedMp01		pointtree05na002731,pointtree05na002732	Big
+pointtree05na002722	Tendon-Transmuting · Mechanisms		Ability	MechanicalColdDown01		pointtree05na002733,pointtree05na002734	Big
+pointtree05na002731			Ability	DrugMpDamage00		pointtree05na002741	
+pointtree05na002732			Ability	MaxMp00		pointtree05na002741	
+pointtree05na002733			Ability	DrugDamage00		pointtree05na002742	
+pointtree05na002734			Ability	MechanicalMaxRange01		pointtree05na002743	
+pointtree05na002741			Ability	MaxHp00		pointtree05na002751	
+pointtree05na002742			Ability	DrugDamage00		pointtree05na002752	
+pointtree05na002743			Ability	MechanicalDamage00		pointtree05na002753	
+pointtree05na002751	Effortless Plucking		Ability	Memory01			Big
+pointtree05na002752	Replenish Qi, Strengthen Body		Passive	pointtree05na002752			Big
+pointtree05na002753	Master of Contrivance		Ability	Accessory01			Big
+pointtree05na002901			Ability	Spd00		pointtree05na002911,pointtree05na002912	
+pointtree05na002911			Ability	Hit00		pointtree05na002921	
+pointtree05na002912			Ability	Dodge00		pointtree05na002922	
+pointtree05na002921	Effortless Plucking		Ability	Memory01		pointtree05na002931	Big
+pointtree05na002922	Nourish Blood		Passive	pointtree05na002922		pointtree05na002932,pointtree05na002933	Big
+pointtree05na002931			Ability	MechanicalCostDown00		pointtree05na002941,pointtree05na002942	
+pointtree05na002932			Ability	DrugMpDamage00		pointtree05na002943	
+pointtree05na002933			Ability	Cure00		pointtree05na002944	
+pointtree05na002941			Ability	MechanicalDamage00		pointtree05na002951	
+pointtree05na002942			Ability	MechanicalCostDown00		pointtree05na002952	
+pointtree05na002943			Ability	DrugMpDamage00		pointtree05na002953	
+pointtree05na002944			Ability	Cure00		pointtree05na002954	
+pointtree05na002951	Master of Contrivance		Ability	Accessory01			Big
+pointtree05na002952	Straight to the Point		Passive	pointtree05na002952			Big
+pointtree05na002953	Resourceful in Crisis		Ability	DrugMaxRange01			Big
+pointtree05na002954	A Loyal Heart, Loyal Blood		Passive	pointtree05na002954			Big
+pointtree05na003001			Ability	Spd00		pointtree05na003011,pointtree05na003012	
+pointtree05na00300101			Ability	Dodge00		pointtree05na00300102	ore_0001_s
+pointtree05na00300102			Ability	MaxMp00		pointtree05na00300103	ore_0001_s
+pointtree05na00300103	Hiding in the Forest		Passive	pointtree05na00300103			Big
+pointtree05na003002			Ability	Hit00		pointtree05na003053	
+pointtree05na003011			Ability	Atk00		pointtree05na003021,pointtree05na003022	
+pointtree05na003012			Ability	Cri00		pointtree05na003022,pointtree05na003023	
+pointtree05na003021	Resourceful in Crisis		Ability	DrugMaxRange01		pointtree05na003031	Big
+pointtree05na003022	Effortless Plucking		Ability	Memory01		pointtree05na003032	Big
+pointtree05na003023	Tendon-Transmuting · Mechanisms		Ability	MechanicalColdDown01		pointtree05na003033	Big
+pointtree05na003031			Ability	Cure00		pointtree05na003041,pointtree05na003042	
+pointtree05na003032			Ability	ParryDef00		pointtree05na003042,pointtree05na003043	
+pointtree05na003033			Ability	MechanicalDamage00		pointtree05na003044,pointtree05na003002	
+pointtree05na003041			Ability	Cure00		pointtree05na003051	
+pointtree05na003042			Ability	DrugDamage00		pointtree05na003051	
+pointtree05na003043			Ability	Dodge00		pointtree05na003052	
+pointtree05na003044			Ability	MechanicalDamage00		pointtree05na003053,pointtree05na003054	
+pointtree05na003051	Bone-Tempering · Drug Use (Greater)		Ability	DrugCostDown02			Big
+pointtree05na003052	Steel Pillar, Iron Horse		Ability	MaxPosture01			Big
+pointtree05na003053	Hidden Arrows Are Hard to Guard		Passive	pointtree05na003053			Big
+pointtree05na003054	Expertise · Mechanisms (Greater)		Ability	MechanicalDamage03			Big
+pointtree05na003301			Ability	MaxHp00		pointtree05na003311	
+pointtree05na003311			Ability	ParryDef00		pointtree05na003321,pointtree05na003322,pointtree05na003323	
+pointtree05na003321	Plucked at Will		Ability	Memory01		pointtree05na003331,pointtree05na003332	Big
+pointtree05na003322	Expertise · Drug Use (Middle)		Ability	DrugDamage01		pointtree05na003333	Big
+pointtree05na003323	Flying Body (Middle)		Ability	Spd01		pointtree05na003334	Big
+pointtree05na003331			Ability	Atk00		pointtree05na003341	
+pointtree05na003332			Ability	MaxMp00		pointtree05na003341,pointtree05na003342	
+pointtree05na003333			Ability	DrugDamage00		pointtree05na003342	
+pointtree05na003334			Ability	MechanicalColdDown01		pointtree05na003343	
+pointtree05na003341			Ability	MaxMp00		pointtree05na003351	
+pointtree05na003342			Ability	DrugCostDown00		pointtree05na003352	
+pointtree05na003343			Ability	MechanicalMaxRange01		pointtree05na003353	
+pointtree05na003351	One-Inch Force		Passive	pointtree05na003351			Big
+pointtree05na003352	Faint and Distant Pill		Passive	pointtree05na003352			Big
+pointtree05na003353	Master of Contrivance		Ability	Accessory01			Big
+pointtree05na003801			Ability	MaxMp00		pointtree05na003811,pointtree05na003812,pointtree05na003813	
+pointtree05na00380101			Ability	Cure00		pointtree05na00380102	ore_0001_s
+pointtree05na00380102			Ability	Cure00		pointtree05na00380103	ore_0001_s
+pointtree05na00380103	Withered Wood in Spring		Ability	pointtree05na00380103			Big
+pointtree05na00380201	Ever Striving for Perfection		Passive	pointtree05na00380201		pointtree05na00380202	ore_0001_s
+pointtree05na00380202			Ability	MechanicalMaxRange01		pointtree05na00380203	ore_0001_s
+pointtree05na00380203	Ingenious Originality		Passive	pointtree05na00380203			Big
+pointtree05na003811			Ability	Cure00		pointtree05na003821,pointtree05na003822,pointtree05na003823	
+pointtree05na003812			Ability	Spd00		pointtree05na003823	
+pointtree05na003813			Ability	MechanicalDamage00		pointtree05na003823,pointtree05na003824	
+pointtree05na003821	Tendon-Transmuting · Medicine		Ability	RecoverColdDown01		pointtree05na003831	Big
+pointtree05na003822	Resourceful in Crisis		Ability	DrugMaxRange01		pointtree05na003832	Big
+pointtree05na003823	Effortless Plucking		Ability	Memory01		pointtree05na003833	Big
+pointtree05na003824	Master of Contrivance		Ability	MechanicalConDamage		pointtree05na003834,pointtree05na003835	Big
+pointtree05na003831			Ability	Cure00		pointtree05na003841	
+pointtree05na003832			Ability	Hit00		pointtree05na003842	
+pointtree05na003833			Ability	Cure00		pointtree05na003843	
+pointtree05na003834			Ability	MechanicalDamage00		pointtree05na003844	
+pointtree05na003835			Ability	MechanicalDamage00		pointtree05na003845	
+pointtree05na003841			Ability	MaxMp00		pointtree05na003851	
+pointtree05na003842			Ability	MaxHp00		pointtree05na003852	
+pointtree05na003843			Ability	Cure00		pointtree05na003853	
+pointtree05na003844			Passive	pointtree05na003844		pointtree05na003854	
+pointtree05na003845			Ability	MechanicalColdDown01		pointtree05na003855	
+pointtree05na003851	A Physician's Benevolent Heart		Passive	pointtree05na003851			Big
+pointtree05na003852	Shennong's Alchemy		Passive	pointtree05na003852			Big
+pointtree05na003853	Heart Set on Peace		Passive	pointtree05na003853			Big
+pointtree05na003854	Expertise · Mechanisms (Greater)		Ability	MechanicalDamage03			Big
+pointtree05na003855	Wise Heart, Skilled Hands		Ability	MechanicalMaxRange01			Big
+test01	Boundary Test		None				Big
+test02	Boundary Test		None				Big
+test03	Boundary Test		None				Big
+test04	Boundary Test		None				Big
+test05	Boundary Test		None				Big
+test06	Boundary Test		None				Big
+test07	Boundary Test		None				Big
+test08	Boundary Test		None				Big
+test09	Boundary Test		None				Big
+test10	Boundary Test		None				Big

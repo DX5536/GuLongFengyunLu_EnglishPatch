@@ -1,0 +1,98 @@
+Id	Name	Description	FlowCondition	DefaultIconName	AchievementIconName
+Achievement001	When the Tea Roses Bloom	Recovered Yan Nantian's treasure map	{ 'LogicalNode' : [ { 'CheckProps' : 'it7078', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement002	Bloody Hand	Obtained the Bloody Hand	{ 'LogicalNode' : [ { 'CheckProps' : 'wp1012', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement004	Songyang Iron Sword	Obtained the Songyang Iron Sword	{ 'LogicalNode' : [ { 'CheckProps' : 'wp2014', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement008	Sword of Longevity	Obtained the Sword of Longevity	{ 'LogicalNode' : [ { 'CheckProps' : 'wp2019', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement009	Passion-Stealing Sword	Obtained the Passion-Stealing Sword	{ 'LogicalNode' : [ { 'CheckProps' : 'wp2020', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement012	Loyal Blood Illumines the Painting	Obtained Loyal Blood Illumines the Painting	{ 'LogicalNode' : [ { 'CheckProps' : 'wp2025', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement014	Demon-Sweeping Saber	Obtained the Demon-Sweeping Saber			na0000c_0
+Achievement015	Bone-Chopping Cleaver	Obtained the Bone-Chopping Cleaver	{ 'LogicalNode' : [ { 'CheckProps' : 'wp3019', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement016	Heavenly King's Ghost-Slaying Saber	Obtained the Heavenly King's Ghost-Slaying Saber	{ 'LogicalNode' : [ { 'CheckProps' : 'wp3020', 1, True, True, True} ], 0}		na0000c_0
+Achievement027	Spear in Hand, Follow Me!	Obtained the Peacock Plume	{ 'LogicalNode' : [ { 'CheckProps' : 'it6008', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement028	Baifa's Pipe	Obtained Baifa's Pipe	{ 'LogicalNode' : [ { 'CheckProps' : 'aq1043', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement029	Shifting Flowers, Grafting Jade	Obtained Shifting Flowers, Grafting Jade	{ 'LogicalNode' : [ { 'CheckProps' : 'it7036', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement031	Divine Sword Formula	Obtained the Divine Sword Formula	{ 'LogicalNode' : [ { 'CheckProps' : 'it7066', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement034	Golden Dragon Locks the Sky	Obtained Golden Dragon Locks the Sky	{ 'LogicalNode' : [ { 'CheckProps' : 'it7071', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement038	Divine Art of the Five Peerless	Obtained the Divine Art of the Five Peerless	{ 'LogicalNode' : [ { 'CheckProps' : 'it8007', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement040	Bridal Gown Divine Art	Obtained the Bridal Gown Divine Art	{ 'LogicalNode' : [ { 'CheckProps' : 'it8010', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement041	Heavenly Thunder Mind Art	Obtained the Heavenly Thunder Mind Art	{ 'LogicalNode' : [ { 'CheckProps' : 'it8014', 1, True, True, True} ], 0}		na0000c_0
+Achievement042	Tendon-Transmuting Sutra	Obtained the Tendon-Transmuting Sutra	{ 'LogicalNode' : [ { 'CheckProps' : 'it8015', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement043	Hero of the Tongue	Won the Battle of Wits contest	{ 'LogicalNode' : [ { 'CheckProps' : 'aq1037', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement045	Master of Renyi Manor	Defeated every bounty target	{ 'LogicalNode' : [ { 'CheckQuestState' : 3, 'ql0104003'} , { 'CheckQuestState' : 3, 'ql0104004'} , { 'CheckQuestState' : 3, 'ql0104005'} , { 'CheckQuestState' : 3, 'ql0204000'} , { 'CheckQuestState' : 3, 'ql0204001'} , { 'CheckQuestState' : 3, 'ql0204002'} , { 'CheckQuestState' : 3, 'ql0304000'} , { 'CheckQuestState' : 3, 'ql0304001'} , { 'CheckQuestState' : 3, 'ql0304002'} , { 'CheckQuestState' : 3, 'ql0304003'}  ], 0} 		na0000c_0
+Achievement050	The Red Boy	Defeated Long Xiaoyun	{ 'LogicalNode' : [ { 'CheckProps' : 'wp5014', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement051	Abbot of Xuanzhen Temple	Defeated Dugu Yihe	{ 'LogicalNode' : [ { 'CheckProps' : 'it7057', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement052	Primeval Behemoth	Defeated the Bodhisattva of Great Joy	{ 'LogicalNode' : [ { 'CheckProps' : 'it7072', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement053	The Lord of Joy	Defeated Chai Yuguan			na0000c_0
+Achievement054	Collector of Gold and Silver	Defeated Jin Wuwang			na0000c_0
+Achievement055	The Man in Bloodied Robes	Defeated Xue Yiren			na0000c_0
+Achievement056	Fairest Beauty Under Heaven	Defeated Lin Xian'er			na0000c_0
+Achievement057	Eyes Lit Up at the Sight of Coin	Defeated Jin Buhuan			na0000c_0
+Achievement058	Mistress of the Flower-Shifting Palace	Defeated Yaoyue			na0000c_0
+Achievement059	Fairy of Yunmeng	Defeated the Fairy of Yunmeng			na0000c_0
+Achievement060	Chief of the Golden Coin Gang	Defeated Shangguan Jinhong			na0000c_0
+Achievement061	Love Left Across the Nine Provinces	Obtained Shen Tianjun's jade pendant	{ 'LogicalNode' : [ { 'CheckProps' : 'aq1045', 1, True, True, True}  ], 0} 		na0000c_0
+Achievement070	True to Righteousness, True to You	Completed the final quest "Even the Deepest Forest Has an End" and unlocked the ending "True to Righteousness, True to You"			na0000c_0
+Achievement071	Thief Robs Thief, Then Meets Cheng Yaojin	Reached the deduction: "He thought one hand could hide the sky; thief robbed thief, then met Cheng Yaojin"			na0000c_0
+Achievement075	Ruthless Hands Slay the Lion, a Plot Against Hangzhou	Reached the deduction: "Jiang Yulang slew the Lion with ruthless hands; Jiang Biehe plotted poison against Hangzhou"			na0000c_0
+Achievement077	The Mantis Stalks the Cicada, the Oriole Waits Behind	Reached the deduction: "Good and evil are repaid in this life; the mantis stalks the cicada, the oriole waits behind"			na0000c_0
+Achievement078	Left in White, Returned in Black	Reached the deduction: "A frantic ruse to flee an evil ghost; he left in white and returned in black"			na0000c_0
+Achievement079	Greed Stirred, a Hero's Name Forsaken	Reached the deduction: "At the end of the road, righteousness is hard to uphold; greed stirred and a hero's name was forsaken"			na0000c_0
+Achievement080	A Second Son's Treachery Breeds Strife Within	Reached the deduction: "A second son's treachery breeds strife within; the disguised traveler is suspected as the true killer"			na0000c_0
+Achievement081	Lady Xiao's Name Is Cleared at Last	Reached the deduction: "Lady Xiao's name is cleared at last; the disguised traveler is suspected as the true killer"			na0000c_0
+Achievement082	The Wicked Red Slippers	Reached the deduction: "Abducting girls to do evil, a crime beyond pardon; the wicked Red Slippers"			na0000c_0
+Achievement083	Heaven's Net Ensnares the Red Slippers	Reached the deduction: "Men who prey on women commit injustice; Heaven's net ensnares the Red Slippers"			na0000c_0
+Achievement089	A Heart Harboring Malice and Hidden Evil	Reached the deduction: "A heart harboring malice and hidden evil; the Jiang father and son offer a poisonous scheme"			na0000c_0
+Achievement091	Hearts Laid Bare to Each Other	Recruited every hero	{ 'LogicalNode' : [ { 'MultipleTeammateCondition' : 65535}  ], 0} 		na0000c_0
+Achievement092	Bosom Friends Across the Land	Recruited every retainer	{ 'LogicalNode' : [ { 'ManorVisitorCountCondition' : 23}  ], 0} 		na0000c_0
+Achievement093	A Kind Heart and Healing Hands	Completed the quest "Heaven Beyond Heaven" and unlocked the ending "A Kind Heart and Healing Hands"			na0000c_0
+Achievement094	Divining Heaven's Secrets	Completed the quest "Seeking Heaven's Secrets" and unlocked the ending "Divining Heaven's Secrets"			na0000c_0
+Achievement095	Wandering the Mortal World with a Ghost	Completed the quest "Rain and Snow Together" and unlocked the ending "Wandering the Mortal World with a Ghost"			na0000c_0
+Achievement096	A Dance for Two	Completed the quest "It Need Not Be Yours to Bear" and unlocked the ending "A Dance for Two"			na0000c_0
+Achievement097	Slender Hands That Succor the World	Completed the quest "There Is Only One Zhu Qiqi" and unlocked the ending "Slender Hands That Succor the World"			na0000c_0
+Achievement098	Many Days Yet to Come	Completed the quest "The Decisive Duel" and unlocked the ending "Many Days Yet to Come"			na0000c_0
+Achievement099	Carefree Yet Wanting	Completed the quest "The Truth Revealed" and unlocked the ending "Carefree Yet Wanting"			na0000c_0
+Achievement100	Waves Across the Nine Provinces	Completed the quest "Great Waves Roll Up the Clouds" and unlocked the ending "Waves Across the Nine Provinces"			na0000c_0
+Achievement101	Only the Faithful	Completed the Peacock Villa sect quest	{ 'LogicalNode' : [ { 'CheckQuestState' : 3, 'qh0027'}  ], 0} 		na0000c_0
+Achievement103	Borrowed Flowers for the Buddha	Completed the Shaolin Temple sect quest	{ 'LogicalNode' : [ { 'CheckQuestState' : 3, 'qm10206'}  ], 0} 		na0000c_0
+Achievement104	The Hidden Dragon Out of Water	Completed the Hidden Sword Villa sect quest	{ 'LogicalNode' : [ { 'CheckQuestState' : 3, 'qm10103'}  ], 0} 		na0000c_0
+Achievement107	Terror at the Pagoda	Completed the joint escort quest with Baili Changqing alive	{ 'LogicalNode' : [ { 'CheckQuestState' : 3, 'qn0007_07'}  ], 0} 		na0000c_0
+Achievement108	Death at the Pagoda	Completed the joint escort quest, but Baili Changqing died	{ 'LogicalNode' : [ { 'CheckQuestState' : 3, 'qn0007_04'}  ], 0} 		na0000c_0
+Achievement110	With My Shadow, We Make Three	Defeated Yaoyue in single combat	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'bc003102_03_f02'}  ], 0} 		na0000c_0
+Achievement111	The Great Hero Yan Nantian	Defeated Yan Nantian in single combat	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'bc027001_f01'}  ], 0} 		na0000c_0
+Achievement112	How Many Know True Joy	Defeated Chai Yuguan in single combat	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'be020010_PK'}  ], 0} 		na0000c_0
+Achievement113	When the Coins Fall, Heads Roll	Defeated Shangguan Jinhong in single combat	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 0, 'Achievement113_f01'}  ], 0} 		na0000c_0
+Achievement114	First Swordsman	Defeated the Xue Yiren brothers in single combat	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 0, 'Achievement114_f01'}  ], 0} 		na0000c_0
+Achievement115	Even a Thousand Sorrows Must End	Completed the quest "Great Waves Roll Up the Clouds" with the Fairy of Yunmeng alive			na0000c_0
+Achievement117	A Rat in the Street, Chased by All	Killed all reinforcements in the battle with Wei Wuya	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 0, 'Achievement117_f01'}  ], 0} 		na0000c_0
+Achievement118	Treading Snow Without a Trace	Defeated any phase of the Peacock Villa mechanism array without triggering a trap	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 0, 'Achievement118_f01'} , { 'CheckFlag' : 1, 0, 'Achievement118_f02'} , { 'CheckFlag' : 1, 0, 'Achievement118_f03'}  ], 1} 		na0000c_0
+Achievement119	Dazzling Talent, Gentleman of a Thousand Faces	Defeated Wang Lianhua at Lianhua's Little Tower using only female characters	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 0, 'Achievement119_f01'}  ], 0} 		na0000c_0
+Achievement120	No Azure Dragon Beneath the Bodhisattva's Throne	Defeated the Bodhisattva of Great Joy at the Tower of Great Joy using only male characters	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 0, 'Achievement120_f01'}  ], 0} 		na0000c_0
+Achievement121	The Taotie Devours the Dragon	Defeated the Sky-Eating Star in Villains' Valley	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 0, 'Achievement121_f01'}  ], 0} 		na0000c_0
+Achievement122	The Iron Man's Tender Heart	Defeated Hu Tiehua by attacking with female characters	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 0, 'Achievement124_f01'}  ], 0} 		na0000c_0
+Achievement123	Grandmaster	Completed the game on Grandmaster difficulty	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'LowerestDifficulty'} , { 'CheckFlag' : 1, 1, 'Difficulty'} , { 'CheckQuestState' : 3, 'qq0005'}  ], 0} 		na0000c_0
+Achievement127	Independent Thinker	Lingered before the arrow, doubting its truth	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'mc0210001'}  ], 0} 		na0000c_0
+Achievement128	Paradise of Bliss	Chose to stay in the Grove of Joy at the end of the Path of the Questioning Heart			na0000c_0
+Achievement129	Fight Poison with Poison	Gave Sima Yan a taste of deadly poison	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'Conspiracy_e_03_f01'}  ], 0} 		na0000c_0
+Achievement130	One Is Enough	Won Cui Yidong's sincere submission	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'bc024002_f01'}  ], 0} 		na0000c_0
+Achievement131	To Catch Bandits, First Catch the King	Threw the Seven Taisui of Tiger Forest into chaos	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'Conspiracy_e_02_f01'}  ], 0} 		na0000c_0
+Achievement132	Protector of Buns	Left the three Mao brothers hungry	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'bc001001_f05'}  ], 0} 		na0000c_0
+Achievement133	A Benevolent Hero	Fought the Jade Serpent Gentleman without harming any innocents	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'be100003_f06'}  ], 0} 		na0000c_0
+Achievement134	Roast Pig	Gave Zhu Fei a taste of fierce flame	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'bc000006_f01'}  ], 0} 		na0000c_0
+Achievement135	Full Strength, Bring It On!	Defeated Sikong Dou at full strength	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'bc802003_f01'}  ], 0} 		na0000c_0
+Achievement136	Old Friends	Defeated the Gray Bat and his "old friends"	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'bc017002_f01'}  ], 0} 		na0000c_0
+Achievement137	Poisoned Beyond Return	Defeated the Green Demon without using recovery, buffs or medicine	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'bc030002_f01'}  ], 0} 		na0000c_0
+Achievement138	The Ultimate Fury	Drove Du Qi's rage to its ultimate peak	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'bc001002_f01'}  ], 0} 		na0000c_0
+Achievement139	Rescue from the Flames	Saved every treasure while escaping the Jiang Residence	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'bc01200101_f07'}  ], 0} 		na0000c_0
+Achievement140	A Colossal Monster	Witnessed the Bliss Guardian's giant venom cocoon	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'bc009001_f01'}  ], 0} 		na0000c_0
+Achievement141	The Weakling Hero	Everyone laughs at the boy in blue; everyone is the boy in blue	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'mc_chicken_boy'}  ], 0} 		na0000c_0
+Achievement142	Xiaofeng Plucks the Star	Saw through every disguise of Zhaixing	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'WN040500000_00'}  ], 0} 		na0000c_0
+Achievement143	Summoning the Rooster God?	Found every Rooster Dragon Pearl	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 11, 'getegg'}  ], 0} 		na0000c_0
+Achievement144	A Benevolent, Friendly Manor	Solved Renyi Manor's animal puzzle	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'cc0060024_reward'}  ], 0} 		na0000c_0
+Achievement145	Much the Wiser	Read every page of the tattered notes	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'it5030_over'}  ], 0} 		na0000c_0
+Achievement146	Rescue of the Jade-Faced Qin God	Kept Xu Ruoyu alive and made him a retainer	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'fh0051'}  ], 0} 		na0000c_0
+Achievement147	Guardian of the Flowers	Followed Wang Lianhua's orders when capturing the Lust Envoy and refused to kill him	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'fh0052'}  ], 0} 		na0000c_0
+Achievement148	Promised Not to Steal the Swords	Took the swords from Xue Yiren's sword chamber			na0000c_0
+Achievement149	Faithful to the Lord of Joy	Viewed every painting on the Path of the Questioning Heart	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'fq0026_01'} , { 'CheckFlag' : 1, 1, 'fq0026_02'} , { 'CheckFlag' : 1, 1, 'fq0026_03'} , { 'CheckFlag' : 1, 1, 'fq0027_01'} , { 'CheckFlag' : 1, 1, 'fq0027_01'} , { 'CheckFlag' : 1, 1, 'fq0027_01'} , { 'CheckFlag' : 1, 1, 'fq0028_01'} , { 'CheckFlag' : 1, 1, 'fq0028_02'} , { 'CheckFlag' : 1, 1, 'fq0028_03'} , { 'CheckFlag' : 1, 1, 'fq0029_01'} , { 'CheckFlag' : 1, 1, 'fq0029_02'} , { 'CheckFlag' : 1, 1, 'fq0029_03'} , { 'CheckFlag' : 1, 1, 'fq0030_01'} , { 'CheckFlag' : 1, 1, 'fq0030_02'} , { 'CheckFlag' : 1, 1, 'fq0030_03'}  ], 0} 		na0000c_0
+Achievement150	Suddenly It All Made Sense	How Could I Ever Have Loved a Woman Like You			na0000c_0
+Achievement151	Exceptional Intellect	Answered all of Brother Hai's questions correctly	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 5, 'fq0154_06'}  ], 0} 		na0000c_0
+Achievement152	Gu Long: Annals of the Wind and Clouds	Unlocked every achievement	{ 'LogicalNode' : [ { 'AchievementCompletionCheckerCondition' : [ 'Achievement001', 'Achievement002', 'Achievement004', 'Achievement008', 'Achievement009', 'Achievement012', 'Achievement014', 'Achievement015', 'Achievement016', 'Achievement027', 'Achievement028', 'Achievement029', 'Achievement031', 'Achievement034', 'Achievement038', 'Achievement040', 'Achievement041', 'Achievement042', 'Achievement043', 'Achievement045', 'Achievement050' ]} , { 'AchievementCompletionCheckerCondition' : [ 'Achievement051', 'Achievement052', 'Achievement053', 'Achievement054', 'Achievement055', 'Achievement056', 'Achievement057', 'Achievement058', 'Achievement059', 'Achievement060', 'Achievement070', 'Achievement061', 'Achievement071', 'Achievement075', 'Achievement077', 'Achievement078', 'Achievement079', 'Achievement080', 'Achievement081', 'Achievement082', 'Achievement083', 'Achievement089', 'Achievement091' ]} , { 'AchievementCompletionCheckerCondition' : [ 'Achievement092', 'Achievement093', 'Achievement094', 'Achievement095', 'Achievement096', 'Achievement097', 'Achievement098', 'Achievement099', 'Achievement100', 'Achievement101', 'Achievement103', 'Achievement104', 'Achievement107', 'Achievement108', 'Achievement110', 'Achievement111', 'Achievement112', 'Achievement113', 'Achievement114', 'Achievement115', 'Achievement117' ]} , { 'AchievementCompletionCheckerCondition' : [ 'Achievement118', 'Achievement119', 'Achievement120', 'Achievement121', 'Achievement122', 'Achievement123', 'Achievement127', 'Achievement128', 'Achievement129', 'Achievement130', 'Achievement131', 'Achievement132', 'Achievement133', 'Achievement134', 'Achievement135', 'Achievement136', 'Achievement137', 'Achievement138', 'Achievement139', 'Achievement140' ]} , { 'AchievementCompletionCheckerCondition' : [ 'Achievement141', 'Achievement142', 'Achievement143', 'Achievement144', 'Achievement145', 'Achievement146', 'Achievement147', 'Achievement148', 'Achievement149', 'Achievement150', 'Achievement151' ]}  ], 0} 		na0000c_0

@@ -1,0 +1,22 @@
+Id	Name	Description	Days	Type	IntegerParameter	StringParameter	BeginAction	EndAction
+bi0001	Prices Rise	Item prices rise 25% for 60 days	999	PriceRising	25			
+bi0002	Weapon Prices Rise	Weapon prices rise 25% for 60 days	60	PriceRising_Weapon	25			
+bi0003	Armor Prices Rise	Armor prices rise 25% for 60 days	60	PriceRising_Armor	25			
+bi0004	Elixir Prices Rise	Elixir prices rise 25% for 60 days	60	PriceRising_Drug	25			
+bi0005	Accessory Prices Rise	Accessory prices rise 25% for 60 days	60	PriceRising_Accessory	25			
+bi0006	No Trading at Inns	No Trading at Inns	9999	DisableTrading	1			
+bi0007	Weapon Trade Halted	Inns stop selling weapons for 60 days	60	DisableTrading_Weapon	1			
+bi0008	Armor Trade Halted	Inns stop selling armor for 60 days	60	DisableTrading_Armor	1			
+bi0009	Elixir Trade Halted	Inns stop selling elixirs for 60 days	60	DisableTrading_Drug	1			
+bi0010	Accessory Trade Halted	Inns stop selling accessories for 60 days	60	DisableTrading_Accessory	1			
+bi0011	Inns Stop Sharing News	Inns stop sharing news for 60 days	60	DisableSnooping	1			
+bi0012	Cannot Rest at Inns	Cannot Rest at Inns	9999	DisableResting	1			
+bi0013	Renyi Manor Storehouse Closed	Renyi Manor storehouse closed for 60 days	60	DisableWarehouse	1			
+bi0014	Sect Resource Production Slowed	Sect resource production reduced 50% for 60 days	60	ResourceReducing	50			
+bi0015	Turmoil Rises Faster	Turmoil rises 25% faster	9999	TurmoilIncreasing	25			
+bi0016	Enemy attacks also inflict Venom	Enemy attacks also inflict Venom	9999	EnemyBuff	1		{ 'LogicalNode' : [ { 'ArmyBuffAction' : 'Tiangang', 'ct9001', True}  ], 0}	{ 'LogicalNode' : [ { 'ArmyBuffAction' : 'Tiangang', 'ct9001', False}  ], 0}
+bi0017	Elixir Prices Rise	Elixir prices rise 25% for 60 days	60	PriceRising_Drug	25			
+bi0018	Prices Rise	Item prices rise 25% for 60 days	60	PriceRising	25			
+bi0019	Enemy Stance +1	Enemy Stance +1	9999	EnemyBuff	1		{ 'LogicalNode' : [ { 'ArmyBuffAction' : 'Tiangang', 'ct9004', True}  ], 0}	{ 'LogicalNode' : [ { 'ArmyBuffAction' : 'Tiangang', 'ct9004', False}  ], 0}
+bi0020	Enemy Attack +15%	Enemy Attack +15%	9999	EnemyBuff	1		{ 'LogicalNode' : [ { 'ArmyBuffAction' : 'Tiangang', 'ct9002', True}  ], 0}	{ 'LogicalNode' : [ { 'ArmyBuffAction' : 'Tiangang', 'ct9002', False}  ], 0}
+bi0021	Enemy Stance recovery speed +15%	Enemy Stance recovery speed +15%	9999	EnemyBuff	1		{ 'LogicalNode' : [ { 'ArmyBuffAction' : 'Tiangang', 'ct9003', True}  ], 0}	{ 'LogicalNode' : [ { 'ArmyBuffAction' : 'Tiangang', 'ct9003', False}  ], 0}

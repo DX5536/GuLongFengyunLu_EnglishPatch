@@ -1,0 +1,11 @@
+Id	Name	Description	VillageId	MaxHeroCount	DefaultHero	ShowChapterName	BenevolenceEnabled	PartySeparationEnabled	NodeGroupId	WandererId	RepeatableQuestCount	Turmoil	Condition	NodeGroupQuestCount
+#Id	名称	叙述	据点Id	英雄数量上限	必选择英雄	是否跳出章节名称(暂无用)	是否开启仁义庄功能	是否能分队	开放节点群组Id(暂无用)	新开放奇人Id(暂无用)	循环任务数量	祸乱值等级	密谋最终阶段条件	任务数量
+ch99	Prologue			10							0			
+ch00	Chapter One			10							0			
+ch01	Chapter One			10							0			
+ch02	Chapter Two			10							0			
+ch03	Chapter Two			10							0			
+ch04	Chapter Two			10							0			
+ch05	Chapter Three			10							0			
+ch06	Chapter Four			10							0			
+ch07	Chapter Five			10							0			

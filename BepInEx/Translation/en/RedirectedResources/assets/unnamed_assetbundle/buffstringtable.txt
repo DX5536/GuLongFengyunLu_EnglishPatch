@@ -1,0 +1,108 @@
+Id	Remark	Text
+#Id	备注	文字
+# 战斗Buff-tip		
+Battle_BreakBuffer	虚弱	Initiative pushed back 100; cannot evade, parry or counter, and damage taken +20%
+Battle_Spring	回春	Scales with stacks: each stack restores 3% Vitality at the end of an action
+Battle_Drunk	醉意	Scales with stacks: each stack grants +8% Resistance when struck. Stacks are halved after being hit
+Battle_MpReply	补气	Scales with stacks: each stack restores 6% Inner Energy at the end of an action
+Battle_Rebound	移嫁	Scales with stacks: each stack reflects damage to enemies within 1 square when struck
+Battle_AtkUp	振奋	Scales with stacks: each stack grants +5% Power Bonus
+Battle_DefUp	强健	Scales with stacks: each stack grants +5% Resistance
+Battle_DodgeUp	灵感	Scales with stacks: each stack grants +10% Evasion
+Battle_SpdUp	迅捷	Scales with stacks: each stack grants +10% Speed
+Battle_CriUp	凝神	Scales with stacks: each stack grants +10% Critical
+Battle_HitUp	凝神	Scales with stacks: each stack grants +10% Precision
+Battle_CounterUp	反应	Scales with stacks: each stack grants +10% Counter
+Battle_ParryUp	抵抗	Scales with stacks: each stack grants +10% Parry
+Battle_ExternalDefUp	刚劲抵御	Hard Force Resistance +50%
+Battle_InternalDefUp	柔劲抵御	Soft Force Resistance +50%
+Battle_SpecialDefUp	混元抵御	Primordial Resistance +50%
+Battle_na0002_b01	天运	Attack damage fluctuates between 50% and 200%
+Battle_na0002_b02	运势	Damage taken fluctuates between 50% and 200%
+Battle_GrassEffect	草丛	Evasion +20%; <color=red><link=Battle_Treefloor>Thicket</link></color> is replaced by <color=red><link=Battle_Burnfloor>Blaze</link></color> or <color=red><link=Battle_Poisonfloor>Poison Marsh</link></color> squares
+Battle_GodMove	神行	Ignores <color=red><link=Battle_Zoc>Zones of Control</link></color> when moving
+Battle_MoveUp	快步	Movement +1
+Battle_SuperArmor	霸体	Takes 0 damage when struck until the end of the next action
+Battle_Unbreakable	不坏	Takes 0 damage when struck; stacks reset to zero after being hit
+Battle_Hide	隐匿	Cannot be targeted by enemies; removed after using a technique or item
+Battle_HpLock	傲骨	Vitality and Stance cannot fall below 1
+Battle_HpSuck	饮血	When attacking, recover Vitality equal to 50% of damage dealt
+Battle_MpSuck	吸星	When attacking, recover Inner Energy equal to 50% of damage dealt
+Battle_SecondBatter	连斩	Act again after defeating a target; when triggered, that technique's cooldown +1
+Battle_SecondMove	御风	May move twice in one action
+Battle_SecondAttack	连击	May act twice in a row
+Battle_Poison	中毒	Scales with stacks: each stack loses 3% Vitality at the end of an action
+Battle_Wound	流血	Scales with stacks: each stack loses 10 Vitality at the end of an action
+Battle_Burn	烧灼	Scales with stacks: each stack loses 6% of remaining Vitality at the end of an action
+Battle_Frostbite	冰寒	Scales with stacks: each stack loses 8% Inner Energy at the end of an action
+Battle_AtkDown	无力	Scales with stacks: each stack grants -5% Power Bonus
+Battle_DefDown	内伤	Scales with stacks: each stack grants -5% Resistance
+Battle_HitDown	目眩	Scales with stacks: each stack grants -10% Precision
+Battle_SealAcupoint	封穴	Scales with stacks: each stack grants -10% Speed
+Battle_DodgeDown	迟钝	Scales with stacks: each stack grants -10% Evasion
+Battle_CriDown	失神	Scales with stacks: each stack grants -10% Critical
+Battle_CounterDown	胆怯	Scales with stacks: each stack grants -10% Counter
+Battle_ParryDown	笨拙	Scales with stacks: each stack grants -10% Parry
+Battle_PropertyDebuff	弱化状态	A collective term for common debuffs: <color=red><link=Battle_Poison>Poisoned</link></color>, <color=red><link=Battle_Wound>Bleeding</link></color>, <color=red><link=Battle_Burn>Burning</link></color>, <color=red><link=Battle_Frostbite>Frost</link></color>, <color=red><link=Battle_AtkDown>Feeble</link></color>, <color=red><link=Battle_DefDown>Internal Injury</link></color>, <color=red><link=Battle_HitDown>Dazed</link></color>, <color=red><link=Battle_SealAcupoint>Sealed Acupoints</link></color>, <color=red><link=Battle_DodgeDown>Sluggish</link></color>, <color=red><link=Battle_CriDown>Distracted</link></color>, <color=red><link=Battle_CounterDown>Timid</link></color>, <color=red><link=Battle_ParryDown>Clumsy</link></color>
+Battle_MoveDown	断筋	Movement -1
+Battle_ExternalDefDown	脆弱(刚)	Hard Force Resistance -50%
+Battle_InternalDefDown	脆弱(柔)	Soft Force Resistance -50%
+Battle_SpecialDefDown	脆弱(混)	Primordial Resistance -50%
+Battle_AllDefDown	脆弱	Resistance -50%
+Battle_last_b01	心火	Scales with stacks: each stack loses 3% Vitality when attacking; this status does not decay naturally
+Battle_na0049_s01_b01	刀剑双杀	Scales with stacks: each stack grants +8% Critical, Penetration and Resistance; this status cannot be removed
+Battle_na0058_s0003_b01	移花	Damage taken -50%, and reflects 300% of that damage to enemies within 2 squares; stacks -1 when struck, ends when Weakened
+Battle_be000016_b01	惊梦眠云散	Scales with stacks: each stack grants -8% Power Bonus, Precision and Resistance; requires a special antidote to remove
+Battle_ne0028_s00_b01	血污	Healing Bonus -100%, Primordial Resistance -100%
+Battle_Blood	撕裂	For each square moved before attacking, gain 2 stacks of <color=red><link=Battle_Wound>Hard Force</link></color>
+Battle_Sick	瘴气	For each square moved before attacking, gain 2 stacks of <color=red><link=Battle_Poison>Poisoned</link></color>
+Battle_Hit-100	黑暗	Precision -100%
+Battle_Root	定身	Cannot move
+Battle_PulseCut	截脉	Cannot use skills
+Battle_Cooperate	黄雀在后	When an enemy within counter range is attacked, counterattack that target
+Battle_Ambush	守株待兔	When an enemy ends its action within counter range, counterattack that target
+Battle_Protect	保护	Takes attacks in place of allies within 1 square; Protect can trigger Parry and Counter, but cannot evade
+Battle_Charm	魅惑	Loses control and switches to the enemy side
+Battle_Taunt	嘲讽	Loses control and is forced to attack the specified target
+Battle_Fear	慌乱	Loses control and is forced to flee from the specified target
+Battle_it8003_b01	天	Penetration +50%, Accuracy +50%, Critical Damage +50%; switches at the end of the action
+Battle_it8003_b02	地	Resistance +50%, Parry Reduction +50%, Counter Damage +50%; switches at the end of the action
+Battle_it8003_b03	阴	All techniques deal +1 Stance damage, and each Flaw struck restores 1 Stance; switches at the end of the action
+Battle_it8003_b04	阳	Healing Bonus +100%, non-attack actions cost 50% less time, and restores 20% Inner Energy; switches at the end of the action
+Strategy_s0004_b01	疲劳	When stacks reach 0, lose all <color=red><link=Battle_AtkUp>Invigorated</link></color> and <color=red><link=Battle_DefUp>Fortified</link></color>, and gain 5 stacks each of <color=red><link=Battle_AtkDown>Feeble</link></color> and <color=red><link=Battle_DefDown>Internal Injury</link></color>; cannot be removed
+Battle_na0012_b01	锁定	Suffers additional effects when struck by specific skills.
+Battle_na0013_01	识破	Takes +1 Stance damage when struck
+Battle_na0021Group07_b01	缘灭	On death, inflicts 2 stacks of <color=red><link=Battle_Poison>Poisoned</link></color> on allies within 1 square
+Battle_na0024_s00_b01	天下莫敌	All damage taken becomes 1; cannot be removed; ends when Weakened
+Battle_ni0033_n0002	毒茧	Each stack grants 5% Resistance; at the end of an action, loses stacks equal to its own <color=red><link=Battle_Burn>Burning</link></color> and removes <color=red><link=Battle_Burn>Burning</link></color>
+Battle_nc0083	玄爆	Deals 3 Stance damage to the target regardless of Flaws, plus an extra 30% Vitality damage
+Battle_wp3015	九环	At 9 stacks, Attack +99
+Battle_na0027Group03_b01	南山	Stance damage taken becomes 0; stacks -1 whenever a Flaw is struck; this status does not decay naturally
+Battle_ni0030_s0001	朱家借条	Clears IOUs when resting; for each IOU, gain 1 stack each of <color=red><link=Battle_AtkDown>Feeble</link></color> and <color=red><link=Battle_DefDown>Internal Injury</link></color>
+# 战斗词汇-tip		
+Battle_Zoc	阻碍区域	A character who moves within 1 square of an enemy unit loses all remaining movement
+Battle_Lone	孤立	No allied units within 1 square
+Battle_Rest	休息	Spend {0} time to restore 50 Inner Energy and 1 Stance
+Battle_Abnormal	异常状态(弃用)	Collective term for six statuses including Venom, Bleeding, Burning, Frost and Sealed Acupoints; the matching Resistance reduces stacks received
+Battle_Control	控制状态	Statuses such as Taunt, Charm and Panic that take away control; a character can bear only one control status at a time
+Battle_Positive	增益状态	A status with beneficial effects
+Battle_Negative	减益状态	A status with harmful effects
+Battle_Riki	灵气效果	Valid units within the area are continually affected by the status effect
+Battle_Immunity	免疫	Nullifies certain types of statuses
+Battle_fastCast	巧计	Makes charged techniques instant
+Battle_na0007_s03	突火枪	Deals damage to enemies within a 1-square splash at range and inflicts 30 Burning
+Battle_na0007_s04	自爆	Deals heavy damage to enemies within 1 square; this attack never misses, and reduces the user's Vitality to 0
+Battle_na0008_s03	侦查	Grants yourself 1 stack of Oriole in Wait
+Battle_na0008_s04	顺风	Advances the initiative of allies within 1 square by 100
+Battle_Burnfloor	燃烧地格	Units on this square at the end of their action or when displaced gain 2 stacks of Burning; overlapping a <color=red><link=Battle_Poisonfloor>Poison Marsh</link></color> square causes an <color=red><link=Battle_Explode>Explosion</link></color>
+Battle_Poisonfloor	毒沼地格	Units on this square at the end of their action or when displaced gain 2 stacks of Poisoned; overlapping a <color=red><link=Battle_Burnfloor>Blaze</link></color> square causes an <color=red><link=Battle_Explode>Explosion</link></color>
+Battle_Treefloor	草丛地格	Units on this square gain 20% Evasion; replaced by <color=red><link=Battle_Burnfloor>Blaze</link></color> or <color=red><link=Battle_Poisonfloor>Poison Marsh</link></color> squares
+Battle_Explode	爆炸	Deals damage equal to 10% of max Vitality; clears square effects
+Battle_Recharge	集气	This skill activates only after waiting for its charge time
+Battle_Floor	特殊地格	There are three special squares: <color=red><link=Battle_Poisonfloor>Poison Marsh</link></color>, <color=red><link=Battle_Burnfloor>Blaze</link></color> and <color=red><link=Battle_Treefloor>Thicket</link></color>
+Battle_NoneStatusEffect	无特殊效果	No special effect
+Battle_nc0084_n0001	青魔毒	Greatly reduces healing received; Healing Bonus -200%
+Battle_angery	嗔火	Each stack grants +5% Power; stacks +1 when damaged
+Battle_ReSetFlaw	换架	Clears your own Flaws
+Battle_Boss_s0000	绝世高手	Immune to <color=red><link=Battle_Charm>Charm</link></color> and <color=red><link=Battle_Fear>Panic</link></color>; resting restores 30% Inner Energy; <color=red><link=Battle_Poison>Poisoned</link></color>, <color=red><link=Battle_Wound>Bleeding</link></color>, <color=red><link=Battle_Burn>Burning</link></color> and <color=red><link=Battle_Frostbite>Frost</link></color> damage -50%
+Battle_Boss_s0001	一流好手	Immune to <color=red><link=Battle_Charm>Charm</link></color>; resting restores 20% Inner Energy

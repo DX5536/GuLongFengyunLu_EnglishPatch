@@ -1,0 +1,547 @@
+Id	Name	Property	PropertyPercent	PropertyFormula	Features
+Accessory01					{Mechanical:DamageFormulaId:atk*0.6}
+AllColdDown01					{All:CooldownTick:-1}
+AllCostDown00					{All:TickCost:-2}
+AllCostDown01					{All:TickCost:-4}
+AllCostDown02					{All:TickCost:-8}
+AllCostDown03					{All:TickCost:-12}
+AllDamage00					{All:BaseDamage:10}
+AllDamage01					{All:BaseDamage:20}
+AllDamage02					{All:BaseDamage:30}
+AllDamage03					{All:BaseDamage:40}
+AllMpDamage00					{All:ManaDamage:2}
+AllMpDamage01					{All:ManaDamage:3}
+AllMpDamage02					{All:ManaDamage:6}
+AllMpDamage03					{All:ManaDamage:9}
+AllNeedMp00					{All:NeedMp:-8}
+AllNeedMp01					{All:NeedMp:-12}
+AllNeedMp02					{All:NeedMp:-16}
+AllNeedMp03					{All:NeedMp:-20}
+AllPostureDamage01					{All:PostureDamage:1}
+AllPushDistance01					{All:PushDistance:1}
+Atk00	Insight Name	Power:2			
+Atk01		Power:3			
+Atk02		Power:5			
+Atk03		Power:8			
+AtkGroup01	General Attack Up	Atk:20			
+AttackColdDown01					{Damage:CooldownTick:-1}
+AttackCostDown00					{Damage:TickCost:-2}
+AttackCostDown01					{Damage:TickCost:-4}
+AttackCostDown02					{Damage:TickCost:-8}
+AttackCostDown03					{Damage:TickCost:-12}
+AttackDamage00					{Damage:BaseDamage:10}
+AttackDamage01					{Damage:BaseDamage:20}
+AttackDamage02					{Damage:BaseDamage:30}
+AttackDamage03					{Damage:BaseDamage:40}
+AttackMpAttack00					{Damage:ManaDamage:2}
+AttackMpAttack01					{Damage:ManaDamage:3}
+AttackMpAttack02					{Damage:ManaDamage:6}
+AttackMpAttack03					{Damage:ManaDamage:9}
+AttackNeedMp00	Insight Name				{Damage:NeedMp:-8}
+AttackNeedMp01	Insight Name				{Damage:NeedMp:-12}
+AttackNeedMp02	Insight Name				{Damage:NeedMp:-16}
+AttackNeedMp03					{Damage:NeedMp:-20}
+AttackPostureAttack01					{Damage:PostureDamage:1}
+AttackPushDistance01					{Damage:PushDistance:1}
+BladeColdDown01					{Blade:CooldownTick:-1}
+BladeCostDown00					{Blade:TickCost:-2}
+BladeCostDown01					{Blade:TickCost:-4}
+BladeCostDown02					{Blade:TickCost:-8}
+BladeCostDown03					{Blade:TickCost:-12}
+BladeDamage00					{Blade:BaseDamage:10}
+BladeDamage01					{Blade:BaseDamage:20}
+BladeDamage02					{Blade:BaseDamage:30}
+BladeDamage03					{Blade:BaseDamage:40}
+BladeMpDamage00					{Blade:ManaDamage:2}
+BladeMpDamage01					{Blade:ManaDamage:3}
+BladeMpDamage02					{Blade:ManaDamage:6}
+BladeMpDamage03					{Blade:ManaDamage:9}
+BladeNeedMp00					{Blade:NeedMp:-8}
+BladeNeedMp01					{Blade:NeedMp:-12}
+BladeNeedMp02					{Blade:NeedMp:-16}
+BladeNeedMp03					{Blade:NeedMp:-20}
+BladePostureDamage01					{Blade:PostureDamage:1}
+BladePushDistance01					{Blade:PushDistance:1}
+BuffColdDown01					{Buff:CooldownTick:-1}
+BuffCostDown00					{Buff:TickCost:-2}
+BuffCostDown01					{Buff:TickCost:-4}
+BuffCostDown02					{Buff:TickCost:-8}
+BuffCostDown03					{Buff:TickCost:-12}
+BuffMaxRange01					{Buff:MaxRange:1}
+BuffNeedMp00					{Buff:NeedMp:-8}
+BuffNeedMp01					{Buff:NeedMp:-12}
+BuffNeedMp02					{Buff:NeedMp:-16}
+BuffNeedMp03					{Buff:NeedMp:-20}
+Counter00		Counter:2			
+Counter01		Counter:3			
+Counter02		Counter:5			
+Counter03		Counter:8			
+CounterAtk00		Add_Of_Counter:3			
+CounterAtk01		Add_Of_Counter:12			
+CounterAtk02		Add_Of_Counter:18			
+CounterAtk03		Add_Of_Counter:24			
+CounterRange01	Insight Name	Counter_Range:1			
+Cri00		Cri:2			
+Cri01		Cri:3			
+Cri02		Cri:5			
+Cri03		Cri:8			
+CriAtk00	Insight Name	Add_Of_Cri:3			
+CriAtk01		Add_Of_Cri:12			
+CriAtk02		Add_Of_Cri:18			
+CriAtk03		Add_Of_Cri:24			
+Cure00		Power_Of_Cure:2			
+Cure01		Power_Of_Cure:8			
+Cure02		Power_Of_Cure:12			
+Cure03		Power_Of_Cure:16			
+CureGroup01	General Healing Up	Power_Of_Cure:10			
+DaggerColdDown01	Insight Name				{Dagger:CooldownTick:-1}
+DaggerCostDown00					{Dagger:TickCost:-2}
+DaggerCostDown01					{Dagger:TickCost:-4}
+DaggerCostDown02					{Dagger:TickCost:-8}
+DaggerCostDown03					{Dagger:TickCost:-12}
+DaggerDamage00					{Dagger:BaseDamage:10}
+DaggerDamage01					{Dagger:BaseDamage:20}
+DaggerDamage02					{Dagger:BaseDamage:30}
+DaggerDamage03					{Dagger:BaseDamage:40}
+DaggerMpDamage00					{Dagger:ManaDamage:2}
+DaggerMpDamage01					{Dagger:ManaDamage:3}
+DaggerMpDamage02					{Dagger:ManaDamage:6}
+DaggerMpDamage03					{Dagger:ManaDamage:9}
+DaggerNeedMp00					{Dagger:NeedMp:-8}
+DaggerNeedMp01					{Dagger:NeedMp:-12}
+DaggerNeedMp02					{Dagger:NeedMp:-16}
+DaggerNeedMp03					{Dagger:NeedMp:-20}
+DaggerPostureDamage01					{Dagger:PostureDamage:1}
+DaggerPushDistance01					{Dagger:PushDistance:1}
+DartsColdDown01					{Darts:CooldownTick:-1}
+DartsCostDown00					{Darts:TickCost:-2}
+DartsCostDown01					{Darts:TickCost:-4}
+DartsCostDown02					{Darts:TickCost:-8}
+DartsCostDown03					{Darts:TickCost:-12}
+DartsDamage00					{Darts:BaseDamage:10}
+DartsDamage01					{Darts:BaseDamage:20}
+DartsDamage02					{Darts:BaseDamage:30}
+DartsDamage03					{Darts:BaseDamage:40}
+DartsMaxRange01					{Darts:MaxRange:1}
+DartsMpDamage00					{Darts:ManaDamage:2}
+DartsMpDamage01					{Darts:ManaDamage:3}
+DartsMpDamage02					{Darts:ManaDamage:6}
+DartsMpDamage03					{Darts:ManaDamage:9}
+DartsNeedMp00					{Darts:NeedMp:-8}
+DartsNeedMp01					{Darts:NeedMp:-12}
+DartsNeedMp02					{Darts:NeedMp:-16}
+DartsNeedMp03					{Darts:NeedMp:-20}
+DartsPostureDamage01					{Darts:PostureDamage:1}
+DartsPushDistance01					{Darts:PushDistance:1}
+DebuffColdDown01					{Debuff:CooldownTick:-1}
+DebuffCostDown00					{Debuff:TickCost:-2}
+DebuffCostDown01					{Debuff:TickCost:-4}
+DebuffCostDown02					{Debuff:TickCost:-8}
+DebuffCostDown03					{Debuff:TickCost:-12}
+DebuffMaxRange01					{Debuff:MaxRange:1}
+DebuffNeedMp00					{Debuff:NeedMp:-8}
+DebuffNeedMp01					{Debuff:NeedMp:-12}
+DebuffNeedMp02					{Debuff:NeedMp:-16}
+DebuffNeedMp03					{Debuff:NeedMp:-20}
+Dodge00		Dodge:2			
+Dodge01		Dodge:3			
+Dodge02		Dodge:5			
+Dodge03		Dodge:8			
+DrugColdDown01					{Drug:CooldownTick:-1}
+DrugCooldown01	Insight Name				{Drug:CooldownTick:-1}
+DrugCostDown00					{Drug:TickCost:-2}
+DrugCostDown01					{Drug:TickCost:-4}
+DrugCostDown02					{Drug:TickCost:-8}
+DrugCostDown03					{Drug:TickCost:-12}
+DrugDamage00					{Drug:BaseDamage:10}
+DrugDamage01					{Drug:BaseDamage:20}
+DrugDamage02					{Drug:BaseDamage:30}
+DrugDamage03					{Drug:BaseDamage:40}
+DrugMaxRange01					{Drug:MaxRange:1}
+DrugMpDamage00					{Drug:ManaDamage:2}
+DrugMpDamage01					{Drug:ManaDamage:3}
+DrugMpDamage02					{Drug:ManaDamage:6}
+DrugMpDamage03					{Drug:ManaDamage:9}
+DrugMpDrug00					{Drug:StatusEffect:3}
+DrugMpDrug01					{Drug:StatusEffect:3}
+DrugMpDrug02					{Drug:StatusEffect:3}
+DrugNeedMp00					{Drug:NeedMp:-8}
+DrugNeedMp01					{Drug:NeedMp:-12}
+DrugNeedMp02					{Drug:NeedMp:-16}
+DrugNeedMp03					{Drug:NeedMp:-20}
+DrugPostureDrug01					{Drug:StatusEffect:1}
+External00		Add_Of_External:2			
+External01		Add_Of_External:8			
+External02		Add_Of_External:12			
+External03		Add_Of_External:16			
+ExternalDef00		Resistance_External:2			
+ExternalDef01		Resistance_External:8			
+ExternalDef02		Resistance_External:12			
+ExternalDef03		Resistance_External:16			
+FightColdDown01					{Fight:CooldownTick:-1}
+FightCostDown00					{Fight:TickCost:-2}
+FightCostDown01					{Fight:TickCost:-4}
+FightCostDown02					{Fight:TickCost:-8}
+FightCostDown03					{Fight:TickCost:-12}
+FightDamage00					{Fight:BaseDamage:10}
+FightDamage01					{Fight:BaseDamage:20}
+FightDamage02					{Fight:BaseDamage:30}
+FightDamage03					{Fight:BaseDamage:40}
+FightMpDamage00					{Fight:ManaDamage:2}
+FightMpDamage01					{Fight:ManaDamage:3}
+FightMpDamage02					{Fight:ManaDamage:6}
+FightMpDamage03					{Fight:ManaDamage:9}
+FightNeedMp00					{Fight:NeedMp:-8}
+FightNeedMp01					{Fight:NeedMp:-12}
+FightNeedMp02					{Fight:NeedMp:-16}
+FightNeedMp03					{Fight:NeedMp:-20}
+FightPostureDamage01					{Fight:PostureDamage:1}
+FightPushDistance01					{Fight:PushDistance:1}
+HealCooldown01	Insight Name				{Recover:CooldownTick:-1}
+HealCostDown00	Insight Name				{Recover:TickCost:-5}
+HealCostDown01	Insight Name				{Recover:TickCost:-5}
+HealCostDown02	Insight Name				{Recover:TickCost:-10}
+HealMaxRange01	Insight Name				{Recover:MaxRange:1}
+HealNeedMp01	Insight Name				{Recover:NeedMp:-12}
+HealNeedMp02	Insight Name				{Recover:NeedMp:-16}
+Hit00		Hit:2			
+Hit01		Hit:8			
+Hit02		Hit:12			
+Hit03		Hit:16			
+HitGroup01	General Precision Up	Hit:10			
+HpGroup01	General Vitality Up	Max_HP:40			
+Int01	Insight Name	Int:1			
+Int02	Insight Name	Int:2			
+Internal00		Add_Of_Internal:2			
+Internal01		Add_Of_Internal:8			
+Internal02		Add_Of_Internal:12			
+Internal03		Add_Of_Internal:16			
+InternalDef00		Resistance_Internal:2			
+InternalDef01		Resistance_Internal:8			
+InternalDef02		Resistance_Internal:12			
+InternalDef03		Resistance_Internal:16			
+InternalNeedMp01	Insight Name				{0:NeedMp:-3}
+InternalNeedMp02	Insight Name				{0:NeedMp:-6}
+it8004	Eighteen Falls at a Touch of the Sleeve			{Parry:0.4:Counter}	
+it8007	Divine Art of the Five Peerless	Power:50,Add_Of_Counter:25,Add_Of_Parry:25,Add_Of_Cri:25			
+it8009	Blessed by the Lucky Star	Power:-30,Add_Of_Cri:90			
+it8013	Wandering Soul Footwork				{Jump:BaseDamage:60},{Charge:BaseDamage:60},{Collision:BaseDamage:60}
+it8014	Heavenly Thunder Mind Art				{Immediately:TickCost:-10},{Recharge:RechargeTickCost:-10}
+it8015	Tendon-Transmuting Sutra	MaxPosture:4,Counter_Range:1			
+it8016	Thunder Lord's Formula			{Power:0.4:Parry}	
+it8032	Stillness Subdues Motion			{Counter:0.3:Hit}	
+it8033	Motion Pierces Softness			{Speed:0.3:Power}	
+it8034	Divine Art of the Righteous Rooster	Move:5			
+MaxHp00		Max_HP:8			
+MaxHp01		Max_HP:30			
+MaxHp02		Max_HP:45			
+MaxHp03		Max_HP:60			
+MaxHpAtk01	Insight Name			{Max_HP:0.1:Atk}	
+MaxHpAtk02	Insight Name			{Max_HP:0.2:Atk}	
+MaxHpDef01	Insight Name			{Max_HP:0.1:Level}	
+MaxHpDef02	Insight Name			{Max_HP:0.2:Level}	
+MaxHp_p_00			Max_HP:2		
+MaxHp_p_01			Max_HP:8		
+MaxHp_p_02			Max_HP:12		
+MaxHp_p_03			Max_HP:16		
+MaxMp00	Insight Name	Max_MP:5			
+MaxMp01	Insight Name	Max_MP:10			
+MaxMp02	Insight Name	Max_MP:15			
+MaxMpDodge01	Insight Name			{Max_MP:0.1:Dodge}	
+MaxMpHit01	Insight Name			{Max_MP:0.1:Hit}	
+MaxMp_p_00	Insight Name		Max_MP:1		
+MaxMp_p_01	Insight Name		Max_MP:2		
+MaxMp_p_02	Insight Name		Max_MP:4		
+MaxPosture01	Insight Name	MaxPosture:1			
+MaxPosture02	Insight Name	MaxPosture:2			
+MechanicalAgiDamage					{Mechanical:DamageFormulaId:agi*0.6}
+MechanicalAgiMpDamage					{Mechanical:ManaDamageFormula:agi*0.6}
+MechanicalAtkDamage					{Mechanical:DamageFormulaId:atk*0.6}
+MechanicalChiDamage					{Mechanical:DamageFormulaId:chi*0.6}
+MechanicalChiMpDamage					{Mechanical:ManaDamageFormula:chi*0.6}
+MechanicalColdDown01					{Mechanical:CooldownTick:-1}
+MechanicalColdDown02					{Mechanical:CooldownTick:-1}
+MechanicalConDamage					{Mechanical:DamageFormulaId:con*0.6}
+MechanicalConMpDamage					{Mechanical:ManaDamageFormula:con*0.6}
+MechanicalCostDown00					{Mechanical:TickCost:-2}
+MechanicalCostDown01					{Mechanical:TickCost:-4}
+MechanicalCostDown02					{Mechanical:TickCost:-8}
+MechanicalCostDown03					{Mechanical:TickCost:-12}
+MechanicalDamage00					{Mechanical:BaseDamage:10}
+MechanicalDamage01					{Mechanical:BaseDamage:20}
+MechanicalDamage02					{Mechanical:BaseDamage:40}
+MechanicalDamage03					{Mechanical:BaseDamage:60}
+MechanicalDexDamage					{Mechanical:DamageFormulaId:dex*0.6}
+MechanicalDexMpDamage					{Mechanical:ManaDamageFormula:dex*0.6}
+MechanicalIntDamage					{Mechanical:DamageFormulaId:int*0.6}
+MechanicalIntMpDamage					{Mechanical:ManaDamageFormula:int*0.6}
+MechanicalMaxRange01					{Mechanical:MaxRange:1}
+MechanicalMpDamage00					{Mechanical:ManaDamage:5}
+MechanicalMpDamage01					{Mechanical:ManaDamage:10}
+MechanicalMpDamage02					{Mechanical:ManaDamage:15}
+MechanicalMpDamage03					{Mechanical:ManaDamage:20}
+MechanicalNeedMp00					{Mechanical:NeedMp:-8}
+MechanicalNeedMp01					{Mechanical:NeedMp:-12}
+MechanicalNeedMp02					{Mechanical:NeedMp:-16}
+MechanicalNeedMp03					{Mechanical:NeedMp:-20}
+MechanicalPostureDamage01					{Mechanical:PostureDamage:1}
+MechanicalPushDistance01					{Mechanical:PushDistance:1}
+MechanicalStrDamage					{Mechanical:DamageFormulaId:str*0.6}
+MechanicalStrMpDamage					{Mechanical:ManaDamageFormula:str*0.6}
+Memory01	Insight Name	Memory:1			
+Move01	Insight Name	Move:1			
+Move02	Insight Name	Move:2			
+MoveColdDown01					{Jump:CooldownTick:-1},{Charge:CooldownTick:-1},{Collision:CooldownTick:-1}
+MoveCostDown00					{Jump:TickCost:-2},{Charge:TickCost:-2},{Collision:TickCost:-4}
+MoveCostDown01					{Jump:TickCost:-4},{Charge:TickCost:-4},{Collision:TickCost:-4}
+MoveCostDown02					{Jump:TickCost:-8},{Charge:TickCost:-8},{Collision:TickCost:-8}
+MoveCostDown03					{Jump:TickCost:-12},{Charge:TickCost:-12},{Collision:TickCost:-12}
+MoveDamage00					{Jump:BaseDamage:10},{Charge:BaseDamage:10},{Collision:BaseDamage:10}
+MoveDamage01					{Jump:BaseDamage:20},{Charge:BaseDamage:20},{Collision:BaseDamage:20}
+MoveDamage02					{Jump:BaseDamage:30},{Charge:BaseDamage:30},{Collision:BaseDamage:30}
+MoveDamage03					{Jump:BaseDamage:40},{Charge:BaseDamage:40},{Collision:BaseDamage:40}
+MoveMpDamage00					{Jump:ManaDamage:2},{Charge:ManaDamage:2},{Collision:ManaDamage:2}
+MoveMpDamage01					{Jump:ManaDamage:3},{Charge:ManaDamage:3},{Collision:ManaDamage:3}
+MoveMpDamage02					{Jump:ManaDamage:6},{Charge:ManaDamage:6},{Collision:ManaDamage:6}
+MoveMpDamage03					{Jump:ManaDamage:9},{Charge:ManaDamage:9},{Collision:ManaDamage:9}
+MoveNeedMp00					{Jump:NeedMp:-8},{Charge:NeedMp:-8},{Collision:NeedMp:-8}
+MoveNeedMp01					{Jump:NeedMp:-12},{Charge:NeedMp:-12},{Collision:NeedMp:-12}
+MoveNeedMp02					{Jump:NeedMp:-16},{Charge:NeedMp:-16},{Collision:NeedMp:-16}
+MoveNeedMp03					{Jump:NeedMp:-20},{Charge:NeedMp:-20},{Collision:NeedMp:-20}
+MovePostureDamage01	Insight Name				{Jump:PostureDamage:1},{Charge:PostureDamage:1},{Collision:PostureDamage:1}
+MovePushDistance01					{0:PushDistance:1}
+na0001Group03	Insight Name			{Resistance_Internal:0:Resistance_External},{Resistance_Internal:0:Resistance_Special}	
+na0001Group04					{Recover:TickCost:-8},{Drug:TickCost:-8}
+na0002Group01	Insight Name		Max_MP:10		
+na0002Group02					{Buff:TickCost:-4},{Debuff:TickCost:-4},{Recover:TickCost:-4}
+na0003Group01	Insight Name		Speed:10		
+na0005Group03		HP:20,Atk:10			
+na0006Atk00		Atk:2			
+na0006Atk01		Atk:4			
+na0006Atk02		Atk:6			
+na0006Atk03		Atk:8			
+na0006Counter00		Counter:2			
+na0006Counter01		Counter:8			
+na0006Counter02		Counter:12			
+na0006Counter03		Counter:16			
+na0006CounterAtk00		Add_Of_Counter:3			
+na0006CounterAtk01		Add_Of_Counter:12			
+na0006CounterAtk02		Add_Of_Counter:18			
+na0006CounterAtk03		Add_Of_Counter:24			
+na0006CounterRange01		Counter_Range:1			
+na0006Cri00		Cri:2			
+na0006Cri01		Cri:8			
+na0006Cri02		Cri:12			
+na0006Cri03		Cri:16			
+na0006CriAtk00	Insight Name	Add_Of_Cri:3			
+na0006CriAtk01		Add_Of_Cri:12			
+na0006CriAtk02		Add_Of_Cri:18			
+na0006CriAtk03		Add_Of_Cri:24			
+na0006Dodge00		Dodge:2			
+na0006Dodge01		Dodge:8			
+na0006Dodge02		Dodge:12			
+na0006Dodge03		Dodge:16			
+na0006External00		Add_Of_External:3			
+na0006External01		Add_Of_External:12			
+na0006External02		Add_Of_External:18			
+na0006External03		Add_Of_External:24			
+na0006Group02		Power:20			
+na0006Hit00		Hit:2			
+na0006Hit01		Hit:8			
+na0006Hit02		Hit:12			
+na0006Hit03		Hit:16			
+na0006Internal00		Add_Of_Internal:3			
+na0006Internal01		Add_Of_Internal:12			
+na0006Internal02		Add_Of_Internal:18			
+na0006Internal03		Add_Of_Internal:24			
+na0006MaxPosture01		MaxPosture:1			
+na0006Move01		Move:1			
+na0006Parry00		Parry:2			
+na0006Parry01		Parry:8			
+na0006Parry02		Parry:16			
+na0006Parry03		Parry:16			
+na0006ParryDef00		Add_Of_Parry:2			
+na0006ParryDef01		Add_Of_Parry:3			
+na0006ParryDef02		Add_Of_Parry:5			
+na0006ParryDef03		Add_Of_Parry:8			
+na0006PostureDamage01					{Damage:PostureDamage:1}
+na0006Power00	Insight Name	Power:2			
+na0006Power01		Power:8			
+na0006Power02		Power:12			
+na0006Power03		Power:16			
+na0006Spd00		Speed:2			
+na0006Spd01		Speed:8			
+na0006Spd02		Speed:12			
+na0006Spd03		Speed:16			
+na0006Special00		Add_Of_Special:3			
+na0006Special01		Add_Of_Special:12			
+na0006Special02		Add_Of_Special:18			
+na0006Special03		Add_Of_Special:24			
+na0010Group01	Insight Name		Max_HP:10		
+na0010Group02	Insight Name		Dodge:10		
+na0011Group01	Insight Name	Power:10			
+na0011Group03	Insight Name	Add_Of_Cri:50,Move:-1			
+na0011Group04	Insight Name				{Darts:NeedMp:-8}
+na0011Group06	Insight Name			{Hit:1:Add_Of_Cri}	
+na0012Group02	Insight Name		Atk:10		{Sword:DamageFormulaId:dex*1}
+na0013Group01	Insight Name		Dodge:10		
+na0013Group03	Insight Name				{Dagger:PostureDamage:1}
+na0013Group05	Insight Name	Power_Of_Cure:-20			{Recover:TickCost:-20}
+na0013Group06	Insight Name				{Buff:NeedMp:-5},{Recover:NeedMp:-5}
+na0021Group04	Insight Name				{Recharge:CooldownTick:-2}
+na0027Group01	Insight Name		Max_HP:10		
+na0027Group03	Insight Name		Add_Of_Cri:-100	{Add_Of_Cri:1:Add_Of_Counter}	
+na0027Group04	Insight Name		Cri:-100	{Cri:1:Parry}	
+na0027Group06	Insight Name	Counter_Range:1			
+na0029Group03		Dodge:5,Parry:5			
+na0030Group03	Insight Name			{Hit:1:Atk}	
+na0030Group04	Insight Name	Add_Of_External:10,Add_Of_Internal:10,Add_Of_Special:10			
+na0030Group05	Insight Name	Memory:1	Speed:5		
+na0038Group01	Insight Name				{Mechanical:PostureDamage:1}
+na0038Group03					{Toxic:TickCost:-8},{Drug:TickCost:-8},{Mechanical:TickCost:-8}
+na0038Group06					{Buff:CooldownTick:-1},{Buff:TickCost:-8}
+Parry00		Parry:2			
+Parry01		Parry:3			
+Parry02		Parry:5			
+Parry03		Parry:8			
+ParryDef00		Add_Of_Parry:2			
+ParryDef01		Add_Of_Parry:3			
+ParryDef02		Add_Of_Parry:5			
+ParryDef03		Add_Of_Parry:8			
+pointtree00na0000	Insight Name	Cri:5,Parry:5,Dodge:5,Hit:5			
+pointtree00na0002	Insight Name		Max_MP:10,Speed:10		
+pointtree00na0013	Insight Name	Dodge:10,Parry:10,Hit:10			
+pointtree00na0027	Insight Name		Max_HP:50		
+pointtree00na0029					{Dagger:BaseDamage:10},{Dagger:TickCost:-12}
+pointtree00na0038	Insight Name	Power_Of_Cure:10			{Drug:MaxRange:1}
+pointtree0151	Insight Name				{Damage:CooldownTick:-1}
+pointtree0152					{Damage:TickCost:-8}
+pointtree01na000052	Unstoppable Momentum	Hit:-10,Add_Of_External:10,Add_Of_Internal:10,Add_Of_Special:10			
+pointtree01na000121				{Parry:0.3:Power}	
+pointtree01na000254		Cri:20,Add_Of_Cri:-20			
+pointtree01na00030103	Insight Name			{Speed:0.3:Power}	
+pointtree01na00110203	Insight Name	Add_Of_Cri:20	Max_HP:-10		
+pointtree01na001153	Heedless of Life and Death	Power:50,Resistance_External:-30,Resistance_Internal:-30,Resistance_Special:-30			
+pointtree01na003351	Insight Point	Resistance_External:-20,Add_Of_Special:15,Add_Of_Internal:15			
+pointtree01na003822	Ingenious Originality				{Mechanical:DamageFormulaId:dex*0.6}
+pointtree01na003853					{Mechanical:DamageFormulaId:atk*1.2}
+pointtree02na000355				{Dodge:0.2:Add_Of_Parry}	
+pointtree02na003054				{Dodge:0.2:Add_Of_Parry}	
+pointtree03na000152				{Max_MP:1:Max_HP}	
+pointtree03na00100103	Insight Name			{Dodge:0.3:Parry}	
+pointtree03na00290103	Insight Name			{Parry:0.3:Dodge}	
+pointtree0452	Insight Name				
+pointtree04na000152				{Hit:0.3:Speed}	
+pointtree04na00020203	Insight Name				{Buff:TickCost:-15},{Debuff:TickCost:-15},{Buff:NeedMp:15},{Debuff:NeedMp:15}
+pointtree04na000351				{Speed:0.3:Power}	
+pointtree04na001151	Hidden weapon skills cost 20 more Inner Energy; Critical Damage +20	Add_Of_Cri:20			{Darts:TickCost:20}
+pointtree04na001351					{Dagger:TickCost:-10}
+pointtree04na001352					{Dagger:NeedMp:-8}
+pointtree0535	Insight Name				{Mechanical:PostureDamage:1}
+pointtree0552	Insight Name				{Drug:MaxRange:1},{Toxic:MaxRange:1}
+pointtree0553	Insight Name				
+pointtree05na000255					{Drug:PostureDamage:2}
+pointtree05na000651					{Mechanical:DamageFormulaId:con*0.6}
+pointtree05na001352					{Drug:PostureDamage:1}
+pointtree05na00380103	Insight Name				{Recover:MaxRange:1},{Recover:NeedMp:-8}
+pointtree05na003824	Testing				{Mechanical:DamageFormulaId:dex*2}
+pointtree05na003852					{Drug:BaseDamage:80},{Drug:ManaDamage:80}
+RechargeCostDown00					{Recharge:RechargeTickCost:-2}
+RechargeCostDown01					{Recharge:RechargeTickCost:-4}
+RechargeCostDown02					{Recharge:RechargeTickCost:-8}
+RechargeCostDown03					{Recharge:RechargeTickCost:-12}
+RechargeDamage02					{Recharge:BaseDamage:30}
+RecoverColdDown01					{Recover:CooldownTick:-1}
+RecoverCostDown00					{Recover:TickCost:-2}
+RecoverCostDown01					{Recover:TickCost:-4}
+RecoverCostDown02					{Recover:TickCost:-8}
+RecoverCostDown03					{Recover:TickCost:-12}
+RecoverDamage00					{Recover:BaseDamage:10}
+RecoverDamage01					{Recover:BaseDamage:20}
+RecoverDamage02					{Recover:BaseDamage:30}
+RecoverDamage03					{Recover:BaseDamage:40}
+RecoverMaxRange01	Insight Name				{Recover:MaxRange:1}
+RecoverMaxRange01_Clone	Insight Name				{Recover:MaxRange:1}
+RecoverMpDamage00					{Recover:ManaDamage:2}
+RecoverMpDamage01					{Recover:ManaDamage:3}
+RecoverMpDamage02					{Recover:ManaDamage:6}
+RecoverMpDamage03					{Recover:ManaDamage:9}
+RecoverMpRecover00					{Recover:StatusEffect:3}
+RecoverMpRecover01					{Recover:StatusEffect:3}
+RecoverMpRecover02					{Recover:StatusEffect:3}
+RecoverNeedMp00					{Recover:NeedMp:-8}
+RecoverNeedMp01					{Recover:NeedMp:-12}
+RecoverNeedMp02					{Recover:NeedMp:-16}
+RecoverNeedMp03					{Recover:NeedMp:-20}
+RecoverPostureRecover01					{Recover:StatusEffect:1}
+SingleCostDown00					{Single:TickCost:-2}
+SingleCostDown01					{Single:TickCost:-4}
+SingleCostDown02					{Single:TickCost:-8}
+SingleCostDown03					{Single:TickCost:-12}
+Spd00		Speed:2			
+Spd01		Speed:8			
+Spd02		Speed:12			
+Spd03		Speed:16			
+Special00		Add_Of_Special:2			
+Special01		Add_Of_Special:8			
+Special02		Add_Of_Special:12			
+Special03		Add_Of_Special:16			
+SpecialDef00		Resistance_Special:2			
+SpecialDef01		Resistance_Special:8			
+SpecialDef02		Resistance_Special:12			
+SpecialDef03		Resistance_Special:16			
+StrategyCooldown01	Insight Name				{Buff:CooldownTick:-1}
+StrategyCooldown02	Insight Name				{Buff:CooldownTick:-2}
+StrategyCostDown01	Insight Name				{Buff:TickCost:-5}
+StrategyCostDown02	Insight Name				{Buff:TickCost:-10}
+StrategyMaxRange01	Insight Name				{Buff:MaxRange:1}
+StrategyMaxRange02	Insight Name				{Buff:MaxRange:2}
+StrategyNeedMp00	Insight Name				{Buff:NeedMp:-8}
+StrategyNeedMp01	Insight Name				{Buff:NeedMp:-12}
+StrategyNeedMp02	Insight Name				{Buff:NeedMp:-16}
+StrategyNeedMp03	Insight Name				{Buff:NeedMp:-20}
+StrInternal01	Insight Name			{Str:0.2:Add_Of_Internal}	
+StrInternal02	Insight Name			{Str:0.4:Add_Of_Internal}	
+StrSpecial01	Insight Name			{Str:0.2:Add_Of_Special}	
+StrSpecial02	Insight Name			{Str:0.4:Add_Of_Special}	
+SwordColdDown01					{Sword:CooldownTick:-1}
+SwordCostDown00					{Sword:TickCost:-2}
+SwordCostDown01					{Sword:TickCost:-4}
+SwordCostDown02					{Sword:TickCost:-8}
+SwordDamage00					{Sword:BaseDamage:10}
+SwordDamage01					{Sword:BaseDamage:20}
+SwordDamage02					{Sword:BaseDamage:30}
+SwordDamage03					{Sword:BaseDamage:40}
+SwordMpDamage00					{Sword:ManaDamage:2}
+SwordMpDamage01					{Sword:ManaDamage:3}
+SwordMpDamage02					{Sword:ManaDamage:6}
+SwordMpDamage03					{Sword:ManaDamage:9}
+SwordNeedMp00					{Sword:NeedMp:-8}
+SwordNeedMp01					{Sword:NeedMp:-12}
+SwordNeedMp02					{Sword:NeedMp:-16}
+SwordNeedMp03					{Sword:NeedMp:-20}
+SwordPostureDamage01					{Sword:PostureDamage:1}
+SwordPushDistance01					{Sword:PushDistance:1}
+test	For Testing				{Drug:DamageFormulaId:chir*1},{Recover:ManaDamageFormula:con*1}
+ToxicColdDown01					{Toxic:CooldownTick:-1}
+ToxicCostDown00					{Toxic:TickCost:-2}
+ToxicCostDown01					{Toxic:TickCost:-4}
+ToxicCostDown02					{Toxic:TickCost:-8}
+ToxicCostDown03					{Toxic:TickCost:-12}
+ToxicDamage00					{Toxic:BaseDamage:10}
+ToxicDamage01					{Toxic:BaseDamage:20}
+ToxicDamage02					{Toxic:BaseDamage:30}
+ToxicDamage03					{Toxic:BaseDamage:40}
+ToxicMaxRange01	Insight Name				{Toxic:MaxRange:1}
+ToxicMpDamage00					{Toxic:ManaDamage:2}
+ToxicMpDamage01					{Toxic:ManaDamage:3}
+ToxicMpDamage02					{Toxic:ManaDamage:6}
+ToxicMpDamage03					{Toxic:ManaDamage:9}
+ToxicMpToxic00					{Toxic:StatusEffect:3}
+ToxicMpToxic01					{Toxic:StatusEffect:3}
+ToxicMpToxic02					{Toxic:StatusEffect:3}
+ToxicNeedMp00					{Toxic:NeedMp:-8}
+ToxicNeedMp01					{Toxic:NeedMp:-12}
+ToxicNeedMp02					{Toxic:NeedMp:-16}
+ToxicNeedMp03					{Toxic:NeedMp:-20}
+ToxicPostureToxic01					{Toxic:StatusEffect:1}

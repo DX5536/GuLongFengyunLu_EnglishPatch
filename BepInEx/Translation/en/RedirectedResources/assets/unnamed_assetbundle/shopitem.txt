@@ -1,0 +1,38 @@
+#商店编号	商店名称	据点编号	是否门派	是否据点开启	是否地图开启(暂无用)	开卖章节(暂无用)	停卖章节(暂无用)	特殊条件(暂无用)	老板立绘	招呼语随机字串	礼品抽取数量	特殊品抽取数量
+Id	Name	VillageItemId	SectItemId	IsStronghold	VillageIsOpen	StartChapter	EndChapter	SpecialCondition	BossPortrait	Dialog	GiftDrawCount	SpecialDrawCount
+sh0001	Luoyang Apothecary	Scene000		TRUE	1	0	0	0	test04	We have medicines aplenty; take your time.,Guaranteed to cure what ails you.,Cures the sick and strengthens the hale.	0	99
+sh0002	Luoyang Blacksmith	Scene000		TRUE	1	0	0	0	test11	Welcome!,I sell only the finest weapons!,Honest dealings with young and old; genuine goods at fair prices!	0	99
+sh0004	Yanglan Clinic	Scene005		TRUE	1	0	0	0	bb009	Dispensing medicine makes good money.,Good money buys good medicine.,Making money is dispensing medicine.	2	2
+sh0005	Yanglan Blacksmith	Scene005		TRUE	1	0	0	0	test11	...Clear skies. No wind.,...Strike while the iron is hot.,...A thousand hammer blows; ten thousand chisel strokes.	2	2
+sh0006	Hangzhou Apothecary	Scene012		TRUE	1	0	0	0	test11	We have medicines aplenty; take your time.,Guaranteed to cure what ails you.,Cures the sick and strengthens the hale.	2	2
+sh0007	Hangzhou Blacksmith	Scene012		TRUE	1	0	0	0	test11	Welcome!,I sell only the finest weapons!,Honest dealings with young and old; genuine goods at fair prices!	2	2
+sh0008	Luoyang Sundries	Scene000		TRUE	0	0	0	0	bc002	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	2	1
+sh0009	Hangzhou Sundries	Scene012		TRUE	0	0	0	0	bc002	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	2	1
+sh1000	Eight Directions Inn	Scene800		TRUE	1	0	0	0	test03	Welcome!,What will it be for you; honored guest?,How about some fine wine and dishes?	2	2
+sh1001	Yuebin Inn	Scene801		TRUE	1	0	0	0	test04	Welcome!,What will it be for you; honored guest?,How about some fine wine and dishes?	2	2
+sh1002	Tower of Great Joy	Scene802		TRUE	1	0	0	0	test03	Welcome!,What will it be for you; honored guest?,How about some fine wine and dishes?	2	2
+sh1003	Apricot Blossom Village	Scene803		TRUE	1	0	0	0	test04	Welcome!,What will it be for you; honored guest?,How about some fine wine and dishes?	2	2
+sh1004	Zhuangyuan Tower	Scene000		TRUE	1	0	0	0	test03	Welcome!,What will it be for you; honored guest?,How about some fine wine and dishes?	2	2
+sh1005	Fallen Star Inn	Scene005		TRUE	1	0	0	0	test03	Welcome!,What will it be for you; honored guest?,How about some fine wine and dishes?	2	2
+sh1006	Hangzhou Inn	Scene012		TRUE	1	0	0	0	test03	Welcome!,What will it be for you; honored guest?,How about some fine wine and dishes?	2	2
+sh2000	Master Xinjian			TRUE	0	0	0	0	nb0013	Heh heh... this humble monk's meager craft may not grace refined company, yet who can say it will never prove useful one day...	2	2
+sh3000	Test Merchant			TRUE	0	0	0	0	bb005	This is a test merchant; please do not delete me.	0	0
+sh3001	Itinerant Doctor			TRUE	0	0	0	0	test04	Drifting through the jianghu.,Who escapes the blade? Buy a few pills to keep on hand.,Better that than grave wounds and no cure in sight.	2	2
+sh3100	Jia the Skinflint			TRUE	0	0	0	0	ba014	I don't do cheap deals.,This snuff bottle is not for sale.,If you're not buying; I'm off.	2	1
+sh3101	Zhang Jinding			TRUE	0	0	0	0	bb006	Hard to be a decent man these days.,Not buying? It's already dirt cheap!,Trading with me shows good judgment.	2	1
+sh3102	Ding Feng			TRUE	0	0	0	0	bc021	My left hand... no; it's nothing.,In business; one must set grudges aside.,Want a manual? Don't ask where it came from.	2	1
+sh3103	Mei Er			TRUE	0	0	0	0	bb004	You did me a kindness; I'll sell cheap.,Still haven't chosen?,Don't speak of that business the other day.	2	2
+sh3104	Wang Yuxuan			TRUE	0	0	0	0	bb005	To call me a divine physician is too kind.,It's always wise to keep some pills on hand. That matter with the Zuo family... no; never mind.	2	2
+sh3105	Apothecary Hu			TRUE	0	0	0	0	bc006	Buy a few pills to keep on hand.,Young hero; have you any good herbs?,Herb gathering takes nothing but patience.	1	1
+sh3106	Xu Luzi			TRUE	0	0	0	0	bc002	Weapons I forged. Buying or not?,Ah; good ore is hard to find.,If you find good ore; sell it to me!	1	1
+sh3107	Herb Merchant			TRUE	0	0	0	0	bc002	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	3	1
+sh3108	Curio Merchant			TRUE	0	0	0	0	bc002	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	0	2
+sh3109	Sundries Merchant			TRUE	0	0	0	0	bc002	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	2	1
+sh3110	Arms Merchant			TRUE	0	0	0	0	bc002	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	2	2
+sh3111	Elixir Merchant			TRUE	0	0	0	0	bc002	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	0	0
+sh3112	Elixir Merchant			TRUE	0	0	0	0	bc002	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	0	0
+sh3113	Elixir Merchant			TRUE	0	0	0	0	bc002	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	0	0
+sh3114	Rare Stone Merchant	Scene005		TRUE	0	0	0	0	bc002	Rare ores and strange stones of every kind, wondrous for tempering weapons. Please look around.	0	99
+sh3115	Rare Stone Merchant	Scene000		TRUE	0	0	0	0	bc002	Rare ores and strange stones of every kind, wondrous for tempering weapons. Please look around.	0	99
+sh3116	Rare Stone Merchant	Scene012		TRUE	0	0	0	0	bc002	Rare ores and strange stones of every kind, wondrous for tempering weapons. Please look around.	0	99
+sh3117	Sundries Merchant			TRUE	0	0	0	0	bb006	Welcome!,Please; look around as you like.,Forgive the small shop and scant goods.	1	2

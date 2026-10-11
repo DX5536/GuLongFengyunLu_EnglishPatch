@@ -1,0 +1,59 @@
+Id	Name	Class	MainClass	DialogId_1	DialogId_2	DialogId_3	DialogId_4
+battle	Battle	Main					
+battle_01	Turn Order	Son	battle	systembook_0002			
+battle_02	Movement	Son	battle	systembook_0003			
+battle_03	Actions	Son	battle	systembook_0010			
+battle_04	Time Cost	Son	battle	systembook_0009			
+battle_05	Vitality	Son	battle	systembook_0004			
+battle_06	Inner Energy	Son	battle	systembook_0015			
+battle_07	Stance	Son	battle	systembook_0084			
+battle_08	Weakened	Son	battle	systembook_0086			
+battle_09	Damage Types	Son	battle	systembook_0005			
+battle_10	Accuracy & Evasion	Son	battle	systembook_0006			
+battle_11	Parry	Son	battle	systembook_0023			
+battle_12	Counter	Son	battle	systembook_0081			
+battle_13	Critical Hits	Son	battle	systembook_0087			
+battle_14	Damage Preview	Son	battle	systembook_0089			
+battle_15	Flaws	Son	battle	systembook_0028			
+battle_16	Creating Flaws	Son	battle	systembook_0090			
+battle_17	Abnormal Statuses	Son	battle	systembook_0030			
+battle_18	Items	Son	battle	systembook_0094			
+battle_19	Rest	Son	battle	systembook_0095			
+battle_20	Control Statuses	Son	battle	systembook_0029			
+battle_21	Charged Techniques	Son	battle	systembook_0037			
+battle_22	Unique Skills	Son	battle	systembook_0032			
+battle_23	Battle Conditions	Son	battle	systembook_0017			
+battle_24	Retry	Son	battle	systembook_0019			
+battle_25	Moving the View	Son	battle	systembook_0014			
+battle_26	Square Effects	Son	battle	systembook_0040			
+battle_27	Movement Techniques	Son	battle	systembook_0048			
+battle_28	Displacement	Son	battle	systembook_0041			
+System	System	Main					
+System_01	Production	Son	System	systembook_0104			
+System_02	Fusion	Son	System	systembook_0118			
+System_03	Quenching	Son	System	systembook_0120			
+System_04	Illustrated Manuals	Son	System	systembook_0091			
+System_05	Mechanism Items	Son	System	systembook_0097			
+System_06	Pack	Son	System	systembook_0125			
+System_07	Famous Wines & Inns	Son	System	systembook_0122			
+System_08	Deduction	Son	System	systembook_0103			
+System_09	World Map	Son	System	systembook_0108			
+System_10	Remarkable Strangers	Son	System	systembook_0110			
+System_11	Gathering Points	Son	System	systembook_0109			
+System_12	Exchange	Son	System	systembook_0128			
+System_13	Side Quests	Son	System	systembook_0126			
+System_14	Tracking Quests	Son	System	systembook_0127			
+System_15	Rumors	Son	System	systembook_0121			
+System_16	Bounties	Son	System	systembook_0113			
+System_17	Retainers	Son	System	systembook_0124			
+System_18	Giving Gifts	Son	System	systembook_0112			
+System_19	Sparring	Son	System	systembook_0115			
+CharacterPropertyItem	Characters	Main					
+CharacterPropertyItem_01	Leveling Up	Son	CharacterPropertyItem	systembook_0021			
+CharacterPropertyItem_02	Attributes	Son	CharacterPropertyItem	systembook_0022			
+CharacterPropertyItem_03	Technique Coefficients	Son	CharacterPropertyItem	systembook_0130			
+CharacterPropertyItem_04	Technique Tags	Son	CharacterPropertyItem	systembook_0131			
+CharacterPropertyItem_05	Changing Techniques	Son	CharacterPropertyItem	systembook_0135			
+CharacterPropertyItem_06	Insights	Son	CharacterPropertyItem	systembook_0025			
+CharacterPropertyItem_07	Inner Arts	Son	CharacterPropertyItem	systembook_0088			
+CharacterPropertyItem_08	Weapon Restrictions	Son	CharacterPropertyItem	systembook_0096			

@@ -1,0 +1,5 @@
+Id	ItemName	Desc	IconName	BufferID	invensifyType	Health	Posture	Attack	Power	Mobility	Speed	Critical	Hit	Dodge	Parry	Counter
+intensify0	First Name	Attack +5%	bi010001		0	0	0	5	0	0	0	0	0	0	0	0
+intensify1	Second Name	Defense +5%	bi010002		1	0	0	0	5	0	0	0	0	0	0	0
+intensify3	Third Name	Critical Rate +10%	bi030004		0	0	0	0	0	0	0	0	0	0	0	0
+intensify4	Fourth Name	Critical Damage +2%	bi020005		0	0	0	0	0	0	0	0	0	0	0	0

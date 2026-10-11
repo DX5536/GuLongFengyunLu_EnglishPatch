@@ -1,0 +1,8 @@
+Id	Name	SpendMoney	SpendDay	Model3D	Description	Direction1Name	Direction1Portrait	Direction2Name	Direction2Portrait	Direction3Name	Direction3Portrait	Direction4Name	Direction4Portrait
+10	Main Hall	3000	0	Map_Home	Retainers may be dispatched on missions from here.	Dispatch Missions	fs0003	Building Tier	fs0001				
+0	Market	3000	0	Map_Hotel	The Market increases income, trades resources and attracts traveling peddlers, who may sell rare accessories.	Traveling Peddler	fs0014	Resource Trade	fs0015	Building Tier	fs0001		
+1	Alchemy Room	3000	0	Map_Village	Prepares healing pills or distills venom pills. Healing pills restore Vitality and remove negative statuses.	Prepare Healing Pills	fs0005	Building Tier	fs0001				
+2	Forge	3000	0	Map_ Fastness	The Forge produces weapons and armor, and can enhance or reforge existing equipment.	Forge Weapons	fs0007	Forge Armor	fs0008	Temper Equipment	fs0009	Building Tier	fs0001
+3	Venom Pens	3000	0	Map_Home	For rearing strange creatures. Producing venom pills, training venom arts, or tempering equipment with venom damage all require this facility.	Distill Venom Pills	fs0013	Building Tier	fs0001				
+4	Mechanism Workshop	3000	0	Map_Gangs	Produces mechanism items, mechanism hidden weapons and technical essentials. Mechanism items grant one extra use of a special skill in battle; mechanism hidden weapons deal extra damage to enemies; technical essentials enhance mechanism-related skills.	Mechanism Items	fs0010	Mechanism Hidden Weapons	fs0003	Technical Essentials	fs0011	Building Tier	fs0001
+5	Martial Hall	3000	0	Map_Forest	The Martial Hall deepens a character's cultivation or distills Martial Essences to strengthen skills.	Martial Essences	fs0004	Deepen Cultivation	fs0006	Building Tier	fs0001		

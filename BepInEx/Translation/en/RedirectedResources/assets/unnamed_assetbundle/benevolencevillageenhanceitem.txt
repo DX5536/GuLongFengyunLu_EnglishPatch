@@ -1,0 +1,58 @@
+Id	Direction	Level	EnhanceName	EnhancePrestige	EnhanceMoney	EnhanceEffect	Description
+bve100101	10,1	1	Dispatch Missions Lv. 1	0	0	Dispatch	Can carry out basic dispatch missions
+bve100102	10,1	2	Dispatch Missions Lv. 2	0	2000	Dispatch	Can carry out advanced dispatch missions
+bve100401	10,2	1	Building Tier Lv. 1	0	0	BuildLevel	Gain 1 Intelligence daily
+bve000101	0,1	1	Traveling Peddler Lv. 1	0	0	Peddler	Traveling peddlers may visit Renyi Manor; your selling prices rise very slightly
+bve000102	0,1	2	Traveling Peddler Lv. 2	0	1000	Peddler	Raises the grade of the peddler's wares; your selling prices rise slightly
+bve000103	0,1	3	Traveling Peddler Lv. 3	0	3000	Peddler	Raises the grade of the peddler's wares; your selling prices rise considerably
+bve000201	0,2	1	Resource Trade Lv. 1	0	0	Trade	Unlocks resource exchange
+bve000202	0,2	2	Resource Trade Lv. 2	0	1000	Trade	Raises the monthly exchange limit and improves the exchange rate
+bve000203	0,2	3	Resource Trade Lv. 3	0	3000	Trade	Resources can be bought with money
+bve000401	0,3	1	Building Tier Lv. 1	0	0	BuildLevel	Gain 10 coins daily; up to 4 retainers
+bve000402	0,3	2	Building Tier Lv. 2	300	2000	BuildLevel	Gain 20 coins daily; up to 6 retainers
+bve000403	0,3	3	Building Tier Lv. 3	600	6000	BuildLevel	Gain 30 coins daily; up to 8 retainers
+bve010101	1,1	1	Prepare Medicine Lv. 1	0	0	Medicine	Obtain Fine medicine recipes; can prepare Fine medicine
+bve010102	1,1	2	Prepare Medicine Lv. 2	0	1000	Medicine	Obtain Superb medicine recipes; can prepare Superb medicine
+bve010103	1,1	3	Prepare Medicine Lv. 3	0	3000	Medicine	Obtain Supreme medicine recipes; can prepare Supreme medicine
+bve010201	1,2	1	Building Tier Lv. 1	0	0	BuildLevel	Gain 1 Herbs daily; up to 4 retainers
+bve010202	1,2	2	Building Tier Lv. 2	300	2000	BuildLevel	Gain 2 Herbs daily; up to 6 retainers
+bve010203	1,2	3	Building Tier Lv. 3	600	6000	BuildLevel	Gain 3 Herbs daily; up to 8 retainers
+bve020101	2,1	1	Forge Weapons Lv. 1	0	0	ForgingWeapon	Obtain Fine weapon blueprints; can forge Fine weapons
+bve020102	2,1	2	Forge Weapons Lv. 2	0	1000	ForgingWeapon	Obtain Superb weapon blueprints; can forge Superb weapons
+bve020103	2,1	3	Forge Weapons Lv. 3	0	3000	ForgingWeapon	Obtain Supreme weapon blueprints; can forge Supreme weapons
+bve020201	2,2	1	Forge Armor Lv. 1	0	0	ForginArms	Obtain Fine armor blueprints; can forge Fine armor
+bve020202	2,2	2	Forge Armor Lv. 2	0	1000	ForginArms	Obtain Superb armor blueprints; can forge Superb armor
+bve020203	2,2	3	Forge Armor Lv. 3	0	3000	ForginArms	Obtain Supreme armor blueprints; can forge Supreme armor
+bve020301	2,3	1	Temper Equipment Lv. 1	0	0	Invensify	Obtain Fine tempering effects; can temper Fine effects
+bve020302	2,3	2	Temper Equipment Lv. 2	0	1000	Invensify	Obtain Superb tempering effects; can temper Superb effects
+bve020303	2,3	3	Temper Equipment Lv. 3	0	3000	Invensify	Obtain Supreme tempering effects; can temper Supreme effects
+bve020401	2,4	1	Building Tier Lv. 1	0	0	BuildLevel	Gain 1 Ore daily; can reforge Fine equipment; up to 4 retainers
+bve020402	2,4	2	Building Tier Lv. 2	300	2000	BuildLevel	Gain 2 Ore daily; can reforge Superb equipment; up to 6 retainers
+bve020403	2,4	3	Building Tier Lv. 3	600	6000	BuildLevel	Gain 3 Ore daily; can reforge Supreme equipment; up to 8 retainers
+bve030101	3,1	1	Distill Poison Lv. 1	0	0	Poison	Obtain Superb poison recipes; can brew Superb poisons
+bve030102	3,1	2	Distill Poison Lv. 2	0	1000	Poison	Obtain Fine poison recipes; can brew Fine poisons
+bve030103	3,1	3	Distill Poison Lv. 3	0	3000	Poison	Obtain Supreme poison recipes; can brew Supreme poisons
+bve030401	3,2	1	Building Tier Lv. 1	0	0	BuildLevel	Gain 1 Poisonous Creatures daily; up to 4 retainers
+bve030402	3,2	2	Building Tier Lv. 2	300	2000	BuildLevel	Gain 2 Poisonous Creatures daily; up to 6 retainers
+bve030403	3,2	3	Building Tier Lv. 3	600	6000	BuildLevel	Gain 3 Poisonous Creatures daily; up to 8 retainers
+bve040101	4,1	1	Craft Mechanism Items Lv. 1	0	0	Props	Obtain Fine mechanism item designs; can craft Fine mechanism items
+bve040102	4,1	2	Craft Mechanism Items Lv. 2	0	1000	Props	Obtain Superb mechanism item designs; can craft Superb mechanism items
+bve040103	4,1	3	Craft Mechanism Items Lv. 3	0	3000	Props	Obtain Supreme mechanism item designs; can craft Supreme mechanism items
+bve040201	4,2	1	Craft Mechanism Hidden Weapons Lv. 1	0	0	HiddenWeapon	Obtain Fine hidden weapon designs; can craft Fine mechanism hidden weapons
+bve040202	4,2	2	Craft Mechanism Hidden Weapons Lv. 2	0	1000	HiddenWeapon	Obtain Superb hidden weapon designs; can craft Superb mechanism hidden weapons
+bve040203	4,2	3	Craft Mechanism Hidden Weapons Lv. 3	0	3000	HiddenWeapon	Obtain Supreme hidden weapon designs; can craft Supreme mechanism hidden weapons
+bve040301	4,3	1	Mechanism Technical Essentials Lv. 1	0	0	OrganSkill	Obtain 2 Fine technical essentials; heroes can use them to enhance skills
+bve040302	4,3	2	Mechanism Technical Essentials Lv. 2	0	1000	OrganSkill	Obtain 2 Superb technical essentials; heroes can use them to enhance skills
+bve040303	4,3	3	Mechanism Technical Essentials Lv. 3	0	3000	OrganSkill	Obtain 2 Supreme technical essentials; heroes can use them to enhance skills
+bve040401	4,4	1	Building Tier Lv. 1	0	0	BuildLevel	Gain 1 Mechanism Parts daily; up to 4 retainers
+bve040402	4,4	2	Building Tier Lv. 2	300	2000	BuildLevel	Gain 2 Mechanism Parts daily; up to 6 retainers
+bve040403	4,4	3	Building Tier Lv. 3	600	6000	BuildLevel	Gain 3 Mechanism Parts daily; up to 8 retainers
+bve050101	5,1	1	Martial Essences Lv. 1	0	0	Book	Obtain 2 Fine Martial Essences; heroes can use them to enhance skills
+bve050102	5,1	2	Martial Essences Lv. 2	0	1000	Book	Obtain 2 Superb Martial Essences; heroes can use them to enhance skills
+bve050103	5,1	3	Martial Essences Lv. 3	0	3000	Book	Obtain 2 Supreme Martial Essences; heroes can use them to enhance skills
+bve050201	5,2	1	Deepen Cultivation Lv. 1	0	0	LearnProperty	Can deepen heroes' cultivation; the cap is 75, and attributes above 75 cannot be raised further
+bve050202	5,2	2	Deepen Cultivation Lv. 2	0	1000	LearnProperty	Can deepen heroes' cultivation; the cap is 150, and attributes above 150 cannot be raised further
+bve050203	5,2	3	Deepen Cultivation Lv. 3	0	3000	LearnProperty	Can deepen heroes' cultivation with no cap
+bve050401	5,3	1	Building Tier Lv. 1	0	0	BuildLevel	Gain 1 Martial Knowledge daily; up to 4 retainers
+bve050402	5,3	2	Building Tier Lv. 2	300	2000	BuildLevel	Gain 2 Martial Knowledge daily; up to 6 retainers
+bve050403	5,3	3	Building Tier Lv. 3	600	6000	BuildLevel	Gain 3 Martial Knowledge daily; up to 8 retainers

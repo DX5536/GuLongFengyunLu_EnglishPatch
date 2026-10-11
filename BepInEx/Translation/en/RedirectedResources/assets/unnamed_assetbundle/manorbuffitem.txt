@@ -1,0 +1,15 @@
+Id	Name	Description	BuffType	CraftingType	CraftingPassingValue	BuffFuntionType	PercentageEffect	ValueEffect	BuffItemEffect	Features
+manorBuff001	A Physician's Benevolent Heart	Elixir crafting cost -30%	MedicalCostReductions	Medical	10	PercentageEffect	-30	0		
+manorBuff001_02	Shennong Gathers Herbs	World map gathering point yield +1	HarvestPointProfitOnCollection	Medical	20	ValueEffect	0	1		
+manorBuff001_03	Snatched from Death's Door	Go to Renyi Manor and speak with Wang Erdai.	GetElixir	Medical	40	PercentageEffect	0	0		
+manorBuff001_04	Medicine and Poison Share One Root	Poison crafting cost -30%	PoisoningCostReductions	Medical	10	PercentageEffect	-30	0		
+manorBuff002	Masterful Ingenuity	Fusion money cost -30%	MosaicMoneyReductions	Organ	10	PercentageEffect	-30	0		
+manorBuff002_02	Entering Lu Ban's Gate	The furnace merchant begins selling Superb furnace materials	GetGoodCargo	Organ	20	PercentageEffect	0	0		
+manorBuff002_03	True Heir of Lu Ban's School	The furnace merchant begins selling Unique furnace materials	GetGreatCargo	Organ	40	PercentageEffect	0	0		
+manorBuff002_04	Lu Ban Reborn	Mechanism crafting material cost -30%	OrganCostReductions	Organ	10	PercentageEffect	-30	0		
+manorBuff003	A Silver Tongue	Affinity gained from gifts +20%	GiftValueBuff	Poisoning	10	PercentageEffect	20	0		
+manorBuff003_02	Words Like Strung Pearls	Reveals characters' gift preferences	GiftExposeBuff	Poisoning	20	PercentageEffect	0	0		
+manorBuff003_03	Tongue Like a Spear, Lips Like a Sword	Battle EXP +20%	BattleExtraExperience	Poisoning	40	PercentageEffect	20	0		
+manorBuff004	Steel from a Hundred Forgings	Forging material cost -30%	ForgingCostReductions	Forging	10	PercentageEffect	-30	0		
+manorBuff004_02	Refined Quenching	Zhao Laoer has learned the art of quenching.	GetTechnology	Forging	20	PercentageEffect	0	0		
+manorBuff004_03	Wonders of the Furnace	Zhao Laoer has discovered new furnace materials.	GetMystery	Forging	40	PercentageEffect	0	0		

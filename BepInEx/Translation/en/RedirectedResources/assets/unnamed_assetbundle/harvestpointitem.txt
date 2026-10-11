@@ -1,0 +1,74 @@
+Id	Name	Remark	Type	DialogID	HarvestContents	GeneratedNumber	NodeGroupID	ModelName	Rank	CreateCondition
+Harvest0000	Medicinal Herbs	药材_稀有等级0_附子/紫草	Grass		{Harvest0000_it1101_00:1},{Harvest0000_it1100_01:1}	1	harvestHerb	ed_c04	1	0
+Harvest0001	Medicinal Herbs	药材_稀有等级1_当归/黄连	Grass		{Harvest0001_it1100_00:1},{Harvest0001_it1101_01:1}	1	harvestHerb	ed_c04	2	0
+Harvest0002	Medicinal Herbs	药材_稀有等级2_杜仲/白芍	Grass		{Harvest0002_it1102_04:1},{Harvest0002_it1100_02:1}	1	harvestHerb	ed_c04	3	0
+Harvest0003	Medicinal Herbs	药材_稀有等级3_人蔘/玉蔘	Grass		{Harvest0003_it1101_03:1},{Harvest0003_it1101_02:1}	1	harvestHerb	ed_c04	4	0
+Harvest0100	Ore	矿石_稀有等级0_劣铜/劣铁	Mine		{Harvest0100_it1200_00:1},{Harvest0100_it1200_01:1}	1	harvestStone	ed070	1	0
+Harvest0101	Ore	矿石_稀有等级1_铜/铁	Mine		{Harvest0101_it1201_00:1},{Harvest0101_it1201_01:1}	1	harvestStone	ed070	2	0
+Harvest0102	Ore	矿石_稀有等级2_赤铜/白铁	Mine		{Harvest0102_it1202_00:1},{Harvest0102_it1202_01:1}	1	harvestStone	ed070	3	0
+Harvest0103	Ore	矿石_稀有等级3_山铜/玄铁	Mine		{Harvest0103_it1203_00:1},{Harvest0103_it1203_01:1}	1	harvestStone	ed070	4	0
+Harvest0200	Timber	木材_稀有等级0_榆木/松木	Wood		{Harvest0200_it1300_00:1},{Harvest0200_it1300_01:1}	1	harvestWood	ed_c02	1	0
+Harvest0201	Timber	木材_稀有等级1_鸡翅木/铁力木	Wood		{Harvest0201_it1301_00:1},{Harvest0201_it1301_01:1}	1	harvestWood	ed_c02	2	0
+Harvest0202	Timber	木材_稀有等级1_黄花梨木/金丝楠木	Wood		{Harvest0202_it1302_00:1},{Harvest0202_it1302_01:1}	1	harvestWood	ed_c02	3	0
+Harvest0203	Timber	木材_稀有等级1_胡桃木/紫檀木	Wood		{Harvest0203_it1303_00:1},{Harvest0203_it1303_01:1}	1	harvestWood	ed_c02	4	0
+Harvest0300	Bundle	包裹_稀有等级0_麻布/绵布	Pack		{Harvest0300_it1400_00:1},{Harvest0300_it1401_00:1}	1	harvestPackage	ed_c03	1	0
+Harvest0301	Bundle	包裹_稀有等级1_檀木绸/绿竹纱	Pack		{Harvest0301_it1404_01:1},{Harvest0301_it1404_00:1}	1	harvestPackage	ed_c03	2	0
+Harvest0302	Bundle	包裹_稀有等级2_绢布/香云纱	Pack		{Harvest0302_it1402_00:1},{Harvest0302_it1404_04:1}	1	harvestPackage	ed_c03	3	0
+Harvest0303	Bundle	包裹_稀有等级3_绸缎/锡绣布料	Pack		{Harvest0303_it1403_00:1},{Harvest0303_it1404_05:1}	1	harvestPackage	ed_c03	4	0
+Harvest0400	Poisonous Creatures	毒物_稀有等级0_蛇液/巴豆	Poison		{Harvest0400_it1600_00:1},{Harvest0400_it1600_01:1}	1	harvestPoison	ed_c01	1	0
+Harvest0401	Poisonous Creatures	毒物_稀有等级1_马钱子/辰砂	Poison		{Harvest0401_it1601_00:1},{Harvest0401_it1601_01:1}	1	harvestPoison	ed_c01	2	0
+Harvest0402	Poisonous Creatures	毒物_稀有等级2_赤蚣脚/刺蠍尾	Poison		{Harvest0402_it1602_00:1},{Harvest0402_it1602_01:1}	1	harvestPoison	ed_c01	3	0
+Harvest0403	Poisonous Creatures	毒物_稀有等级3_蛊蟾卵/雪蛛丝	Poison		{Harvest0403_it1603_00:1},{Harvest0403_it1603_01:1}	1	harvestPoison	ed_c01	4	0
+HarvestChat00101	Rare Fruit	传闻生成_属性药_智慧果	Grass		{HarvestChat001:1}	1	harvest0102	ed_c04	4	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'HarvestChat00101'}  ], 0} 
+HarvestChat00102	Rare Fruit	传闻生成_属性药_智慧果	Grass		{HarvestChat001:1}	1	harvestChat0101	ed_c04	5	0
+HarvestChat00201	Rare Fruit	传闻生成_属性药_櫰木果	Grass		{HarvestChat002:1}	1	harvest0102	ed_c04	4	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'HarvestChat00201'}  ], 0} 
+HarvestChat00202	Rare Fruit	传闻生成_属性药_櫰木果	Grass		{HarvestChat002:1}	1	harvestChat0102	ed_c04	5	0
+HarvestChat00301	Rare Flowers	传闻生成_属性药_优昙灵花	Grass		{HarvestChat003:1}	1	harvest0102	ed_c04	4	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'HarvestChat00301'}  ], 0} 
+HarvestChat00302	Rare Flowers	传闻生成_属性药_优昙灵花	Grass		{HarvestChat003:1}	1	harvestChat0103	ed_c04	5	0
+HarvestChat00401	Rare Flowers	传闻生成_属性药_天山雪莲子	Grass		{HarvestChat004:1}	1	harvest0102	ed_c04	4	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'HarvestChat00401'}  ], 0} 
+HarvestChat00402	Rare Flowers	传闻生成_属性药_天山雪莲子	Grass		{HarvestChat004:1}	1	harvestChat0104	ed_c04	5	0
+HarvestChat00501	Rare Fruit	传闻生成_属性药_玉蟠桃	Grass		{HarvestChat005:1}	1	harvest0102	704109	4	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'HarvestChat00501'}  ], 0} 
+HarvestChat00502	Rare Fruit	传闻生成_属性药_玉蟠桃	Grass		{HarvestChat005:1}	1	harvestChat0105	ed_c04	5	0
+HarvestChat00601	Vermilion Python	传闻生成_属性药_朱蟒胆	Grass		{HarvestChat006:1}	1	harvest0102	ed_c04	4	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'HarvestChat00601'}  ], 0} 
+HarvestChat00602	Vermilion Python	传闻生成_属性药_朱蟒胆	Grass		{HarvestChat006:1}	1	harvestChat0106	ed_c04	5	0
+HarvestChat00701	Rare Herbs	传闻生成_属性药_人参王	Grass		{HarvestChat007:1}	1	harvest0102	ed_c04	4	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'HarvestChat00701'}  ], 0} 
+HarvestChat00702	Rare Herbs	传闻生成_属性药_人参王	Grass		{HarvestChat007:1}	1	harvestChat0107	ed_c04	5	0
+HarvestChat00801	Rare Herbs	传闻生成_属性药_雪灵芝	Grass		{HarvestChat008:1}	1	harvest0102	ed_c04	4	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'HarvestChat00801'}  ], 0} 
+HarvestChat00802	Rare Herbs	传闻生成_属性药_雪灵芝	Grass		{HarvestChat008:1}	1	harvestChat0108	ed_c04	5	0
+HarvestChat01050040003	Medicinal Herbs	传闻生成_药材_何首乌	Grass		{HarvestChat001:1}	1	harvestChat0101	ed_c04	5	0
+HarvestChat01050040004	Medicinal Herbs	传闻生成_药材_千年灵芝	Grass		{Harvest01_it1103_01:1}	1	harvestChat0102	ed_c04	5	0
+HarvestChat01050040005	Medicinal Herbs	传闻生成_矿材_山铜	Mine		{Harvest01_it1204_01:1}	1	harvestChat0103	ed070	5	0
+HarvestChat01050040007	Medicinal Herbs	传闻生成_药材_何首乌	Grass		{HarvestChat010:1}	1	harvestChat0109	ed_c04	5	0
+HarvestChat01050040024	Bundle	传闻生成_布料_香云纱	Wood		{HarvestChat009:1}	1	harvestChat0110	ed_c03	5	0
+HarvestMission00101	Cinnabar Fragments	剧情生成_矿石_碎朱砂	Mission		{HarvestMission00101:1}	1	harvestMission0101	ed070	5	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'w2205022_0027'}  ], 0} 
+HarvestMission00102	Orpiment Fragments	剧情生成_矿石_碎石黄	Mission		{HarvestMission00102:1}	1	harvestMission0102	ed070	5	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'w2205022_0027'}  ], 0} 
+HarvestMission00103	Azurite	剧情生成_矿石_蓝铜矿	Mission		{HarvestMission00103:1}	1	harvestMission0103	ed070	5	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 2, 'w2205022_0027'}  ], 0} 
+Treasure00001	Snow Toad	燕南天药引_雪蟾	Mission		{Treasure018:1}	1	Treasure00001	ed129	5	{ 'LogicalNode' : [ { 'CheckQuestState' : 2, 'qg0069_02'}  ], 0} 
+Treasure00002	Agarwood	燕南天药引_伽楠	Mission		{Treasure019:1}	1	Treasure00002	ed_c02	5	{ 'LogicalNode' : [ { 'CheckQuestState' : 2, 'qg0069_02'}  ], 0} 
+Treasure00101	Battered Chest	紫鲸帮宝箱1	Treasure		{Treasure001:1}	1	Treasure001	TreasureTest	5	0
+Treasure00102	Battered Chest	紫鲸帮宝箱2	Treasure		{Treasure002:1}	1	Treasure002	TreasureTest	5	0
+Treasure00103	Battered Chest	紫鲸帮宝箱3	Treasure		{Treasure003:1}	1	Treasure003	TreasureTest	5	0
+Treasure00104	Battered Chest	紫鲸帮宝箱4	Treasure		{Treasure004:1}	1	Treasure004	TreasureTest	5	0
+Treasure00105	Wooden Chest	紫鲸帮宝箱5	Treasure	w0104002_0035	{Treasure005:1}	1	Treasure005	TreasureTest	5	{ 'LogicalNode' : [ { 'CheckFlag' : 1, 1, 'Treasure005'}  ], 0} 
+Treasure00201	Wooden Chest	天王寨宝箱01	Treasure		{Treasure006:1}	1	Treasure006	TreasureTest	5	0
+Treasure00202	Wooden Chest	天王寨宝箱02	Treasure		{Treasure007:1}	1	Treasure007	TreasureTest	5	0
+Treasure00203	Wooden Chest	天王寨宝箱03	Treasure		{Treasure008:1}	1	Treasure008	TreasureTest	5	0
+Treasure00301	Wooden Chest	蚂蚁帮宝箱01	Treasure		{Treasure009:1}	1	Treasure009	TreasureTest	5	0
+Treasure00302	Wooden Chest	蚂蚁帮宝箱02	Treasure		{Treasure010:1}	1	Treasure010	TreasureTest	5	0
+Treasure00303	Wooden Chest	蚂蚁帮宝箱03	Treasure		{Treasure011:1}	1	Treasure011	TreasureTest	5	0
+Treasure00401	Wooden Chest	赤发帮宝箱01	Treasure		{Treasure012:1}	1	Treasure012	TreasureTest	5	0
+Treasure00402	Wooden Chest	赤发帮宝箱02	Treasure		{Treasure013:1}	1	Treasure013	TreasureTest	5	0
+Treasure00403	Wooden Chest	赤发帮宝箱03	Treasure		{Treasure014:1}	1	Treasure014	TreasureTest	5	0
+Treasure00501	Wooden Chest	天蚕教宝箱01	Treasure		{Treasure015:1}	1	Treasure015	TreasureTest	5	0
+Treasure00502	Wooden Chest	天蚕教宝箱02	Treasure		{Treasure016:1}	1	Treasure016	TreasureTest	5	0
+Treasure00503	Wooden Chest	天蚕教宝箱03	Treasure		{Treasure017:1}	1	Treasure017	TreasureTest	5	0
+Treasure00601	Wooden Chest	峨嵋山	HiddenTreasure		{Treasure020:1}	1	Treasure020	TreasureTest	5	0
+Treasure00602	Wooden Chest	雪山	HiddenTreasure	w0105021_0105	{Treasure021:1}	1	Treasure021	TreasureTest	5	0
+Treasure00603	Wooden Chest	竹林	HiddenTreasure		{Treasure022:1}	1	Treasure022	TreasureTest	5	0
+Treasure00604	Wooden Chest	庐山	HiddenTreasure		{Treasure023:1}	1	Treasure023	TreasureTest	5	0
+Treasure00605	Wooden Chest	武当山	HiddenTreasure		{Treasure024:1}	1	Treasure024	TreasureTest	5	0
+Treasure00606	Wooden Chest	壶口瀑布	HiddenTreasure		{Treasure025:1}	1	Treasure025	TreasureTest	5	0
+Treasure00607	Wooden Chest	黄土高原	HiddenTreasure		{Treasure026:1}	1	Treasure026	TreasureTest	5	0
+Treasure00608	Wooden Chest	悬空寺	HiddenTreasure		{Treasure027:1}	1	Treasure027	TreasureTest	5	0
+Treasure00609	Wooden Chest	山海关	HiddenTreasure		{Treasure028:1}	1	Treasure028	TreasureTest	5	0
+Treasure00610	Wooden Chest	沼泽	HiddenTreasure		{Treasure029:1}	1	Treasure029	TreasureTest	5	0

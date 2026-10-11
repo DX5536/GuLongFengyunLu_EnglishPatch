@@ -1,0 +1,122 @@
+Id	Name	Description	Repeatable	StartTaskId	Condition	BeginAction	EndAction
+ag0019	Conspiracy Strange Poison Battle		FALSE	ag0019_ta000			
+di0001	Inn rest disabled_check Qingyun possession		FALSE	di0001_ta002			
+di0002	Jiangnan Closed		FALSE				
+di0004	Elixir prices rise_check exchange level		FALSE	di0004_ta000			
+di0005	Elixir sales halted_check Purifying List held		FALSE	di0005_ta000			
+di0006	Weapon prices rise_build Forge		FALSE	di0006_ta000			
+di0007	Renyi Manor facility destroyed_check retainer stats		FALSE	di0007_ta000			
+di0008	Bandits Raiding Renyi Manor		FALSE	di0008_ta000			
+di0009	Inn weapon sales halted_Hidden Sword regard		FALSE	di0009_ta000			
+di0010	Inn rest disabled & elixir prices +25%_defeat Blue Scorpion		FALSE	di0010_ta000			
+di0011	Inn exchange disabled_defeat Huo Xiu		FALSE	di0011_ta000			
+di0012	Plum Blossom regard falls_check retainer stats		FALSE	di0012_ta000			
+di0013	Inn rest disabled & elixir prices +50%_defeat Blue Scorpion		FALSE	di0013_ta000			
+di0014	Renyi Manor storehouse disabled_check retainer trade stats		FALSE	di0014_ta000			
+di0015	Renyi Manor facility damaged_Tang Clan regard		FALSE	di0015_ta000			
+di0016	All sect production slowed_defeat Blue Scorpion		FALSE	di0016_ta000			
+di0017	Accessory prices rise_build Martial Hall		FALSE	di0017_ta000			
+ef1001	Conspiracy: Gathering in the Hills	Bandit Stronghold Appears	FALSE	ef1001_ta000			
+ga0001	Main: Forest Road opens after Apricot Blossom Village	Main: Forest Road opens after Apricot Blossom Village	FALSE	ga0001_ta000			
+ga0002	Conspiracy Phase 2: Gathering in the Hills	Conspiracy Phase 2: Gathering in the Hills	FALSE	ga0002_ta001			
+ga0003	Conspiracy Phase 3: The Storm Approaches	Conspiracy Phase 3: The Storm Approaches	FALSE	ga0003_ta000			
+ga0005	Second World Map Phase	Close sect cycle after 30 days	FALSE	ga0005_ta001			
+ga0006	Side: Wilds open after Eight Directions Inn	Side: Wilds open after Eight Directions Inn	FALSE	ga0006_ta000			
+ga0113	Turmoil: Poison Strikes Fear	Turmoil: Poison Strikes Fear	FALSE	ga0113_ta000			
+ga0114	Turmoil: Strange Disappearances	Turmoil: Strange Disappearances	FALSE	di0019_ta001			
+ga0115	Turmoil: Every Step Blocked	Turmoil: Every Step Blocked	FALSE	di0020_ta001			
+ga0116	Turmoil: Living on the Brink	Turmoil: Living on the Brink	FALSE	di0018_ta002			
+ga0117	Turmoil: Beacon Fires Everywhere	Turmoil: Beacon Fires Everywhere	FALSE	ga0117_ta000			
+ga0118	Turmoil: Flashing Blades and Swords	Turmoil: Flashing Blades and Swords	FALSE	ga0118_ta001			
+gc0001	Return to world map after Ghost Grotto	Return to world map after Ghost Grotto	FALSE	gc0001_ta000			
+gd0001	qf0004 Lixia Town main quest	Manor management opens Lixia Town main quest	FALSE	gd0001_ta000			
+gd0002	qf0002_08 Manor management main quest	qf0002_08 Manor management main quest	FALSE	gd0002_ta000			
+ge0001	West buildings damaged		FALSE	ge0001_ta000			
+ge0002	East buildings damaged		FALSE	ge0002_ta000			
+gf0001	Shen Lang & Xuanyuan Sanguang af0001	Shen Lang & Xuanyuan Sanguang af0001	FALSE	gf0001_ta000			
+gf0002	Revisit Qihe day countdown qf0001_05	Revisit Qihe day countdown qf0001_05	FALSE	gf0002_ta000			
+gf0004	Chapter 1 Shen Lang main quest (unused)	Chapter 1 Shen Lang main quest (unused)	FALSE	gfTest_ta004			
+gf0005	Conspiracy: Zhu Qiqi Disappears	Conspiracy: Zhu Qiqi Disappears	FALSE	gf0005_ta000			
+gf0006	Emergency: bandit stronghold after 7 days	Emergency: bandit stronghold after 7 days	FALSE	gf0006_ta000			
+gf0007	Rescue Mount Hua disciples qf0005 after friendship	qf0005 after friendship	FALSE	gf0007_ta000			
+gf0008	qf0004 Manor management tutorial	qf0004 Manor management tutorial	FALSE	gf0008_ta001			
+gf0009	qf0004_01 Establish friendly relations with two sects	qf0004_01 Establish friendly relations with two sects	FALSE	gf0009_ta002			
+gf0010	qf0004_02 Build a clinic	qf0004_02 Build a clinic	FALSE	gf0010_ta000			
+gf0011	qf0004_03 Subjugate the bandit stronghold	qf0004_03 Subjugate the bandit stronghold	FALSE	gf0011_ta002			
+gf0012	csp001 Conspiracy: Siege of Renyi Manor	csp001 Conspiracy: Siege of Renyi Manor	FALSE	gf0012_ta000			
+gf0013	Conspiracy: Gathering in the Hills 2	Bandit Stronghold Appears	FALSE	gf0013_ta000			
+gf0014	Conspiracy: Gathering in the Hills 3	Bandit Stronghold Appears	FALSE	gf0014_ta000			
+gf0015	csp001b Conspiracy: Siege of Renyi Manor	csp001b Conspiracy: Siege of Renyi Manor	FALSE	gf0015_ta000			
+gg			FALSE				
+gg0001	Parting in Life I	Parting in Life I	FALSE	gg0001_ta000			
+gg0002	Parting in Life II	Parting in Life II	FALSE	gg0002_ta000			
+gg0003	Parting in Life III	Parting in Life III	FALSE	gg0003_ta000			
+gg0004	Heir of the Iron Sword	Heir of the Iron Sword	FALSE	gg0004_ta000			
+gg0005	An Old Man's Twilight I	An Old Man's Twilight I	FALSE	gg0005_ta000			
+gg0007	First Battle Before the Town	First Battle Before the Town	FALSE	gg0007_ta000			
+gg0008	Go by the Mountain Stream	Go by the Mountain Stream	FALSE	gg0008_ta000			
+gg0009	Secrets of the Ruined Temple	Secrets of the Ruined Temple	FALSE	gg0009_ta000			
+gg0010	Tales of the Tang Clan	Tales of the Tang Clan	FALSE	gg0010_ta000			
+gg0011	Encounter: Treasure in the Cave	Encounter: Treasure in the Cave	FALSE	gg0011_ta000			
+gg0012	Encounter: The Mad Alchemist	Encounter: The Mad Alchemist	FALSE	gg0012_ta000			
+gg0013	Encounter: The Dongying Warrior I		FALSE	gg0013_ta000			
+gg0014	Encounter: The Dongying Warrior II	Won	FALSE	gg0014_ta000			
+gg0015	Encounter: The Dongying Warrior III	Lost	FALSE	gg0015_ta000			
+gg0016	Encounter: Born to Steal	Encounter: Born to Steal	FALSE	gg0016_ta000			
+gg0017	Encounter: The Mechanism Tomb	Encounter: The Mechanism Tomb	FALSE	gg0017_ta000			
+gg0018	Encounter: Waves and Flower Fragrance	Encounter: Waves and Flower Fragrance	FALSE	gg0018_ta000			
+gg0019	Xiaofeng Joins III	Xiaofeng Joins III	FALSE	gg0019_ta000			
+gg0020	Close Wilds		FALSE	gg0020_ta001			
+gg0022	Demo Version		FALSE	gg0022_ta001			
+gg0023	Zhu Ting recruitment quest listener		FALSE	gg0023_ta000			
+gg0024	Hidden Sword III_leave inn		FALSE	gg0024_ta001			
+gg0025	Great Wind Hall phase 1 remove stronghold		FALSE	gg0025_ta000			
+gg0026	Great Wind Hall phase 2 remove stronghold		FALSE	gg0026_ta002			
+gg0027	Leave Plum Blossom Hall after Li Xunhuan joins listener		FALSE	gg0027_ta000			
+gg0028	Leaving Mount Gui: Lord and Lady Baishan vanish	Leaving Mount Gui: Lord and Lady Baishan vanish	FALSE	gg0028_ta000			
+gg0029	Jiang Xiaoyu 2-1_world map dialogue		FALSE	gg0029_ta001			
+gg0030	Divine Art of the Five Peerless day check		FALSE	gg0030_ta004			
+gg0031	Storm Over Yanglan monitor	Storm Over Yanglan monitor	FALSE	gg0031_ta000			
+gg9001	qa0007 listener	Forest Road Chu Liuxiang deduction	FALSE	gg9001_ta000			
+gg9002	qg0002 listener	Sun Xiaohong joins	FALSE	gg9002_ta000			
+gg9003	qg0012 listener	Zhu Qiqi joins	FALSE	gg9003_ta000			
+gg9004	qg0041 listener	Li Xunhuan goes to Shaolin	FALSE	gg9004_ta000			
+gg9005	qg0058 listener	Tie Chuanjia as retainer	FALSE	gg9005_ta000			
+gg9006	qg0062 listener	Divine Art of the Five Peerless	FALSE	gg9006_ta000			
+gg9007	qh0001 listener	Peacock I	FALSE	gg9007_ta000			
+gg9008	qh0026 listener	Peacock II	FALSE	gg9008_ta000			
+gg9009	qh0027 listener	Peacock III	FALSE	gg9009_ta000			
+gg9010	qh0003 listener	Escort Agency I	FALSE	gg9010_ta000			
+gg9011	qq0002 listener	Guo Songyang Challenges Li Xunhuan	FALSE	gg9011_ta002			
+gg9012	qg0003 listener	The King of Nine Provinces' Sword Manual	FALSE	gg9012_ta000			
+gg9013	qh0015 listener	Peacock Mechanism Array 1	FALSE	gg9013_ta000			
+gg9014	qh0028 listener	Peacock Mechanism Array 2	FALSE	gg9014_ta000			
+gg9015	qh0029 listener	Peacock Mechanism Array 3	FALSE	gg9015_ta000			
+gg9016	qg0073 listener	Yan Nantian and the Ten Great Villains	FALSE	gg9016_ta000			
+gg9017	qm10206 listener	Tianfa and Baixiao Sheng: Borrowed Flowers for the Buddha	FALSE	gg9017_ta000			
+gh0001	Assassination in the Wilds	Accept Peacock Storm I	FALSE	gh0001_ta001	{ 'LogicalNode' : [ ], 0} 	{ 'MultiAction' : [ ]} 	
+gh0002	Hungry Tiger Blocks the Road		FALSE	gh0002_ta000			
+gh0003	Hungry Tiger Blocks the Road	Ding Xi Robs the Escort	FALSE				
+gh0004	Spying on the Ghost Dance on a Cold Day - Countdown	Spying on the Ghost Dance on a Cold Day - Countdown	FALSE	gh0004_ta000		{ 'MultiAction' : [ ]} 	
+gh0005	Accept Peacock Phase 2 Quest		FALSE	gh0005_ta000			
+gh0006	Accept Peacock Phase 3 Quest		FALSE	gh0006_ta000			
+gh0007	Bai Feifei Leaves the Manor		FALSE	gh0007_ta000			
+gh0008	Investigate the Demonic Cult		FALSE	gh0008_ta001			
+gh0009	Investigate the Demonic Cult, leaving Plum Blossom Hall		FALSE	gh0009_ta001			
+gh0010	Leaving Yuebin		FALSE	gh0010_ta000			
+gh0011	Bai Feifei leaves the manor listener		FALSE	gh0011_ta001			
+gi0001	Prices across the Central Plains +25%_main conspiracy		FALSE	gi0001_ta001			
+gi0002	Enemies inflict poison_main conspiracy		FALSE	gi0002_ta000			
+gm0001	Bai Feifei phase 1 test		FALSE	gm0001_ta000			
+gq0001	Guo Songyang Leaves the Maple Grove		FALSE	gq0001_ta000			
+ml105001	Peacock Villa recurring quest: deliver mechanisms	Did Peacock Villa discover the player's hidden mechanism	FALSE	ml105001_ta000			
+ml105002	Peacock Villa recurring quest: days since accepting	Peacock Villa recurring quest: days since accepting	FALSE	ml105002_ta000			
+Q0001	[True Main Story Link]		FALSE	Q0001_ta008	{ 'LogicalNode' : [ ], 0} 	{ 'MultiAction' : [ ]} 	{ 'MultiAction' : [ ]} 
+Scene011	Plum Blossom Hall regard listener		FALSE	Scene011_ta002			
+Scene101	Hidden Sword regard listener		FALSE	Scene101_ta003			
+Scene102	Shaolin regard listener		FALSE	Scene102_ta001			
+Scene103	Tang Clan regard listener		FALSE	Scene103_ta003			
+Scene104	Mount Hua regard listener		FALSE	Scene104_ta003			
+Scene105	Peacock Villa regard listener		FALSE	Scene105_ta003			
+Scene106	Zhenyuan Escort Agency regard		FALSE	Scene106_ta000			
+ga0000	All world map chests collected		FALSE	gi0003_ta001			

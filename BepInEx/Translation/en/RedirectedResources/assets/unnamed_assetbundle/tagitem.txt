@@ -1,0 +1,8 @@
+Id	Name	Description
+#Id	名称	叙述
+event_box	Event Box Trigger	
+Npc_talk	NPC Dialogue Trigger	
+main_story	Main Story	
+map_quest	World Map Quest Trigger	
+conspiracy	Conspiracy Events	
+sect	Sect Related	

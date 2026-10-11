@@ -1,0 +1,10 @@
+Id	Name	Level	Icon	Type	Value	Cost	Limit
+test01	Train Vitality	1	test01	Health	3	50	10
+test02	Train Stance	1	test02	Posture	1	1000	1
+test03	Train Attack	1	test03	Attack	1	50	10
+test04	Train Protection	1	test04	Power	1	50	10
+test05	Train Speed	1	test05	Speed	1	100	5
+test06	Train Lightness Skill	1	test06	Mobility	1	50	10
+test07	Train Focus	1	test07	Hit	2	50	10
+test08	Train Perception	1	test08	Critical	1	50	10
+test09	Train Footwork	1	test09	Dodge	1	50	10

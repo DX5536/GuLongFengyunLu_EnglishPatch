@@ -1,0 +1,129 @@
+Id	Name	Remark	FunctionType	FunctionIds	AffectedUnits	OpenCondition
+examplyGroup001	Group Example		Ability	CounterAtk07		AttackBased:2
+friendA	Bosom Friend		Passive	friend_s00		
+friendB	Bosom Friend		Passive	friend_s01		
+it8002	Jade Silk Entanglement	反击时附加1重中毒	Passive	it8002		DefenseBased:6,ItemHealingBased:6
+it8003	Ode of Great Sorrow: Heaven and Earth, Yin and Yang Entwined		Passive	it8003		HealthAndMpBased:7,DefenseBased:7,AttackBased:7,SpeedAndMovementBased:7,ItemHealingBased:7
+it8004	Eighteen Falls at a Touch of the Sleeve	每有2%招架，增加1%反击	Ability	it8004		DefenseBased:7,AttackBased:7
+it8005	Half Man, Half Ghost	移动力+1	Ability	Move01		SpeedAndMovementBased:8
+it8006	Soul-Stealing Beauty Art	灵气效果，周身1格内的敌人刚劲穿透、柔劲穿透-20%	Passive	it8006		ItemHealingBased:4,HealthAndMpBased:7
+it8007	Divine Art of the Five Peerless	招式威力+50%、暴击、招架、反击强化	Ability	it8007		AttackBased:8,DefenseBased:7,HealthAndMpBased:6,SpeedAndMovementBased:8,ItemHealingBased:6
+it8008	Bright Jade Art	减伤、回魔	Passive	it8008		HealthAndMpBased:14,DefenseBased:14,ItemHealingBased:7
+it8009	Blessed by the Lucky Star	威力加成减少，暴击增伤增加	Ability	it8009		SpeedAndMovementBased:9,ItemHealingBased:6
+it8011	Grand Rite of the Three Pure Ones		Passive	it8011		AttackBased:4,ItemHealingBased:4
+it8012	Funiu Bear Art		Passive	it8012		DefenseBased:3,SpeedAndMovementBased:4
+it8013	Wandering Soul Footwork		Ability	it8013		DefenseBased:7,SpeedAndMovementBased:7
+it8014	Heavenly Thunder Mind Art		Ability	it8014		AttackBased:5,DefenseBased:5,SpeedAndMovementBased:10
+it8015	Tendon-Transmuting Sutra		Ability	it8015		AttackBased:16,HealthAndMpBased:16
+it8016	Thunder Lord's Formula		Ability	it8016		DefenseBased:10,ItemHealingBased:5
+it8017	Fragrant Flitting Butterfly Formula		Ability	MoveDamage02,MoveMpDamage02		AttackBased:4,DefenseBased:4
+it8018	Five-Colored Body Protection	回避上升(大)	Ability	Dodge03		DefenseBased:3,SpeedAndMovementBased:5
+it8019	Heavenly King's Formula		Passive	it8019		AttackBased:2,HealthAndMpBased:3
+it8020	Hundred Birds Paying Homage to the Phoenix		Passive	it8020		AttackBased:6,SpeedAndMovementBased:6
+it8021	Waves on a Sea of Jealousy		Ability	MaxPosture01		DefenseBased:4,HealthAndMpBased:4
+it8022	Stealing the Sky, Swapping the Sun		Passive	it8022		DefenseBased:6,HealthAndMpBased:6,SpeedAndMovementBased:3
+it8023	Indestructible Vajra Body		Ability	ParryDef03		DefenseBased:4,HealthAndMpBased:4
+it8024	Wind Tiger, Cloud Dragon		Ability	CounterAtk02		AttackBased:3,DefenseBased:3
+it8025	Spend a Thousand in Gold, It Shall All Return		Ability	MechanicalMaxRange01		ItemHealingBased:6
+it8026	Fists of Fury		Passive	it8026		
+it8027	Heaven's Secrets Are Unfathomable		Passive	it8027		SpeedAndMovementBased:8,DefenseBased:8,HealthAndMpBased:8
+it8028	Thirty-Six Waterways Under Heaven		Ability	CounterAtk03		DefenseBased:6,HealthAndMpBased:6
+it8029	The Way of Sitting in Oblivion		Passive	it8029		HealthAndMpBased:5,ItemHealingBased:5
+it8030	The Soft Overcomes the Hard		Passive	it8030		HealthAndMpBased:10,DefenseBased:5
+it8031	The Hard Shatters Stillness		Passive	it8031		AttackBased:10,SpeedAndMovementBased:5
+it8032	Stillness Subdues Motion		Ability	it8032		DefenseBased:10,HealthAndMpBased:5
+it8033	Motion Pierces Softness	速度换威力	Ability	it8033		SpeedAndMovementBased:15,AttackBased:5
+it8034	Divine Art of the Righteous Rooster		Ability	it8034		SpeedAndMovementBased:10,ItemHealingBased:10
+na0000Group01	Heavy Thunder Seal		Passive	na0000Group01		SpeedAndMovementBased:5,AttackBased:10
+na0000Group02	Blood-Battle Body Formula		Passive	na0000Group02		DefenseBased:4,HealthAndMpBased:4
+na0000Group03	Momentum-Breaking Mind's Eye		Passive	na0000Group03		ItemHealingBased:5
+na0000Group04	Blazing Flame Formula	攻击力+20	Ability	AtkGroup01		AttackBased:4
+na0000Group05	Discarded		Passive	na0000Group05		SpeedAndMovementBased:3,ItemHealingBased:3
+na0000Group06	Discarded		Passive	na0000Group06		DefenseBased:3,HealthAndMpBased:3
+na0001Group01	Rapids-to-Sea Formula		Passive	na0001Group01		AttackBased:5
+na0001Group02	Wind-Hiding, Cloud-Holding Sleeve		Passive	na0001Group02		DefenseBased:10,HealthAndMpBased:5
+na0001Group03	Wet Cloth Into a Staff	精准+10%	Ability	HitGroup01		DefenseBased:4
+na0001Group04	Discarded		Ability	na0001Group04		SpeedAndMovementBased:3,ItemHealingBased:3
+na0001Group05	Discarded		Passive	na0001Group05		AttackBased:2,HealthAndMpBased:2,SpeedAndMovementBased:2
+na0001Group06	Discarded		Passive	na0001Group06		DefenseBased:2,HealthAndMpBased:3,ItemHealingBased:2
+na0002Group01	Charity of the Vermilion Gate		Passive	na0002Group01		ItemHealingBased:5
+na0002Group02	Scattering Wealth in Flight		Passive	na0002Group02		SpeedAndMovementBased:3,ItemHealingBased:12
+na0002Group03	Huaiyang Life-Restoring Hand	治疗加成+10%	Ability	CureGroup01		SpeedAndMovementBased:2,ItemHealingBased:2
+na0002Group04	Discarded		Passive	na0002Group04		HealthAndMpBased:2,SpeedAndMovementBased:2,ItemHealingBased:2
+na0002Group05	Discarded		Passive	na0002Group05		SpeedAndMovementBased:3,ItemHealingBased:2
+na0002Group06	Discarded		Passive	na0002Group06		DefenseBased:3,HealthAndMpBased:3
+na0003Group01	Petals That Never Touch the Body		Ability	na0003Group01		DefenseBased:5
+na0003Group02	Wind and Cloud Finger Formula		Passive	na0003Group02		AttackBased:4,SpeedAndMovementBased:11
+na0003Group03	Seven Immortals' Steps	移动力+1	Ability	Move01		SpeedAndMovementBased:4
+na0003Group04	Discarded		Passive	na0003Group04		AttackBased:3,SpeedAndMovementBased:3
+na0003Group05	Discarded		Passive	na0003Group05		DefenseBased:3,SpeedAndMovementBased:3
+na0003Group06	Discarded		Ability	Move01		DefenseBased:2,SpeedAndMovementBased:2,ItemHealingBased:2
+na0005Group01	Body of the Dead Heart		Passive	na0005Group01		AttackBased:3,HealthAndMpBased:2
+na0005Group02	Bond-Breaking Shackle Formula		Passive	na0005Group02		AttackBased:15
+na0005Group03	Hushed Breath, Long Qi	攻击力+20	Ability	AtkGroup01		AttackBased:4
+na0006Group01	Wooden Kite Control		Ability	Spd02	na0008	DefenseBased:5,HealthAndMpBased:5
+na0006Group02	Wooden Beast Control		Ability	na0006Group02	na0007	AttackBased:5,SpeedAndMovementBased:5
+na0006Group03	Ample Food and Clothing	气血+40	Ability	HpGroup01		ItemHealingBased:4
+na0010Group01	A Jug of Wine Among the Flowers		Passive	na0010Group01		SpeedAndMovementBased:5
+na0010Group02	One Drunken Bout to End All Sorrow		Passive	na0010Group02		DefenseBased:5,HealthAndMpBased:10
+na0010Group03	Butterflies Dancing Through a Hundred Blossoms	架式+1	Ability	MaxPosture01		HealthAndMpBased:4
+na0010Group04	Discarded		Passive	na0010Group04		AttackBased:3,ItemHealingBased:3
+na0010Group05	Discarded		Passive	na0010Group05		AttackBased:3,DefenseBased:3
+na0010Group06	Discarded		Passive	na0010Group06		DefenseBased:3,SpeedAndMovementBased:2
+na0011Group01	Woodcarving Technique		Ability	na0011Group01		AttackBased:3,HealthAndMpBased:2
+na0011Group02	Plucking Flowers at Will	招式栏位+1	Ability	Memory01		AttackBased:4
+na0011Group03	Cold Gleam of Drunken Eyes		Ability	na0011Group03		AttackBased:5,SpeedAndMovementBased:10
+na0011Group04	Discarded		Ability	na0011Group04		AttackBased:2,SpeedAndMovementBased:3
+na0011Group05	Discarded		Passive	na0011Group05		AttackBased:3,DefenseBased:3
+na0011Group06	Discarded		Ability	na0011Group06		AttackBased:4,SpeedAndMovementBased:2
+na0012Group01	Pointed Thrust		Passive	na0012Group02		HealthAndMpBased:5
+na0012Group02	Swift Thrust		Ability	na0012Group02		AttackBased:7
+na0012Group03	Pursuing Thrust	精准+10%	Ability	HitGroup01		SpeedAndMovementBased:4
+na0012Group04	Discarded		Passive	na0012Group04		DefenseBased:2,HealthAndMpBased:2,SpeedAndMovementBased:3
+na0012Group05	Discarded		Passive	na0012Group05		AttackBased:3,SpeedAndMovementBased:3
+na0012Group06	Discarded		Passive	na0012Group06		AttackBased:4,SpeedAndMovementBased:2
+na0013Group01	Treatise on Cold Damage		Passive	na0013Group01		SpeedAndMovementBased:10,AttackBased:5
+na0013Group02	Esoteric Steps	移动力+1	Ability	Move01		SpeedAndMovementBased:4
+na0013Group03	Discarded		Ability	na0013Group03		AttackBased:3,HealthAndMpBased:2
+na0013Group04	Words of Awakening		Passive	na0013Group04		HealthAndMpBased:3,SpeedAndMovementBased:2
+na0013Group05	Discarded		Ability	na0013Group05		SpeedAndMovementBased:3,ItemHealingBased:3
+na0013Group06	Discarded		Ability	na0013Group06		SpeedAndMovementBased:2,ItemHealingBased:4
+na0021Group01	Flying Petals Brush the Acupoints		Passive	na0021Group01		AttackBased:2,SpeedAndMovementBased:3
+na0021Group02	Seeking Fragrance on the Spring Breeze	精准+10%	Ability	HitGroup01		SpeedAndMovementBased:2,AttackBased:2
+na0021Group03	Discarded		Passive	na0021Group03		AttackBased:3,DefenseBased:2
+na0021Group04	Discarded		Ability	na0021Group04		AttackBased:2,SpeedAndMovementBased:2,ItemHealingBased:2
+na0021Group05	Discarded		Passive	na0021Group05		DefenseBased:3,HealthAndMpBased:2,SpeedAndMovementBased:2
+na0021Group06	Discarded		Passive	na0021Group06		AttackBased:3,HealthAndMpBased:3
+na0021Group07	Soul-Scattering Venom Gu		Passive	na0021Group07		AttackBased:10,SpeedAndMovementBased:3,HealthAndMpBased:2
+na0027Group01	Peerless Two Fingers	反击距离+1	Ability	CounterRange01		DefenseBased:4
+na0027Group02	Twin Eyes, Twin Ears		Passive	na0027Group02		AttackBased:2,DefenseBased:3
+na0027Group03	Twin Painted Wings in Flight		Passive	na0027Group03		SpeedAndMovementBased:2,HealthAndMpBased:9,DefenseBased:4
+na0027Group04	Discarded		Ability	na0027Group04		AttackBased:3,SpeedAndMovementBased:2
+na0027Group05	Discarded		Passive	na0027Group05		DefenseBased:3,SpeedAndMovementBased:3
+na0027Group06	Discarded		Ability	na0027Group06		DefenseBased:4,HealthAndMpBased:2
+na0029Group01	Cold-Light Blood Satin		Passive	na0029Group01		AttackBased:4,SpeedAndMovementBased:4
+na0029Group02	Dance of the Seven-Colored Rainbow Robe		Passive	na0029Group02		HealthAndMpBased:6,DefenseBased:6,SpeedAndMovementBased:6
+na0029Group03	Formless Sword Art	移动力+1	Ability	Move01		AttackBased:4
+na0029Group04	Discarded		Passive	na0029Group04		AttackBased:2,SpeedAndMovementBased:2,ItemHealingBased:2
+na0029Group05	Discarded		Passive	na0029Group05		AttackBased:4,DefenseBased:2
+na0029Group06	Discarded		Passive	na0029Group06		AttackBased:3,HealthAndMpBased:2
+na0030Group01	Wits of Escape		Passive	na0030Group01		DefenseBased:5,HealthAndMpBased:5
+na0030Group02	A Scheme Within a Scheme		Passive	na0030Group02		SpeedAndMovementBased:5,AttackBased:5,ItemHealingBased:5
+na0030Group03	Bones of a Villain	气血+40	Ability	HpGroup01		SpeedAndMovementBased:4
+na0030Group04	Discarded		Ability	na0030Group04		AttackBased:4
+na0030Group05	Discarded		Ability	na0030Group05		HealthAndMpBased:4,SpeedAndMovementBased:2
+na0030Group06	Discarded		Passive	na0030Group06		AttackBased:3,HealthAndMpBased:3
+na0033Group01	Cold Hatred, Yin Wind		Passive	na0033Group01		ItemHealingBased:2,DefenseBased:3
+na0033Group02	Phantom Secret Manual		Passive	na0033Group02		AttackBased:8,SpeedAndMovementBased:4,HealthAndMpBased:3
+na0033Group03	Bare Hands, Congealed Claws	攻击力+20	Ability	AtkGroup01		SpeedAndMovementBased:4
+na0033Group05	Discarded		Passive	na0033Group05		
+na0038Group01	Formula of Lu Ban's School		Ability	na0038Group01		ItemHealingBased:12,HealthAndMpBased:3
+na0038Group02	Hua Tuo's Prescription	治疗加成+10%	Ability	CureGroup01		ItemHealingBased:4
+na0038Group03	Discarded		Ability	na0038Group03		
+na0038Group04	Shennong's Pharmacology		Passive	na0038Group04		AttackBased:3,HealthAndMpBased:2
+na0038Group05	Discarded		Passive	na0038Group05		
+na0038Group06	Discarded		Ability	na0038Group06		
+na004Group01	Unbridled in Form and Bearing		Ability	na004Group01		HealthAndMpBased:4,DefenseBased:2
+na004Group02	Drifting Without Anchor		Ability	na004Group02		DefenseBased:4,HealthAndMpBased:2
+na004Group03	Dead Drunk		Passive	na004Group03		HealthAndMpBased:3,SpeedAndMovementBased:2
+na004Group05	Merrily Drunk Together		Passive	na004Group05		AttackBased:3,DefenseBased:3

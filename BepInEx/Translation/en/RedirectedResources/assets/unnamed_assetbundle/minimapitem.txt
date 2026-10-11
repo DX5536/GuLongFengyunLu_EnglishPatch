@@ -1,0 +1,26 @@
+Id	Name	Scene	Position	IconScale	Icon2D	DefaultEnable	Remark
+mg050001_01	Apothecary	Scene005	-140.18,0,184	1,1,1		TRUE	扬澜
+mg050001_02	Ruins of the Jin Estate	Scene005	-137.51,0,235.14	1,1,1		TRUE	扬澜
+mg050001_03	Li Family Martial School	Scene005	-114.51,0,124.96	1,1,1		TRUE	扬澜
+mg060001_01	Bounty Wall	Scene006	256.4456,0,131.224	1,1,1		TRUE	仁义庄
+mg060002_01	Bounty Wall	Scene006_ch00	256.4456,0,131.224	1,1,1		TRUE	仁义庄序章
+mg000001_01	Apothecary	Scene000	747.396,0,-185.18	1,1,1		TRUE	洛阳
+mg000001_02	Bronze Camel Lane	Scene000	816.7,0,-235.15	1,1,1		TRUE	洛阳
+mg000001_03	Zhang Residence	Scene000	717.31,0,-159.45	1,1,1		TRUE	洛阳
+mg000001_04	Yamen	Scene000	725.22,0,-126.28	1,1,1		TRUE	洛阳
+mg000001_05	Luoyang Pavilion	Scene000	28.77784,0,-169.1114	1,1,1		TRUE	洛阳
+mg000001_06	Luoyang Ruined Temple	Scene000	279.192,0,-172.978	1,1,1		TRUE	洛阳
+mg000012	Wang Sen's Shop	Scene000	822.4,0,-160.1	1,1,1		FALSE	洛阳
+mg000001_07	Blacksmith	Scene000	744.39,0,-191.76	1,1,1		TRUE	洛阳
+mh000037_01_01		Scene000	767.4566,0,-130.3177	5,5,5	Map_New	FALSE	洛阳黑蜘蛛富人区
+mh000037_01_02		Scene000	832.835,0,-226.7694	10,10,10	Map_New	FALSE	洛阳黑蜘蛛穷人区
+mh000037_01_03		Scene000	-180.73,0,328.66	14,14,14	Map_New	FALSE	洛阳黑蜘蛛状元楼内
+mh120000_01	Diling Manor	Scene012	-181.7778,0,-38.91212	1,1,1		TRUE	杭州
+mh120000_02	Apothecary	Scene012	-115.69,-29.99,-6.1	1,1,1		TRUE	杭州
+mh120000_03	Sanxiang Escort Agency	Scene012	-79.884,0,-10.115	1,1,1		TRUE	杭州
+mh120000_04	Gambling House	Scene012	-4.795,0,-35.052	1,1,1		TRUE	杭州
+mh120000_05	Yamen	Scene012	-94.6,0,18.06	1,1,1		TRUE	杭州
+mh120000_06	Shi Family Manor	Scene012	-89.98,0,54.98	1,1,1		TRUE	杭州
+mh120000_07	Duan Residence	Scene012	-164.43,0,82.62	1,1,1		TRUE	杭州
+mh120000_08	Golden Lion Escort Agency	Scene012	-172.38,0,-0.2986	1,1,1		TRUE	杭州
+mh120000_09	Blacksmith	Scene012	-151.29,0,38.47002	1,1,1		TRUE	杭州

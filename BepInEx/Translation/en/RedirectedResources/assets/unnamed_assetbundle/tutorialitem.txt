@@ -1,0 +1,148 @@
+Id	Title	Image	Content
+battle01_01	Turn Order	battle01_01	
+battle02	Movement Range	battle02	
+battle02_02	Action Bar	battle02_02	
+battle28	Techniques	battle28	
+battle03	Inner Energy Cost	battle03	
+battle04_01	Evasion	battle04_01	
+battle04_02	Hit	battle04_02	
+battle30_01		battle30_01	
+battle30_02		battle30_02	
+battle05_01	Resistance Attributes	battle05_01	
+battle05_02	Damage Types	battle05_02	
+battle06_01	Time Cost	battle06_01	
+battle06_02	Initiative Preview	battle06_02	
+battle32		battle32	
+battle31		battle31	
+battle07	Battle Conditions	battle07	
+battle08	Retry	battle08	
+battle09	Parry	battle09	
+battle10_01	Counter	battle10_01	
+battle10_02	Counter Techniques	battle10_02	
+battle33		battle33	
+battle11_01	Flaws	battle11_01	
+battle11_02	Triggering Flaws	battle11_02	
+battle12	Stance	battle12	
+battle13	Weakened	battle13	
+battle14	Critical Hits	battle14	
+battle15	Damage Preview	battle15	
+battle16_01	Flaw Attributes	battle16_01	
+battle16_02	Flaw Preview	battle16_02	
+battle17_01		battle17_01	
+battle17_02		battle17_02	
+battle18	Items	battle18	
+battle19	Rest	battle19	
+battle20_02	Charge Time	battle20_02	
+battle20_01	Charged Techniques (Untargeted)	battle20_01	
+battle20_03	Charged Techniques (Targeted)	battle20_03	
+battle21	Control Statuses	battle21	
+battle22	Special Squares	battle22	
+battle23	Detonation	battle23	
+battle24_01	Displacement - Knockback	battle24_01	
+battle24_02	Displacement - Pull	battle24_02	
+battle25	Movement Technique - Leap	battle25	
+battle26	Movement Technique - Ram	battle26	
+battle27	Movement Technique - Charge	battle27	
+na0000_01_01		na0000_01_01	
+na0000_01_02		na0000_01_02	
+na0000_01_03		na0000_01_03	
+na0000_02		na0000_02	
+na0001_01_01		na0001_01_01	
+na0001_01_02		na0001_01_02	
+na0001_02		na0001_02	
+na0002_01_01		na0002_01_01	
+na0002_01_02		na0002_01_02	
+na0002_02		na0002_02	
+na0003_01_01		na0003_01_01	
+na0003_01_02		na0003_01_02	
+na0003_02_01		na0003_02_01	
+na0003_02_02		na0003_02_02	
+na0005_01_01		na0005_01_01	
+na0005_01_02		na0005_01_02	
+na0005_02		na0005_02	
+na0006_01_01	Wooden Beast	na0006_01_01	
+na0006_01_02	Wooden Kite	na0006_01_02	
+na0006_02_01		na0006_02_01	
+na0006_02_02		na0006_02_02	
+na0010_01_01		na0010_01_01	
+na0010_01_02		na0010_01_02	
+na0010_02		na0010_02	
+na0011_01_01		na0011_01_01	
+na0011_01_02		na0011_01_02	
+na0011_02		na0011_02	
+na0012_01_01		na0012_01_01	
+na0012_01_02		na0012_01_02	
+na0012_02		na0012_02	
+na0013_01_01		na0013_01_01	
+na0013_01_02		na0013_01_02	
+na0013_02_01		na0013_02_01	
+na0013_02_02		na0013_02_02	
+na0021_01_01		na0021_01_01	
+na0021_01_02		na0021_01_02	
+na0021_02		na0021_02	
+na0027_01_01		na0027_01_01	
+na0027_01_02		na0027_01_02	
+na0027_02		na0027_02	
+na0029_01_01		na0029_01_01	
+na0029_01_02		na0029_01_02	
+na0029_02		na0029_02	
+na0030_01_01		na0030_01_01	
+na0030_01_02		na0030_01_02	
+na0030_02		na0030_02	
+na0033_01_01		na0033_01_01	
+na0033_01_02		na0033_01_02	
+na0033_02		na0033_02	
+na0038_01_01		na0038_01_01	
+na0038_01_02		na0038_01_02	
+na0038_02		na0038_02	
+Character03_01	Pack Screen	Character03_01	
+Character03_02	Using Items	Character03_02	
+Character01	Battle Results	Character01	
+Character02	Attribute Points	Character02	
+Character06_01	Equipping Techniques	Character06_01	
+Character06_02	Technique Details	Character06_02	
+Character11_01	Counter Tags	Character11_01	
+Character11_02	Counter Techniques	Character11_02	
+Character12	Technique Screen (Unused)	Character12	
+Character10_01	Famous Wines	Character10_01	
+Character10_02	Inns	Character10_02	
+Character04_01	Insight Screen	Character04_01	
+Character04_02		Character04_02	
+Character04_03		Character04_03	
+Character05	Technique Tags	Character05	
+Character08_01	Equipment Restrictions	Character08_01	
+Character08_02	Usage Restrictions	Character08_02	
+Inference01_01		Inference01_01	
+Inference01_02		Inference01_02	
+Inference02	Gathering Clues	Inference02	
+Inference02_01	Reviewing Clues	Inference02_01	
+Inference03	Piecing Clues Together	Inference03	
+Inference04_01	Deductions & Conclusions	Inference04_01	
+Inference04_02	Changing Deductions & Conclusions	Inference04_02	
+System01_01	Production	System01_01	
+System01_02	Illustrated Manuals	System01_02	
+Character09_01	Mechanism Items	Character09_01	
+Character09_02	Mechanism Techniques	Character09_02	
+System02	World Map	System02	
+System03_01		System03_01	
+System03_02		System03_02	
+System04	Gathering Points	System04	
+System06_01		System06_01	
+System06_02		System06_02	
+System05_01	Tracking Quests	System05_01	
+System05_03		System05_03	
+System05_02		System05_02	
+System08_01	Furnace	System08_01	
+System08_02	Fusion	System08_02	
+System10	Quenching Stones	System10	
+System11_01	Quenching Artisan	System11_01	
+System11_02	Quenching Screen	System11_02	
+System12_01	Obtaining Rumors	System12_01	
+System12_02	Rumors Screen	System12_02	
+Village01_01	Giving Gifts	Village01_01	
+Village01_02	Affinity	Village01_02	
+Village02_01	Bounty Wall	Village02_01	
+Village02_02	Bounty Notices	Village02_02	
+System07_01	Retainers	System07_01	
+System07_02	Crafts	System07_02	
+Village03	Sparring	Village03	

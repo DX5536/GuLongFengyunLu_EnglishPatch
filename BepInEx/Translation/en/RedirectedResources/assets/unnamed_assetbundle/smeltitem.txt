@@ -1,0 +1,5 @@
+Id	Name	IconName	EquipId	Category	SmeltMaterials	Condition
+smelt0	Black Blade of Dongying	wp3012	wp3012	0	{2,10},{3,1}	
+smelt1	Canglang	wp2016	wp2016	0	{2,10},{3,1}	
+smelt2	Pudao	wp3001	wp3001	0	{2,10},{3,1}	
+smelt3	Cleaving Saber	wp3004	wp3004	0	{2,10},{3,1}	

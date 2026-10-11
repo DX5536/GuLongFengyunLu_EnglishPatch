@@ -1,0 +1,25 @@
+Id	BuildType	Limit	Name	Effect	BuffProperty	EffectValue	BuffId
+bb0001	0	10	Commerce Level 10	Shop prices reduced by 10%<br>Construction money cost reduced by 10%	ShopDecreasePrice	10	
+bb0002	0	20	Commerce Level 20	Resources gained every 5 days +10	None	0	
+bb0003	0	30	Commerce Level 30	Intelligence needed to inquire about sect events reduced by 50%<br>Each time a conspiracy is announced, one of its schemes is revealed at random	None	0	
+bb0004	0	40	Commerce Level 40	Inn shops and wandering merchants stock more goods<br>Traveling peddlers sell two accessories when they appear	None	0	
+bb0101	1	10	Medicine Level 10	Resting recovery efficiency +25%	RestIncreaseEffect	25	
+bb0102	1	20	Medicine Level 20	Elixir effects +15%	None	0	
+bb0103	1	30	Medicine Level 30	Recover 5% Vitality daily	None	0	
+bb0104	1	40	Medicine Level 40	A hero's first defeat becomes a Light Wound instead, reducing max Vitality by 10%	None	0	
+bb0201	2	10	Forging Level 10	Weapon Attack +15%	WeaponAttack	15	
+bb0202	2	20	Forging Level 20	Armor Protection +15%	EquimentDefence	15	
+bb0203	2	30	Forging Level 30	If your weapon's grade exceeds the enemy's, you may shatter their weapon when attacking<br>Shattering an enemy weapon inflicts 1 stack of Fear	None	0	
+bb0204	2	40	Forging Level 40	2% chance each day to gain a free weapon enhancement	None	0	
+bb0301	3	10	Venom Arts Level 10	Allies shed 30% of Venom stacks each turn<br>Enemies shed 15% of Venom stacks each turn	PosionSlowDown	30	
+bb0302	3	20	Venom Arts Level 20	Each time you add Venom to an enemy, 30% chance to also inflict a random negative status	None	0	
+bb0303	3	30	Venom Arts Level 30	Enemies take 6% more damage for each negative status they bear	None	0	
+bb0304	3	40	Venom Arts Level 40	Enemies take 0.5% more damage per stack of Venom	None	0	
+bb0401	4	10	Mechanism Level 10	Personal pack expanded from 4 slots to 5	BagAddition	0	
+bb0402	4	20	Mechanism Level 20	Mechanism hidden weapon damage +15%<br>Each pack slot can stack 2 identical items	None	0	
+bb0403	4	30	Mechanism Level 30	Items can be used twice per action	None	0	
+bb0404	4	40	Mechanism Level 40	Strengthens all mechanism-type combat units	None	0	
+bb0501	5	10	Martial Level 10	Heroes gain 10% more EXP from battle	ExpIncrease	10	
+bb0502	5	20	Martial Level 20	Heroes may gain 1 extra attribute point on leveling up	None	0	
+bb0503	5	30	Martial Level 30	Reduces the time needed to Deepen Cultivation at the Martial Hall	None	0	
+bb0504	5	40	Martial Level 40	Strengthens class skill effects	None	0	

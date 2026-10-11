@@ -1,0 +1,48 @@
+Id	Name	Description	Formula
+# 战斗公式			
+heal_total	Base Healing	Base Healing	(atk_skill + atk_skill_formula) * (1 + power_of_cure_attacker / 100.0)
+real_hit	Hit Formula	Hit Formula	math.max(hit_weakness + hit_attacker - dodge_defender, 1)
+dmg_new	Damage Formula	Damage Formula	(math.max(1, (atk_weapon_attacker + atk_skill + atk_skill_formula) * (1 + atk_buff_coefficient) + atk_buff_value) * (1 + (power_attacker / 100.0) + atk_weak_coefficient + atk_add_of_cri / 100.0 + atk_add_of_counter / 100.0 + atk_stiff_coefficient) * (1.0 + (addition - resistance) / 100.0) * (1.0 - def_add_of_parry / 100.0))
+# 战斗额外设置参数			
+atk_weak_coefficient	Flaw Damage Bonus	Flaw Damage Bonus	0.2
+atk_stiff_coefficient	Weakened Damage Bonus	Weakened Damage Bonus	0.2
+add_of_cri	Critical Damage Bonus	Critical Damage Bonus	50
+hit_weakness	Flaw Hit Bonus	Flaw Hit Bonus (20 = 20%)	20
+add_of_parry	Parry Damage Reduction	Parry Damage Reduction	50
+time_cost_reduce	Technique Time Cost Formula	Technique Time Cost Formula	math.max(1000, skill_time_cost * (1 - speed * 0.5))
+add_of_counter	Counter Damage Bonus	Counter Damage Bonus	0
+# 经验			
+exp_equal	Base Battle EXP	Base Battle EXP	35
+exp_higher	EXP when stage level exceeds character level	EXP when stage level exceeds character level	(lv_battle - lv_role + 1) ^ 2 / (lv_battle - lv_role + 2) * exp_equal
+exp_lower	EXP when stage level is below character level	EXP when stage level is below character level	exp_equal / ((lv_role - lv_battle + 1) ^ 2 / (lv_role - lv_battle + 2))
+exp_for_lvup	EXP Required to Level Up	EXP Required to Level Up	100
+# 其他			
+breakSpeed	Weakened Knockback Delay	Weakened Knockback Delay	100
+restGetPosture	Stance Restored by Resting	Stance Restored by Resting	1
+sealacupoint	Sealed Acupoints (time cost +%)	Sealed Acupoints	TickCost * SealAcupoint * 0.05
+enhance_powerUp	Damage Multiplier per Stack (%)	Damage Multiplier per Stack (%)	20
+zocCost	Extra Movement Cost per Adjacent Enemy	Extra Movement Cost per Adjacent Enemy	99
+protect_hurtIncrease	Protect Damage Taken Increased To (%)	Protect Damage Taken Increased To (%)	100
+enhance_upperLimit	Assassin Enhancement Limit	Assassin Enhancement Limit	3
+attacker_jobskillCD	Attacker Skill Cooldown	Attacker Skill Cooldown	3
+battleAdd_tick	Initiative Position on Joining	Initiative Position on Joining	50
+invadeTimeCost	Time Required to Raid		SectScale / 1 + 15
+invadeTargetScore	Raid Target Score (higher = higher priority)		SectFriendliness * 10 + SectScale * 1 - SectDistance * 50 + IsSameGroup * 10000
+dmg_posture_cri	Extra Stance Reduction on Critical	Extra Stance Reduction on Critical	0
+# 六维加算			
+hp	Vitality	Vitality	str*3+con*6+chi*3+agi*0+dex*1+int*2+level*0
+max_hp	Max Vitality	Max Vitality	str*3+con*6+chi*3+agi*0+dex*1+int*2+level*0
+mp	Inner Energy	Inner Energy	str*0+con*1+chi*6+agi*3+dex*0+int*1+level*0
+max_mp	Max Inner Energy	Max Inner Energy	str*0+con*1+chi*6+agi*3+dex*0+int*1+level*0
+power	Attack Bonus	Attack Bonus	str*0.6+con*0+chi*0.4+agi*0+dex*0+int*0+level*0
+hit	Hit Rate	Hit Rate	str*0.15+con*0+chi*0+agi*0+dex*0.6+int*0.25+level*0+80
+dodge	Evasion Rate	Evasion Rate	str*0+con*0+chi*0+agi*0.8+dex*0.2+int*0+level*0
+parry	Parry Rate	Parry Rate	str*0.2+con*0.3+chi*0+agi*0+dex*0+int*0.5+level*0
+cri	Critical Rate	Critical Rate	str*0.1+con*0+chi*0.4+agi*0+dex*0.5+int*0+level*0
+speed	Speed	Speed	str*0+con*0+chi*0.6+agi*0.4+dex*0+int*0+level*0
+counter	Counter Rate	Counter Rate	str*0+con*0.4+chi*0+agi*0+dex*0.2+int*0.4+level*0
+# 章节结算时根据门派友好度与规模给的资源算法			
+# Base = 基础值, Friendliness = 友好度, Rank = 规模			
+chapterSettlement	Chapter Settlement Resources	Chapter Settlement Resources	Base * (1.6 ^ Friendliness) * (1.3 ^ Rank)
+# 机关人战斗伤害公式		
+dummy_final_damage	Automaton Battle Damage Formula	Automaton Battle Damage Formula	(math.max(attacker_atk_of_cut-defender_def_of_cut, 0)+math.max(attacker_atk_of_punch-defender_def_of_punch, 0)+math.max(attacker_atk_of_choke-defender_def_of_choke, 0))*(1+cri_magnification)*(1+counter_magnification);

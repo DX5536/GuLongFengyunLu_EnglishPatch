@@ -1,0 +1,2639 @@
+Id	Remark	Text
+#Id	备注	文字
+SetPlayerMental	Reward 使用	{0} {1} {2} Spirit
+Method.Add	Reward 使用	Increase
+2004001	互动界面	Enter
+2004002	互动界面	Talk
+2004003	互动界面	Use
+2004004	互动界面	Inspect
+2004005	互动界面	Train
+2004006	互动界面	Study
+3003001	地名	Hall of Flawless Jade
+100001	文字	Saber
+100002	文字	Sword
+100003	文字	Spear
+100004	文字	Staff
+100005	文字	Fist Gauntlets
+100006	文字	Junk
+10001d	文字	Born on the margins; a presence few would ever notice
+10001n	文字	Outcast
+10002d	文字	Born of hell; a presence all men dread
+10002n	文字	Dead Man
+# 六维		
+Str	文字	Strength
+Con	文字	Constitution
+Chi	文字	Inner Force
+Agi	文字	Agility
+Dex	文字	Dexterity
+Int	文字	Willpower
+#战斗用次级属性 - 六维影响		
+HP	文字	Vitality
+Max_HP	文字	Max Vitality
+MP	文字	Inner Energy
+Max_MP	文字	Max Inner Energy
+Atk	文字	Attack
+Def	文字	Defense
+Power	文字	Power
+Hit	文字	Accuracy
+Dodge	文字	Evasion
+Parry	文字	Parry Rate
+Cri	文字	Critical Rate
+Speed	文字	Speed
+Reset	文字	Reset
+9000000	特效编辑器(共用)	Search:
+9000001	特效编辑器	Action List
+9000002	特效编辑器	Add
+9000003	特效编辑器	Event List
+9000004	特效编辑器	Sound List
+9000005	特效编辑器	Sound Path: {0}
+9000006	特效编辑器	Trigger Time: {0}
+9000007	特效编辑器	Effect List:
+9000008	特效编辑器	Effect Path: {0}
+9000009	特效编辑器	Effect Attach Point:
+9000010	特效编辑器	Attach Point Name:
+9000011	特效编辑器	Duration
+9000012	特效编辑器	Do not attach to parent
+9000013	特效编辑器	Ignore parent rotation
+9000100	特效编辑器(特效资讯)	Effect ID:
+9000101	特效编辑器(特效资讯)	New Description
+9000102	特效编辑器(特效资讯)	Effect Description List:
+9000103	特效编辑器(特效资讯)	Load Description
+9000104	特效编辑器(特效资讯)	Save Description
+9000200	特效编辑器(共用面版)	Trigger Time: {0}
+9000201	特效编辑器(共用面版)	Node Color:
+9000202	特效编辑器(共用面版)	Test Play
+9001001	特效编辑器(特效面版)	Effect List:
+9001002	特效编辑器(特效面版)	Current Effect: {0}
+9001003	特效编辑器(特效面版)	Effect Attach Point:
+9001004	特效编辑器(特效面版)	Current Attach Point: {0}
+9001005	特效编辑器(特效面版)	Launch effect (unchecked: stick to target)
+9001006	特效编辑器(特效面版)	Duration:
+9001007	特效编辑器(特效面版)	Do not attach to parent
+9001008	特效编辑器(特效面版)	Ignore parent rotation
+9001009	特效编辑器(特效面版)	Spawn on target
+9001010	特效编辑器(特效面版)	Launch in reverse (fly back from target)
+9001011	特效编辑器(特效面版)	Node Color:
+9001012	特效编辑器(特效面版)	Effect Position:
+9001013	特效编辑器(特效面版)	Effect Rotation:
+9001014	特效编辑器(特效面版)	Effect Scale:
+9001015	特效编辑器(特效面版)	Target Attach Point:
+Appellation_Address1_1	一般称谓_敬称_男性玩家	young hero
+Appellation_Address1_2	一般称谓_敬称_女性玩家	young heroine
+Appellation_Address2_1	一般称谓_生疏_男性玩家	brother
+Appellation_Address2_2	一般称谓_生疏_女性玩家	miss
+Appellation_Address3_1	一般称谓_蔑称_男性玩家	boy
+Appellation_Address3_2	一般称谓_蔑称_女性玩家	girl
+Appellation_Address4_1		young master
+Appellation_Address4_2		miss
+Appellation_Address5_1		elder brother
+Appellation_Address5_2		elder sister
+Appellation_Friend1_1	同辈称谓_正常_男性玩家	brother
+Appellation_Friend1_2	同辈称谓_正常_女性玩家	miss
+Appellation_Friend2_1	同辈称谓_幼齿_男性玩家	big brother
+Appellation_Friend2_2	同辈称谓_幼齿_女性玩家	elder sister
+Appellation_Friend3_1	同辈称谓_吊儿郎当_男性玩家	little brother
+Appellation_Friend3_2	同辈称谓_吊儿郎当_女性玩家	little sister
+Appellation_Friend4_1	同辈称谓_情人1_男性玩家	brother
+Appellation_Friend4_2	同辈称谓_情人1_女性玩家	sister
+Appellation_Friend5_1	同辈称谓_情人2_男性玩家	brother
+Appellation_Friend5_2	同辈称谓_情人2_女性玩家	child
+Appellation_Junior1_1	同门称谓_学长姐称呼_男性玩家	junior brother
+Appellation_Junior1_2	同门称谓_学长姐称呼_女性玩家	junior sister
+Appellation_Senior1_1	同门称谓_学弟妹称呼_男性玩家	senior brother
+Appellation_Senior1_2	同门称谓_学弟妹称呼_女性玩家	senior sister
+BattleLiberatedState_Force_Counter	必定反击	Guaranteed Counter
+BattleLiberatedState_Force_Critical	必定暴击	Guaranteed Critical
+BattleLiberatedState_Force_Dodge	必定闪避	Guaranteed Evasion
+BattleLiberatedState_Force_Hit	必定命中	Guaranteed Hit
+BattleLiberatedState_Force_Parry	必定招架	Guaranteed Parry
+BattleLiberatedState_InfiniteAction	无限行动	Unlimited Actions
+BattleLiberatedState_Invincible	气血无限	Infinite Vitality
+BattleLiberatedState_MoveAgain	再次移动	Move Again
+BattleLiberatedState_No_Consumption	内力无限	Infinite Inner Energy
+BattleLiberatedState_One_Shot	一击必杀	One-Hit Kill
+BattleNegativeState_Bind	缚身	Bound ×{0}
+BattleNegativeState_Bleeding	流血	Bleeding ×{0}
+BattleNegativeState_Burn	烧灼	Burning ×{0}
+BattleNegativeState_Confusion	迷茫	Confused ×{0}
+BattleNegativeState_Dazzle	目眩	Dizzy ×{0}
+BattleNegativeState_Dislocation	错骨	Dislocated ×{0}
+BattleNegativeState_Enervation	散功	Dispersed Qi ×{0}
+BattleNegativeState_Exhaustion	脱力	Exhausted ×{0}
+BattleNegativeState_Frostbite	寒伤	Frostbite ×{0}
+BattleNegativeState_Injury	刚劲	Hard Force ×{0}
+BattleNegativeState_Internal_Injury	柔劲	Soft Force ×{0}
+BattleNegativeState_Poison	鸩伤	Venom ×{0}
+BattleNegativeState_Shock	震慑	Intimidated ×{0}
+BattleNegativeState_Vulnerability	破甲	Armor Break ×{0}
+BattlePositiveState_Blockade	卸劲	Force Deflection ×{0}
+BattlePositiveState_Concentration	专注	Focus ×{0}
+BattlePositiveState_Eagle_Vision	隼目	Falcon Eye ×{0}
+BattlePositiveState_Evasion	迅捷	Swiftness ×{0}
+BattlePositiveState_Guard	坚守	Steadfast ×{0}
+BattlePositiveState_Insight	识破	Insight ×{0}
+BattlePositiveState_Invigoration	归元	Return to Origin ×{0}
+BattlePositiveState_Macrocosmic_Orbit	大周天流转	Grand Circulation ×{0}
+BattlePositiveState_Microcosmic_Orbit	小周天流转	Lesser Circulation ×{0}
+BattlePositiveState_Onslaught	强攻	Onslaught ×{0}
+BattlePositiveState_Regeneration	聚气	Gathered Qi ×{0}
+BattlePositiveState_Rejuvenation	凝神	Concentration ×{0}
+BattlePositiveState_Repel	驱除	Purge ×{0}
+BattlePositiveState_Vitalization	化气	Qi Transformation ×{0}
+BattleProperty_Counter_Rate	反击率	Counter Rate
+BattleProperty_Critical_Rate	暴击率	Critical Rate
+BattleProperty_Dodge_Rate	闪避率	Evasion
+BattleProperty_Force_Counter	必反	Sure Counter
+BattleProperty_Force_Critical	必爆	Sure Crit
+BattleProperty_Force_Dodge	必闪	Sure Dodge
+BattleProperty_Force_Hit	必中	Sure Hit
+BattleProperty_Force_Parry	必招架	Sure Parry
+BattleProperty_Hit_Rate	命中率	Accuracy
+BattleProperty_Invincible	反无	No Counter
+BattleProperty_No_Consumption	归一	Unity
+BattleProperty_One_Shot	一击必杀	One-Hit Kill
+BattleProperty_Parry_Rate	招架率	Parry Rate
+BattleRestrictedState_Crippled	断筋	Severed Tendons
+BattleRestrictedState_Daze	晕眩	Stunned
+BattleRestrictedState_Dyspnea	气滞	Qi Blockage
+BattleRestrictedState_Fear	恐惧	Fear
+BattleRestrictedState_Immobility	定身	Immobilized
+BattleRestrictedState_No_Counter	无法反击	Cannot Counter
+BattleRestrictedState_No_Critical	无法暴击	Cannot Crit
+BattleRestrictedState_No_Dodge	无法闪避	Cannot Evade
+BattleRestrictedState_No_Parry	无法招架	Cannot Parry
+BattleRestrictedState_Seal	封技	Sealed Skills
+Battle_TargetArea_Fan	攻击范围	Fan
+Battle_TargetArea_Line	攻击范围	Line
+Battle_TargetArea_Ring	攻击范围	Ring
+Description_Dex	灵巧说明	About Dexterity
+Description_Spi	精神说明	About Spirit
+Description_Str	力量说明	About Strength
+Description_Vit	体质说明	About Constitution
+DevelopProperty_Brave	胆识	Courage
+DevelopProperty_Brave_1	胆识1级	Courage Lv. 1
+DevelopProperty_Brave_2	胆识3级	Courage Lv. 3
+DevelopProperty_Brave_3	胆识3级	Courage Lv. 3
+DevelopProperty_Brave_4	胆识4级	Courage Lv. 4
+DevelopProperty_Brave_5	胆识5级	Courage Lv. 5
+DevelopProperty_Calligraphy	书	Calligraphy
+DevelopProperty_Chess	棋	Go
+DevelopProperty_Courage	胆试	Courage
+DevelopProperty_Courage_1	胆试1级	Courage Lv. 1
+DevelopProperty_Courage_2	胆试2级	Courage Lv. 2
+DevelopProperty_Courage_3	胆试3级	Courage Lv. 3
+DevelopProperty_Courage_4	胆试4级	Courage Lv. 4
+DevelopProperty_Courage_5	胆试5级	Courage Lv. 5
+DevelopProperty_Cultivated	修养	Refinement
+DevelopProperty_Cultivated_1	修养1级	Refinement Lv. 1
+DevelopProperty_Cultivated_2	修养2级	Refinement Lv. 2
+DevelopProperty_Cultivated_3	修养3级	Refinement Lv. 3
+DevelopProperty_Cultivated_4	修养4级	Refinement Lv. 4
+DevelopProperty_Cultivated_5	修养5级	Refinement Lv. 5
+DevelopProperty_Emotion	感性	Sensibility
+DevelopProperty_Emotion_1	感性1级	Sensibility Lv. 1
+DevelopProperty_Emotion_2	感性3级	Sensibility Lv. 3
+DevelopProperty_Emotion_3	感性3级	Sensibility Lv. 3
+DevelopProperty_Emotion_4	感性4级	Sensibility Lv. 4
+DevelopProperty_Emotion_5	感性5级	Sensibility Lv. 5
+DevelopProperty_Gardening	花	Flowers
+DevelopProperty_Insight	暴击	Critical
+DevelopProperty_Insight_1	暴击1级	Critical Lv. 1
+DevelopProperty_Insight_2	暴击2级	Critical Lv. 2
+DevelopProperty_Insight_3	暴击3级	Critical Lv. 3
+DevelopProperty_Insight_4	暴击4级	Critical Lv. 4
+DevelopProperty_Insight_5	暴击5级	Critical Lv. 5
+DevelopProperty_Liquor	酒	Wine
+DevelopProperty_Logic	理性	Reason
+DevelopProperty_Logic_1	理性1级	Reason Lv. 1
+DevelopProperty_Logic_2	理性2级	Reason Lv. 2
+DevelopProperty_Logic_3	理性3级	Reason Lv. 3
+DevelopProperty_Logic_4	理性4级	Reason Lv. 4
+DevelopProperty_Logic_5	理性5级	Reason Lv. 5
+DevelopProperty_Painting	画	Painting
+DevelopProperty_Reflex	机敏	Wit
+DevelopProperty_Reflex_1	机敏1级	Wit Lv. 1
+DevelopProperty_Reflex_2	机敏2级	Wit Lv. 2
+DevelopProperty_Reflex_3	机敏3级	Wit Lv. 3
+DevelopProperty_Reflex_4	机敏4级	Wit Lv. 4
+DevelopProperty_Reflex_5	机敏5级	Wit Lv. 5
+DevelopProperty_Resolute	坚毅	Fortitude
+DevelopProperty_Resolute_1	坚毅1级	Fortitude Lv. 1
+DevelopProperty_Resolute_2	坚毅2级	Fortitude Lv. 2
+DevelopProperty_Resolute_3	坚毅3级	Fortitude Lv. 3
+DevelopProperty_Resolute_4	坚毅4级	Fortitude Lv. 4
+DevelopProperty_Resolute_5	坚毅5级	Fortitude Lv. 5
+DevelopProperty_SixArts	六艺	Six Arts
+DevelopProperty_SixTraits	六轴	Six Axes
+DevelopProperty_Vibrant	爽朗	Candor
+DevelopProperty_Vibrant_1	爽朗1级	Candor Lv. 1
+DevelopProperty_Vibrant_2	爽朗2级	Candor Lv. 2
+DevelopProperty_Vibrant_3	爽朗3级	Candor Lv. 3
+DevelopProperty_Vibrant_4	爽朗4级	Candor Lv. 4
+DevelopProperty_Vibrant_5	爽朗5级	Candor Lv. 5
+DevelopProperty_Willpower	毅力	Perseverance
+DevelopProperty_Willpower_1	毅力1级	Perseverance Lv. 1
+DevelopProperty_Willpower_2	毅力2级	Perseverance Lv. 2
+DevelopProperty_Willpower_3	毅力3级	Perseverance Lv. 3
+DevelopProperty_Willpower_4	毅力4级	Perseverance Lv. 4
+DevelopProperty_Willpower_5	毅力5级	Perseverance Lv. 5
+DevelopProperty_Zither	琴	Qin
+Elective_Condition	选课_授课条件	Training Requirements
+Elective_CourseIntroduction	选课_课程简介	Training Notes
+Elective_CourseName	选课_课程名称	Martial Arts to Train
+Elective_Grade_Advanced	选课_阶段_进阶	Advanced
+Elective_Grade_Basis	选课_阶段_基础	Basic
+Elective_Skills	选课_可习得招式	Learnable Techniques
+Elective_TeacherName	选课_授课教师	Master
+Element_Earth	土属性	Earth Element
+Element_Fire	火属性	Fire Element
+Element_Metal	金属性	Metal Element
+Element_None	无属性	No Element
+Element_Water	水属性	Water Element
+Element_Wood	木属性	Wood Element
+Equip_Accessories	装备_饰	Acc.
+Equip_Armor	装备_衣	Garb
+Equip_CurrentAccessories	装备_当前饰品	Current Accessory
+Equip_CurrentArmor	装备_当前衣物	Current Garment
+Equip_CurrentWeapon	装备_当前武器	Current Weapon
+Equip_Select	装备_选择装备	Select Equipment
+Equip_Weapon	装备_武	Martial
+Evaluation_Fail	未达成评价任务	Not Achieved
+Favorability_Rank_01		Passing Acquaintance
+Favorability_Rank_02		Casual Acquaintance
+Favorability_Rank_03		Courteous Exchange
+Favorability_Rank_04		Fellow Students
+Favorability_Rank_05		Kindred Spirits
+Favorability_Rank_06		Mutual Admiration
+Favorability_Rank_07		Sworn Siblings
+Favorability_Rank_Sp		First Stirrings of Love
+Forge_Condition	装备条件	Equip Requirements
+Forge_Level	锻造难度	Forging Difficulty
+General_Area	范围	Range
+General_Armor	防具	Armor
+General_BladeAndSword	刀剑	Blades
+General_Cancel	取消	Cancel
+General_CD	冷却回合	Cooldown
+General_Condition	条件	Requirements
+General_Confirm	确定	Confirm
+General_ConfirmUpGrade		Confirm Upgrade
+General_Consumption	消耗	Cost
+General_Effect	效果	Effect
+General_Equipment	装备	Equip
+General_Favorability	友好度	Affinity
+General_Fight	搏击	Combat
+General_Formula	行囊页签_秘笈/图纸/配方	Books & Paper
+General_FourArts	四艺	Four Arts
+General_FourAttribute	四维	Fundamentals
+General_FourAttributePoint	四维点数	Fundamental Points
+General_FourTraits	四轴	Character
+General_Herb	草药	Herbs
+General_Hold	持有	Owned
+General_HoldCount	持有数量	Quantity Owned
+General_Hurt	伤害	Damage
+General_Information	交友	Friends
+General_Introduction	介绍	Introduction
+General_Inventory	行囊	Pack
+General_LongAndShort	长短兵	Long & Short Arms
+General_MartialArts	武学	Martial Arts
+General_Medicine	药品	Medicine
+General_New	新	New
+General_Notebook	记事本	Journal
+General_PassCondition	达成条件	Requirements
+General_PassReward	达成奖励	Reward
+General_Preference	喜好	Likes
+General_Present	礼品	Gifts
+General_Props	道具	Items
+General_Qimen	奇门	Esoteric Arts
+General_Quest	任务	Quests
+General_Range	射程	Range
+General_RemainingRound	剩余回合	Turns Remaining
+General_SixArts	六艺	Six Arts
+General_SixTraits	六轴	Six Axes
+General_Special	特级	Special
+General_Status	状态	Status
+General_Sumbit	是	Yes
+General_Talent	天赋	Talents
+Inventory_Empty	空无一物	Your pack is empty.
+Level_01	阶段1	Tier I
+Level_02	阶段2	Tier II
+Level_03	阶段3	Tier III
+Level_04	阶段4	Tier IV
+Level_05	阶段5	Tier V
+Level_06	阶段6	Tier VI
+Level_07	阶段7	Tier VII
+Level_08	阶段8	Tier VIII
+Level_09	阶段9	Tier IX
+Level_10	阶段10	Tier X
+LoadingInterface0101	读取界面TIP	Beneath falling cascades, ride the mist to seek the hidden hero;    by the censer's purple haze, take up the sword and ask the heart of the Way
+LoadingInterface0102	读取界面TIP	Critical, Parry, Evasion and Counter rates are determined by comparing the attacker's and defender's corresponding values
+LoadingInterface0103	读取界面TIP	A critical hit always lands, regardless of the target's Evasion
+LoadingInterface0104	读取界面TIP	Once your four personality axes grow high enough, you will gain various personality traits
+LoadingInterface0105	读取界面TIP	When your elemental constitution overcomes the target's, you deal an extra 30% elemental damage
+LoadingInterface0106	读取界面TIP	Raising a fellow disciple's affinity high enough can trigger a bond event
+LoadingInterface0107	读取界面TIP	If your personality does not meet a bond event's requirements, no action is consumed
+LoadingInterface0108	读取界面TIP	Giving gifts to fellow disciples does not consume an action
+LoadingInterface0109	读取界面TIP	When training techniques or inner arts, meeting the required Fundamentals makes progress twice as fast
+LoadingInterface0110	读取界面TIP	Between bouts of training, cultivate your temperament too; a weary spirit greatly hampers your progress
+LoadingInterface0111	读取界面TIP	Cultivating the Four Arts may win you the crown at the Four Arts Contest, or lead you to remarkable people and strange events
+LoadingInterface0112	读取界面TIP	In battle, right-click a character's portrait to view their status, buffs and debuffs
+LoadingInterface0113	读取界面TIP	Venturing down the mountain is no sheltered training in the Pavilion; watch your Vitality and Inner Energy and tend your wounds in time
+LoadingInterface0114	读取界面TIP	While exploring, press Tab to open the status menu
+LoadingInterface0115	读取界面TIP	In battle, every unit's basic counterattack range is two squares
+LoadingInterface0116	读取界面TIP	In the training screens, press ESC to return to the previous screen
+LoadingInterface0117	读取界面TIP	Each month has five turns (Start, Early, Mid, Late, End), with two actions per turn
+LoadingInterface0118	读取界面TIP	In battle, drag with the right mouse button to rotate the camera
+LoadingInterface0119	读取界面TIP	In battle, press ESC before moving or attacking to undo the previous step
+LoadingInterface0120	读取界面TIP	Accuracy that is too low may cause a Fumble, reducing that attack to 70% damage
+LoadingInterface0121	读取界面TIP	Flanking lowers the target's Parry and Evasion; attacks from behind lower them even more
+MartialArts_CurrentMantra	武学_当前心法	Current Inner Art
+MartialArts_CurrentSkill	武学_当前招式	Current Technique
+MartialArts_PracticeEffect	修练效果	Training Effect
+MartialArts_RunEffect	运行效果	Circulation Effect
+MartialArts_SetMantra	武学_配置心法	Circulate Inner Art
+MartialArts_SetSkill	武学_配置招式	Assign Techniques
+Medicine_Browse	浏览持有药品	Browse Medicines
+Mission001_MissionStart	使用Node：【动作/任务/开始任务】开始新任务时	Event "{0}" begins!
+Mission002_MissionUpdate	使用Node：【动作/任务/接下一个任务or结束任务】更新任务阶段时	Event "{0}" updated!
+Mission003_MissionComplete	使用Node：【动作/任务/接下一个任务or结束任务】且该任务有勾选「是否显示任务完成提示」时	Event "{0}" completed!
+Number_01	数字1	One
+Number_02	数字2	Two
+Number_03	数字3	Three
+Number_04	数字4	Four
+Number_05	数字5	Five
+Number_06	数字6	Six
+Number_07	数字7	Seven
+Number_08	数字8	Eight
+Number_09	数字9	Nine
+Number_10	数字10	Ten
+Number_11	数字11	Eleven
+Number_12	数字12	Twelve
+NurturanceProperty_Brave	胆识	Courage
+NurturanceProperty_Calligraphy	书	Calligraphy
+NurturanceProperty_Chess	棋	Go
+NurturanceProperty_Cultivated	修养	Refinement
+NurturanceProperty_Dex	灵巧	Dexterity
+NurturanceProperty_Emotion	精神	Spirit
+NurturanceProperty_Exp	经验	Experience
+NurturanceProperty_Money	金钱	Money
+NurturanceProperty_Painting	画	Painting
+NurturanceProperty_Resolute	坚毅	Fortitude
+NurturanceProperty_Spi	意志	Willpower
+NurturanceProperty_Str	力量	Strength
+NurturanceProperty_Sum	四维总和	Total Fundamentals
+NurturanceProperty_Vibrant	爽朗	Candor
+NurturanceProperty_Vit	体魄	Constitution
+NurturanceProperty_Zither	琴	Qin
+Property_Affiliation		Alignment
+Property_Attack	攻击	Attack
+Property_Block	招架	Parry
+Property_Body	架式	Stance
+Property_Contribution		Contribution to the Hidden Hero Pavilion
+Property_Counter	反击	Counter
+Property_Crit	暴击率	Critical Rate
+Property_Critical	暴击	Critical
+Property_Cure	治愈	Healing
+Property_Defense	防御	Defense
+Property_Dodge	闪避	Evasion
+Property_Element	功体	Constitution
+Property_Element_Resistance	五行抗性	Elemental Resistance
+Property_Element_Strengthen	五行强化	Elemental Mastery
+Property_Face	面门	Face
+Property_Foot	步法	Footwork
+Property_Hand	招数	Moves
+Property_Hit	命中	Accuracy
+Property_HP	气血	Vitality
+Property_Level	等级	Level
+Property_Max_HP	最大气血	Max Vitality
+Property_Max_MP	最大内力	Max Inner Energy
+Property_Move	移动格数	Movement
+Property_MP	内力	Inner Energy
+Property_Parry	招架	Parry
+PropsCategory101	道具小分类	Fist Gauntlets
+PropsCategory102	道具小分类	Leg Wraps
+PropsCategory103	道具小分类	Sword
+PropsCategory104	道具小分类	Saber
+PropsCategory105	道具小分类	Polearm
+PropsCategory106	道具小分类	Short Arms
+PropsCategory107	道具小分类	Throwing
+PropsCategory108	道具小分类	Dual Wield
+PropsCategory109	道具小分类	Special
+PropsCategory201	道具小分类	Armor
+PropsCategory301	道具小分类	Accessory
+PropsCategory401	道具小分类	Fist Manual
+PropsCategory402	道具小分类	Kick Manual
+PropsCategory403	道具小分类	Sword Manual
+PropsCategory404	道具小分类	Saber Manual
+PropsCategory405	道具小分类	Polearm Manual
+PropsCategory406	道具小分类	Short Arms Manual
+PropsCategory407	道具小分类	Throwing Manual
+PropsCategory408	道具小分类	Inner Art Manual
+PropsCategory409	道具小分类	Other Books
+PropsCategory411	道具小分类	Fist Manual (Thornhold Library)
+PropsCategory412	道具小分类	Kick Manual (Thornhold Library)
+PropsCategory413	道具小分类	Sword Manual (Thornhold Library)
+PropsCategory414	道具小分类	Saber Manual (Thornhold Library)
+PropsCategory415	道具小分类	Polearm Manual (Thornhold Library)
+PropsCategory416	道具小分类	Short Arms Manual (Thornhold Library)
+PropsCategory417	道具小分类	Throwing Manual (Thornhold Library)
+PropsCategory418	道具小分类	Inner Art Manual (Thornhold Library)
+PropsCategory419	道具小分类	Other Books (Thornhold Library)
+PropsCategory501	道具小分类	Elixirs
+PropsCategory502	道具小分类	Medicinal Herbs
+PropsCategory601	道具小分类	Main Quest Items
+PropsCategory602	道具小分类	Companion Quest Items
+PropsCategory603	道具小分类	Errand Quest Items
+PropsCategory604	道具小分类	Other Quest Items
+PropsCategory701	道具小分类	Guqin
+PropsCategory702	道具小分类	Go Set
+PropsCategory703	道具小分类	Calligraphy
+PropsCategory704	道具小分类	Painting
+PropsCategory705	道具小分类	Drinking
+PropsCategory706	道具小分类	Flowers
+PropsCategory707	道具小分类	Books
+PropsCategory708	道具小分类	Antiques
+PropsCategory709	道具小分类	Silks
+PropsCategory710	道具小分类	Paper Umbrellas
+PropsCategory711	道具小分类	Folding Fans
+PropsCategory712	道具小分类	Pastries
+PropsCategory713	道具小分类	Weapons
+PropsCategory714	道具小分类	Tea Leaves
+PropsCategory801	道具小分类	Forging Blueprints
+PropsCategory802	道具小分类	Elixir Recipes
+PropsCategory901	道具小分类	Poisons
+PropsCategory902	道具小分类	Food
+PropsCategory903	道具小分类	Mechanisms
+PropsCategory904	道具小分类	Materials
+PropsCategory905	道具小分类	Mechanisms
+PropsCategory906	道具小分类	Valuables
+PropsCategory907	道具小分类	Spears & Staves
+PropsCategory908	道具小分类	Esoteric Arts
+PropsCategory909	道具小分类	Twin Blades
+PropsCategory910	道具小分类	Cuisine
+PropsCategory911	道具小分类	Quests
+PropsCategory912	道具小分类	Manuals
+PropsCategory913	道具小分类	Common
+PropsCategory914	道具小分类	Fine
+PropsCategory915	道具小分类	Rare
+PropsCategory916	道具小分类	Superb
+PropsCategory917	道具小分类	Unique
+PropsCategory918	道具小分类	Illustrated Manuals
+Props_ConditionFail	使用条件不符	Requirements not met
+Reading_NPC_NoBook	没有任何书籍	Come back later; there is no book suited to you at present.
+Reading_NPC_Normal	未选择书籍	Choose a book to read.
+Reading_Tab_Mantra	心法	Inner Arts
+Reading_Tab_MartialArt	武学	Martial Arts
+Refining_AlchemyFurnace	炼丹炉	Alchemy Furnace
+Refining_Count	炼制数量	Select Quantity
+Refining_DemandRound	炼制需要回合	Turns to Refine
+Refining_Herb	所需草药	Herbs Required
+Refining_ResultCount	可炼制数量	Max Quantity
+Refining_Stove_Idle	闲置中	Idle
+Refining_Stove_InProgress	炼制中	Refining
+Repeat_01	重数一	Level 1
+Repeat_02	重数二	Level 2
+Repeat_03	重数三	Level 3
+Repeat_04	重数四	Level 4
+Repeat_05	重数五	Level 5
+Repeat_06	重数六	Level 6
+Repeat_07	重数七	Level 7
+Repeat_08	重数八	Level 8
+Repeat_09	重数九	Level 9
+Repeat_10	重数十	Level 10
+Reward10101_PropsAdd	道具增加	Obtained {0} ×{1}!
+Reward10102_PropsLose	道具减少	Lost {0} ×{1}!
+Reward10201_MoneyAdd	金钱增加	Obtained {0} coins!
+Reward10202_MoneyLose	金钱减少	Lost {0} coins!
+Reward10301_TeammateJoin	队友增加	{0} joins the party!
+Reward10302_TeammateLeave	队友减少	{0} leaves the party!
+Reward10401_NotebookAdd	记事本新增内容	New entries have been added to the Journal!
+Reward20101_PlayerPropertyUp	玩家属性数值提升共用版型	Your {0} rose by {1}!
+Reward20102_PlayerPropertyDown	玩家属性数值降低共用版型	Your {0} fell by {1}!
+Reward20103_PlayerHpRecover	玩家气血提升	You recovered {0} Vitality!
+Reward20104_PlayerHpLose	玩家气血减少	You lost {0} Vitality!
+Reward20105_PlayerMpRecover	玩家内力提升	You recovered {0} Inner Energy!
+Reward20106_PlayerMpLose	玩家内力减少	You lost {0} Inner Energy!
+Reward20107_PlayerXiaConceptionRight	玩家阵营值增加	You have gained new insight into the Way of the Hero...
+Reward20108_PlayerXiaConceptionLeft	玩家阵营值减少	You have gained new insight into the Way of the Hero...
+Reward20201_NpcPropertyUp	NPC属性数值提升共用版型	{0}'s {1} rose by {2}!
+Reward20202_NpcPropertyDown	NPC属性数值降低共用版型	{0}'s {1} fell by {2}!
+Reward20203_NpcHpRecover	NPC气血提升	{0} recovered {1} Vitality!
+Reward20204_NpcHpLose	NPC气血减少	{0} lost {1} Vitality!
+Reward20205_NpcMpRecover	NPC内力提升	{0} recovered {1} Inner Energy!
+Reward20206_NpcMpLose	NPC内力减少	{0} lost {1} Inner Energy!
+Reward20301_PlayerStrUp	玩家四维「力量」提升	Your Strength has been honed, rising by {0}!
+Reward20302_PlayerVitUp	玩家四维「体魄」提升	Your Constitution has been honed, rising by {0}!
+Reward20303_PlayerDexUp	玩家四维「灵巧」提升	Your Dexterity has been honed, rising by {0}!
+Reward20304_PlayerSpiUp	玩家四维「意志」提升	Your Willpower has been honed, rising by {0}!
+Reward20305_PlayerVibrantUp	玩家四轴「爽朗」提升	You have grown more candid, rising by {0}!
+Reward20306_PlayerCultivatedUp	玩家四轴「修养」提升	You have grown more refined, rising by {0}!
+Reward20307_PlayerResoluteUp	玩家四轴「坚毅」提升	You have grown more resolute, rising by {0}!
+Reward20308_PlayerBraveUp	玩家四轴「胆识」提升	You have grown more courageous, rising by {0}!
+Reward20309_PlayerZitherUp	玩家四艺「琴」提升	Your qin playing has improved, rising by {0}!
+Reward20310_PlayerChessUp	玩家四艺「棋」提升	Your Go has improved, rising by {0}!
+Reward20311_PlayerCalligraphyUp	玩家四艺「书」提升	Your calligraphy has improved, rising by {0}!
+Reward20312_PlayerPaintingUp	玩家四艺「画」提升	Your painting has improved, rising by {0}!
+Reward20401_NpcStrUp	NPC四维「力量」提升	{0}'s Strength has been honed, rising by {1}!
+Reward20402_NpcVitUp	NPC四维「体魄」提升	{0}'s Constitution has been honed, rising by {1}!
+Reward20403_NpcDexUp	NPC四维「灵巧」提升	{0}'s Dexterity has been honed, rising by {1}!
+Reward20404_NpcSpiUp	NPC四维「意志」提升	{0}'s Willpower has been honed, rising by {1}!
+Reward20405_NpcVibrantUp	NPC四轴「爽朗」提升	{0} has grown more candid, rising by {1}!
+Reward20406_NpcCultivatedUp	NPC四轴「修养」提升	{0} has grown more refined, rising by {1}!
+Reward20407_NpcResoluteUp	NPC四轴「坚毅」提升	{0} has grown more resolute, rising by {1}!
+Reward20408_NpcBraveUp	NPC四轴「胆识」提升	{0} has grown more courageous, rising by {1}!
+Reward20409_NpcZitherUp	NPC四艺「琴」提升	{0}'s qin playing has improved, rising by {1}!
+Reward20410_NpcChessUp	NPC四艺「棋」提升	{0}'s Go has improved, rising by {1}!
+Reward20411_NpcCalligraphyUp	NPC四艺「书」提升	{0}'s calligraphy has improved, rising by {1}!
+Reward20412_NpcPaintingUp	NPC四艺「画」提升	{0}'s painting has improved, rising by {1}!
+Reward30101_PlayerLearnSkill	玩家获得新招式	You learned the technique "{0}"!
+Reward30201_NpcLearnSkill	NPC获得新招式	{0} learned "{1}"!
+Reward30301_PlayerGetSkillExp	玩家获得某招式的经验值	Your technique "{0}" gained {1} EXP!
+Reward30401_NpcGetSkillExp	NPC获得某招式的经验值	{0}'s technique "{1}" gained {2} EXP!
+Reward30501_PlayerSkillPowerUp	玩家的某招式被取代	Your technique "{0}" has been enhanced!
+Reward30601_NpcSkillPowerUp	NPC的某招式被取代	{0}'s technique "{1}" has been enhanced!
+Reward30701_PlayerLearnMantra	玩家获得新心法	You learned the inner art "{0}"!
+Reward30801_NpcLearnMantra	NPC获得新心法	{0} learned the inner art "{1}"!
+Reward30901_PlayerGetMantraExp	玩家获得某心法的经验值	Your inner art "{0}" gained {1} EXP!
+Reward31001_NpcGetMantraExp	NPC获得某心法的经验值	{0}'s inner art "{1}" gained {2} EXP!
+Reward31101_PlayerMantraPowerUp	玩家的某心法被取代	Your inner art "{0}" has been enhanced!
+Reward31201_NpcMantraPowerUp	NPC的某心法被取代	{0}'s inner art "{1}" has been enhanced!
+Reward31301_PlayerLearnUniqueSkill		You learned the special skill "{0}"!!
+Reward31302_PlayerUniqueSkillPowerUp		Your special skill "{0}" has been enhanced!!
+Reward31401_NpcLearnUniqueSkill		{0} learned the special skill "{1}"!!
+Reward31402_NpcUniqueSkillPowerUp		{0}'s special skill "{1}" has been enhanced!!
+Reward31501_PlayerLearnTrait		You gained a new trait: "{0}"!
+Reward31502_PlayerTraitPowerUp		Your trait "{0}" has been enhanced!
+Reward31601_NpcLearnTrait		{0} gained a new trait: "{1}"!
+Reward31602_NpcTraitPowerUp		{0}'s trait "{1}" has been enhanced!
+Reward50101_NpcFavorabilityValueUp	NPC友好度小幅提升时	{0} thinks slightly better of you.
+Reward50102_NpcFavorabilityValueUpM	NPC友好度中幅提升时	{0} thinks better of you!
+Reward50103_NpcFavorabilityValueUpL	NPC友好度大幅提升时	{0} thinks much better of you!
+Reward50201_NpcFavorabilityLevelUp	NPC友好阶段升级	Your bond with {0} has deepened!
+Reward50201_NpcFavorabilityValueUpXS		{0}'s regard for you rose a little.
+Reward50202_NpcFavorabilityValueUpS		{0}'s regard for you rose somewhat.
+Reward50203_NpcFavorabilityValueUpM		{0} thinks better of you!
+Reward50204_NpcFavorabilityValueUpL		{0}'s regard for you rose markedly!
+Reward50205_NpcFavorabilityValueUpXL		{0}'s regard for you rose greatly!!
+Reward50301_NpcPowerLevelUp	队友NPC能力解锁	{0} can now offer you more help!
+Reward50302_AssistNpcPowerLevelUp	辅助NPC能力解锁	{0} can now offer you more help!
+Reward50401_PlayerGoodnessUp	玩家获得行善值	You have become a better person.
+Reward60101_GetNewPrescription		You may now go to the Hall of a Hundred Herbs to refine "{0}"!
+Reward60201_GetNewBlueprint		You may now go to the smithy to forge "{0}"!
+Reward60301_GetNewBook		You may now go to the Scripture Library to read "{0}"!
+Reward70101_EmotionUp		Your spirit recovered slightly!
+Reward70102_EmotionUpUp		Your spirit recovered!
+Reward70103_EmotionUpUpUp		Your spirit recovered greatly!
+Reward70201_EmotionDown		Your spirit fell slightly...
+Reward70202_EmotionDownDown		Your spirit fell...
+Reward70203_EmotionDownDownDown		Your spirit fell greatly...
+RoundOfTime_1	时间	Start of Month
+RoundOfTime_2	时间	Early Month
+RoundOfTime_3	时间	Mid-Month
+RoundOfTime_4	时间	Late Month
+RoundOfTime_5	时间	End of Month
+SecondaryInterface0101	选课次级界面字串	Are you sure you wish to take {0}?
+SecondaryInterface0102	选课次级界面字串	You do not yet meet this course's requirements. Try again next time!
+SecondaryInterface0201	炼药次级界面（确认选项）	Refine {0} ×{1}?
+SecondaryInterface0202	炼药界面道恒对白	Mind your hands while you work; don't set the place on fire...
+SecondaryInterface0203	炼药界面道恒对白	Still haven't decided what to brew? This old hermit has already... (yawn)
+SecondaryInterface0204	炼药界面道恒对白	When refining, take special care with... ah, what a bother. Another time.
+SecondaryInterface0205	炼药界面	Alchemy
+SecondaryInterface0206	炼药界面	Buy
+SecondaryInterface0301	锻造界面确认提示	Forge {0}?
+SecondaryInterface0302	铁匠次级界面锻造条件不符提示	This item cannot be forged right now.
+SecondaryInterface0311	铁匠钱不够台词1	Not enough money on you? Don't put your big sister in a bind...
+SecondaryInterface0312	铁匠钱不够台词2	We may be friends, but business is business...
+SecondaryInterface0321	铁匠锻造能力不足台词1	Ugh! That one's too hard even for me! How about forging something else?
+SecondaryInterface0322	铁匠锻造能力不足台词2	You have the blueprint, but I'm afraid my skill isn't up to it yet...
+SecondaryInterface0331	铁匠持有物达上限台词1	Are you a mule? You're carrying far too much!
+SecondaryInterface0332	铁匠持有物达上限台词2	Look at you, no hands free. Sell some of what you're carrying and come back.
+SecondaryInterface0341	铁匠符合条件台词1	You want this one made? Leave it to me!
+SecondaryInterface0342	铁匠符合条件台词2	You've a good eye! I won't let you down!
+SecondaryInterface0351	铁匠界面文字	Forging Skill
+SecondaryInterface0401	泛用商店的购买确认提示	Buy this?
+SecondaryInterface0402	泛用商店金钱不足提示	Not enough money!
+SecondaryInterface0403	泛用商店持有数上限提示	You cannot carry any more of this item!
+SecondaryInterface0404	泛用商店的购买确认提示	Select Quantity
+SecondaryInterface0405	泛用商店文字	Total Price
+SecondaryInterface0406	泛用商店文字	Money on Hand
+SecondaryInterface0407	泛用商店文字	Sold Out
+SecondaryInterface0408	泛用商店文字	North & South Emporium
+SecondaryInterface0409	当铺界面	Pawnshop
+SecondaryInterface0410	当铺界面	Sell
+SecondaryInterface0501	装备界面背包里没东西换的提示	No replaceable equipment in your pack.
+SecondaryInterface0502	装备品的对象限制叙述	Can be equipped by:
+SecondaryInterface0511	药品界面服用药品的提示	Have {0} take {1}?
+SecondaryInterface0512	药品界面使用提示（使用条件不符）	This item can only be used in battle.
+SecondaryInterface0601	战斗结算	Press any key to leave battle
+SecondaryInterface0701	招式范围叙述单体	Single
+SecondaryInterface0702	招式范围叙述直线	Single (Line)
+SecondaryInterface0703	招式范围叙述扇形	Fan
+SecondaryInterface0704	招式范围叙述周身	Surrounding
+SecondaryInterface0705	招式范围叙述溅射	Splash {0} squares
+SecondaryInterface0706	招式范围叙述	Self
+SecondaryInterface0707	招式范围叙述	Ring
+SecondaryInterface0708	招式范围叙述	Piercing Line
+SecondaryInterface0801	养成界面交友即将升阶提示	Affinity Tier {0}, ready to advance
+SecondaryInterface0802	养成界面交友提示	Affinity Tier {0}
+SecondaryInterface0803	赠送礼物键	Give Gift
+SecondaryInterface0804	出游键	Outing
+SecondaryInterface0805	出游tip01	Raises affinity
+SecondaryInterface0806	出游tip02	Spirit +10
+SecondaryInterface0807	赠送礼物tip01	Give gifts to raise affinity
+SecondaryInterface0808	好友等级	Affinity
+SecondaryInterface0809	好友各阶能力	Abilities
+SecondaryInterface0901	武学界面无招式可替换提示。	No usable techniques learned yet.
+SecondaryInterface0902	武学界面无心法可替换提示	No usable inner arts learned yet.
+SecondaryInterface1001	四艺四轴养成指令TIP标题	Effect
+SecondaryInterface1002	招式养成指令TIP标题	Fundamentals Required
+SecondaryInterface1003	招式养成指令TIP标题2	EXP Gained
+SecondaryInterface1004	招式养成指令TIP标题	Takes half a day
+SecondaryInterface1005	养成界面设施指令TIP	Facility Function
+SecondaryInterface1006	习武门槛加速提示	<color=#FD420DFF>Martial threshold met; training speed increased</color>
+SecondaryInterface1007	习武门槛减速提示	<color=#43C386FF>Martial threshold not met; training speed reduced</color>
+SecondaryInterface1008	招式威力tip	<color=#FD420DFF>Technique Power {0}→{1}</color>
+SecondaryInterface1009	招式提升tip	{0} increased
+SecondaryInterface1010	不消耗时间指令	Takes no time
+SecondaryInterface1011	指令效果加成中	<color=#FFFF00>Bonus active!</color>
+SecondaryInterface1101	养成界面精神状态提示	<color=#FD420DFF>Full of Vigor</color>
+SecondaryInterface1102	养成界面精神状态提示	<color=#CC9933FF>Body and mind are weary; training is less effective!</color>
+SecondaryInterface1103	养成界面精神状态提示	<color=#43C386FF>Listless and drained; training is far less effective!</color>
+SecondaryInterface1104	养成界面精神状态提示	<color=#3B5FECFF>Utterly exhausted; you feel on the verge of qi deviation!</color>
+SecondaryInterface1200	战斗按键TIP	Remove Status
+SecondaryInterface1201	战斗按键TIP	Equip
+SecondaryInterface1202	战斗按键TIP	Medicine
+SecondaryInterface1203	战斗按键TIP	Wait
+SecondaryInterface1204	战斗按键TIP	Taking medicine will end your action.
+SecondaryInterface1205	战斗按键TIP	Turn
+SecondaryInterface1206	战斗按键TIP，待机回10％（未移动）～5％（移动后）	End action and recover a little Inner Energy.
+SecondaryInterface1207	战斗按键TIP	Not enough Inner Energy!
+SecondaryInterface1208	主角特技按键TIP	Shift your constitution to the <color=#FF0000>Metal</color> element. Rear attacks always crit and flank attacks gain +25% Critical Rate, for 1 action
+SecondaryInterface1209	主角特技按键TIP	Shift your constitution to the <color=#FF0000>Wood</color> element. Automatically evade all attacks except critical hits, for 1 turn.
+SecondaryInterface1210	主角特技按键TIP	Shift your constitution to the <color=#FF0000>Water</color> element. Remove all negative statuses and recover 15% Vitality and Inner Energy
+SecondaryInterface1211	主角特技按键TIP	Shift your constitution to the <color=#FF0000>Fire</color> element. +25% damage when attacking and always parry when attacked, for 1 turn
+SecondaryInterface1212	主角特技按键TIP	Shift your constitution to the <color=#FF0000>Earth</color> element. Counter range +1; if an enemy within counter range attacks an ally, 50% chance to counter on the ally's behalf, for 1 turn
+SecondaryInterface1213	主角特技按键TIP	Five Elements Cycle
+SecondaryInterface1214	主角特技按键TIP	Cannot move!
+SecondaryInterface1215	主角特技按键TIP	Cannot move or use techniques while stunned!
+SecondaryInterface1216	主角特技按键TIP	Not enough Vitality!
+SecondaryInterface1217	主角特技按键TIP	Movement reduced!
+SecondaryInterface1218	主角特技按键TIP	Cannot use techniques!
+SecondaryInterface1219	主角特技按键TIP	Can move again
+SecondaryInterface1220	主角特技按键TIP	No valid targets in range
+SecondaryInterface1221	主角特技按键TIP	Cannot target that location
+SecondaryInterface1301	战斗（伤害预估TIP）	Damage
+SecondaryInterface1302	战斗（伤害预估TIP）	Accuracy
+SecondaryInterface1303	战斗（伤害预估TIP）	Estimated Remaining Vitality
+SecondaryInterface1304	战斗（伤害预估TIP）	Critical Rate
+SecondaryInterface1305	战斗（伤害预估TIP）	Parry Rate
+SecondaryInterface1306	战斗（伤害预估TIP）	Counter Rate
+SecondaryInterface1307	背袭提示at伤害面板	Rear Attack Bonus
+SecondaryInterface1308	侧袭提示at伤害面板	Flank Attack Bonus
+SecondaryInterface1401	招式说明TIP（武学界面与战斗）	Inner Energy Cost
+SecondaryInterface1402	招式说明TIP（武学界面与战斗）	Technique Power
+SecondaryInterface1403	招式说明TIP（武学界面与战斗）	Attack Range
+SecondaryInterface1404	招式说明TIP（武学界面与战斗）	Target Area
+SecondaryInterface1405	招式说明TIP（武学界面与战斗）	Cooldown
+SecondaryInterface1406	招式说明TIP（武学界面与战斗）	Effect
+SecondaryInterface1501	包包无礼品	You have no gifts to give
+SecondaryInterface1502	赠送确认界面	Give {0} to {1}?
+SecondaryInterface1601	贩售界面文字	Nothing to sell
+SecondaryInterface1602	贩售界面文字	Select Quantity to Sell
+SecondaryInterface1603	贩售界面文字	Sell {0} ×{1}?
+SecondaryInterface1604	贩售界面文字	Selection limit reached
+SecondaryInterface1701	传书界面无法接取	Requirements not met; cannot accept!
+SecondaryInterface1702	传书界面没有传书	No letters at present
+SecondaryInterface1703	传书界面接受二级界面	Accept?
+SecondaryInterface1704	传书界面师门任务	Assignment
+SecondaryInterface1705	传书界面日常任务	Commission
+SecondaryInterface1706	传书界面紧急任务	Urgent
+SecondaryInterface1707	传书界面打工任务	Errand
+SecondaryInterface1708	传书界面邀约任务	Invitation
+SecondaryInterface1709	传书界面任务日程半日	Half a Day
+SecondaryInterface1710	传书界面任务日程一日	One Day
+SecondaryInterface1711	传书界面来信人	Sender
+SecondaryInterface1712	传书界面所需日程	Time Required
+SecondaryInterface1713	传书界面承接条件	Requirements
+SecondaryInterface1714	传书界面完成奖励	Reward
+SecondaryInterface1715	传书界面期限	Deadline
+SecondaryInterface1716	传书界面传书分页标题	Letters
+SecondaryInterface1717	传书界面记录分页标题	Records
+SecondaryInterface1718	传书界面任务日程不费时	Takes no time
+SecondaryInterface1805	战斗状态界面文字	×{0}
+SecondaryInterface1806	战斗状态界面	Final Chance:
+SecondaryInterface1901	好感阶级	Affinity Tier I
+SecondaryInterface1902	好感阶级	Affinity Tier II
+SecondaryInterface1903	好感阶级	Affinity Tier III
+SecondaryInterface1904	好感阶级	Affinity Tier IV
+SecondaryInterface1905	好感阶级	Affinity Tier V
+SecondaryInterface1906	好感阶级	Affinity Tier VI
+SecondaryInterface1907	好感阶级	Affinity Tier VII
+SecondaryInterface2001	整备界面文字	Finish preparations?
+SecondaryInterface2002	整备界面文字	Advantaged Element
+SecondaryInterface2003	整备界面文字	Disadvantaged Element
+SecondaryInterface2004	整备界面文字	None
+SecondaryInterface2005	整备界面文字	Change Equipment
+SecondaryInterface2006	整备界面文字	Cannot Leave Party
+SecondaryInterface2007	整备界面文字	Done Preparing
+SecondaryInterface2008	整备界面文字	Prepare
+SecondaryInterface2009	整备界面文字	Minimum companions: {0}
+SecondaryInterface2012	整备界面文字	{0} more companion(s) needed
+SecondaryInterface2101	存档界面文字	Select Save Slot
+SecondaryInterface2102	存档界面文字	Select File to Load
+SecondaryInterface2103	存档界面文字	Save
+SecondaryInterface2104	存档界面文字	Autosave
+SecondaryInterface2105	存档界面文字	New
+SecondaryInterface2106	存档界面文字	Overwrite this save?
+SecondaryInterface2107	存档界面文字	Load this save?
+SecondaryInterface2108	存档界面文字	Load this save? Unsaved progress will be lost.
+SecondaryInterface2109	存档界面文字	Delete this save? It cannot be recovered.
+SecondaryInterface2110	存档界面文字	Day
+SecondaryInterface2111	存档界面文字	Night
+SecondaryInterface2112	存档界面文字	Total Play Time
+SecondaryInterface2113	存档界面文字	h
+SecondaryInterface2114	存档界面文字	m
+SecondaryInterface2115	存档界面文字	No Save Data
+SecondaryInterface2201	阅读界面文字	Read {0}?
+SecondaryInterface2202	阅读界面文字	You do not meet the requirements to read this book.
+SecondaryInterface2203	阅读界面文字	Reading Requirements
+SecondaryInterface2204	阅读界面文字	Introduction
+SecondaryInterface2205	阅读界面文字	Miscellany
+SecondaryInterface2206	阅读界面文字	Reading Effects
+SecondaryInterface2207	阅读界面文字	Chapters Remaining
+SecondaryInterface2208	阅读界面文字	Every book differs in length, which affects reading time. Learning to apportion your days wisely is part of your training.
+SecondaryInterface2301		{0} coins
+SecondaryInterface2302		{0}
+SecondaryInterface2406	标题画面	Achievements
+SecondaryInterface2407	标题画面	Mods
+SecondaryInterface2408	游戏选单TIP	Return to the title screen? Unsaved progress will be lost.
+SecondaryInterface2409	游戏选单TIP	Quit the game? Unsaved progress will be lost.
+SecondaryInterface2412	游戏选单	Load this save?
+SecondaryInterface2413	游戏标题	Current Version: {0}
+SecondaryInterface2501	人物状态	Traits
+SecondaryInterface2502	人物状态	Resistances
+SecondaryInterface2601	创角界面	You still have {0} Fundamental points and {1} Trait points unassigned. Leave anyway?
+SecondaryInterface2602	创角界面	You still have {0} Fundamental points unassigned. Leave anyway?
+SecondaryInterface2603	创角界面	You still have {0} Trait points unassigned. Leave anyway?
+SecondaryInterface2604	创角界面	Enrollment
+SecondaryInterface2605	创角界面	Male
+SecondaryInterface2606	创角界面	Female
+SecondaryInterface2607	创角界面	Fundamentals
+SecondaryInterface2608	创角界面	Assignable Points
+SecondaryInterface2609	创角界面	Strength
+SecondaryInterface2610	创角界面	Constitution
+SecondaryInterface2611	创角界面	Dexterity
+SecondaryInterface2612	创角界面	Willpower
+SecondaryInterface2613	创角界面	Choose Traits
+SecondaryInterface2614	创角界面	Owned Traits
+SecondaryInterface2615	创角界面	Traits
+SecondaryInterface2616	创角界面	Points Left
+SecondaryInterface2617	创角界面	Points Spent
+SecondaryInterface2618	创角界面	Strength: Attack++++, Defense+, Parry++, Vitality+, Inner Energy+.
+SecondaryInterface2619	创角界面	Constitution: Attack+, Defense++++, Counter++, Vitality++++, Inner Energy++.
+SecondaryInterface2620	创角界面	Dexterity: Attack+++, Defense++, Evasion++, Vitality+, Inner Energy+. +1 Movement per 200.
+SecondaryInterface2621	创角界面	Willpower: Attack++, Defense+++, Critical++, Vitality++, Inner Energy+++. Increases elemental advantage damage.
+SecondaryInterface2622	创角界面	Done
+SecondaryInterface2623	创角界面	Please enter a name; the field cannot be empty.
+SecondaryInterface2624	创角界面	That name cannot be used
+SecondaryInterface2701	按键说明	ESC = Back
+SecondaryInterface2702	按键说明	ENTER = Confirm
+SecondaryInterface2703	按键说明	↑↓←→ = Select
+SecondaryInterface2801	系统设置界面	Window Mode
+SecondaryInterface2802	系统设置界面	Resolution
+SecondaryInterface2803	系统设置界面	Graphics Quality
+SecondaryInterface2804	系统设置界面	Music Volume
+SecondaryInterface2805	系统设置界面	Sound Volume
+SecondaryInterface2806	系统设置界面	Language
+SecondaryInterface2807	系统设置界面	Key Bindings
+SecondaryInterface2808	系统设置界面	Fullscreen
+SecondaryInterface2809	系统设置界面	Windowed
+SecondaryInterface2810	系统设置界面	Borderless Window
+SecondaryInterface2811	系统设置界面	Low
+SecondaryInterface2812	系统设置界面	Medium
+SecondaryInterface2813	系统设置界面	High
+SecondaryInterface2814	系统设置界面	Small
+SecondaryInterface2815	系统设置界面	Large
+SecondaryInterface2816	系统设置界面	Traditional Chinese
+SecondaryInterface2817	系统设置界面	Simplified Chinese
+SecondaryInterface2818	系统设置界面	Configure
+SecondaryInterface2819	系统设置界面	Restore Defaults
+SecondaryInterface2820	系统设置界面	Apply Changes
+SecondaryInterface2821	系统设置界面	Some changes take effect only after restarting the game.
+SecondaryInterface2822	系统设置界面	Changes have not been applied. Leave anyway?
+SecondaryInterface2823	系统设置界面	Battle Grid
+SecondaryInterface2824	系统设置界面	On
+SecondaryInterface2825	系统设置界面	Off
+SecondaryInterface2826	系统设置界面	Five Elements Chart
+SecondaryInterface2827	系统设置界面	Restart the game now to apply the language change?
+SecondaryInterface2828	创角界面	V-Sync
+SecondaryInterface2901	抢先体验声明	Dear player, thank you for your support of "Xia Yin Ge"...
+SecondaryInterface2902	抢先体验声明	Heluo Studio
+SecondaryInterface2903	抢先体验声明	Press any key to continue
+SecondaryInterface3001	角色状态TIP	Cannot change a friend's techniques or inner arts
+SecondaryInterface3101	自动存档tips	Progress autosaved
+SecondaryInterface3102	快速存档tips	Quick-saved
+SecondaryInterface3103	无法存档tips	Cannot save right now
+SecondaryInterface3104	无法读档tips	No save records
+SecondaryInterface3105	无法读档tips	Quick-load?
+# 战斗		
+BattleMessageId.Poison	战斗用文字	Poisoned
+BattleMessageId.Wound	战斗用文字	Bleeding
+BattleMessageId.Burn	战斗用文字	Burning
+BattleMessageId.Frostbite	战斗用文字	Frost
+BattleMessageId.Spring	战斗用文字	Rejuvenation
+BattleMessageId.MpReply	战斗用文字	Qi Restoration
+BattleMessageId.Rebound	战斗用文字	Transference
+BattleMessageId.SecondBatter	战斗用文字	Chain Slash
+BattleMessageId.SecondMove	战斗用文字	Wind Riding
+BattleMessageId.SecondAttack	战斗用文字	Combo
+BattleMessageId.Fear	战斗用文字	Panic
+BattleMessageId.Taunt	战斗用文字	Taunt
+BattleMessageId.Charm	战斗用文字	Charm
+BattleMessageId.Root	战斗用文字	Immobilized
+BattleMessageId.Rest	战斗用文字	Rest
+BattleMessageId.Critical	战斗用文字	Critical
+BattleMessageId.Parry	战斗用文字	Parry
+BattleMessageId.Counter	战斗用文字	Counter
+BattleMessageId.Dodge	战斗用文字	Evasion
+BattleMessageId.Protect	战斗用文字	Protect
+# 战斗界面		
+Battle_Menu_Attack	攻击	Attack
+Battle_Menu_Item	行囊	Pack
+Battle_Menu_Move	移动	Move
+Battle_Menu_Rest	休息	Rest
+Battle_Menu_AssassinSkill	穿甲	Armor Piercing
+Battle_Menu_TankSkill	保护	Protect
+BattleUIMessageId.Turn	战斗 UI 用文字	Turn {0}
+VictoryConditions	战斗UI胜利条件	Victory Conditions:
+FailureCondition	战斗UI失败条件	Defeat Conditions:
+Battle_Info_Mantra	战斗状态界面文字	Inner Arts
+Battle_Info_CharacterState	战斗UI角色状态	Character Status
+Battle_Info_PassiveState	战斗UI感悟状态	Passive Status
+Battle_Info_HotKey_Leave	热键提示	Leave Screen
+Battle_Info_HotKey_Drag	热键提示	Drag List
+Battle_Info_Combo	连击数	{0}\nCombo
+Battle_Info_Percent	概率	{0}%
+Battle_Info_Damage	伤害	{0} Damage: {1}
+Battle_Info_Heal	恢复气血	Restore Vitality
+Battle_Info_Protect	护卫	Guard
+Battle_Info_EnemyElite	菁英敌人名称	Formidable Foe
+Battle_TimelineIcon_Tip	波段伤害	{0} Damage: {1}
+Battle_LearnNewSkill	习得技能	Technique "{0}"
+BattleLog_Dodge	闪避Log	{0} evaded {1}'s {2}
+BattleLog_Critical	暴击Log	Critical!
+BattleLog_Damage	伤害Log	{0}{1} used {2} on {3}, dealing {4} damage
+BattleLog_Buff	状态Log	{0} gained status {1} ×{2}
+BattleLog_BuffStack	状态层数变更Log	{0}'s {1} status is now ×{2}
+BattleLog_Heal	恢复Log	{0} used {1} on {2}, restoring {3} Vitality
+Battle_Menu_ShowResistence	显示抗性按钮	Show Resistances
+# 战斗Buff提示		
+Battle_Buff_Weak	虚弱状态叙述	{0}, lasting 1 action.
+Battle_Buff_Poison	鸩伤状态叙述	{0}: ×{1}.\n{2}
+Battle_Buff_NormalBuff	异常状态叙述	, lasting {0} actions.
+Battle_Buff_StackBuff	属性增减状态叙述	「{0}」：{1}{2}{3}{4}\n
+Battle_Buff_Percent	Buff数值增加百分比	{0}({1}%)
+Battle_Buff_Plus	正向Buff增加数值	#ERROR!
+Battle_Buff_Up	属性上升	Rise
+Battle_Buff_Down	属性下降	Fall
+# 战斗开始		
+Battle_Start01	战	BAT
+Battle_Start02	斗	TLE
+Battle_Start03	开	BE
+Battle_Start04	始	GIN
+# 战斗结果		
+Battle_Victory	战斗胜利	Victory
+Battle_Defeat	战斗失败	Defeat
+# 战斗结束提示		
+Battle_GetReturn	获得静养叙述	Defeated in battle, {0} was gravely wounded and has returned to Renyi Manor to recuperate.
+# 属性		
+1010000000	属性UI文字等级	Level
+1010000001	属性UI文字	Experience
+1010000002	属性UI文字	Vitality
+1010000003	属性UI文字	Stance
+1010000004	属性UI文字	Attack
+1010000005	属性UI文字防御值	Power
+1010000006	属性UI文字暴击值	Critical
+1010000007	属性UI文字回避值	Evade
+1010000008	属性UI文字精准值	Precision
+1010000009	属性UI文字招架值	Parry
+1010000010	属性UI文字移动	Move
+1010000011	属性UI文字速度	Speed
+1010000012	属性UI文字	Affects Vitality
+1010000013	属性UI文字	Affects Protection
+1010000014	属性UI文字	Affects Damage
+1010000015	属性UI文字	Affects Technique Damage
+1010000016	属性UI文字	Affects Initiative Speed
+1010000017	属性UI文字	Move
+1010000018	属性UI文字	Affects Movement
+1010000019	属性UI文字	Affects Critical Chance
+1010000020	属性UI文字	Affects Hit Chance
+1010000021	属性UI文字	Affects Evasion Chance
+1010000022	属性UI文字	Affects damage reduction when parrying
+1010000023	属性UI文字	Counter
+1010000024	属性UI文字	Passive Effect
+1010000025	属性UI文字	Overview
+1010000026	属性UI文字	Max Vitality
+1010000027	属性UI文字	Max Stance
+1010000028	属性UI文字	EXP
+1010000029	属性UI文字	Frost Resistance
+1010000030	属性UI文字	Soft Force Resistance
+1010000031	属性UI文字	Burn Resistance
+1010000032	属性UI文字	Hard Force Resistance
+1010000033	属性UI文字	Primordial Resistance
+1010000034	属性UI文字	Acupoint Seal Resistance
+1010000035	属性UI文字	Attribute Bonus
+1010000036	属性UI文字等级	Allocate
+1010000037	属性UI文字等级	Confirm Allocation
+1010000038	属性UI文字	Affects Counter Rate
+1010000100	属性UI按钮	Apply Policy
+1010000101	属性UI按钮	Policy
+1010000200	属性	Attributes
+1010000201	角色	Character
+1010000202	关系	Relations
+1010000203	成就	Achievements
+# 招式		
+1020000000	招式UI文字	New Technique
+1020000001	招式UI文字	Learn
+1020000002	招式UI按钮文字	Martial Enhancement
+1020000003	招式UI按钮文字	Realm Ascension
+1020000004	招式UI按钮文字	Mastery
+1020000005	招式UI按钮文字	Enhanced
+1020000006	招式UI按钮文字	Can Enhance
+1020000007	招式UI文字	Technique Type
+1020000008	招式UI文字	{0} Damage
+1020000009	招式UI文字	Technique Cooldown
+1020000010	招式UI文字	Charge Time
+1020000011	招式UI文字	Time Cost
+1020000012	招式UI文字	Area
+1020000013	招式UI文字	Range
+1020000014	招式UI文字	Single
+1020000015	招式UI文字	Single (Line)
+1020000016	招式UI文字	Line Area
+1020000017	招式UI文字	Surrounding Area
+1020000018	招式UI文字	Splash {0} squares
+1020000019	招式UI文字	Self
+1020000020	招式UI文字	Fan
+1020000021	招式UI文字	Combat
+1020000022	招式UI文字	Swordplay
+1020000023	招式UI文字	Saber Arts
+1020000024	招式UI文字	Spears & Staves
+1020000025	招式UI文字	Throwing
+1020000026	招式UI文字	Strategy
+1020000027	招式UI文字	Inner Arts
+1020000028	招式UI文字	Move
+1020000029	招式UI文字	Esoteric Arts
+1020000030	招式UI文字	Medicine
+1020000031	招式UI文字	Projectiles
+1020000032	招式UI文字	Food
+1020000033	招式UI文字	Learning
+1020000034	招式UI文字	Techniques
+1020000035	招式UI按钮文字	Back
+1020000036	招式UI按钮文字	Equip
+1020000037	招式UI文字	Circle
+1020000038	招式UI文字	{0} - {1}
+1020000039	招式UI文字	Stance Cost
+1020000040	招式UI文字	Vitality Cost
+1020000041	招式UI文字	Technique Damage
+1020000042	招式UI文字	Effect Description
+1020000043	招式UI文字	Vitality Healing
+1020000044	招式UI文字	Martial Knowledge Cost: {0}
+1020000045	招式UI文字	Required Level: {0}
+1020000046	招式UI文字	Level requirement not met
+1020000047	招式UI文字	Character Techniques
+1020000048	招式UI文字	Martial Essentials
+1020000049	招式UI文字	Choose a technique to learn
+1020000050	招式UI文字	Level too low
+1020000051	招式UI文字	Twin Blades
+1020000052	招式UI文字	Other
+1020000053	招式UI文字	All
+1020000054	招式UI文字	Technique Target
+1020000055	招式UI文字	Instant
+1020000056	招式UI文字	Charge
+1020000057	招式UI文字	Wave
+1020000058	招式UI文字	Wait
+1020000059	招式UI文字	Rest
+1020000060	招式UI文字	Items
+1020000061	招式UI文字	Passive
+1020000062	招式效果描述	{0}：{1}
+1020000063	招式UI文字	Active
+1020000064	招式UI文字	Stance Damage
+1020000066	招式UI文字	Knockback
+1020000067	招式UI文字	Pull
+1020000068	招式赋予异常状态文字	Frost
+1020000069	招式赋予异常状态文字	Soft Force
+1020000070	招式赋予异常状态文字	Burn
+1020000071	招式赋予异常状态文字	Hard Force
+1020000072	招式赋予异常状态文字	Venom
+1020000073	招式赋予异常状态文字	Acupoint Seal
+1020000074	招式UI文字	Enemy Flaw Direction
+1020000075	招式UI文字	Applied Status
+1020000076	招式UI文字	Additional Effect
+1020000077	招式UI文字	Technique Slots
+1020000078	招式UI文字	Unique Skill
+1020000079	招式UI文字	Mechanism Technique
+1020000080	招式UI文字	Counter Technique
+1020000081	未使用编号	
+1020000082	招式UI文字	Can Counter
+1020000083	招式伤害类型文字	Hard
+1020000084	招式伤害类型文字	Soft
+1020000085	招式伤害类型文字	Mixed
+1020000086	招式伤害类型文字	Other
+1020000087	招式公式加成文字	This technique is affected by {0}
+1020000088	内力伤害	Inner Energy Damage
+1020000089	架式伤害	Stance Damage
+1020000090	内力治疗	Inner Energy Healing
+1020000091	架式治疗	Stance Healing
+1020000092	招式UI页签	Total
+1020000093	招式UI页签	Fist
+1020000094	招式UI页签	Sword
+1020000095	招式UI页签	Saber
+1020000096	招式UI页签	Throw
+1020000097	招式UI页签	Dual
+1020000098	招式UI页签	General
+1020000099	招式UI页签	All
+1020000100	招式UI文字	Wide Line
+# 招式作用类型		
+SkillEffect_Immediately	瞬发	Instant
+SkillEffect_Wave	波段	Wave
+SkillEffect_Trigger	触发	Trigger
+# 招式目标		
+TargetType_All	双方	Both Sides
+TargetType_Friendly	友方	Allies
+TargetType_Hostile	敌方	Enemies
+TargetType_Tile	敌方(地格)	Enemies (Ground)
+TargetType_FriendTile	友方(地格)	Allies (Ground)
+TargetType_Special	特定目标	Specific Target
+# 招式关键字		
+Keyword100	拳法	Fist Arts
+Keyword200	剑法	Swordplay
+Keyword300	刀法	Saber Arts
+Keyword400	枪法	Spear Arts
+Keyword500	飞掷	Throwing
+Keyword600	双刃	Twin Blades
+Keyword700	通用	General
+Keyword800	丹药	Elixirs
+Keyword900	道具	Items
+Keyword1000	机关道具	Mechanisms
+Keyword1100	信念	Conviction
+Keyword2200	攻击	Attack
+Keyword2300	恢复	Recovery
+Keyword2400	招唤	Summon
+Keyword2500	增益	Buff
+Keyword2600	减益	Debuff
+Keyword2800	跳跃	Leap
+Keyword2900	冲锋	Charge
+Keyword3000	冲撞	Ram
+Keyword3100	捉影	Shadow Catch
+Keyword3200	瞬发	Instant
+Keyword3300	集气	Charge
+Keyword3600	单次	Single Use
+Keyword3700	波段	Wave
+Keyword3800	刚劲	Hard Force
+Keyword3900	柔劲	Soft Force
+Keyword4000	混元	Primordial
+Keyword4100	单体	Single
+Keyword4200	范围	Range
+Keyword4300	击退	Knockback
+Keyword4400	拉取	Pull
+Keyword4500	位移	Displacement
+# 物品		
+Item_Tip_Type	物品Tip文字	Type
+Item_Tip_Description	物品Tip文字	Description
+Item_Tip_Story	物品Tip文字	Story
+Item_Tip_Price	物品Tip文字	Price
+# 地图		
+Unit_First	单位(第)	No.
+Unit_Month	单位(月)	Month
+Unit_Year	单位(年)	Year
+Unit_Day	单位(日)	Day
+Unit_Time	单位(第 N 天)	Day {0}
+NextChapter	结束章节	End Chapter
+NextChapterStr	结束章节	Quest complete. You may end the chapter
+1040000000	季节(春)	Spring
+1040000001	季节(夏)	Summer
+1040000002	季节(秋)	Autumn
+1040000003	季节(冬)	Winter
+1040000005	客栈歇息询问	Spend {0} coins to rest for the night?<br>(Takes one day: the party fully recovers Vitality, Spirit returns to normal, and {1} rations are restocked)
+1040000006	客栈备粮询问	Spend {0} coins to restock {1} rations?
+1040000007	客栈歇息没钱	Not enough money to rest.
+1040000008	客栈备粮没钱	Not enough money to buy rations.
+1040000009	确定	Confirm
+1040000010	队伍歇息补满气血精神	After a night's rest, the whole party's Vitality and Spirit are restored.
+1040000011	回复行粮	Restocked {0} rations.
+1040000012	花费金钱	Spent {0} coins.
+1040000013	进入	Enter
+1040000014	歇息	Rest
+1040000015	备粮	Provisions
+1040000016	离开	Leave
+1040000017	集结	Muster
+1040000018	成本UI	Days
+1040000019	成本UI	Spirit
+1040000020	成本UI	Rations
+1040000021	区域名	Central Plains
+1040000022	区域名	Jiangnan
+1040000023	区域名	Western Shu
+1040000024	区域名	Western Regions
+1040000025	区域名	Beyond the Pass
+1040000026	成本UI	Travel Cost
+1040000027	成本UI	News
+1040000028	成本UI	Route {0}
+1040000030	点击互动UI	Converse
+1040000031	点击互动UI	Inspect
+1040000032	点击互动UI	Pick Up
+1040000033	关闭界面	Close
+1040000034	界面显示UI	Subjugate
+1040000035	界面显示UI	Pack
+1040000036	界面显示UI	Drag List
+1040000037	界面显示UI	Interact
+1040000038	界面显示UI	Click to close
+1040000040	成本UI	{0} days
+1040000041	成本UI	Choose members to travel to {0}
+1040000042	成本UI	Click a member in the list
+1040000043	成本UI	Selected Members
+1040000050	地点进入提示讯息	There are no rumors here; no need to enter.
+1040000051	地点进入提示讯息	This road is impassable.
+1040000052	地点进入提示讯息	This road must be built first.
+1040000053	地点进入提示讯息	There are no rumors here yet; you may reach it but need not enter.
+1040000054	地点进入提示讯息	This place has not been built yet; you may reach it but cannot enter.
+1040000055	选择休息提示	{0} is already resting.
+1040000056	选择休息提示	{0} is already at full health.
+1040000057	队伍集结	Muster
+1040000058	选择休息提示	Have this party rest?
+1040000059	选择休息提示	This party does not need rest.
+1040000100	地图显示	Vitality
+1040000101	地图显示	Experience
+1040000102	地图显示	Turmoil
+1040000103	地图显示	Current
+1040000104	地图显示	Sources of Turmoil
+1040000105	地图显示	Base Value
+1040000106	地图显示	None
+1040000107	地图显示	Conspiracy Exposed
+1040000108	地图显示	Source
+1040000109	地图显示	Scale
+1040000110	地图显示	Arrives in about {0} days
+1040000111	地图显示	{0} is currently idle at {1}
+1040000112	地图显示	{0} is resting at {1}
+1040000113	地图显示	Recovers {0} Vitality per day; fully recovered in {1} days
+1040000114	地图显示	{0} is traveling to {1}
+1040000115	地图显示	Arrives in {0} days
+1040000116	地图显示	Conspiracy Triggered
+1040000117	地图显示	Conspiracy Launched
+1040000118	地图显示	Cancel the current project?
+1040000119	地图显示	About {0} days
+1040000200	地图互动文字	Traveling to {0}
+1040000201	地图互动文字	{1} days to reach {0}
+1040000202	地图互动文字	Already at {0}
+1040000203	地图互动文字	A bandit stronghold has arisen: {0}
+1040000204	地图互动文字	Purpose Unknown
+1040000500	地图UI	Confirm
+1040000501	地图UI	Cancel
+1040000502	地图UI	Collect Resources
+1040000504	地图UI	Time is passing
+1040000505	地图UI	Time paused
+1040000506	地图UI	Gatherable Materials
+1040000600	暂用	Bandits
+1040000601	暂用	Wandering Merchant
+1040000701	据点休息BUFF	Choose members to rest at {0}
+1040001000	据点	Inquire
+1040001001	据点	Trade
+1040001002	据点	Storehouse
+1040001003	据点	Rest
+1040001004	据点	En Route
+1040001005	据点	Chat
+1040001006	据点	Choose a stronghold
+1040001007	据点	{0} is not available in the trial version
+1040002000	大地图队伍状态	{0} Idle
+1040002001	大地图队伍状态	{0} Waiting
+1040002002	大地图队伍状态	{0} Recuperating
+1040002003	大地图队伍状态	To {0}
+1040002004	大地图队伍状态	{0} Assisting
+1040002005	大地图队伍状态	Idle somewhere
+1040002006	大地图队伍状态	Posting: {0}
+1040002007	大地图队伍状态	Hastening to {0}
+1040003000	热键	Main Menu
+1040003001	热键	Move View
+1040003002	热键	Switch Character
+#大地图时间		
+UITime_Stop	地图时间静止	World map time stopped
+UITime_Start	地图时间恢复	World map time resumed
+#大地图通知		
+1050000001		{0} has arrived at {1}
+1050000002		{0} and {1} have arrived at {2}
+1050000003		{0}, {1} and {2} others have arrived at {3}
+1050000004		Understood
+1050000005		Go and See
+1050000006		- Choose a Destination -
+1050000007		- To {0} -
+1050000008		- Return to {0} -
+1050000009		{0} has recovered
+1050000010		{0} and {1} have recovered
+1050000011		{0}, {1} and {2} others have recovered
+1050000012		{0} plundered {1}; Turmoil rises
+# 传闻相关		
+1110000000	按钮字	Current Rumors
+1110000001	按钮字	Concluded Rumors
+1110000002	按钮字	All
+1110000003	按钮字	Important Notice
+1110000004	按钮字	Major Rumors
+1110000005	按钮字	Minor Rumors
+1110000006	按钮字	Sect Raid
+1110000007	UI词汇	to
+1110000008	UI词汇	until
+1110000009	UI词汇	Success
+1110000010	UI词汇	Failure
+1110000011	UI词汇	Inspect
+1110000100	UI词汇	{0}'s regard for Renyi Manor rose by {1}
+1110000101	UI词汇	{0}'s regard for Renyi Manor fell by {1}
+1110000102	UI词汇	A remarkable stranger has appeared
+1110000103	UI词汇	"{0}" construction complete
+1110000104	UI词汇	Facility Upgraded
+1110000105	UI词汇	Character Joined
+1110000106	UI词汇	Character Left
+1110000107	UI词汇	Bandit Stronghold Arises
+1110000108	UI词汇	Bandits Seize a Stronghold
+1110000109	UI词汇	Sect Regard Tier Rises
+1110000110	UI词汇	Relationship with {0}: "{1}"
+1110000111	UI词汇	{0} has been built.
+1110000112	UI词汇	{0} has been upgraded.
+1110000113	UI词汇	{0} joined the party.
+1110000114	UI词汇	{0} left the party.
+1110000115	UI词汇	{0} has proclaimed himself king at {1}!
+1110000116	UI词汇	{0} has been seized by {1}.
+1110000117	UI词汇	{0} has appeared at {1}.
+1110000118	UI词汇	Hero Level Up
+1110000119	UI词汇	{0} has reached level {1}.
+1110000120	UI词汇	New techniques can be learned.
+1110000121	UI词汇	{0} can gain new insights.
+1110000122	UI词汇	{0} reached level {1}.
+1110000123	UI词汇	Quest Reward
+1110000124	UI词汇	Quest Item Obtained
+1110000125	UI词汇	Relationship with {0}: "{1}"
+1110000126	UI词汇	Relationship Improved
+1110000127	UI词汇	Relationship Worsened
+1110000128	UI词汇	This unit has vanished
+1110000129	UI词汇	Facility Damaged
+1110000130	UI词汇	{0} is damaged and must be repaired.
+1110000131	UI词汇	While a facility is damaged, its related strategy cards cannot be used.
+1110000132	UI词汇	Completed the encounter "{0}"
+1110000133	UI词汇	Obtained Martial Essence: "{0}"
+1110000134	UI词汇	Martial Essence: "{0}"
+1110000135	UI词汇	Type:
+1110000136	UI词汇	Effect:
+1110000137	UI词汇	Rumors
+1110000138	UI词汇	Rumor Log
+1110000139	UI词汇	Specialty:
+1110000140	UI词汇	Scale:
+1110000141	UI词汇	{0}'s current regard for Renyi Manor: {1}
+1110000142	UI词汇	Resources Provided:
+1110000143	UI词汇	Obtained {0} manual: "{1}"
+1110000144	UI词汇	"{0}" has appeared in the Central Plains
+1110000145	UI词汇	Leader:
+1110000146	UI词汇	Turmoil Caused:
+1110000147	UI词汇	A "Wandering Merchant" has appeared in the Central Plains
+1110000148	UI词汇	"Wandering Merchant"
+1110000149	UI词汇	Location: "{0}"
+1110000150	UI词汇	"{0}" joined the party
+1110000151	UI词汇	"{0}" left the party
+1110000152	UI词汇	Level:
+1110000153	UI词汇	"{0}" leveled up
+1110000154	UI词汇	"{0}" grew in scale
+1110000155	UI词汇	
+1110000156	UI词汇	{0} appeared
+1110000157	UI词汇	Lost {0}
+1110000158	UI词汇	Lost {0} {1}
+# 仁义庄相关		
+1170000100	UI词汇	Choose Building
+1170000101	UI词汇	Overview
+1170000102	UI词汇	Building Summary
+1170000103	UI词汇	Build
+1170000104	UI词汇	Off
+1170000105	UI词汇	Empty Plot
+1170000106	UI词汇	Construction Cost
+1170000107	UI词汇	Construction Days
+1170000108	UI词汇	Number Built
+1170000109	UI词汇	Rebuild
+1170000110	UI词汇	Effect
+1170000111	UI词汇	Requirements
+1170000112	UI词汇	Use
+1170000113	UI词汇	Discard
+1170000114	UI词汇	{0} Damaged
+1170000115	UI词汇	Repair Building
+1170000116	UI词汇	Feng Shui of This Site
+1170000117	UI词汇	Built
+1170000118	UI词汇	Demolish
+1170000119	UI词汇	All
+1170000120	UI词汇	Back
+1170000121	UI词汇	Strategy Types: {0}
+1170000122	UI词汇	Usable: Pre-battle Preparation
+1170000123	UI词汇	Usable: Anytime
+1170000124	UI词汇	This strategy can be used again in {0} days
+1170000125	UI词汇	Not enough resources
+1170000126	UI词汇	Not enough items
+1170000150	UI词汇	Build {0}?
+1170000151	UI词汇	Not enough money to build {0}
+1170000152	UI词汇	Halt construction? Note: funds will not be refunded.
+1170000153	UI词汇	Enhance this effect?
+1170000154	UI词汇	Discard this {0}?
+1170000155	UI词汇	The {0} of Renyi Manor has proposed a new strategy.
+1170000156	UI词汇	Renyi Manor: {0} construction complete.
+1170000157	UI词汇	Repairing will cost {0} coins and {1} days. Repair this building?
+1170000158	UI词汇	Not enough money to repair
+1170000159	UI词汇	Renyi Manor's {0} has been repaired
+1170000160	UI词汇	Demolish this {0} immediately? Note: construction funds will not be refunded
+1170000161	UI词汇	Renyi Manor's strategy {0} is now available
+1170000162	UI词汇	Enhancement unlocked new strategy {0}
+1170000163	UI词汇	{0} days left
+1170000164	UI词汇	Obtained {0}
+1170000165	UI词汇	Gained effect {0}
+1170000166	UI词汇	Renyi Manor's Prestige rose by {0}
+1170000167	UI词汇	Renyi Manor's Prestige fell by {0}
+1170000168	UI词汇	Obtained the strategy {1} from Renyi Manor's {0}
+1170000169	UI词汇	Under Construction
+1170000170	UI词汇	Strategy
+1170000171	UI词汇	Strategy {0} is available
+1170000172	UI词汇	Obtained:
+1170000174	UI词汇	Exchange rate {0}; monthly limit {1}
+1170000175	UI词汇	{0} left this month
+1170000176	UI词汇	Cost
+1170000177	UI词汇	Spend {0} to exchange for {1}?
+1170000178	UI词汇	Exchange rate {0}
+1170000179	UI词汇	Assign
+1170000180	UI词汇	Dispatch
+1170000181	UI词汇	Choose {0} heroes to return to the world map
+1170000182	UI词汇	World Map Heroes
+1170000183	UI词汇	Have {0} leave the party and return to Renyi Manor
+1170000184	UI词汇	{0} days until returning to Renyi Manor
+1170000185	UI词汇	Current Building
+1170000186	UI词汇	Chen Yu cannot return to Renyi Manor
+1170000187	UI词汇	Select the retainers to send to {0}
+1170000188	UI词汇	Choose the retainers to dispatch
+1170000189	UI词汇	Unlock Conditions
+1170000190	UI词汇	Prestige: {0}
+1170000191	UI词汇	Choose a hero
+1170000192	UI词汇	Choose the hero to fuse an Essence into
+1170000193	UI词汇	Buildings
+1170000194	UI词汇	Retainer Capacity
+1170000195	UI词汇	{0}
+1170000196	UI词汇	Retainer Traits
+1170000197	UI词汇	Name
+1170000198	UI词汇	Novice
+1170000199	UI词汇	Intermediate
+1170000200	UI词汇	Advanced
+1170000201	UI词汇	Raise to
+1170000202	UI词汇	Spend {0} to upgrade to {1}?
+1170000203	UI词汇	Not enough money
+1170000204	UI词汇	Prestige Required
+1170000205	UI词汇	Current Building
+1170000206	UI词汇	Stationed Retainers
+1170000207	UI词汇	Resource Rewards
+1170000208	UI词汇	Station
+1170000209	UI词汇	First choose a building to station in
+1170000210	UI词汇	Spend {0} to produce {1}?
+1170000211	UI词汇	Choose a {0} blueprint
+1170000212	UI词汇	Special Effects
+1170000213	UI词汇	Tier
+1170000214	UI词汇	Choose {0} heroes to go to {1}
+1170000250	地区影响	Building strategy material cost reduced by {0}%
+1170000251	地区影响	Building strategy cooldown reduced by {0}%
+1170000252	地区影响	Prestige needed for building enhancement reduced by {0}%
+1170000253	地区影响	Money needed for building enhancement reduced by {0}%
+1170000254	地区影响	Time to build or repair buildings reduced by {0}%
+1170000255	地区影响	Money to build or repair buildings reduced by {0}%
+1170000500	练武堂	Refine Attack
+1170000501	练武堂	Refine Protection
+1170000502	练武堂	Refine Movement
+1170000503	练武堂	Refine Evasion
+1170000504	练武堂	Refine Parry
+1170000505	练武堂	Refine Critical
+1170000506	练武堂	Refine Accuracy
+1170000507	练武堂	Refine Speed
+1170000508	练武堂	No Policy
+1170000509	练武堂	Cost
+1170000510	练武堂	Learn
+1170000511	练武堂	Learning Limit
+1170000512	练武堂	{0} days
+1170000513	练武堂	{0} days left
+1170000514	练武堂	{0} improved {1} by {2} at the Martial Hall
+1170000515	练武堂	Deepen Cultivation
+1170000516	练武堂	Choose {0} hero
+1170000517	练武堂	Martial Knowledge Cost:
+1170000518	练武堂	Not enough Martial Knowledge to learn this
+1170000519	练武堂	Choose a martial art to train
+1170000520	练武堂	Choose a hero
+1170000521	练武堂武学精要	Unassign
+1170000522	练武堂武学精要	Choose a Martial Essence to enhance the technique
+1170000523	练武堂武学精要	This Essence is already equipped
+1170000524	练武堂	Refine
+1170000525	练武堂	Fuse
+1170000600	锻造坊	Forge
+1170000601	锻造坊	Temper
+1170000602	锻造坊	Reforge
+1170000603	锻造坊	Weapon Forging
+1170000604	锻造坊	Armor Forging
+1170000605	锻造坊	Weapons
+1170000606	锻造坊	Armor
+1170000607	锻造坊	Accessory
+1170000700	交易所	Resource Exchange
+1170000701	交易所	No resource selected; cannot trade
+1170000702	交易所	Resources Still Needed:
+1170000703	交易所	Spend:
+1170000704	交易所	Exchange
+1170000705	交易所	Not enough resources to trade
+1170000706	交易所	No Limit
+1170000707	交易所	Choose the resource to give
+1170000708	交易所	Choose the resource to receive
+1170000800	炼丹坊	Alchemy
+1170000801	炼丹坊	Prepare Medicine
+1170000802	炼丹坊	Distill Poison
+1170000900	机关	Mechanisms
+1170000901	机关	Mechanisms
+1170000902	机关	Mechanisms
+1170000903	机关	Technical Essentials
+1170000950	炼毒坊	Poison Craft
+1170001000	程度值	Current {0} Level: {1}
+1170001001	程度值	Alchemy
+1170001002	程度值	Commerce
+1170001003	程度值	Artisan
+1170001004	程度值	Forge
+1170001005	程度值	Martial Arts
+1170001006	程度值	Trade
+1170001007	程度值	Current {0} Level
+1170001008	程度值	Selected Level:
+1170001009	程度值	Level Required to Dispatch:
+1170001010	程度值	{0} Level: {1}
+1170002000	派遣	Dispatch mission {0} complete
+1170002001	派遣	Dispatch
+1170002002	派遣	Assign Retainers
+1170002003	派遣	Region:
+1170002004	派遣	Retainers:
+1170002005	派遣	Requirement: total {0} of {1}
+1170002006	派遣	Rewards:
+1170002007	派遣	Time Required: {0} days
+1170002008	派遣	Requirements:
+1170002009	派遣	Retainers Available:
+1170002010	派遣	Requirements not met
+1170002011	派遣	Days Remaining: {0}
+1170002012	派遣	Max Members:
+1170002013	派遣	Ability Requirements
+1170002014	派遣	Current Attributes
+1170002015	派遣	Retainers
+1170002016	派遣	Recall
+1170002017	派遣	On Dispatch
+1170002018	派遣	Remarkable Talents
+1170002019	派遣	Rare Treasures of the Martial World
+1170002020	派遣	Gather Resources
+1170002021	派遣	Scholarly Expertise
+1170002022	派遣	Claim Rewards
+1170003000	仁义庄	Renyi Manor is locked
+1170003001	仁义庄	The Main Hall is not yet open
+1170003002	仁义庄	Empty plots are not yet available
+1170003003	仁义庄	Retainers are not yet available
+1170003004	仁义庄	Enhancement is not yet available
+1170003005	仁义庄	Dispatch is not yet available
+1170003006	仁义庄	The market is not yet open
+1170003007	仁义庄	The Alchemy Room is not yet open
+1170003008	仁义庄	The Forge is not yet open
+1170003009	仁义庄	The Beast Pens are not yet open
+1170003010	仁义庄	The Mechanism Workshop is not yet open
+1170003011	仁义庄	The Martial Hall is not yet open
+1170003012	仁义庄	Building functions are not yet available
+1170003013	仁义庄功能	Renyi Manor Functions
+1170004011	商肆	Trade
+1170004012	商肆	Traveling Trade
+1170004001	炼丹房	Medicine
+1170004002	锻造坊	Forge
+1170004003	饲物场	Poison Arts
+1170004004	机关室	Mechanisms
+1170004005	练武堂	Martial Arts
+1170005000	生产	Preparation
+1170005001	生产	Refining
+1170005002	生产	Crafting
+1170005003	生产	Continue
+1170005004	生产	Forging Blueprints
+1170005005	生产	Prescriptions
+1170005006	生产	Poison Recipes
+1170005007	生产	Mechanism Designs
+1170005008	生产	Distribute Items
+# 文字化数位		
+1230000001	中字1	One
+1230000002	中字2	Two
+1230000003	中字3	Three
+1230000004	中字4	Four
+1230000005	中字5	Five
+1230000006	中字6	Six
+1230000007	中字7	Seven
+1230000008	中字8	Eight
+1230000009	中字9	Nine
+1230000010	中字10	Ten
+1230000011	中字11	Eleven
+1230000012	中字12	Twelve
+1230000013	月份1	Yuan
+1230000014	月份初	Early
+# 任务相关		
+1240000000	任务类别	Main Quests
+1240000001	任务类别	Side Quests
+1240000002	任务UI	Quest Description
+1240000003	任务UI	Quest Steps
+1240000004	推理UI	Book of Deliberation
+1240000005	任务UI	Quests
+1240000006	任务UI	Accepted quest "{0}"
+1240000007	任务UI	Completed quest "{0}"
+1240000008	任务UI	Completed "{0}"
+1240000009	任务UI	Required Heroes:
+1240000010	任务UI	Accept
+1240000011	任务UI	Completed Quests
+1240000012	任务UI	Recommended Members: {0}
+1240000013	任务UI	None
+1240000014	任务UI	Time Limit: {0}
+1240000015	任务UI	Quest Acceptance Conditions
+1240000016	任务UI	Main: {0}
+1240000017	任务UI	Side: {0}
+1240000018	任务UI	Execute
+1240000019	任务UI	Available Quests
+1240000020	任务UI	Execution Conditions:
+1240000021	任务UI	Turn-in Conditions:
+1240000022	任务UI	Accept By:
+1240000023	任务UI	Complete By:
+1240000024	任务UI	Carry Out Quest
+1240000025	任务UI	Recommended Level:
+1240000026	任务UI	Accept Quest
+1240000027	任务UI	Failed Quests
+1240000028	任务UI	Quest "{0}" failed
+1240000029	任务UI	Quest Reward
+1240000030	任务UI	Unknown Quest
+1240000031	任务UI	Quest Overview
+1240000032	任务UI	In Progress
+1240000033	任务UI	Completed
+1240000034	任务UI	Chapter {0}
+1240000035	任务UI	Main
+1240000036	任务UI	Side
+1240000037	任务UI	Recurring
+1240000038	任务UI	Unknown
+1240000039	任务UI	Garrison
+1240000040	任务UI	Battle
+1240000041	任务UI	- Conditions -
+1240000042	任务UI	- Rewards -
+1240000043	任务UI	Garrison Time:
+1240000044	任务UI	Garrison Members:
+1240000045	任务UI	Expertise Points:
+1240000046	任务UI	Abort Quest
+1240000047	任务UI	{0} and {1} others have set out on the quest
+1240000048	任务UI	{0} has set out on the quest
+1240000049	任务UI	{0} and {1} others have completed the quest
+1240000050	任务UI	{0} has completed the quest
+1240000051	任务UI	Resources
+1240000052	任务UI	Rumors Updated
+1240000053	任务UI	Quest "{0}" complete
+1240000054	任务UI(弃)	{0} updated
+1240000055	任务UI	Quest "{0}" failed
+1240000056	任务UI(弃)	World Map Rumors
+1240000057	任务UI	Quest "{0}" begins
+1240000058	任务UI	Quest Updated
+1240000200	任务追踪	Track
+1240000201	任务追踪	Tracked
+1240000202	任务追踪	Untrack
+1240000203	隐藏追踪任务	Hide Tracked Quests
+1240000204	显示追踪任务	Show Tracked Quests
+1240000300	0章节总称	Passion Ever Seeming Passionless
+1240000301	1章节总称	A Ten-Year Mystery at Last Within Reach
+1240000302	2章节总称	The Past Like Smoke, Ever at One's Heels
+1240000303	3章节总称	The Beacon of Wild Goose Peak Rekindled
+1240000304	4章节总称	True to Righteousness, True to You
+1240000305	5章节总称	How Deep the Groves of Joy
+1240000306	6章节总称	
+1240000400	任务类型	Rumors
+1240000500	推理文字	Book of Deliberation
+1240000501	推理文字	Adjust Deductions
+1240001000	驻紮	Garrison Time
+1240001001	驻紮	Garrisoned Heroes
+1240001002	驻紮	Abort {0}?
+1240001003	任务人	people
+1240001004	任务人	Day
+AdviceLevelText	任务文字	Recommended Level
+Quest_Chapter_0	章节	Prologue
+Quest_Chapter_1	章节	Chapter One
+Quest_Chapter_2	章节	Chapter Two
+Quest_Chapter_3	章节	Chapter Three
+Quest_Chapter_4	章节	Chapter Four
+Quest_Chapter_5	章节	Chapter Five
+Quest_Chapter_6	章节	Chapter Six
+Quest_Chapter_7	章节	Chapter Seven
+Quest_Chapter_8	章节	Chapter Eight
+# 路径事件相关		
+1250000000	帮助奖励	{0}'s Spirit rose by {1}.
+1250000001	帮助奖励	{0}'s Spirit fell by {1}.
+1250000002	气血减少	{0} lost {1} Vitality.
+1250000003	帮助奖励	{0}'s regard for {1} rose by {2}.
+1250000004	帮助奖励	{0}'s regard for {1} fell by {2}.
+1250000005	事件奖励	Obtained {0}.
+1250000006	失去装备	Lost {0}.
+1250000007	失去金钱	Lost {0} coins.
+1250000008	失去行粮	Lost {0} rations.
+1250000009	无改变	Nothing came of it.
+1250000010	失去金钱	Obtained {0} coins.
+1250000011	陷阱图文字	Ambush
+1250000012	陷阱图文字	Beast Attack
+1250000013	陷阱图文字	Clash
+1250000014	陷阱图文字	Trap
+1250000015	陷阱图文字	Exposed
+1250000016	陷阱图文字	Rockfall
+1250000017	陷阱图文字	Misstep
+1250000018	陷阱图文字	Enemy Encounter
+1250000019	陷阱图副文字	Ambush
+1250000020	陷阱图副文字	BeastAttack
+1250000021	陷阱图副文字	Conflict
+1250000022	陷阱图副文字	Confrontation
+1250000023	陷阱图副文字	Expose
+1250000024	陷阱图副文字	Rockfall
+1250000025	陷阱图副文字	Slip
+1250000026	陷阱图副文字	Trap
+# 战前配置		
+1260000001	战前配置UI	A required character is not deployed.
+1260000002	战前配置UI	None of our characters are deployed.
+BattleSetting_People	战前准备配置	Deployable Units:
+BattleSetting_Auto	战前准备自动配置	Auto Deploy
+BattleSetting_RemoveAll	战前准备移除全部	Remove All
+BattleSetting_Finish	战前准备配置完成	Deployment Done
+BattleSetting_FinishCheck	战前准备确认	You can still deploy more units. Begin battle anyway?
+BattleSetting_Confirm	战前准备确认	Confirm
+BattleSetting_Refuse	战前准备拒绝	Refuse
+BattleSetting_MustAppear	战前准备必战	Mandatory
+BattleSetting_Appear	战前准备出战	De\nploy
+# 战斗结算		
+1270000000	战斗结算UI	Battle Results
+# 界面操作说明		
+1280000000	界面操作说明	Leave Screen
+1280000001	界面操作说明	Drag List
+# 奖励类别		
+RewardMoneyTip1	奖励	Money Gained
+RewardMoneyTip2	奖励	Money Lost
+RewardMoney	奖励	Money Gained: {1}
+RewardProps	奖励	Items Obtained: {0}x{1}
+RewardEquips	奖励	Equipment Obtained: {0}{1}x{2}
+BenevolencePrestige	奖励	Prestige Gained: {0}{1}
+SetPlayerEXP	奖励	EXP Gained: {0}{1}
+SectFriendlinessAction	奖励	{0}'s regard rose: {1}{2}
+SetResourceAction	奖励	Obtained {0}: {1}{2}
+BenevolenceReleaseCard	奖励	Recipe Obtained: {0}
+RepetitionSectFriendliness	奖励	Sect Regard Rose
+RepetitionSectLevel	奖励	
+SectLevelAction	奖励	{0}
+RewardPack	奖励	{0}
+RewardSkillBook	奖励获得	Martial Essence: {0}
+RewardTrickCard1	奖励获得	Alchemy Recipe: {0}
+RewardTrickCard2	奖励获得	Forging Blueprint: {0}
+RewardTrickCard3	奖励获得	Beast Feed Recipe: {0}
+RewardTrickCard4	奖励获得	Mechanism Blueprint: {0}
+Blueprint	蓝图	Illustrated Manuals
+RewardWarning	物品丢弃提示	Undistributed items will be discarded. Continue?
+RewardOtherResourceAction	奖励	Items Obtained: {0}{1}
+RewardSectFriend	奖励门派好感	{0} Regard
+RewardNpcFriend	奖励Npc好感	{0} Regard
+RewardNpcProperty	奖励Npc属性	{0}'s {1} increased
+# 任务条件类别		
+QuestResourceTrigger	条件	Own {0} ({1})
+QuestResourceGettingTrigger	条件	Obtain {0} ({1})
+QuestSectFirendlinessCondition	条件	{0} regard reaches ({1})
+QuestSectFirendlinessLevelCondition	条件	{0} regard tier reaches ({1})
+QuestSectFirendlinessLevelsCondition	条件	Number of the {0} sects whose regard tier reaches {1}: ({2})
+QuestBaggageCondition	条件	Own {0} ({1})
+QuestTimeFinishCondition	条件	Complete {0}
+QuestFalgCondition	条件	Targets found: {0}/{1}
+# 测试用		
+gameevent_test001	测试	Something happened 1
+gameevent_test002	测试	Something happened 2
+gameevent_test003	测试	It is over!
+# 行囊 分配 商店界面 相关		
+bagTitle	主选单	Main Menu
+warehouse001	仓库名称	Party Pack
+warehouse002	仓库分类	Equip
+warehouse003	仓库分类	Illustrated Manuals
+warehouse004	仓库分类	Items
+warehouse005	仓库分类	Special
+warehouse006	仓库分类	Materials
+warehouse007	仓库分类	Gifts
+warehouse008	仓库分类	All
+warehouse009	商店分类	Accessory
+warehouse010	商店分类	Special
+warehouse011	显示属性	Show Attributes
+warehouse012	显示全部	Show All
+warehouse013	清空道具	Clear Items
+warehouse014	取消显示全部	Hide All
+baggage001	行囊名称	Party Pack
+baggageTip001	行囊提示	Choose a target
+warning001	警告1	This item cannot be exchanged.
+warning002	警告2	Not enough space to stack items.
+warning003	警告3	Not enough space to exchange items.
+warning004	警告4	This person cannot use the storehouse right now.
+warning005	警告5	No room in your pack to buy.
+warning006	警告6	Exceeds the amount you can buy.
+warning007	警告7	Not enough money on hand.
+warning008	警告8	Have {0} equip this now?
+warning009	警告9	Cannot equip this item.
+warning014	使用物品确认	Have {0} use "{1}"?
+warning016	使用秘笈警告	Have {0} learn "{1}"?
+warning017	不符秘笈使用限制警告	{0} cannot learn "{1}".
+warning020	使用蓝图确认	Learn {0}?
+notice001	通知1	Gained {0} coins.
+notice002	通知2	Lost {0} coins.
+notice003	通知3	{0} gained {1} EXP.
+notice004	通知4	{0} lost {1} EXP.
+notice005	通知5	Equipment obtained: {0}x{1}
+business01	提示1	Select Quantity
+business02	提示2	Discard Quantity
+business03	提示3	Buy
+business04	提示4	Sell
+business05	提示5	Buy Price
+business06	提示6	Sell Price
+business07	提示7	In stock in {0} days
+business08	买价	Buy {0}
+business09	卖价	Sell {0}
+business10	补货时间	Next Restock:
+business11	补货时间	Day
+business12	购买商品	Buy Goods
+business13	贩卖物品	Sell Items
+business14	确定交易	Confirm Trade
+business15	离开	Leave
+business16	重置物品	Reset Trade
+business17	商品标记	Buy
+business18	商品标记	Cannot Be Sold
+reward001	界面名字	Settlement Rewards
+reward002	界面	Items Obtained This Time
+reward003	界面	(Automatically stored in the storehouse)
+reward004	界面	Items to Distribute
+reward005	界面	(Undistributed items will be discarded automatically)
+reward006	界面	Finish Distribution
+reward007	获得	Obtained
+reward008	获得	Obtained
+reward009	获得庄客	Retainer Recruited
+reward010	英雄加入	Hero Joins
+tip001	tip1	Equipped by {0}
+tip002	tip2	{0}<size=15>({1} cannot equip)</size>
+tip003	tip3	{0} cannot use this
+tip004	tip4	{0} cannot equip this
+rewardParty	所有人	Everyone
+# 交换所界面 相关		
+exchangeTitle	交换所	Exchange House
+exchangeIn	投入素材	Materials In
+exchangeOut	交换对象	Exchange For
+confirmExchange	确定交换	Confirm Exchange
+exchangeValue	交换比例	Swap 1
+exchangeCount	交换数量	Exchange Quantity
+exchangeNeedCount	所需数量	Quantity Required
+# 对话界面 相关		
+dialog001	提示1	Friendly
+dialog002	提示2	Reminder
+dialog003	提示3	Please enter the speaker ID.
+option001	选项	Skip Dialogue
+option002	选项	Auto Dialogue
+option003	选项	Dialogue Log
+# 对话履历 相关		
+dialogResumeOption	选项	<color=#F17B11>Chose "{0}"</color>
+dialogResumeNarrator	旁白	<color=#FDF100>Narrator</color>:\n {0}
+dialogWrongTalker	错误的发话者	Invalid speaker
+#据点门派部分 相关		
+level01	规模	Small
+level02	规模	Medium
+level03	规模	Large
+level04	规模	Huge
+specialization001	特质1	Forge
+specialization002	特质2	Martial Arts
+specialization003	特质3	Medicine
+specialization004	特质4	Medicine
+specialization005	特质5	Venom Arts
+specialization006	特质5	Escort Agency
+resource001	资源1	Ore
+resource002	资源2	Martial Knowledge
+resource003	资源3	Medicinal Herbs
+resource004	资源4	Mechanism Parts
+resource005	资源5	Rare Insects
+resource006	资源6	Money
+resource007	资源7	Prestige
+resource008	资源8	Intelligence
+resource009	资源9	Poisons
+friend001	友好度1	Hostile
+friend002	友好度2	Common
+friend003	友好度3	Friendly
+friend004	友好度4	Close
+friend005	友好度5	Bosom Friends
+#门派		
+sect001	TIP1	{0} Scale: {1}
+sect002	TIP2	Sect Specialty: {0}
+sect003	TIP3	Resources currently provided: {0}{1}{2}{3}</color>/day
+sect004	TIP4	{0}'s current regard for Renyi Manor: {1}
+sect005	TIP5	Current relationship with {0}: {1}{2}</color>
+sect006	TIP6	The next relationship tier is {0}{1}</color>; requirements:
+sect007	TIP7	Regard {0}{1}</color>/{2}
+sect008	TIP7	Prestige {0}{1}</color>/{2}
+sect009	门派叙述UI	Gang
+sect010	门派叙述UI	Renowned House
+sect011	门派叙述UI	Grand Authority
+sect012	门派叙述UI	Prestige threshold for "{0}": {1}
+sect013	门派叙述UI	Resources provided slightly increased
+sect014	门派叙述UI	Resources provided greatly increased
+sect015	门派叙述UI	Sect Scale:
+sect016	门派叙述UI	Gift Resources
+sect017	门派叙述UI	Overview
+sect018	门派叙述UI	Relations
+sect019	门派叙述UI	Sect Description & Rewards
+sect020	门派叙述UI	Sect Specialty:
+sect021	门派叙述UI	At "{0}" or higher, provides resources: {1}.
+sect022	门派叙述UI	Sect Relations
+sect023	门派叙述UI	Provides no resources
+sect024	门派叙述UI	Provides a few resources
+sect025	门派叙述UI	Provides moderate resources
+sect026	门派叙述UI	Provides abundant resources
+sect027	门派叙述UI	Gift from {0}
+sect028	门派叙述UI	(Received upon returning to Renyi Manor)
+sect029	门派叙述UI	Gift:
+sect030	门派叙述UI	Scale
+sect031	门派叙述UI	Relationship reaches "{0}"
+sect032	门派叙述UI	Sect Quest:
+sect033	门派叙述UI	Conditions:
+sect034	门派叙述UI	Gifts
+#奇遇		
+pathEvent_heros	英雄	Heroes
+#密谋相关		
+turmoilCountdown	星盘UI	Conspiracy Countdown
+gameoverCountdown	星盘UI	Game Over Countdown
+cost001	花费情报币询问	Spend {0} intelligence tokens to complete?
+cost002	不足提示	Not enough intelligence tokens
+cost003	花费显示	Requires {0} intelligence tokens to complete
+conspiracyDescription	密谋UI	Turmoil in the jianghu\nhas already caused some ill events
+dramaClearMsg	密谋UI	Resolved the turmoil event "{0}"
+turmoilNotify0		Turmoil {0}
+turmoilNotify1		{0}→{1}
+turmoilNotify2		{0} has been seized
+turmoilNotify3		A conspiracy event has been triggered
+gangInvasionMsg1		A mysterious organization has begun secretly raiding {0}
+gangInvasionMsg2		Subjugate them swiftly
+ConditionSuccess	密谋UI	Time's up\nMain quest accomplished
+ConditionFail	密谋UI	Time's up\nMain quest not accomplished
+#存读档		
+1290000000	UI	Play Time: {0}h {1}m {2}s
+1290000001	UI	Choose Record
+1290000002	UI	New Record
+1290000003	UI	Manual
+1290000004	UI	Auto
+1290000005	UI	Quick
+1290000006	UI	Year {0}, Month {1}, {2}
+1290000007	UI	Back
+1290000008	UI	Save File
+1290000009	UI	Load File
+1290000010	UI	Delete File
+1290000011	UI	Moving
+#推理UI		
+1300000000	推理UI	Off
+# 队伍		
+1310000000	队伍选择	No character selected
+1310000001	队伍选择	{0} days required in total
+1310000002	队伍选择	Deselect All
+1310000003	出发	Depart
+1310000004	分队锁定	Squad Locked
+#标题画面		
+Main_Continue	标题画面	Continue
+Main_ContinueCheck	继续确认	Continue the game?
+Main_NewGame	标题画面	New Game
+Main_LoadGame	标题画面	Load Game
+Main_Setting	标题画面	Settings
+Main_QuitGame	标题画面	Quit Game
+Main_Album	标题画面	Memories
+Main_Illustration	标题画面	Compendium
+Main_TC	语言	Traditional Chinese
+Main_SC	语言	Simplified Chinese
+VersionNumber	版号	24-01-12 V1.1
+#游戏选单		
+GameMenu_SaveGame	游戏选单	Save Game
+GameMenu_ReturnMain	游戏选单	Return to Title
+GameMenu_RestartBattle	游戏选单	Retry
+GameMenu_RestartCheck	游戏选单	Restart this battle?
+GameMenu_QuitCheck	游戏选单	Quit the game?
+GameMenu_CantSave	游戏选单	Unavailable here; return to the world map first
+GameMenu_GameDifficulty	游戏选单	Adjust Difficulty
+GameMenu_Difficulty	游戏选单	Changing the difficulty affects achievements. Change it anyway?
+GameMenu_ReturnCheck	游戏选单	Return to the title screen?
+#系统设置		
+SystemSetting_Quality	画面品质	Picture Quality
+QualityLevel.VeryLow	低	Low
+QualityLevel.Low	低(弃用)	Low
+QualityLevel.Medium	中	Medium
+QualityLevel.High	高(弃用)	High
+QualityLevel.VeryHigh	非常高(弃用)	Very High
+QualityLevel.Ultra	高	High
+QualityLevel.Custom	自订	Custom
+AntiAliasing.Off	关	Off
+AntiAliasing.On	开	BE
+PostProcessing.Low	低	Low
+PostProcessing.Medium	中	Medium
+PostProcessing.High	高	High
+SystemSetting_Window	视窗	Windowed
+Fullscreen.ExclusiveFullScreen	全屏幕	Fullscreen
+Fullscreen.FullScreenWindow	全屏幕视窗	Fullscreen Window
+Fullscreen.MaximizedWindow	满版视窗	Borderless Fullscreen
+Fullscreen.Windowed	视窗化	Windowed
+SystemSetting_Resolution	分辨率	Resolution
+SystemSetting_VSync	垂直同步	V-Sync
+SystemSetting_BGMVolume	音乐	Music
+SystemSetting_EffectVolume	音效	Sound Effects
+SystemSetting_AmbientVolume	环境音效	Ambience
+SystemSetting_VocalVolume	语音	Voice
+SystemSetting_CursorLock	锁定鼠标	Lock Cursor
+SystemSetting_DynamicCloth	动态布料	Dynamic Cloth
+SystemSetting_BattlePerform	战斗演出	Battle Animations
+SystemSetting_BattleSpeed1	战斗演出原始	1× Speed
+SystemSetting_BattleSpeed2	战斗演出2倍速	2× Speed
+SystemSetting_BattleSpeed3	战斗演出3倍速	3× Speed
+SystemSetting_BattleSpeed4	战斗演出跳过(弃用)	Skip
+SystemSetting_PostProcessing	后制处理	Post-processing
+SystemSetting_AntiAliasing	抗锯齿	Anti-aliasing
+#读取界面		
+UILoading_Word1	读取中	LOA
+UILoading_Word2	读取中	DING
+UILoading_Word3	读取中	Medium
+UILoading_NoVoice	后续更新	Coming in a Future Update
+#健康游戏忠告		
+HealthNotice	健康游戏忠告	Healthy Gaming Advisory<br><br>Resist harmful games; refuse pirated games.<br>Protect yourself and beware of scams.<br>Moderate play sharpens the mind; addiction harms the body.<br>Manage your time and enjoy a healthy life.<br>
+#健康游戏讯息		
+HealthMessage	健康游戏讯息	This game is suitable for users aged 16 and above. For your health, please keep your play time reasonable.<br>Resist harmful games; refuse pirated games. Protect yourself and beware of scams. Moderate play sharpens the mind; addiction harms the body. Manage your time and enjoy a healthy life.<br>Per the National Press and Publication Administration's notice on preventing minors' addiction to online games, all online game users must register with valid identity information, and minors are subject to anti-addiction restrictions.
+#适龄提示		
+AgePromptTitle	适龄提示标题	Age Rating Notice
+AgePrompt	适龄提示	1) This is a single-player wuxia role-playing game combining deduction and management. Its story involves deduction, exploration, chance encounters and chivalrous deeds, and it is suitable for users aged 16 and above; minors are advised to play under parental supervision.<br>2) The game is set in a fictional Eastern wuxia world, and its story is entirely fictional and should not be confused with real life. In the martial world, players manage a manor, befriend great heroes, and investigate cases to uncover the truth. Gameplay is mainly mouse-and-keyboard: manor management, squad adventures, clue gathering and deduction. There is no text or voice chat with strangers.<br>3) This game uses the platform's real-name verification system. Users verified as minors are subject to the following:<br>Users under 8 cannot make payments; users aged 8 to 16 may not spend more than 50 RMB per payment or 200 RMB per month; minors aged 16 and above may not spend more than 100 RMB per payment or 400 RMB per month.<br>In accordance with regulations, minors may only play from 20:00 to 21:00 on Fridays, Saturdays, Sundays and public holidays.<br>4) Set in a fictional martial world, the game's characters, story and music draw on Eastern wuxia culture, helping to promote and share it. Its gameplay is highly strategic, with squad exploration and deduction that exercise logical thinking and offer a positive, absorbing experience.<br>
+InvensifyRepeat	淬炼重复提示	Tempering effects cannot stack
+ForgingWarning	锻造材料不足提示	Not enough materials
+#游戏说明界面		
+UIHelp_Title	说明	Notes
+help0000	说明项目	People
+help0001	说明项目	Weapons
+help0002	说明项目	Sects
+help0003	说明项目	Places
+#礼品Tip		
+GiftCategory_Calligraphy	礼品类别	Gift: Painting
+GiftCategory_SheetMusic	礼品类别	Gift: Sheet Music
+GiftCategory_Recipe	礼品类别	Gift: Recipe
+GiftCategory_Storybook	礼品类别	Gift: Storybook
+GiftCategory_Flowers	礼品类别	Gift: Flowers
+GiftCategory_Jade	礼品类别	Gift: Pearls & Jade
+GiftCategory_Blush	礼品类别	Gift: Rouge
+GiftCategory_Toys	礼品类别	Gift: Toy
+GiftCategory_Birds	礼品类别	Gift: Tea
+GiftCategory_Embroidery	礼品类别	Gift: Embroidery
+GiftRarity_Excellent	礼品稀有度	Fine
+GiftRarity_Rare	礼品稀有度	Rare
+GiftRarity_Treasures	礼品稀有度	Treasures
+#礼品默认讯息		
+GiftTalk	送礼默认讯息	Sigh... when will Shen Lang ever give me a present?
+Favorability_0	好感度第一阶	Friends in Righteousness
+Favorability_1	好感度第二阶	Confidants
+Favorability_2	好感度第三阶	Kindred Hearts
+Favorability_3	好感度第四阶	Hearts as One
+#礼品UI讯息		
+FavorabilityValue	送礼数值	Intimacy    {0}
+GiftCheck	送礼确认讯息	Give {0}?
+FavorabilityRank	送礼阶级讯息	{0} and Chen Yu are now {1}\nFriendship quest unlocked
+# 资源结算		
+UIChapterSettlement.Title	资源结算	Resource Settlement
+UIChapterSettlement.ResourceItem	资源结算	{0} +{1}
+SelectAttributes	主界面属性升级	Choose an attribute to upgrade
+number of times	主界面属性升级	Upgrades Remaining
+AttributesUpgrad	主界面属性升级	Attribute Upgrade
+NotEnoughPoints		No upgrade points left
+GameDifficulty_Happy	游戏难度	Joyful Hero
+GameDifficulty_Easy	游戏难度	Fledgling
+GameDifficulty_Normal	游戏难度	Battle-Hardened
+GameDifficulty_Hard	游戏难度	Grandmaster
+GameDifficulty_Title_Happy	游戏难度标题Happy	No Joy Too Small
+GameDifficulty_Title_Easy	游戏难度标题Easy	Free Spirit of the Jianghu
+GameDifficulty_Title_Normal	游戏难度标题Normal	Loyal and Righteous
+GameDifficulty_Title_Hard	游戏难度标题Hard	Fearless Before Mighty Foes
+GameDifficulty_Content_Happy	游戏难度标题Happy	Who says heroes are lonely?<br>Our heroes are joyful ones!
+GameDifficulty_Content_Easy	游戏难度内容Easy	True happiness is found while striving upward.<br>Once you have known that joy,<br>you have not lived in vain.
+GameDifficulty_Content_Normal	游戏难度内容Normal	To earn the title "Great Hero"<br>is no easy thing indeed.<br>One must not only do what others cannot,<br>but endure what others cannot... Yet, all the same,<br>it is worth it,<br>is it not?
+GameDifficulty_Content_Hard	游戏难度内容Hard	Some will even "seek defeat",<br>for they feel that to meet one true rival,<br>even defeat would be a joy.
+# 精要		
+BookCategory_Attack	精要类别	Attack
+BookCategory_Trick	精要类别	Strategy
+BookCategory_Xinfa	精要类别	Inner Arts
+BookCategory_Message_ConditionLimit	讯息	Resources and conditions not met; cannot study.
+BookCategory_Message_Resource	讯息	Not enough resources to study.
+BookCategory_Message_Limit	讯息	Conditions not met; cannot study.
+BookCategory_Message_CheckLearn	讯息	Spend {0} to study the Essence {1}?
+BookCategory_Message_Get	讯息	Obtain Essence
+BookCategory_Message_NoneCheck	讯息	Equip Essence
+BookCategory_Message_Change	讯息	Change Equipped Essence
+BookCategory_Message_TakeDown	讯息	Unequip this Essence?
+BookCategory_Install_Install	UI词	Equip Essence
+BookCategory_Install_EquippingOwn	装备状态	Currently Equipped
+BookCategory_Install_Equipping	商店用	Equipped
+BookCategory_Install_EquippingAnotner	装备状态	Equipped on {0}
+BookCategory_Install_None	装备状态	Not Learned
+BookCategory_Install	装备精要	Essences
+# 感悟		
+Perception_Name	感悟	Insights
+Perception_Neigong	心法	Inner Arts
+Perception_Features_Fight	感悟	Fist Arts 
+Perception_Features_Sword	感悟	Swordplay 
+Perception_Features_Blade	感悟	Saber Arts 
+Perception_Features_Spear	感悟	Spear Arts 
+Perception_Features_Darts	感悟	Throwing 
+Perception_Features_Dagger	感悟	Twin Blades 
+Perception_Features_All	感悟	General 
+Perception_Features_Drug	感悟	Elixirs 
+Perception_Features_Toxic	感悟	Poisons 
+Perception_Features_Mechanical	感悟	Mechanisms 
+Perception_Features_Neigong	感悟	Conviction 
+Perception_Features_None	感悟	None 
+Perception_Features_Attack	感悟	Techniques 
+Perception_Features_Trick	感悟	Stratagems 
+Perception_Features_Strategy	感悟	Strategy 
+Perception_Features_Heal	感悟	Healing 
+Perception_Features_Deathblow	感悟	Ultimate Arts 
+Perception_Features_Poison	感悟	Poisoned 
+Perception_Features_Burn	感悟	Flame 
+Perception_Features_Wound	感悟	Bleeding 
+Perception_Features_Frostbite	感悟	Freeze 
+Perception_Features_Damage	感悟	Damage Technique 
+Perception_Features_Recover	感悟	Recovery Technique 
+Perception_Features_Summon	感悟	Summon Technique 
+Perception_Features_Buff	感悟	Buff Technique 
+Perception_Features_Debuff	感悟	Debuff Technique 
+Perception_Features_Throwing	感悟	Items 
+Perception_Features_Jump	感悟	Leap Technique 
+Perception_Features_Charge	感悟	Charge Technique 
+Perception_Features_Collision	感悟	Ram Technique 
+Perception_Features_Catch	感悟	Shadow Catch Technique 
+Perception_Features_Immediately	感悟	Instant Technique 
+Perception_Features_Recharge	感悟	Charged Technique 
+Perception_Features_RechargeTile	感悟	Charge - Target Square 
+Perception_Features_RechargeTarget	感悟	Charge - Target Unit 
+Perception_Features_RechargeDirection	感悟	Charge - Target Direction 
+Perception_Features_Once	感悟	Single Use 
+Perception_Features_Wave	感悟	Wave 
+Perception_Features_External	感悟	Hard Force 
+Perception_Features_Internal	感悟	Soft Force 
+Perception_Features_Special	感悟	Primordial 
+Perception_Features_Single	感悟	Single 
+Perception_Features_Area	感悟	Range 
+Perception_Features_Push	感悟	Knockback 
+Perception_Features_Pull	感悟	Pull 
+Perception_Features_Displace	感悟	Displacement 
+Perception_Features_Move	感悟	Move 
+Perception_Features_StatusEffect	感悟	Status Effects 
+Perception_Features_BaseDamage	感悟	Base Damage 
+Perception_Features_DamageFormulaId	感悟	Base Damage 
+Perception_Features_PostureDamage	感悟	Stance Damage 
+Perception_Features_Hatred	感悟	Threat 
+Perception_Features_NeedMp	感悟	Inner Energy Cost 
+Perception_Features_CooldownTick	感悟	Cooldown 
+Perception_Features_TickCost	感悟	Time Cost 
+Perception_Features_RechargeTickCost	感悟	Charge Time Required 
+Perception_Features_RepluseTick	感悟	Knockback Delay 
+Perception_Features_MaxRange	感悟	Max Range 
+Perception_Features_MinRange	感悟	Min Range 
+Perception_Features_PushDistance	感悟	Displacement Distance 
+Perception_Features_SplattingRange	感悟	Splash Area 
+Perception_Features_PostureDamageFormula	感悟	Stance Damage 
+Perception_Features_NeedMpFormula	感悟	Inner Energy Cost 
+Perception_Features_CooldownTickFormula	感悟	Cooldown 
+Perception_Features_TickCostFormula	感悟	Time Cost 
+Perception_Features_RechargeTickCostFormula	感悟	Charge Time 
+Perception_Features_RepluseTickFormula	感悟	Knockback Delay 
+Perception_Features_MaxRangeFormula	感悟	Max Range 
+Perception_Features_PushDistanceFormula	感悟	Displacement Distance 
+Perception_Features_ManaDamage	感悟	Inner Energy Damage 
+Perception_Features_ManaDamageFormula	感悟	Inner Energy Damage 
+Perception_UI_GetGrowth	感悟	{0} gained Insight points
+Perception_UI_MatchPoint	感悟	Points Left:
+Perception_UI_NoneMatchPoint	感悟	No points remaining
+Perception_UI_AddText	感悟	Increase:
+Perception_UI_LessText	感悟	Decrease:
+Perception_TreeType_AttackBased	感悟	Hard
+Perception_TreeType_DefenseBased	感悟	Stillness
+Perception_TreeType_HealthAndMpBased	感悟	Soft
+Perception_TreeType_SpeedAndMovementBased	感悟	Motion
+Perception_TreeType_ItemHealingBased	感悟	Finesse
+Perception_TreeType_AttackBased2	感悟	Hard:
+Perception_TreeType_DefenseBased2	感悟	Stillness:
+Perception_TreeType_HealthAndMpBased2	感悟	Soft:
+Perception_TreeType_SpeedAndMovementBased2	感悟	Motion:
+Perception_TreeType_ItemHealingBased2	感悟	Finesse:
+Perception_TreeType_Start	感悟	Initial
+Perception_MatchPoint	感悟	Points Left:
+Perception_Learn	感悟	Learn Insight
+Perception_Forget	感悟	Refund Insight Points
+Perception_Operate	开关感悟	Learn / Refund Insights
+# CharacterProperty	角色属性	
+CharacterProperty_Level	属性	Level
+CharacterProperty_Str	属性	Strength
+CharacterProperty_Con	属性	Constitution
+CharacterProperty_Chi	属性	Inner Force
+CharacterProperty_Agi	属性	Agility
+CharacterProperty_Dex	属性	Dexterity
+CharacterProperty_Int	属性	Willpower
+CharacterProperty_HP	属性	Vitality
+CharacterProperty_Max_HP	属性	Max Vitality
+CharacterProperty_Posture	属性	Stance
+CharacterProperty_MaxPosture	属性	Max Stance
+CharacterProperty_MP	属性	Inner Energy
+CharacterProperty_Max_MP	属性	Max Inner Energy
+CharacterProperty_Atk	属性	Attack
+CharacterProperty_Def	属性	Defense
+CharacterProperty_Power	属性	Power Bonus
+CharacterProperty_Hit	属性	Precision
+CharacterProperty_Dodge	属性	Evade
+CharacterProperty_Parry	属性	Parry
+CharacterProperty_Add_Of_Parry	属性	Parry Reduction
+CharacterProperty_Cri	属性	Critical
+CharacterProperty_Add_Of_Cri	属性	Crit. Dmg Bonus
+CharacterProperty_Counter	属性	Counter
+CharacterProperty_Add_Of_Counter	属性	Counter Dmg Bonus
+CharacterProperty_Counter_Range	属性	Counter Range
+CharacterProperty_Resistance_Special	属性	Primordial Res.
+CharacterProperty_Resistance_External	属性	Hard Force Res.
+CharacterProperty_Resistance_Internal	属性	Soft Force Res.
+CharacterProperty_Add_Of_External	属性	Hard Force Pen.
+CharacterProperty_Add_Of_Internal	属性	Soft Force Pen.
+CharacterProperty_Add_Of_Special	属性	Primordial Pen.
+CharacterProperty_Power_Of_Cure	属性	Healing Bonus
+CharacterProperty_Speed	属性	Speed
+CharacterProperty_Move	属性	Movement
+CharacterProperty_Memory	属性	Technique Slots
+CharacterProperty_Zoc	属性	Zone of Control
+CharacterProperty_Add_Of_NoneElement	属性	Non-elemental Attack Bonus
+CharacterProperty_Accessory_Number	属性	Accessory Slots
+# CharacterProperty_Information	属性解释	
+Information_Hotkey	查看详细资讯	Details
+Information_Level	等级	Affects the character's overall strength
+Information_Str	力量	Greatly raises Power Bonus; slightly raises Vitality, Precision, Parry and Critical
+Information_Con	体魄	Greatly raises Vitality and Counter; slightly raises Inner Energy and Parry
+Information_Chi	内劲	Greatly raises Inner Energy and Speed; slightly raises Vitality, Power Bonus and Critical
+Information_Agi	身法	Greatly raises Evasion; slightly raises Inner Energy and Speed
+Information_Dex	灵巧	Greatly raises Precision and Critical; slightly raises Vitality, Evasion and Counter
+Information_Int	意志	Greatly raises Parry and Counter; slightly raises Vitality, Inner Energy and Precision
+Information_HP	气血	The character's remaining Vitality
+Information_Max_HP	气血上限	A character whose Vitality reaches 0 in battle is knocked down. Vitality can be restored with medicine and techniques
+Information_Posture	架式	The character's remaining Stance
+Information_MaxPosture	架式上限	Techniques that strike a Flaw reduce Stance; at 0 Stance the character becomes Weakened. Max 10
+Information_MP	内力	The character's remaining Inner Energy
+Information_Max_MP	内力上限	Techniques (including counters) consume Inner Energy and cannot be used without enough. Inner Energy can be restored with medicine and techniques
+Information_Atk	攻击	Affects the damage of attack techniques; higher means more damage
+Information_Def	防御	Cancelled
+Information_Power	威力加成	Affects the damage of attack techniques; higher means more damage
+Information_Hit	精准	Higher Precision raises your chance to hit; a miss counts as an evasion and deals no damage
+Information_Dodge	回避	Higher Evasion lowers the enemy's chance to hit you; a miss counts as an evasion and deals no damage
+Information_Parry	招架	Affects the chance to parry when struck; parrying reduces damage taken
+Information_Add_Of_Parry	招架减伤	The higher the value, the more damage a parry absorbs
+Information_Cri	暴击	Affects the chance to land a critical hit; criticals deal extra damage
+Information_Add_Of_Cri	暴击伤害	The higher the value, the more extra damage a critical deals
+Information_Counter	反击	Affects the chance to trigger a counter technique when struck; counters cost Inner Energy per technique but no time
+Information_Add_Of_Counter	反击伤害	The higher the value, the more extra damage a counter deals
+Information_Counter_Range	反击距离	The distance at which you can counter when struck. Attackers beyond this range cannot be countered
+Information_Resistance_Special	混元抵御	Reduces Primordial damage taken from techniques; higher means more reduction
+Information_Resistance_External	刚劲抵御	Reduces Hard Force damage taken from techniques; higher means more reduction
+Information_Resistance_Internal	柔劲抵御	Reduces Soft Force damage taken from techniques; higher means more reduction
+Information_Add_Of_External	刚劲穿透	Increases Hard Force damage dealt by techniques; higher means more increase
+Information_Add_Of_Internal	柔劲穿透	Increases Soft Force damage dealt by techniques; higher means more increase
+Information_Add_Of_Special	混元穿透	Increases Primordial damage dealt by techniques; higher means more increase
+Information_Power_Of_Cure	治疗加成	The higher the value, the more Vitality and Inner Energy recovery techniques restore
+Information_Speed	速度	The higher the value, the less time techniques cost and the sooner you act at the start of battle
+Information_Move	移动力	Determines how many squares the character can move
+Information_Memory	招式栏位	Determines how many techniques can be carried into battle
+Information_Zoc	控制范围	Affects the size of the zone of control; enemy units entering it lose their remaining movement
+Information_Add_Of_NoneElement	无属性攻击加成	Cancelled
+# CharacterProperty_DisplayName		
+DisplayName_Base	属性来源	Base Attributes
+DisplayName_Growth	属性来源	Level Bonus
+DisplayName_Equip	属性来源	Equipment Bonus
+DisplayName_Perception	属性来源	Insight Bonus
+DisplayName_SixPromotion	属性来源	Six Attributes Bonus
+# 新仁义庄		
+ManorCraftingType_All	制造种类	All
+ManorCraftingType_Medical2	制造种类	Medicine
+ManorCraftingType_Medical	制造种类	Alchemy
+ManorCraftingType_Forging	制造种类	Forge
+ManorCraftingType_Poisoning	制造种类	Eloquence
+ManorCraftingType_Organ	制造种类	Artisan
+ManorDetailedCraftingType_Fight	制造种类	Combat
+ManorDetailedCraftingType_Sword	制造种类	Swords
+ManorDetailedCraftingType_Blade	制造种类	Sabers
+ManorDetailedCraftingType_Dagger	制造种类	Short Arms
+ManorDetailedCraftingType_Darts	制造种类	Throwing
+ManorDetailedCraftingType_Armor	制造种类	Armor
+ManorDetailedCraftingType_Elixir	制造种类	Elixirs
+ManorDetailedCraftingType_Poison	制造种类	Poisons
+ManorDetailedCraftingType_Organ	制造种类	Mechanisms
+Manor_Blueprint	蓝图	Illustrated Manuals
+Manor_Blueprint_AutoRequirements	蓝图	Unlock Conditions:
+Manor_Blueprint_BlueprintName	蓝图	Name
+Manor_Blueprint_BlueprintType	蓝图	Category
+Manor_Blueprint_BlueprintQuality	蓝图	Quality
+Manor_Blueprint_BlueprintStock	蓝图	In Stock
+Manor_Blueprint_BlueprintRequirements	蓝图	Materials Required
+Manor_Blueprint_BlueprintCondition	蓝图	Requirements
+Manor_Visitor	庄客	Retainers
+Manor_BlueprintMessage	讯息	Obtained blueprint {0}
+Manor_BlueprintMessage_Plural	讯息	Blueprint Obtained
+Manor_BlueprintMessage_Get	讯息	Forging list updated
+Manor_Assemble	讯息	Production
+Manor_ManorMenuPage	技艺	Crafts
+Manor_Mosaic	融铸功能	Fusion
+Manor_Remove	融铸功能	Reforge
+Manor_SelectRemove	选择回炉提示文字	Choose the effect to remove
+Manor_Price	融铸功能	Fusion Cost: {0}
+Manor_NotEnough	融铸功能	Not enough furnace slots on this equipment
+Manor_RemoveChecked	融铸功能	Reforge this item?
+Manor_AddSolt	融铸功能	Quench
+Manor_AddSoltChecked	融铸功能	Quench this item?
+Manor_AddSoltError	融铸功能	This equipment's furnace slots are full; it cannot be quenched
+Manor_EnoughCount	融铸功能	Quenching Stones Remaining: {0}
+Manor_EnoughError	融铸功能	Not enough Quenching Stones
+Manor_RarityError	融铸功能	Unique equipment cannot be quenched or fused
+Manor_MosaicName	融铸功能	Name
+Manor_MosaicType	融铸功能	Category
+Manor_MosaicQuality	融铸功能	Quality
+Manor_MosaicStock	融铸功能	In Stock
+Manor_MosaicCost	融铸功能	Slot Cost
+Manor_MosaicStuff	融铸需要的物品	Furnace Material
+Manor_MosaicBtnText	尚未选择投炉物	Choose furnace material
+Manor_MosaicBtnText_Remove	融铸功能	Cannot Reforge
+Manor_VisitorAdd_BuffTitle	Buff获得讯息	Renyi Manor skill obtained:
+# 回顾界面		
+HistoricalEvent_MenuPage	回顾界面	Annals of the Wind and Clouds
+# 不显示		
+TalkAction	不显示	{0}
+StartQuestAction	不显示	{0}
+RemoveVillageAction	不显示	{0}
+# 悬赏界面		
+QuestCheck	悬赏目标尚未完成	Bounty target not yet completed
+WantedMoney	悬赏金额	Bounty Reward:
+WantedDepiction	悬赏叙述	Description:
+WantedQuest	接取悬赏	Accept Bounty
+# 采集		
+Harvest_Reward	大地图采集	Gathered: {0}
+# 队伍		
+Party_HeroPage0	队伍页签	Page One
+Party_HeroPage1	队伍页签	Page Two
+Party_HeroPage2	队伍页签	Page Three
+Party_HeroPage3	队伍页签	Page Four
+Party_ChangeIndex	队伍页签	Reorder
+#物品分类		
+Bag_All	物品分类	All
+Bag_Refresh	物品分类	Sort
+Bag_10000	物品分类	Weapons
+Bag_11000	物品分类	Combat
+Bag_12000	物品分类	Swords
+Bag_13000	物品分类	Sabers
+Bag_14000	物品分类	Twin Blades
+Bag_15000	物品分类	Throwing
+Bag_16000	物品分类	Spears & Staves
+Bag_17000	物品分类	Esoteric Arts
+Bag_18000	物品分类	Other
+Bag_20000	物品分类	Armor
+Bag_21000	物品分类	Iron Armor
+Bag_22000	物品分类	Silk Armor
+Bag_23000	物品分类	Rattan Armor
+Bag_24000	物品分类	Leather Armor
+Bag_30000	物品分类	Wear
+Bag_31000	物品分类	Accessory
+Bag_32000	物品分类	Mechanisms
+Bag_40000	物品分类	Illustrated Manuals
+Bag_43000	物品分类	Inner Arts
+Bag_41000	物品分类	Manuals
+Bag_41100	物品分类	Combat Manual
+Bag_41200	物品分类	Sword Manual
+Bag_41300	物品分类	Saber Manual
+Bag_41400	物品分类	Twin Blade Manual
+Bag_41500	物品分类	Throwing Manual
+Bag_41600	物品分类	Spear & Staff Manual
+Bag_41700	物品分类	Esoteric Manual
+Bag_41800	物品分类	General Manual
+Bag_42000	物品分类	Blueprints
+Bag_42100	物品分类	Elixir Recipes
+Bag_42200	物品分类	Poison Recipes
+Bag_42300	物品分类	Forging Blueprints
+Bag_42400	物品分类	Mechanism Blueprints
+Bag_50000	物品分类	Items
+Bag_51000	物品分类	Elixirs
+Bag_52000	物品分类	Throwing
+Bag_53000	物品分类	Treasures
+Bag_60000	物品分类	Special
+Bag_61000	物品分类	Quests
+Bag_62000	物品分类	Gifts
+Bag_62100	物品分类	Painting
+Bag_62110	物品分类	Sheet Music
+Bag_62120	物品分类	Recipes
+Bag_62130	物品分类	Storybooks
+Bag_62140	物品分类	Flowers
+Bag_62150	物品分类	Pearls & Jade
+Bag_62160	物品分类	Rouge
+Bag_62170	物品分类	Toys
+Bag_62180	物品分类	Tea Leaves
+Bag_62190	物品分类	Embroidery
+Bag_63000	物品分类	Furnace
+Bag_70000	物品分类	Materials
+Bag_71000	物品分类	Herbs
+Bag_72000	物品分类	Poisons
+Bag_73000	物品分类	Ore
+Bag_74000	物品分类	Timber
+Bag_75000	物品分类	Cloth
+WeaponType_None	可用武器	All-Round
+WeaponType_Fight	可用武器	Combat
+WeaponType_Sword	可用武器	Swords
+WeaponType_Blade	可用武器	Sabers
+WeaponType_Dagger	可用武器	Twin Blades
+WeaponType_Darts	可用武器	Throwing
+WeaponType_Other	类型	Other
+#按键快捷		
+Hotkey_Party	快捷键	Party
+Hotkey_Up	快捷键	Move Up
+Hotkey_Down	快捷键	Move Down
+Hotkey_Left	快捷键	Move Left
+Hotkey_Right	快捷键	Move Right
+Hotkey_Attributes	快捷键	Attributes
+Hotkey_Skill	快捷键	Techniques
+Hotkey_Perception	快捷键	Insights
+Hotkey_Quest	快捷键	Quests
+Hotkey_Warehouse	快捷键	Pack
+Hotkey_BigMap	快捷键	Map
+Hotkey_MiniMap	快捷键	Map
+Hotkey_Benevolence	快捷键	Crafts
+Hotkey_Illustration	快捷键	Compendium
+Hotkey_Esc	快捷键	System Menu / Cancel
+Hotkey_QuickSave	快捷键	Quick Save
+Hotkey_QuickLoad	快捷键	Quick Load
+Hotkey_Interactive	快捷键	Interact
+Hotkey_LeftTurn	快捷键	Rotate Camera Left
+Hotkey_RightTurn	快捷键	Rotate Camera Right
+Hotkey_Camera	快捷键	Pan Camera
+Hotkey_Dialog	快捷键	Confirm Dialogue
+Hotkey_DialogQuick	快捷键	Fast-forward Dialogue
+Hotkey_DialogResume	快捷键	Dialogue Log
+Hotkey_DialogSkip	快捷键	Skip This Dialogue
+Hotkey_Detective	快捷键	Deduction
+Hotkey_Deploy	快捷键	Auto Deploy / Undeploy
+Hotkey_DeployFinish	快捷键	Done
+Hotkey_Resistance	快捷键	Show Resistances
+Hotkey_Return	快捷键	Back to Deployment Square
+Hotkey_HeroPage	快捷键	Switch Hero Tab
+Hotkey_SelectHero	快捷键	Select Hero
+Hotkey_CurrentHero	快捷键	Back to Current Character
+Hotkey_HeroAttributes	快捷键	Pin Character Details
+Hotkey_EXTip	快捷键	Show Glossary Tips
+Hotkey_Special	Skill快捷键	Special Skill Hotkeys
+Hotkey_HeroSkill	快捷键	Use Technique
+Hotkey_Mechanical	快捷键	Mechanism Technique
+Hotkey_Item	快捷键	Item Hotkeys
+Hotkey_Rest	快捷键	Rest
+Hotkey_BattleHistory	快捷键	Battle Log
+Hotkey_MoveRange	快捷键	Show Movement Ranges
+Hotkey_LockChange	快捷键	Change Locked Character
+#探索阶段右下方按钮UI文字		
+UI_Hotkey_Party	探索阶段右下UI文字	Party
+UI_Hotkey_DialogResume	探索阶段右下UI文字	History
+UI_Hotkey_Map	探索阶段右下UI文字	Map
+UI_Hotkey_Illustration	探索阶段右下UI文字	Compendium
+UI_Hotkey_Esc	探索阶段右下UI文字	System
+#图鉴收藏		
+UIIllustration_Title	标题	Compendium
+UIIllustration_Hero	分类	Heroes
+UIIllustration_Wandering	分类	Retainers
+UIIllustration_People	分类	People
+UIIllustration_Skill	分类	Techniques
+UIIllustration_PerceptionEffect	分类	Inner Arts
+UIIllustration_Item	分类	Items
+UIIllustration_Equipment	分类	Equip
+UIIllustration_Gift	分类	Gifts
+UIIllustration_Mosaic	分类	Furnace Material
+#相册		
+Album_UI_NotAchieved	显示	Not Yet Obtained
+Album_UI_Photo	显示	Album
+Album_UI_Ending	显示	Endings
+Album_UI_Detective	显示	Deduction
+#快捷键名称		
+HotkeyName_Base		Basic Controls
+HotkeyName_System		System Menu
+HotkeyName_CloseSystem		Off
+HotkeyName_Select		Select
+HotkeyName_FastSelect		Quick Select
+HotkeyName_Cancel		Cancel
+HotkeyName_Rotate		Rotate Camera
+HotkeyName_WorldMoveScreen		Pan View
+HotkeyName_EnlargeScreen		Zoom
+HotkeyName_BackParty		Reset View
+HotkeyName_RotateLeft		Rotate Camera Left
+HotkeyName_RotateRight		Rotate Camera Right
+HotkeyName_Up		Move Up
+HotkeyName_Down		Move Down
+HotkeyName_Left		Move Left
+HotkeyName_Right		Move Right
+HotkeyName_Interactive		Interact
+HotkeyName_WorldInside		Enter Town
+HotkeyName_WorldMap		World Map
+HotkeyName_Map		Town Map
+HotkeyName_FollowQuest		Show Tracked Quests
+HotkeyName_WorldChange		Change Walking Character
+HotkeyName_Interface		Interface
+HotkeyName_Party		Party
+HotkeyName_CharacterProperty		Attributes
+HotkeyName_Skill		Techniques
+HotkeyName_Perception		Insights
+HotkeyName_NormalInventory		Pack
+HotkeyName_MainQuest		Main Quests
+HotkeyName_SonQuest		Side Quests
+HotkeyName_Repetition		Rumors
+HotkeyName_Crafting		Crafts
+HotkeyName_Dealer		Retainers
+HotkeyName_Mosaic		Temper
+HotkeyName_TalkHistory		Dialogue Log
+HotkeyName_Encyclopedia		Compendium
+HotkeyName_Achievement		Achievements
+HotkeyName_Help		Notes
+HotkeyName_Party		Party
+HotkeyName_PrepareArrayParty		Switch Party Page
+HotkeyName_Tip		Pin Tooltips
+HotkeyName_Neigong		Show Inner Arts
+HotkeyName_SelectCharacter01		Select Hero 1~8
+HotkeyName_SelectCharacter02		Select Hero 2
+HotkeyName_SelectCharacter03		Select Hero 3
+HotkeyName_SelectCharacter04		Select Hero 4
+HotkeyName_SelectCharacter05		Select Hero 5
+HotkeyName_SelectCharacter06		Select Hero 6
+HotkeyName_SelectCharacter07		Select Hero 7
+HotkeyName_SelectCharacter08		Select Hero 8
+HotkeyName_ChangeCharacter		Switch Hero
+HotkeyName_ArrayParty		Switch Party Page
+HotkeyName_Perform		Dialogue / Cutscenes
+HotkeyName_PerformTalkSelect		Confirm Dialogue
+HotkeyName_PerformTalkFast		Auto Dialogue
+HotkeyName_PerformTalkHistory		Dialogue Log
+HotkeyName_PerformTalkSkip		Skip Dialogue
+HotkeyName_Files		Files
+HotkeyName_FastSave		Quick Save
+HotkeyName_FastLoad		Quick Load
+HotkeyName_FastAddSixPoint	快速增加六维点数	Quick Allocate
+HotkeyName_BattleFight		In Battle
+HotkeyName_BattleSystem		System
+HotkeyName_BattleMoveScnce		Pan Camera
+HotkeyName_BattleRotateLeft		Rotate Camera Left
+HotkeyName_BattleRotateRight		Rotate Camera Right
+HotkeyName_BattleBack		Back to Current Character
+HotkeyName_PrepareDetails		Show Resistances
+HotkeyName_BattleParty		Unit Info
+HotkeyName_BattleProfession		Special Skills
+HotkeyName_BattleSkill01		Use Technique 1~8
+HotkeyName_BattleSkill02		Use Technique 2
+HotkeyName_BattleSkill03		Use Technique 3
+HotkeyName_BattleSkill04		Use Technique 4
+HotkeyName_BattleSkill05		Use Technique 5
+HotkeyName_BattleSkill06		Use Technique 6
+HotkeyName_BattleSkill07		Use Technique 7
+HotkeyName_BattleSkill08		Use Technique 8
+HotkeyName_BattleSkill09		Use Technique 9
+HotkeyName_BattleNormalInventory		Item Hotkeys
+HotkeyName_BattleRest		Rest
+HotkeyName_BattleMove		Show Movement Ranges
+HotkeyName_BattleChangeCharacter		Change Locked Character
+HotkeyName_BattleCondition		Show Battle Conditions
+HotkeyName_Prepare		Deployment Phase
+HotkeyName_PrepareSystem		System Menu / Cancel
+HotkeyName_PrepareDeploy		Auto Deploy
+HotkeyName_PrepareRetreat		Unassign
+HotkeyName_PrepareReady		Deployment Done
+HotkeyName_PrepareReset		Back to Deployment Square
+HotkeyName_PrepareChangeCharacter		Change Locked Character
+HotkeyName_PrepareDetails		Show Resistances
+HotkeyName_PrepareParty		Character Info
+HotkeyName_PrepareRotateLeft		Rotate Camera Left
+HotkeyName_PrepareRotateRight		Rotate Camera Right
+HotkeyName_PrepareSelectCharacter01		Select Hero 1~8
+HotkeyName_PrepareSelectCharacter02		Select Hero 2
+HotkeyName_PrepareSelectCharacter03		Select Hero 3
+HotkeyName_PrepareSelectCharacter04		Select Hero 4
+HotkeyName_PrepareSelectCharacter05		Select Hero 5
+HotkeyName_PrepareSelectCharacter06		Select Hero 6
+HotkeyName_PrepareSelectCharacter07		Select Hero 7
+HotkeyName_PrepareSelectCharacter08		Select Hero 8
+ScreenButton		Camera
+SystemButton		Settings
+HotkeyButton		Hotkey Guide
+HotkeyBaseButton		Free Exploration
+HotkeyBattleButton		Battle
+#快捷键键位		
+Hotkey_Check_Save		Save settings?
+HotkeyTransform_Escape		ESC
+HotkeyTransform_LeftShift		LShift
+HotkeyTransform_LeftControl		LCtrl
+HotkeyTransform_Alpha1		1
+HotkeyTransform_Alpha2		2
+HotkeyTransform_Alpha3		3
+HotkeyTransform_Alpha4		4
+HotkeyTransform_Alpha5		5
+HotkeyTransform_Alpha6		6
+HotkeyTransform_Alpha7		7
+HotkeyTransform_Alpha8		8
+HotkeyTransform_Alpha9		9
+HotkeyTransform_Alpha0		0
+HotkeyUse_System		ESC
+HotkeyUse_CloseSystemSystem		ESC
+HotkeyUse_Select		Left Click
+HotkeyUse_FastSelect		Shift + Left Click
+HotkeyUse_Cancel		Right Click
+HotkeyUse_Rotate		Right-drag
+HotkeyUse_Shift		#NAME?
+HotkeyUse_WorldMoveScreen		Middle Click
+HotkeyUse_EnlargeScreen		Scroll Wheel
+HotkeyUse_BackParty		F1
+HotkeyUse_RotateLeft		Q
+HotkeyUse_RotateRight		F
+HotkeyUse_Up		W
+HotkeyUse_Down		S
+HotkeyUse_Left		A
+HotkeyUse_Right		D
+HotkeyUse_Interactive		E
+HotkeyUse_WorldInside		F
+HotkeyUse_WorldMap		M
+HotkeyUse_Map		
+HotkeyUse_FollowQuest		X
+HotkeyUse_WorldChange		T
+HotkeyUse_Party		Tab
+HotkeyUse_CharacterProperty		C
+HotkeyUse_Skill		K
+HotkeyUse_Perception		P
+HotkeyUse_NormalInventory		I
+HotkeyUse_MainQuest		L
+HotkeyUse_SonQuest		Unbound
+HotkeyUse_Repetition		O
+HotkeyUse_Crafting		B
+HotkeyUse_Dealer		Unbound
+HotkeyUse_Mosaic		Unbound
+HotkeyUse_TalkHistory		G
+HotkeyUse_Encyclopedia		J
+HotkeyUse_Help		H
+HotkeyUse_Achievement		Unbound
+HotkeyUse_Tip		V
+HotkeyUse_Neigong		X
+HotkeyUse_SelectCharacter01		1~8
+HotkeyUse_SelectCharacter02		2
+HotkeyUse_SelectCharacter03		3
+HotkeyUse_SelectCharacter04		4
+HotkeyUse_SelectCharacter05		5
+HotkeyUse_SelectCharacter06		6
+HotkeyUse_SelectCharacter07		7
+HotkeyUse_SelectCharacter08		8
+HotkeyUse_ChangeCharacter		Tab
+HotkeyUse_ArrayParty		~
+HotkeyUse_PerformTalkSelect		E
+HotkeyUse_PerformTalkFast		Q
+HotkeyUse_PerformTalkHistory		G
+HotkeyUse_PerformTalkSkip		LCtrl
+HotkeyUse_FastSave		F5
+HotkeyUse_FastLoad		F8
+HotkeyUse_BattleSystem		
+HotkeyUse_BattleMoveScnce		Left Click
+HotkeyUse_BattleRotateLeft		Q
+HotkeyUse_BattleRotateRight		E
+HotkeyUse_BattleBack		F1
+HotkeyUse_PrepareDetails		Alt
+HotkeyUse_BattleParty		C
+HotkeyUse_BattleProfession		R
+HotkeyUse_BattleSkill01		1~8
+HotkeyUse_BattleSkill02		2
+HotkeyUse_BattleSkill03		3
+HotkeyUse_BattleSkill04		4
+HotkeyUse_BattleSkill05		5
+HotkeyUse_BattleSkill06		6
+HotkeyUse_BattleSkill07		7
+HotkeyUse_BattleSkill08		8
+HotkeyUse_BattleSkill09		9
+HotkeyUse_BattleNormalInventory		I
+HotkeyUse_BattleRest		Space
+HotkeyUse_BattleMove		
+HotkeyUse_BattleChangeCharacter		Tab
+HotkeyUse_BattleCondition		X
+HotkeyUse_PrepareSystem		
+HotkeyUse_PrepareDeploy		R
+HotkeyUse_PrepareRetreat		T
+HotkeyUse_PrepareReady		F
+HotkeyUse_PrepareReset		F1
+HotkeyUse_PrepareChangeCharacter		
+HotkeyUse_PrepareDetails		
+HotkeyUse_PrepareParty		
+HotkeyUse_PrepareRotateLeft		
+HotkeyUse_PrepareRotateRight		
+HotkeyUse_PrepareSelectCharacter01		1~8
+HotkeyUse_PrepareSelectCharacter02		
+HotkeyUse_PrepareSelectCharacter03		
+HotkeyUse_PrepareSelectCharacter04		
+HotkeyUse_PrepareSelectCharacter05		
+HotkeyUse_PrepareSelectCharacter06		
+HotkeyUse_PrepareSelectCharacter07		
+HotkeyUse_PrepareSelectCharacter08		
+#星际大战字幕		
+Recap_00	打沈天君前1	Heaven and earth are without feeling, yet those who dwell between them are not<br>Love and wisdom pass from generation to generation<br>binding together rival heroes, a tangle of love and hate: the jianghu
+Recap_01	打沈天君前2	The jianghu has its rise and its fall, and true chaos is seldom seen<br>until one day astonishing news spread through the martial world:<br>the "Invincible Sword Codex", a book to shake all under heaven, lay hidden atop Wild Goose Peak on Mount Heng!
+Recap_02	打沈天君前3	No one knew where the rumor began, but the heroes of the martial world would sooner believe it than not<br>None would let slip even a one-in-ten-thousand chance<br>On the roads to Mount Heng, over a hundred horses were ridden to death each day<br>Whenever martial men on the road heard someone was bound for Mount Heng, they drew their swords at once<br>For one fewer traveler to Mount Heng meant one fewer rival for the Invincible Sword Codex
+Recap_03	打沈天君前4	Over two hundred swarmed up a small southern mountain and fought nineteen days without rest<br>No matter who they were, no matter how lofty their skill<br>once upon Wild Goose Peak, their lives hung by a single thread<br>After nineteen days of bloodshed, of the two hundred masters on Wild Goose Peak, there remained only...
+Recap_04	打沈天君后1	Yet... this "Wild Goose Peak Incident" took place ten years ago<br><br>That year, nine of every ten masters went to Wild Goose Peak<br>Countless died on the road, and of those who reached the peak, not one returned<br>Not one, which meant their peerless arts and their spirit were lost with them<br>Benevolent clans of a hundred years, vicious gangs a thousand strong,<br>all perished in a single night, leaving nothing behind, nothing handed down<br><br>The jianghu was as if scorched by wildfire<br>Those who remained lacked either the strength or the heart, and none championed the way of the hero again<br>For ten years after, only petty villains spread like weeds; the martial world was no more
+Recap_05	打沈天君后2	Ten years into the jianghu's storm-tossed decline, news suddenly arrived:<br><br>Yan Nantian, the Sword God who vanished on the eve of the Wild Goose Peak Incident, had left behind a treasure map!<br>His disappearance was likely bound up with that mysterious catastrophe!<br>Find the map, and the lost arts of every house might be recovered<br>and whoever found Yan Nantian's treasure<br>would master every lost martial art under heaven and remake the jianghu: his own jianghu!<br><br>Renyi Manor, long sworn to uncover the truth of Wild Goose Peak, chose this moment to host a Heroes' Banquet<br>to share the fragment of the map it had found and to take counsel with worthy men of the world<br>But on the eve of the banquet, that fragment of the map was stolen...
+Recap_06	快活林结局1	Yellow sands and loyal blood; the heroes' wild song never ends<br>Flying blades and swords; let the barbarian's skull be our spittoon.<br>Under the Lord of Joy serve only warriors of a hundred battles,<br>and among them is one who is a saber, a sword, the keenest weapon of all.<br>A demon.
+Recap_07	快活林结局2	Once he obeyed the emptiest orders, did the palest deeds, waited for one who would never return.<br>He should not have struck, but in the jianghu, once you strike you cannot stop.<br>He should not have sought him, but once you set out, you can never go home again.<br>A blade without a master, he had all but rusted into a shadow.
+Recap_08	快活林结局3	Fortunately, the boundless Buddha-light of Joy shone upon him.<br>Amid blood-red sands and fields of corpses,<br>he at last understood the meaning of his existence.
+Recap_09	快活林结局4	Some called him a killing blade; more called him, in awe, the Sword God.<br>But however keen, a weapon is only ever a weapon:<br>it can only be replaced, only be killed,<br>it can never stop again, and never turn back.

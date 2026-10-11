@@ -1,0 +1,5 @@
+Id	Name	IconName	Category	ConsumeMaterials	Effect	Blueprint	Condition
+forging0	Black Blade of Dongying	wp3012	0	{2,10},{3,1}	wp3012,intensify0		
+forging1	Canglang	wp2016	0	{2,7},{2,1}	wp2016,intensify0		
+forging2	Pudao	wp3001	0	{2,9},{5,1}	wp3001,intensify0		
+forging3	Cleaving Saber	wp3004	0	{2,1},{3,1}	wp3004,intensify0		
