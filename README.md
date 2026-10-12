@@ -14,7 +14,7 @@
 - All menus, UI, names, skills, items, quests and dialogue translated to English.
 - English fonts (Aleo, Oregano, Ma Shan Zheng) and automatic text fitting.
 - 58 loading-screen portraits with English text.
-- 19 story and ending videos with English subtitles (if included in the repository).
+- 19 story and ending videos with English subtitles (separate download, see step 6).
 
 ## Install (about 2 minutes)
 
@@ -29,18 +29,22 @@
    - `winhttp.dll`
    - `doorstop_config.ini`
    - `.doorstop_version` (a hidden file; enable "Show hidden files" in Explorer if you do not see it)
-   - `GuLong_Data/` (only if it is in the repository: the English videos)
 
    Choose "Replace" if asked. `README`, `LICENSE` and `NOTICE` are not needed in the game folder.
    After copying, `BepInEx` and `winhttp.dll` must sit beside `GuLong.exe`.
-6. Start the game from Steam. The first launch takes a little longer.
+6. (Optional) English video subtitles: the videos are too large for the repository, so they are a separate download (about 2.6 GB in total):
+   - Part 1: https://mega.nz/file/m1dmAawS#TKVqOfKadoBrI8fTENy_xMRciIHGeRcj5rqFHYTyN_k
+   - Part 2: https://mega.nz/file/fsVGQC4L#Hde_uE-Y0Cdax9Fa3IggupJyKMUIbQ6Wd5Og4muvTI0
+
+   Extract both zips into the game folder, next to `GuLong.exe`. They only contain `GuLong_Data/StreamingAssets/...` and replace the Chinese story and ending videos. Back up that folder first if you want the originals.
+7. Start the game from Steam. The first launch takes a little longer.
 
 No Python and no extra tools are needed.
 
 ## Uninstall / revert to Chinese
 
 - Delete `BepInEx`, `winhttp.dll`, `doorstop_config.ini` and `.doorstop_version` from the game folder.
-- If you installed the videos: Steam > Properties > Installed Files > Verify integrity of game files.
+- If you installed the videos: Steam > right-click the game > Properties > Installed Files > Verify integrity of game files.
 
 ## Troubleshooting
 
